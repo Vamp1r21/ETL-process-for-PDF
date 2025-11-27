@@ -12,15 +12,16 @@
 #endif
 
 
-int main() {
+int main() 
+{
     setlocale(0, "RUS");
     ExtractClass extractClass;
     // Обрабатываем файлы
-    extractClass.processFile("../PDFFiles/SSS 1998.pdf",
-        "../TXTFiles/SSS 1998.txt");
+    extractClass.processFile("PDFFiles/SSS 1998.pdf",
+        "TXTFiles/SSS 1998.txt");
 
-    extractClass.processFile("../PDFFiles/SSS 2022.pdf",
-        "../TXTFiles/SSS 2022.txt");
+    extractClass.processFile("PDFFiles/SSS 2022.pdf",
+        "TXTFiles/SSS 2022.txt");
     std::cout << "Выполнено!";
     return 0;
 }

@@ -7,10 +7,9 @@
 
 class ExtractClass
 {
-private:
-	bool needsSpaceRemoval(const std::string& content);
-	std::string removeSpacesBetweenChars(const std::string& input);
-public:
-	void processFile(const std::string& pdf, const std::string& txt);
+	private:
+		bool needsSpaceRemoval(const std::string& content);
+		std::string removeSpacesBetweenChars(const std::string& input);
+	public:
+		void processFile(const std::string& pdf, const std::string& txt);
 };
-
