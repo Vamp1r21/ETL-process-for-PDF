@@ -27,4 +27,8 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="TXTFiles\SS 2004.txt" />
+    <Text Include="TXTFiles\SS 1998.txt" />
+  </ItemGroup>
 </Project>

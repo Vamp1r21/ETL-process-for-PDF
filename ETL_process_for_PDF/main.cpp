@@ -22,6 +22,9 @@ int main()
 
     extractClass.processFile("PDFFiles/SSS 2022.pdf",
         "TXTFiles/SSS 2022.txt");
+
+    extractClass.processFile("PDFFiles/SS 1998.pdf",
+        "TXTFiles/SS 1998.txt");
     std::cout << "Выполнено!";
     return 0;
 }

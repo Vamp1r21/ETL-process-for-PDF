@@ -6,9 +6,13 @@
 #include <cstdlib>
 #include <algorithm>
 #include <cctype>
-#include <sstream>  // Добавляем для std::istringstream
+#include <sstream>
+#include <filesystem> // Используем для поиска временных файлов картинок
+#include <vector>
 
-//Удаление лишних пробелов между символами
+namespace fs = std::filesystem;
+
+// Удаление лишних пробелов между символами
 std::string ExtractClass::removeSpacesBetweenChars(const std::string& input)
 {
     std::string result;
@@ -19,8 +23,10 @@ std::string ExtractClass::removeSpacesBetweenChars(const std::string& input)
 
         if (c == ' ')
         {
-            bool hasCharBefore = (i > 0) && (isalnum(input[i - 1]) || input[i - 1] == '.' || input[i - 1] == ',' || input[i - 1] == '(' || input[i - 1] == ')');
-            bool hasCharAfter = (i < input.length() - 1) && (isalnum(input[i + 1]) || input[i + 1] == '.' || input[i + 1] == ',' || input[i + 1] == '(' || input[i + 1] == ')');
+            bool hasCharBefore = (i > 0) && (isalnum(static_cast<unsigned char>(input[i - 1])) || input[i - 1] == '.' || 
+                input[i - 1] == ',' || input[i - 1] == '(' || input[i - 1] == ')' || input[i - 1] == '/');
+            bool hasCharAfter = (i < input.length() - 1) && (isalnum(static_cast<unsigned char>(input[i + 1])) || 
+                input[i + 1] == '.' || input[i + 1] == ',' || input[i + 1] == '(' || input[i + 1] == ')' || input[i + 1] == ')');
 
             if (hasCharBefore && hasCharAfter)
             {
@@ -48,23 +54,19 @@ std::string ExtractClass::removeIndents(const std::string& content)
     std::string line;
     std::string prevLine;
 
-    // Обрабатываем остальные строки
     while (std::getline(stream, line))
     {
-        // Проверяем правила для удаления перевода строки
         bool shouldRemoveNewline = false;
 
-        // Правило 1: удалять отступ если в конце предыдущей строки есть символы "," или "/"
         if (!prevLine.empty())
         {
             char lastChar = prevLine.back();
-            if (lastChar == ',' || lastChar == '/' )
+            if (lastChar == ',' || lastChar == '/')
             {
                 shouldRemoveNewline = true;
             }
         }
 
-        // Правило 2: удалять отступ если текущая строка не начинается с заглавной буквы
         if (!line.empty() && !shouldRemoveNewline)
         {
             char firstChar = line.front();
@@ -76,7 +78,6 @@ std::string ExtractClass::removeIndents(const std::string& content)
 
         if (shouldRemoveNewline)
         {
-            // Удаляем перевод строки, добавляем пробел для разделения
             if (!result.empty() && result.back() != ' ')
             {
                 result += ' ';
@@ -85,8 +86,11 @@ std::string ExtractClass::removeIndents(const std::string& content)
         }
         else
         {
-            // Сохраняем перевод строки
-            result += '\n' + line;
+            if (!result.empty())
+            {
+                result += '\n';
+            }
+            result += line;
         }
 
         prevLine = line;
@@ -95,7 +99,7 @@ std::string ExtractClass::removeIndents(const std::string& content)
     return result;
 }
 
-//Автоматическое определения необходимости удаления пробелов
+// Автоматическое определения необходимости удаления пробелов
 bool ExtractClass::needsSpaceRemoval(const std::string& content)
 {
     int spaceBetweenCharsCount = 0;
@@ -107,11 +111,11 @@ bool ExtractClass::needsSpaceRemoval(const std::string& content)
         char curr = content[i];
         char next = content[i + 1];
 
-        if (curr == ' ' && isalnum(prev) && isalnum(next))
+        if (curr == ' ' && isalnum(static_cast<unsigned char>(prev)) && isalnum(static_cast<unsigned char>(next)))
         {
             spaceBetweenCharsCount++;
         }
-        else if (isalnum(prev) && isalnum(next))
+        else if (isalnum(static_cast<unsigned char>(prev)) && isalnum(static_cast<unsigned char>(next)))
         {
             totalCharPairs++;
         }
@@ -126,8 +130,65 @@ bool ExtractClass::needsSpaceRemoval(const std::string& content)
     return false;
 }
 
+// Проверка, является ли текст читаемым (для English)
+bool ExtractClass::isTextMeaningful(const std::string& content)
+{
+    int alphaCount = 0;
+    for (char c : content)
+    {
+        if (isalpha(static_cast<unsigned char>(c)))
+            alphaCount++;
+    }
+    return alphaCount > 50; // Если меньше 50 букв, значит это скан или пустой файл
+}
+
+// OCR процесс (English)
+bool ExtractClass::runOCR(const std::string& pdf, const std::string& txt)
+{
+    const std::string imgPrefix = "ocr_temp_img";
+
+    // Используем синтаксис Xpdf 4.06 (без флага -sep)
+    std::string pdfToImg = "pdftoppm -q -r 1200 \"" + pdf + "\" " + imgPrefix;
+
+    if (system(pdfToImg.c_str()) != 0)
+    {
+        return false;
+    }
+
+    // Очищаем txt файл перед записью результатов OCR
+    {
+        std::ofstream clear(txt, std::ios::trunc);
+    }
+
+    std::vector<std::string> pages;
+    for (const auto& entry : fs::directory_iterator("."))
+    {
+        std::string filename = entry.path().filename().string();
+        if (filename.find(imgPrefix) == 0 && filename.find(".ppm") != std::string::npos)
+        {
+            pages.push_back(filename);
+        }
+    }
+    std::sort(pages.begin(), pages.end());
+
+    bool processed = false;
+    for (const std::string& pageImg : pages)
+    {
+        // Английский язык (-l eng)
+        std::string ocrCmd = "tesseract \"" + pageImg + "\" stdout -l eng --dpi 1200 >> \"" + txt + "\"";
+        if (system(ocrCmd.c_str()) == 0)
+        {
+            processed = true;
+        }
+        fs::remove(pageImg);
+    }
+
+    return processed;
+}
+
 void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
 {
+    // Попытка обычного извлечения текста
     std::string convertCmd = "pdftotext -raw -nopgbrk -enc UTF-8 \"" + pdf + "\" \"" + txt + "\"";
 
     int status = system(convertCmd.c_str());
@@ -148,8 +209,30 @@ void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
         std::istreambuf_iterator<char>());
     inFile.close();
 
-    bool shouldRemoveSpaces = needsSpaceRemoval(content);
+    // Если текста нет или он не "осмысленный" (скан), запускаем OCR
+    if (!isTextMeaningful(content))
+    {
+        std::cout << "PDF looks like a scan, starting OCR (English)..." << std::endl;
+        if (!runOCR(pdf, txt))
+        {
+            std::cerr << "Ошибка OCR для файла: " << pdf << "\n";
+            return;
+        }
 
+        // Загружаем новый контент, полученный через Tesseract
+        std::ifstream ocrFile(txt);
+        content.assign((std::istreambuf_iterator<char>(ocrFile)), std::istreambuf_iterator<char>());
+        ocrFile.close();
+    }
+
+    if (content.empty())
+    {
+        std::cerr << "Предупреждение: Текст не обнаружен даже после OCR.\n";
+        return;
+    }
+
+    // Обработка текста функциями из твоего примера
+    bool shouldRemoveSpaces = needsSpaceRemoval(content);
     std::string cleanedContent = removeIndents(content);
 
     if (shouldRemoveSpaces)
@@ -166,4 +249,6 @@ void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
 
     outFile << cleanedContent;
     outFile.close();
+
+    std::cout << "Успешно обработано: " << pdf << std::endl;
 }
