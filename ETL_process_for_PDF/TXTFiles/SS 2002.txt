@@ -1,0 +1,446 @@
+FERNANDO TAPIAS:
+Daewoo-built LNG tanker for Spanish owner
+Shipbuilder: Daewoo Shipbuilding & Marine
+Engineering Co Lid, Korea
+Vessels name: Fernando Tapias
+Hull number: 2205
+Owner/operator: Naviera F Tapias Gas SA, Spain
+Designer: Daewoo Shipbuilding & Marine
+Engineering Co Ltd, Korea
+Flag: Spain
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: 1
+KKNANDQ TAPIAS lias been built for the nospottation of liquefied natural gas (LNG), and special attention has been paid in her design to the facilities at loading and discharging betths worldwide, 10 ensure compatibility of mooring arrangements, fender contact areas, gangway and tniimtiild positions, ami other aspects. Laid out with ii continuous single deck, and a sunken aft deck, the vessel has four cargo tanks, constructed on the Gaz
+Transport membrane system (GT No 96 E-2), positioned in a double-hull configuration which is extended above the deck to form a trunk.
+Gas is maintained at a tempt-ram re of -163"C with a maximum boil-off rate of less than 0.15% fully loaded car^o volume. Primary/secondary barriers of 36l'u nickel-steel (Invar) alloy are fitted in the cargo tanks, with plywood boxes filled with expanded pear lite forming primary/ secondary insulation.
+Underdeck passageways in the trunk deck space provide fore and aft access, and a duct keel in the double bottom serves as a pipe and cable passage.
+The cargo handling systems are designed to load/discharge cargo within 12hours, using two sets of ITOOm'/h pumps and one stripping/spray pump in each tank, forming a complete assembly within a 'tripod mast' construction with Saab cadatbeam-type level gauges, and all fittings and pipes. Vapour handling equipment such as two high-duty compressors, two low-duty compressors, one main and one forcing vaporiser, and two boil-off/warm- up heaters, are arranged in the cargo machinery room.
+The main propulsion unit is a Kawasaki UA-360 cross-compound steam turbine, developing 36,000shp ;u 88rev/min (behind the gearbox). The unit has high- and law-pressure turbines, double- reduction gearing, main condenses, anil astern uirbine. Two dual-fuel boilers supply steam for the main turbine, steam auxiliaries, and turbo-generators.
+Two ot the latter Me installed for electrical power together with one diesel-powered sei. Each develops a similar output of 345UkW Current is transmitted to three switchboards (main, cargo, and emergency) located in separate rooms. An integrated automation system is fitted, and control and monitoring is carried out from the cargo and engine control rooms.
+Accommodation and navigation spaces are arranged right ait, with the latter designed lor optimum operational safety around a modular workstation, fitted far one-man operation, and meeting all design and layout requirements ol the BY notation +SYS-NKQ-1.
+TECHNICAL PARTICULARS
+Length, oa 298.00m
+Length, bp. 268.80ti
+Breadth, moulded , . 43.40m
+Deplh, moulded to mam deck 26.00m to Irunk deck 32.75m
+Width ol double skin side .2.21m battom 3.20m
+Gross 94,B22gt
+Deadweight dssign 72,367c1/.-: scantling. 7S,364dw1
+Draught design 11.42m scanning 12.12m
+Speed, service (90% MCR 21% sea margin]... ;g.50 knots
+Cargo caoacity liquid vclume 140.627m1
+Bunkers heavy fuel.. 60D4m" o;esel oil 502m1
+Water ballasl 53.108nv
+Fuel con sump lion rnain engine only. "65.60:onnes/day
+Ciassilication Bureau Veritas, I + Hull, + MACH, Liquefied Natural Gas Camer. Ship
+Type 2G, (merrorane tank C.25bar, -163'C, BOOkg/m'), unrestricted navigation. + VeriSTAR-HULL, AUT-IMS.AUT-PORT. -SYS-NEO-1
+In Water Survey. MON-SHAFT
+Percentage cl high-tensile steel used in construction. . Mil
+Steam turbine
+Design Crass-ccmoound irpojse turbine
+Manjfacturer Kawasaki Heavy Industries
+Model UA-360
+Number. 1
+Output MCR: 36,000shp/88rev/min
+NCR: 32,400shp/85rev/min
+P'cpelier
+Material .Cunial
+Manufacturer. Lips
+Number 1
+Fitch ....Fixed
+Diameter. 8500mm
+Soeed 38rev/min (MCR)
+Sleam-iutoirie drven al|erns;ors
+Numoer 2
+Turbine make Mitsubishi Heavy Industries
+Tyoe ....Wulli-slage
+Alternator make Hyundai Heavy Industries
+Oulput 2 x3450kWir1800rev/<nin
+Dies el-driven alternate
+Numbe' 1
+Engine make Ssangyong Heavy Industries
+Alternator make Hyundai Heavy Induslnes
+Oulput 1 x 3450<W/720rev/mi';
+B&lers
+Number. .. .. . ...2 plus 1 low-pressure steam generator
+Type 2 x veit.cal two-drum 1 x horizontal lubular
+Makers Mitsubishi Heavy Industries and
+Dcngtwa Entec
+Output 2 x 56tonnes/h; 1 x 6 5:onnes/h
+Hose-handling cranes
+Number. 2
+Make/:ype Hydralift/electro-nydraulic
+Capacity. 2x 12tonnes
+Mco'ing equipment
+Number 2 x mooring winch/windlass, 7 x mooring winch
+Make Kocks
+Type ,..., Higr-pressure "/dratil:c
+Cargo tanks
+Number. 4
+Product 'ange LNG
+Coatee taiws No
+Stainless steel No
+Cargo pumos
+Number 3
+Type Submerged electrical
+Make Ebara International
+Capacity. 8x 1700mYh
+Cargo coitroi system
+Type Integrated auto-nation system
+Make Honeywell Ko.-ea
+Ballast pumps
+Make.. Shinko
+Type Electric vertcai centrifugal
+Complement
+Officers 21
+Crew 16
+Repair/Suez crew 6
+Bow thruster
+Make ..Brurvcll
+Number 1
+Output 1 x 16C0kW
+Bridge control system
+Make STN Atlas
+One man operation Yes
+F re deleclion systems
+Make Consiiium
+Type 25 heal detectors; 6 flame aatectors: 235 smoke de:ectors
+Fire extinguish ng systems
+Cargc spaces Dry powoer, water spray, nitrogen
+Make., NK Fi'e Protection
+Engnerocm ,High-expansicn foam
+Make Kashiwa
+Waste disposal plant
+Incinerator
+Make.... Hyundai-Atlas
+Mooel Maxi T150 SL W/S
+Waste compactor
+Make Metos Marine
+Model Uson UP-10
+Sewage plant
+Make Jong-Hap
+Model AEROB-13
+Conttaci date 31 March 2000
+Launch/iloat-o^t date 3 November 2001
+Delivery date 30 September 2002
+Ships of 2002 4]
+NORGAS ORINDA: first Norgas 'super-cooler' enters service
+Shipbuilder: Hudong-Zhonghua
+Shipbuilding (Group) Ltd, China
+Vessel's name: Norgas Orinda
+Hull number: 429
+Owner/operator: Somargas Ltd (I M Skaugen ASA)/Norgas, Norway
+Designer: Carl Bro A/S-Dwinger
+Marineconsult, Denmark
+Flag: Hong Kong
+Total number of sister ships already completed:.. Nil
+Total number of sister ships still on order: 3 of this class plus 2 larger units and 4 options, size unknown
+THIS new series of innovative gas carriers has been introduced specifically to improve the service
+Norgas provides for its customers, particularly bj- reducing port turn-around-time. To accomplish ibis, Tractcbcl Gus lingineering, Germany, sub-supplier of the gas plant, developed an installation in which [MO tank pressure has been increased from 4.5bar to 7bar :ind, in conjunction with the use of maximum cooling capacity, quoted as 2'C/day in tropical waters, loading time for ambient propylene at 25"C has been cut by two/three days, compared with that of similar conventional vessels, whilst between four and 10 days can be saved when cooling a cargo from 25"C to -46"C.
+By adopting a 'make-it-simple' philosophy, the designers have- developed a tank and piping arrangement for easy operation, which ensures that in any loading condition critical stability conditions are never reached. Cargo processing equipment is automated, and controlled from the bridge, along with ballasting and operation of the main engine.
+This 'super-cooler' design features a shallow-draught and wide-beam arrangement that allows the vessel to load and discharge on an even keel, and to take on a large cargo in shallow-water ports. Manoeuvrability obtained from the high-efficiency flap rudder and bow thmster enables the vessel to track sideways and turn in its own length, thereby contributing to the fast turn around required.
+Within a double-skin hull, whose side tanks arc used for water ballast, there are two cargo tanks of 5322m' and 3139m1 capacity, respectively, their cylindrical shape with spherical ends offering 30% less surface area than bi-lobe designs. In addition, a cylindrical 90m' cryogenic rank is installed on the upper deck for the carriage of coolant, with a vaporising system enabling a quick 'gassing-up' process. A nitrogen production plant is also fitted, allowing the vessel to purge its tanks on route, and, in combination with the deck tank, to carry out a full change of grade whilst at sea: in both cases arriving at a terminal ready tor loading. Discharge of LPG without the need for the use of water as a heat transfer fluid is made possible by the inclusion of a thermal oil heating system.
+JVmgw Orinda is fitted with a MAN B&W 6L48/60 main engine, developing 6300kW MCEl and driving a
+CP propeller through a gearbox which has a power take-oft for a 1700kW alternator. The arrangement is designed to operate in reverse - as a 'power take-in' ns part of a lully redundant, 'lake me home' main engine installation, where power from the auxiliary engines is directed back through the gearbos to provide limited propulsion in an emergency. Additional electrical supply is derived from lour 550k\V diesel alternators.
+TECHNICAL PARTICULARS
+Length, oa 124.90ti
+Length, bp i l5.C0m
+Breadlh, moulded 1980m
+Depth, moulded, to main deck 11.50m
+Draugnt design 6.70m scantling a. 30m
+Gross S720gt
+Displacement.... I4,300!onnes
+Ligniweight ...4900tonnes
+Deadweighl design 600Cdw: scanning 9-O0cw!
+Speed, service (85% MCR) I6.70knots
+Cargo capacity liqu'd volume.... 855cm1
+Bunkers heavy oil 1200m1 diesel oil 200m"'
+Water ballast 5000m1
+Fuel consumption main engine c-nly. 23.60lo-ires/day auxiliaries 2.30lonnes/day
+Classification ...Det Norske Verilas 1A1
+Tarker lor Lique:ie3 Gas, 1CE-1C, EO, TMON. Ship Type 2G. -104l'C, 972 kg/m5. 7bar
+Main engine
+Design MAN BS.W
+ModBl 6L46/60
+Manufacturer... MAN B&W
+Number. 1
+Output (MCR) 6300kW
+Gearbax
+Make.. -
+Number 1
+Outpul speed Id5rev/min
+Propeller
+Material Nickel-alumimum-bronze
+Manufacturer. Alpha Diesel
+Number.. ...1
+Pitch Compilable
+Diameter. 4500rn.T>
+Speed 145rev/min
+Ma.n engine-a riven alternator
+Number 1
+Make -
+Output 1700WV
+Diesel-driven alternators
+Number 4
+Make -
+Output 4 x550*W/1800reWmin
+Boilers
+Numbet. 2
+Type/ouipu; 1 x thermal oil/1800kW: 1 x exhaust gas/650kW
+Mooring equipment
+Number. 4
+Make flolis-Royce
+Special lilesavmg equipment
+Type 1 x free-fall liletoai
+Cargo tanks
+Numoer 2
+Product rar-ge (see class noiatron)
+Stainless slesl.... Structure and piping
+Cargo pumps
+Number.. 2
+Type .,.., Vertical centrifugal; stainless steel
+Make Svanehaj
+Capacity 1 x 380mVh; 1 x 64Crr.3/h
+Gas plant, inducing tanks ...Tractebel (Germany)
+Control sys'errs
+Make Norcontroi/Schnecer
+Complement
+Officers 6
+Crew... 6 d!us 6 spare
+Specal rudder. Ulstern high-ef(;ciency llap type
+Bow thruster
+Make Brunvoll
+Number 1
+Outpul 700kW
+Pre extinguishing system
+Deck Dry cnemicai powder
+Make Unitor
+Engineroorn COf
+Make Unitor
+Accommodation Iron! and hazardous areas Water deluge
+Make Unitor
+Contract date September 20-30
+Launch/iloai-cul date September 2001
+Delivery dale October 2002
+Significant Ships of 2002 93
+PERTINACIA: Italian-built and -owned cable laying/repair ship
+Shipbuilder:... Cantiere Navale Fratelfi Orlando, Italy
+Vessel's name: Pertinacia
+Hull number: 281
+Owner/operator: Elettra, SpA, Italy
+Designer: Vik-Sandvik, Norway
+F.ag: Italy
+Total number ol sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Tl III rapid expansion of underwater, fibre-optic cable link* has seen a growing demand for speedy vessels to lay new networks worldwide, and to maintain riiem in service (although unfortunately the market today is severe])' diminished as a result of over- confidence in this sector). As Sigujkani Ships lias shown over recent years, the adoption of a fully stem-work ing concept to earn' out these duties has proved very successful, with die offshore supply vessel (OSV) configuration providing rhe ideal plaiform.
+As a leading designer of thai type of vessel, Vik-S:mdvik has been able to move easily into this new mode, and PnSJw&a is an example of ihe suitability of this ubiquitous design tor such work. The attraction of the OSV is the long, continuous ;ift deck, :md when this is virtually completely covered by a long forecastle, an ideal workshop area is the result. On lop of this, a superstructure accommodating 75 personnel has been built, with control ot :dl navigation and cable operations carried out from a large whcelhousL1 positioned above this, forward of midships.
+Pertinada'll equipped to handle any type of underwater telecommunication cable from 14mm to 150mm diameter, complete with repeaters up to ■100mm diameter. Onboard cable storage is provided in two tanks having a total capacity of around 6ufluronnes. Two smaller tanks increase that by some 400tonnes and can be used lo hold recovered cable. Arrangements have been made for the use of modern equipment and technology, lor table burying by plough, and ROV operation, also buoy deployment ;uid retrieval.
+The cable-handling system consists of one 4m diameter cable-drum engine, one 2IJtonnu linear cable engine, with 20 wheel pairs, and one ("itonne draw-off/hold-back unit with six wheel pairs. All arc capable of local or bridge control. A I4utonuc Hydralift traction winch and a storage winch are fitted on the weather deck, whilst a (SOtOBne plough-handling A-fnime. also from I lydralift, operates over the stern. A helideck on the forecastle can host a 19.5m helicopicr.
+A dies el-electric propulsion system is fitted, using two electrically driven Bteerable thrusiers under the stern.
+These arc powered from tour 3"?5OkVA alternator sets with 3240k\V Wartsilii HR32 diesel prime movers, which ensure a service speed whilst in repair mode of
+M.SOknots, and approximately 4knots when laying, A bollard, pull of lUOtonnes is attainable, 'together with two side thrusters and a retractable thrusler forward, [he system presents a fully dynamically positioned arrangement with station keeping and tracking capabilities. With all propellers and thrusrers operating, Wrtimida can maintain position or route under drift effect of Beaufort 9 (wind speed 40knors), and sea state 8 (wave heighi 7m and current 2knois). The DP installation includes echo sounders, doppler Ing, hydrographic echo sounder, clinometers, DGPS, HCDIS, H1PAP, and transponders.
+TECHNICAL PARTICULARS
+Length, 08 129.90m
+Length, bp 112.93m
+Breadth, moulded 23.40m
+Depth, moulded to main deck ..12.00m lo upper deck 14.75m
+Draught design... 7.20m scanning 8.60m
+Gross 12,100gl
+Displacement 17,i43lonnes
+Lightweight...; 6230lonnes
+Deadweight design 72COo\vi
+Speed, service (85% MCH) 14.00knots
+Cargo capacily cable 6400tonnes
+Bunkers diesel oil 3000mJ
+Water Dallas! 4200m3
+Classification Registro Italiano Navalo, 100-A-1.1. MNPe. P<x Nav I.L, IAQMPDS2 also
+Del Norske verilas, +1A1, CaDle Laying Vessel, DYNPOS, AUTR. EO, HELDK
+Percentage of high-lensile sleel used in construction 8%
+Diesel-electric syslem
+Main diesel-altemalor sets
+Number 4
+Engine make/type ,.Wartsila/aR32
+Outpul/speed.. & x32dOkW/720rev/i-nin
+Alternator make/type Maralli/-
+Oulpul/speed .4 x 3750WA/-
+Azimuthmg propulsion Ihruslers
+Number. 2
+Material Nickei-aluminium-bronze
+Manufacturer Lips
+Number. 2
+Pilch Fixed
+Diameter ...3000mm
+Speed..- 230rev/min
+Boilers
+Number. 1
+Type ,.... Hoi water
+Make -... .Ganom
+Output 500.000kca!rti
+Cargo cranes/cargo gear
+Number. 4
+Make Pellegrini
+Type GNK02I2
+Duties., 15lonnes/15m: 8tonnes/26rn, 2tonnes/12rri
+Other cranes
+Number. 1 x A-frame
+Make Hydralift
+Type T2311
+Tasks Plough handling
+Duly 60ionnes swl
+Mooring equipment
+Number <t x mooring winch/windlass
+Make.. Rolls-Royce
+Type .Hydraulic
+Lifesaving equipmeni
+Number ,2x 75-peison lifeboats
+Wake Fassmer
+Cargo tanks
+Number. 4 x cable tanks
+Complement
+Olficers 10
+Crew 13
+Technical ,.... 52
+Stern appendages Skeg between azimuthing thrusters 8c w thrusters
+Make Lips
+Number. 2
+Oulpul 2x 1600kW
+Bridge control system
+Moke, Kongsberg
+Type SDP22
+One man operation No
+Fire delection syslem
+Make Consilium
+Type Salwico NSAC
+Fire extinguishing system
+Engineroom , CO?
+Make Minimax
+Radars
+Number. 2
+Make Japan Radio
+Models JMA98226XA; JMAA 98325SA
+Satellite navigation system
+Number. 2
+Make Kongsberg
+Model DPS 100
+Computes on ship
+Numoer. 2
+Make AST Inlormalica
+Waste disposal plant
+Incmeralor
+Make ISIR
+Model Pyllar PR100 IMO ADA
+Waste compactor
+Make Uson Marine
+Waste shredder/crusher
+Make Uson Marino
+Sewage plant
+Make Facel
+Model CPS 10 B Mk III
+Conlract date November 2000
+Laiinch/lloat-out date 15 September 2001
+Delivery date... ,. November 2002
+Significant Ships of 2002 95
+ST APOSTLE ANDREW: new river/sea series revives Russian merchant shipbuilding
+Shipbuilder: Severnaya Verf, Russia
+Vessel's name: St Apostle Andrew
+Hull number: 901
+Owner/operator: North West Shipping Co, Russia
+Designer Vympel (Design Office for
+Shipbuilding), Russia
+Flag: Russia
+Total number oi sister ships already completed: Nil
+Total number of sister ships still on order: 9 (plus 4 for other owners)
+Till' viist uxtent of Russia's navigable canals, rivers and liikcs, allows cargo to be transported from virtually every inland port in ilic country to river terminals throughout Buiope, and to lie open sea. This massive trade has resulted in the development, over many years, of specialised rivet/sea cargo ship designs, mainly identified by their long and narrow configuration. Mum of these ships an- now elderly, and a new series of lliis unique ship-type, known as the Valday class (also designated
+Projeci 01010), now under construction at the St
+Petersburg yard of Sevctnflfa, will, ii is hoped, serve to introduce a new er.\ tnto Russian merchant shipbuilding.
+Despite their characteristic proportions, the river/sea designs have proved acceptable for international trading over the years, to die extent that the Severnaya shipyard is currently developing n single-screw version of die Vaiday class for sea-only service. St Apostle Andrew leiiturts three lung, large holds, closed by MacGregor Foldtite hatch covers huilt upon a high coaming. A fore and aft gangway runs between forecastle and poop decks to provide a working platform at this level, and also acts as protection For the access passage u upper deck level.
+The double-hull structure ensures box-shaped cargo spaces suitable for a wide range of general commodities carried in hulk or sacks, as well as packaged and loose timber, palletised vegetables, steel coils up to 35ionnes weight, paper reels, and 267TEU, up to 2IJ of which can be refrigerated. No cargo gear is fitted, and the folding signal mast forward contributes to a long, open and Rat, cargo stowage area on top of the hatch covers.
+A twin-screw machinery installation is based upon a pair of Wiirtsilii 6L20C main engines, built at the designer's Finnish works. Each of these develops 1080kW and drives an 1J'IJ propeller through a Itdntjcs reduction gearbox, A rudder is fitted behind each propeller and a ISUkW tunnel-type thruster operates at die bow. Electrical power is derived from three
+Caterpillar diesel-ilriven 160k\V alternator sets.
+Emphasising the probable dual role of the vessels, St Apostk Andrew carries a free-fall lifeboat at the stern, whilst another prominent feature common to
+Russian vessels is a stern anchor and -.vinch.
+TECHNICAL PARTICULARS
+Length, oa 128.20m
+Length, bp 122.80m
+Breadth, moulded 16.30m
+Deolh, mouloed to upper deck 6.10m
+Width of double skin side 1.05m bottom ,0.96ti
+Gross 4960gt
+Draught river 3.60in/3.75m sea.... 4.20m
+Deadweight river 3670/3955dwl sea 5017dwl
+Speed, service. 90% MCR i l.OOknots
+Cargo capacity grain 8310m1
+Water ballast 3606m1
+Daily luel consumption train engines only.., 6. IGtonnesiday auxiliaries 0.84tonnG5/day
+Classification, ,. Russian Maritime Register
+KMOJ13 CDi At
+Mam engines
+Design , Wartsila
+Model 6L20C
+Manufacturer WartsJa (Finland)
+Number 2
+Output 2x 1D80kW
+Gearboxes
+Make Reinljes
+Model WAF-842
+Number 2
+Oulpul speed 2x 256reWmin
+Propellers
+Number 2
+Marulaclurer -
+Pilcn Fixed
+Diameter 2300mm
+Speed 256icv/rr.ln
+Diosel-driven alternalors
+Number 3
+Engine make/lype Caterpillar (USAl/3306 D1-TA
+Output/spced ol each set 3 x 160kW/-
+Alterna'or make/type Caterpiilar/SRU
+Output 3x200kW
+Boilers
+Number 1
+Type KSh-200
+Make Leninskaya Kuzmtsa Planl
+Output 232WV
+Special lifesaving equipment
+Type.. Free-lall lileboat
+Hatch covers
+Design MacGregor
+Manufacturer Northern Shipyard JSC
+Type Foldlite
+Containers
+Lengths 20ft; d Of I
+Total TEU/FEU capacity 267/129 on deck 87/39 in holds 180/90
+Reefer plugs 20
+Cargo control system
+Make ABB (Russia)
+Type MKS-11
+Complement
+Total 10
+Bow thruster
+Make -
+Outpui 150kW
+Bridge control system
+Make AB9 (Russia!
+Type MT-91 OS2
+Fire detection system
+Make Them
+Type T-1016
+Fire extinguishing systems
+Cargo holes CO..
+Make Unitor
+Engineroom.,. CO? and water
+Cabins/public spaces Water
+Radars
+Number 2
+Make STN Atlas Marine Beciro-'cs
+Satellite navigalon system
+Number 1 X GPS
+Make Japan Radio Co
+Model JLR-433 OE/J8NWZ-4551 lncinera;or
+Make ...Leninskaya Kuznilsa
+Model KUB-200
+Contract date -
+LauncWfloat-out date -
+Delivery date August 2002
+Significant Ships or 2002

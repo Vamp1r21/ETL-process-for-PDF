@@ -1,0 +1,818 @@
+CONTENTS
+SIGNIFICANT
+SMALL CRAFT OF 1999
+Compiler:
+Carol Fulford, BA Hons
+Editor:
+Andy Smith
+Advertisement Manager:
+Andres Treat
+Advertisement Production Manager:
+Lisa-Marie Lewis
+Marketing:
+Adelaide Proctor
+Published hy:
+The Royal Institution of Naval Architects
+Editorial & Advertisement Office: 10 Upper Belgmve Street
+London SWIX 8BQ, UK
+Telephone: +44 (0} 20 7235 4622
+Telefax: +44 (0) 20 7245 6959
+E-mail: editorial@rina.org.uk advertising@rina.org.uk
+Website: www.rina.nrti.uk/sbi
+O 2000 Tin.1 Royal Institution of Naval Architects.
+This publication is copyright under the
+Berne Convention. All rights reserved. No part of the publication may be reproduced, stored in a retrieval system or transmitted without the prior permission of the eopyrighi owners. Permission is not. however, required to copy abstracts of articles on condition that a full reference to the source is shown.
+Multiple copying of the contents without permission is always illegal.
+Printed in England by Thanet Press Lid, Union Crescent. Margate, Kent CT9 I Nil
+ISBN - 0 91)3055 57 0
+INTRODUCTION
+AFRIKA
+ATLANTIDE
+BOHENGY
+BONANZA EXPRESS
+DC 1500
+FAR SOVEREIGN
+GECO EAGLE
+HUMBER CALLISTO
+INNOVATION
+MARCI MORAN
+MARK 10
+MIDNIGHT ARROW
+NANUQ & TAN'ERLIQ
+NEELTJE P
+PACIFIC SUPPLIER
+RED BUS 520
+RIVAGE ST MARTIN
+RIVER RUNNER
+ROEBUCK BAY
+STILLWATER RIVER
+STOREBRO 90E 2 3 5 7 9 13 15 17 19 23 27 29 31 33 35 37 39 41 43 45 49 51
+Front cover: Patrol vessel.
+Roebuck Bay; seismic research ship Geco Eagle; pilot craft
+Humber Callisto.
+AFRIKA: pelagic factory trawler heads for the tropics
+Afriku, one of ihe most recent pelagic stem trawlers to join the Dutch fleet, is designed to operate in (he tropics, fishing mainly for sardineila and horse mackerel in West African waters and operating for much of the year from the Canary Islands.
+Built by YVC at the Capclle-aan-den-
+IJssel yard, the 640()dwt vessel has an overall length of 126.20m and a beam of 11.02m. Built on much the same lines as conventional freezer trawlers in the Dutch fleet, it has a long foredeck with superstructure close to the stern, leaving a trawl deck aft of the wheelhousc.
+Accommodation, mess ajid galley spaces are located in the superstructure, with the twin level factory deck in the aft section.
+An .VIAK 6M601C main engine, developing 7,500kW at 425 rcv/miu turns a Berg 3,80Gmm diameter CP propeller at 166 rev/min inside a Hcxli nozzle via a
+Renk Taeke gearbox. This configuration gave a speed of 18 knots on sea trials. A 700k\V how thmster is also filled.
+Auxiliary power is also derived from
+MAK units - a 9M25 set. rated 2.6IOkW at 720 rev/rain and an 8M20, raied 1,360 kW at 900 rev/min. An AC Leroy Somer shaft generator develops 4,200kVA and a
+DC Bakker Sliedrecht shaft generator produces 770kW.
+Over 1.400 tonnes of heavy fuel and 280 tonnes of gas oil can be carried, while ballast tanks will hold 805 tonnes and Ihe fresh water tanks on hoard have a 120- lonne capacity.
+The fish room, which is on two levels, with a ibrklift on board for managing frozen products, can hold 172,100 cartons of sea frozen fish. A pair of Hydramaskin cranes is mounted on the port side of ihe Foredeck for unloading catches through hatches that are offset lo pori. minimising disruption to the factory deck on ihe level below.
+Fishing gear is handled over the stern using winches supplied by Brusselle
+Marine Industries, The twin trawl winches, powered by Bakker .Sliedrecht 350kW motors, each have a 4.000m capacity and an eleventh layer pull ofSlOkN. Twin net drams are used to hold two of the vessel's five trawls ready for use. Other gear is stored alt. with iwo more Hydramaskin cranes located on the port side of ihe trawl deck and al the top of Ihe stem gantry for handling fishing gear.
+Additional winches include a pair of uod end winches from Brusselle and two net sounder cable winches from Karnioy mounted just aft of the wheelhouse. Deck operations are commanded from a console at ihe back of the wheelhouse with a full view over the deck.
+All of ihe winches are controlled from this position, and a PA system is fitted for communication with the deck crew. A
+Marelec trawl control system is fitted to monitor warp tension and length, and lliis has a monitor in the central wheelhouse console, with a repeater at the deck control position.
+Caichcs taken by vessels of this type are relatively sensitive species such as sardinelia and mackerel, and instead of bringing bags of IIsh on board, catches are pumped aboard using a Kamioy fish pump.
+The fish are taken through a dewalmng system before passing to the tanks below, which have a maximum holding capacity of 540 tonnes.
+The Grenco refrigeration system on board makes it possible to chill the maximum capacity through 32°C in eight hours. A slurry ice plant is capable of producing 40 tonnes/day, and this is used for cooling fish in the tanks and the intermediate cooling bins. The whole of the refrigeration system in ihe ship can be monitored and controlled from the engineer's control room.
+The twin level factory deck was supplied by Machinefabriek van Rijn, and has a vacuum pump system for transporting fish.
+Fish are brought from the tanks via a grading section where they can be sorted according lo species and weight and held in the intermediate cooling bins.
+All of the cateh is frozen in Jaekstonc vertical plate freezers served by three lanes of overhead conveyors. A Marelec quality control station is lilted next to the grader, allowing the factory deck crew to keep
+Significant Small Craft of 1999 constant track of the grading weights.
+There are 24 vertical plate freezers on the lower factory deck, and a further 16 freezers on the deck above.
+Fish are carried to the upper deck using an extended series of conveyors, and are delivered to the freezers in the same way.
+Frozen blocks from the freezers are carried to a packing area along a secondary system of conveyors at waist level, where they are boxed and strapped. An extended conveyor brings frozen blocks down from the top factory deck. Each block is weighed individually, and a computer-controlled inkjel is used to mark each box with its contents. The boxing machine has been built to run with a minimum of manpower, and only needs to be loaded with empty boxes to run automatically. It is controlled using a PLC (Programmable Logic Control) computer, and a similar control unit is used to manage the factory deck's vacuum pumps.
+An AFAK Techniek wrapping machine has been fitted, and this seals each carton offish into a plastic wrapper. When strapped and marked, the boxes are carried by lift down to the fish rooms and stowed on pallets. Depending on the type of fish, and the mix of species, a crew of ten should be able to run the factory deck at full capacity. Freezing time for each freezer is four hours, giving a total freezing capacity of 350 tonnes per day.
+The wheelhouse is laid out with a control console aft for the deck machinery, and a horseshoe console forward. Side by side skippers' chairs have a full view of the twin Furuno radar screens, and an array of fish finding equipment. Two colour sounders are from JRC, and a Furuno paper sounder have their displays built into the console. A Furuno colour scanning sonar is at the centre, and there are further displays for the trawl mounted Wesmar and Simrad sonar sets. A Scanmar cableless system is also fitted for monitoring catches.
+Controls for the sonars are built into the central console between the two skippers' seats, along with throttle and steering controls.
+A pair of chartplotters linked to
+DGPS positioning systems is provided with displays in the control console, and another GPS receiver and a navtex receiver are located by the chart table
+VHF and MF/HF communications sets are built into the port side of the console, and a separate communications room on the port side of the wheelhouse contains the satellite communications equipment, as well as fax and weather fax.
+Main Particulars
+Owner
+Jaczon BV, The Netherlands
+Builder
+YVC, The Netherlands
+Length oa ..........................;. ....126.20m
+Beam oa......... 11.02m
+Main engine
+MAK 6M601C diesel, developing 7,500kW
+Propulsion
+Berg CP propeller inside a Hodi nozzle
+Main generators
+MAK 9M25 set, rated 2,610kW & MAK 8M20set, rated 1,360kW
+Tank capacities
+Heavy fuel 1,400t
+Gas oil 280t
+Ballast 805t
+Potable water 120t
+Service speed 18 knots
+Deadweight ■. 6,400t
+Equipment 4 x Hydramaskin cranes, Brusselle Marine winches, Karmoy cable winches and fish pump, Marelec trawl control system, Grenco refrigeration system, AFAK
+Techniek wrapping machine, Furuno radar and sounder, JRC colour sounders, Wesmar and Simrad sonar sets
+Significant Small Craft of 1999
+ATLANTIDE: 1930's yacht sails again
+The 34,8m sailing yacht Atlantide deserves merit amongst significant small vessel deliveries for ]999, not because it is innovative in design but because of the painstaking effort involved in restoring it. When owner, Thomas
+Perkins, a venture capitalist from
+California discovered the vessel in Malta il was in a deplorable condition. Some two years on. however, il floats again with all of the elegance and charm it flaunted in the 1930s.
+Built to an original Alfred Mylne design.
+Atlantide lias had a colourful history since being launched at the Phillips & Son yard in Dartmouth, including participation in the Dunkirk evacuation as part of the renowned Little Ships Armada.
+With naval architect Ken Freivokh tasked to produce restoration plans, Manoel Island Yacht Yard (the small boat wing of Malta Drydocks) was asked to repair (he steelwork. In the event, sonic 90 per cent of the steel in the hull had to be replaced, a task which took a year Co complete.
+The interior o( the yacht was conceived by the Freivokh team in !930's art deco style to match the period of its early days.
+This involved use of elaborate marquetry and LaliLjue glass and the considerable research carried out inspired some unique artwork, as can be seen in the internal panelling. A notable example is the ornate nymph sand-blasted into glass on one of the dining room bulkheads. This is
+Main Particulars
+Owner
+Thomas Perkins, USA
+Restoration
+Manoel Island Yacht Yard. Malta.
+Camper & Nicholsons, UK &
+C&C Designs, UK
+Designer (restoration)
+Ken Freivokh, UK
+Length oa 34.8m
+Beam oa 6.1m
+Main engines 2 x Gardner 8L3B vintage units
+Crew 8
+Equipment
+Anschutz autopilot and gyrocom pass, Furuno radar, Letca GPS, Servowatch monitoring system
+Significant Small Craft of 1999 surrounded by Lalique light ramps, inlay marquetry in Madrona and Macasar ebony and fibre optics. Every part of the yacht has been given the same attention to detail, including ihe use ofabalone and mother of pearl inlays.
+Heavy highway vehicles backwards at 83 kilometres per hour*
+Incat ever forward at 45 knots.
+In 1998 Atkmxide was shipped as deck cargo to the UK yard of
+Camper & Nicholsons. Here, craftsmen could implement the ambitious designs and engineers could work on the onboard machinery. This included removing and refitting ihe two 23Ohp vintage Gardner 8L3B engines, deck work, systems installation, creation of a new leak wheelhouse and major work lo form a fully filled galley and extensive crew quarters for eight.
+C&C Designs, based in Norfolk. L'K, was appointed lo fit out the social areas of the vessel based on its previous success in refitting Paul Getty's yacht Tatitha G. The projed involved the installation of 1,500ft1 of teak. 14 miles of cable and 470 lights.
+This element of the project also took 12 months.
+Now fully restored and embellished. Atlantide will be based in
+Anlibes and has a job of work to do - acting as lender to the owner's other pride and joy. a 1915 classic racing schooner
+Marietle. To enable it lo perform its duiies, the wheelhouse is deceptively well-equipped with an Anschulz autopilot and gyrocompass, Furuno radar and Leiea GPS. In modern style, all the machinery can be monitored from ihe wheelhouse through a
+Servowateh system.
+INCAT Australia 18 Bender Drive, Hobart
+Tasmania 7009 Australia
+Telephone: +61 3 6273 0677
+Facsimile: +61 3 6273 0932
+Email: incat@incat.com.au
+INCAT Europe
+Dr. Tvaergade 8B
+DK-1302 Copenhagen K. Denmark
+Telephone: +45 33145075
+Facsimile: +45 33145079
+Website: vvww.lncat.Com.au
+Significant Small Craft of 1999
+BOHENGY: Solent stretch fulfils
+Bahamas brief
+The Solent Class catamaran, a well- pmvL'ii all-ahirninium design from UK yard FBM Marine, has undergone a 2m length extension to increase ils passenger carrying capacity. The Mark 2 version, first put into service in Hong Kong on a commuter route to Shenzhen, has also joined a lleet in the Caribbean, having been further modified by FBM licensed builder
+PRS - Pequot River Sliipworks in the USA.
+With uniquely colourful livery, Bohengy has been equipped to Fulfil local community needs such as cargo transfer in the Bahamas as well as providing service as a tourist Terry. Outside sealing on the aft end of the upper deck abaft the wheelhouse has been installed (a first for a Solent Class vessel) and a large refrigerated storeroom incorporated at the port aft end of the main cabin. Primarily designed \hr the inter-island transport of perishable foodstuff, this room has a large horizontal exterior door sized lo take an
+St't coffin. A large baggage store is also provided for the transport of white goods and hanging rails for formal clothing.
+Although lilted with a total of 195 scats. maximum passenger capacity is 178 in keeping with the Passenger Safely
+Certificate of the Bahamas Marine
+Authority. The main lounge provides fully enclosed saloon style accommodation for 144 mostly in 3-4-3 anil 3-5-3 aircraft style arrangements. The remainder of the seating is located on the wheelhouse deck with 33 seats fully protected by a rear extension lu the wheelhouse roof and clear PVC side screens. An extra 18 exterior seats can be used by those passengers preferring to sit outside. A servery. located amidships between the port and starboard boarding points, is available for snacks, soft drinks ami duty-free alcoholic beverages, which are sold for onboard consumption only. The area aft of the servcry has tables and seating in a cafe style arrangement.
+Power is provided by a pair of Detroit
+Diesel 12V 4000 engines, each rated 2.330hp at 1.900 rev/min. These drive
+Kamewa KMW 63 waterjets via ZF gears to give an esiimaled lull load speed of 33 knots al 100 per cent MCR. Bach engine is sea-water cooled, flexibly-mounted, electrically started and fitted with a 24 volt alternator. An integrated engine/jet KMW control system is fitted utilising twin KMW combinator levers, one set each a( the captain's and engineer's helm position in the wheelhouse. Back-up control is incorporated at the captain's position and local emergency control in the engine room.
+Bohengy is fitted with two AC generators, continuously rated al approximately 52kW, with four-cylinder
+Perkins T4236 water-cooled flexibly mounted prime movers. These run al 1 ,S(H) rev/min and are capable of 10 per cent overload for one hour in any ] 2-hour period. The diesel generators can be electrically started locally and al the main switchboard and monitored from the whcelhouse with engine-mounted local control. F-ach machine is able lo supply the normal winter seagoing load (excluding air conditioning) but unils can be run in parallel for change-over purposes and in the summer when power for air conditioning is required.
+Main Particulars
+Builder
+Pequot River Shipworks, USA
+Designer
+FBM Marine, UK
+Length oa 35.00m
+Length wl 29.50m
+Beam 8.32m
+Draft 1.14m
+Main engines 2 x Detroit Diesel 12V4000, 1,738kW each
+Propulsion 2 x Kamewa KMW 63 waterjets
+Auxiliary Power
+Perkins T4236 diesel generators, 1,800 rev/min each
+Speed 34 knots
+Range 160nm
+Passengers 178
+Classification
+DNV +1A1, HSLC, EO, R3. IMO
+HSC Code
+Signii-icam Small Craft of I999
+BONANZA EXPRESS:
+Weight-saving techniques make for speedy Ro-Pax
+Built for operation in the Canary Islands by leading Spanish ferry operator
+Lineas Fred Olsen SA. Bonanza Express was launched at the end of January '99 from I neat Tasmania's giant Coverdales shipbuilding facility at Prince ofWales Ray near Hobait.
+The 96m wavepiercing passenger/ vehicle catamaran is a near sister of Incat's first dedicated Ro-Pax vessel Devi/Cat, which now operates on 'IT Line's summer service between Melbourne anil George
+Town. Australia. Bonanza Express entered service last April on the 35nm route between the ports of Santa Cruz de
+Tenerife and Agaele on the nearby island of Gran Canada, reducing travel time between the two islands from two hours 15 minutes to just 60 minutes.
+Flexibility and payload are the characteristics thai most distinguish [neat's first 96m vessels and Bonanza Express incorporates several new features enabling it U) transport significant numbers of heavy vehicles.
+Perhaps the most remarkable I'act about the ship is that it is almost capable of carrying its own weight. This equates to around 300dwt, which can be carried as a broad mix of light and heavy road freight.
+Such an achievement has been made possible by a diligent approach to weigh) minimisation during Construction, coupled wi!h a subtle re-design of the 'Jim class hull.
+Weight reduction is largely due lo the extensive use of aluminium extrusion. An extruded hollow box planking was developed to ensure nine-tonne axle loadings for the main vehicle deck and tunnel underside plaling is strong yel light in weight due to the use of corrugated aluminium. Other savings were made with non-structural superstructure sule panels, which were bonded with adhesives rather than by welding and could, therefore, be thinner and tighter, Designated as a Car Ferry B [neat 051, the vessel has open Foredeck and stern, allowing adequate natural ventilation to the vehicle deeks. This policy led to a considerable saving, not only in terms of structural weight bui also by permitting the omission of normally mandatory items such as structural fire protection. ventilation fans, fire dampers, overhead fixed sprinkler systems and additional lighting.
+Further structural weight savings were achieved by reducing the physical size of the passenger cabin and wheelhouse. With a total capacity of 755 persons, mosi of the passenger accommodation is on a single tier with (he wheelhouse positioned well all. above the exclusive panoramic sky lounge.
+To eater for the increase in passenger numbers over the first 96m vessel.
+Bonanza Express has an enlarged sky lounge incorporating a cafe-bar, crew facilities and toilets. Seating is arranged in pairs with the forward part of the area, designated for first class passengers. comprising 62 Beurleaux Ocean Fxeculive aircraft style seats. Double seating also extends aft along each side of the vessel below the wheelhousc.
+A central stairway forward leads down lo Tier 2. emerging just aft of the self- service bar and cafe where travellers can buy beer and spirits as well as a wkle variety of hoi and cold food-
+Accommodation comprises Beurteaux tub style sealing in clusters of four around
+Significant Small Craft oi- 1999 wood-grain laminate tables. The main scaling area features cushioned rcclincrs in 2-4-2 configurations and ihe forward lounge, the most popular .seating area due to its views over the ship's bow, has 158 seats in pairs.
+Vehicle access is via a shore-baseil stern ramp or ramps, the transom arrangements being designed to allow ramps providing a minimum of four lanes. In total they offer 330 lane metres at 2.7m wide x 4.3m high for heavy, high and wide vehicles and 370 car lane metres at 2.3m wide.
+This gives Bonanza Express the flexibility to carry 240 ears and no heavy vehicles, 12 road freight trailers with 180 curs or 24 road trailers with 85 cars. While the maximum deadweight capacity of
+SOO tonnes is one key lo achieving these freight loads, it is ihe provision of moveable mezzanine vehicle decks that allows ihe ship to offer the necessary lane metres required for maximum car loading as well as offering the headroom demanded by oversize freight vehicles.
+Deck officers operate ihe vessel more like an aircraft ihan a traditional ocean-going ship. A surprisingly small raised control station has large outward raked windows fore and aft lo reduce glare and give all-round visibility. A central aft-facine docking console in the control station obviates the need fbx bridge wings and their associated structural weight.
+The stau'on is tilled with the latest in electronic, navigation and communication equipment to comply with High Speed Craft Code Sea
+Area A2. During normal operations the captain, navigator and engineer sil abreast al the main console where the former iwo can monitor a dedicated inter-switched Liuon high speed radar interfaced to the
+Ansehulz gyro compass. C-P!ath magnetic compass and one of two
+Litton LMX 400 GPS units. The engineer is positioned behind ihe dual sevens of the latest 1SIS 2500 integrated alarm and assessment system from Litton Marine Systems.
+As with previous Incal wavepierceis. Bonanza Express is diesel powered, in this instance by four Alstom-Ruston 20RK27Os developing 7,0<S()kW each at 1.030 rev/min. These drive transom- mounted stcerable Lips 150 D watcrjels via Reinljes VLJ6831 gearboxes. The engine room in each hull houses two of the main propulsion diesels and two auxiliaries, which are mounted transversely in the forepart of the space. All lour watcrjets are configured for steering and reverse functions.
+Main Particulars
+Operator
+Lineas Fred Olsen, Canary Islands
+Builder
+Incat Tasmania Pty, Australia
+Length oa 96.00m
+Length wl 86.00m
+Bearrt oa (ex Fenders) 26.00m
+Draft 3.70m
+Main engines 4 x Alstom/Ruston 20RK270 diesels, 7,080kW each
+Propulsion 4 x Lips 150 D waterjets configured for steering and reverse
+Passengers & crew 755
+Vehicle deck capacity 330m truck lane - 2.7m wide x 4.3m high 425m car lane - 2.3m wide
+Speed (Lightship) 48 knots
+Speed (Loaded/800t) 37.5 knots
+Classification
+DNV +1A1 HSLC R1 Car Ferry "B" EO Cert
+Equipment
+Beurteaux seating, Litton radars, GPS and ISIS 2500 systems, Anschulz gyro compass, C-Plath magnetic compass, Lipslronic jet control, Liferafi
+Systems Australia marine evacuation system, Colbeck & Gunton fire protection
+ASTILLEROS DETROIT CHILE
+Specialists in Shipbuilding &
+Propulsion Systems
+Catamarans
+Fishing Boats
+Pilot Boats
+Ferry Boats
+Work Boats
+Tug Boats
+DETROIT DIESEL - mtu - ALLISON
+CHILE
+Headquarters: Baron de Juras Reales 5950 - Chile Phone: [562] 4408500 Fax: (562) 4408556
+RO. Box: 10114 e-mail: web@central.detroit.cl
+Significant Small Craft of 1999 I I
+DC 1500: Hong Kong five give chase to smugglers
+Designing a sea-kindly, low noise fast
+Interceptor craft for the Hong Kong
+Marine Police called for the extensive boatbuilding skills of Dutch yard Damen
+Shipyards and the offshore power boa! expertise of UK firm Cougartek Design.
+The result, designated the Damen
+Cougartek 1500. is capable of speeds in excess of 60 knots, making il well able to catch up with smugglers. Five vessels have been completed. liuili in accordance with Damen's ISO 9001 quality regulations with supervision from surveyors of the Bong Kong Marine
+Department, the ultra fast DC 1500s measure 14.57m x 2.91m x 1.80m. An aluminium superstructure was seleeied in preference to materials such as FRP for durability and ease of maintenance and retrofit A deepV hard chine hull form has been incorporated to enhance sea-keeping and handling and lo provide a safe working environment when the craft is racing at high speeds.
+Power is supplied by three Mereruiser
+HP 500 Bulldog gasoline engines driving four Bravo One IIP slerndrives via cardan shafts. A combined output of 1.119kW is achieved. Noise reduction at speeds of up to 45 knots is aided by a special exhaust system which forces the exhausts to discharge under water, through the sterndrives. When higher speeds are required. I he exhausts s wit eh lo discharging through the transom.
+Due to the demanding role of the vessels, maintenance of the engines is made simple and efficiency is aided by a quick replacement syslem. whereby a new unit can be installed within the hour using a vertical Hfl-in/oul procedure. Fittings used include special connectors, which can be simply plugged and unplugged. All iluee engines are identical, thus minimising the level of slock and spare parts required This feature also extends to other essential equipment such as the electrical bilge pumps, which are also Tilted with plugs for ease of installation/replacement. The vessels are equipped with a set of lifting eyes, which when combined with a sling, allow a single-point lifl-nut onlo a custom- designed wheeled storage cradle. When in place, personnel have easy access to the
+Main Particulars
+Owner
+Hong Kong Marine Police
+Builder
+Damen Shipyards, The Nether lands
+Designer
+Cougartek Design, UK & Damen
+Shipyards, The Netherlands
+Length oa 14.57m
+Length wl 12.01m
+Beam oa 2.91m
+Beam mid 2.71tn
+Draft 1,80m
+Propulsion 3 x Mercruiser HP 500 Bulldog gasoline engines driving 4 x
+Bravo One HP sterndrives via cardan shafts. Combined output of 1,119kW
+Crew (maximum) 8
+Cruising speed 42 knots
+Interdiction speed . 60 knots plus
+Significant Small Craft of 13
+DC 1500
+PROFILE - EXTERNAL
+PUN VIEW - EXTERNAL
+PROFILE - INTERNAL
+PLAN VIEW - INTERNAL stemdrives, propellers and steering system.
+A combination of bolster and saddle type seating is fitted to accommodate a crew of up to eight although five is the norm. All seats are fitted with backrests for secure positioning and are located well inboard in the self-draining cockpit. Control consoles are located aft and forward and are surrounded by a walkway for unrestricted movement, essential when preparing to board vessels.
+The forward console has seating for two, with helmsman positioned to port and boarding officer to starboard.
+Gearshift and throttle controls are fitted centrally and the arrangement provides unobstructed views over the bow. The aft console is also for two and houses the monitoring equipment for the propulsion system, as well as an extensive array of navaids. Communication equipment is once again fitted centrally and general communication between crew is via helmet-mounted voiceducers.
+Damen has also introduced a great deal of flexibility in the onboard set-up, with the option for a number of differing cabin layouts to suit particular customer operating requirements e.g. choice between open cockpit and fully-enclosed cabin. Such flexibility, coupled with the safe working environment and precise handling - the craft is capable of maintaining a speed in excess of 45 knots in Sea State 3 conditions - enables a lot of work to be undertaken at close quarters.
+The vessels will usually operate in pairs with one utilised as the lead interdiction boat, while the other provides crucial back up. As well as operating on a stand-alone basis, the IX 1500 can also be used in a mother and daughter arrangement, linked up, for example, with a patrol vessel acting in a surveillance, command/control role.
+The last two boats in the series were commissioned in October '99 and the completion of the contract continues the strong relationship between Damen and
+China, with the Dutch yard having already built more than 30 patrol vessels for the
+Hong Kong police and customs authorities. 14 Significant Small Craft of 1999
+FAR SOVEREIGN: packed with power for offshore tasks
+Major offshore vessel operator, Farstad
+Shipping, added the powerful UT 741 AHTS/towing vessel Far Sovereign to its fleet in late "99. Mulii-flineiiona] In
+Order to undertake a wide range of offshore support tasks, the vessel is equipped with a main lowing winch capable of 500 tonnes maximum pull and has a bollard pull of 280 tonnes.
+Measuring 85.20m x 20.50m. Far
+Sovereign was built in Norway at the
+Langsten Slip yard in Toinrefjord and has been operated in recenl months by
+European Marine Contractors (EMC) for ploughing and trenching operations.
+At the hear! of the new ship are four
+Ulstein Bergen diesels in two father and son arrangements, with a total output of 27.400hp, turning two Ulstein propellers in fixed no/./.les. At (he bow there is a l,620kW azimuthing thruster, together with a l,200k\V tunnel Sinister, whilst aft two 833kW tunnel thrusters combine to give the vessel outstanding manoeuvring capabilities.
+All of these devices, plus the Ulstein high lift rudders, are linked to a fully redundant Kongsberg Simrad SDP21 dynamic positioning system which is in turn interfaced with spotbeam. DGPS. tautwire, laser and H1PAP systems to ensure reliable and accurate station keeping. According to the owners, the vessel has a maximum free-running speed of 17 knots.
+The vessel's considerable electrical needs are met by two 3,000kVA shaft generators, and two Caterpillar driven generator sets of 715kW each.
+Apart from the visually obvious helicopter pad built up over the bow and designed to accept a Super Puma
+AS332L2, Fur Sovereign is dominated by a substantial A-frame at the stern, a cluster of cranes and other items of deck machinery ringing the art working deck.
+With a 160-tonne SWL. the A-frame can be used for all manner of deepwaler construction projects but most notably, as in the vessel's current operation, deploying
+EMC's pipe trenching and backfilling ploughs. These can be lowered over the pipe or trench with accurate positioning facilitated by real time sonar and video systems. The trenching plough is capable of lowering a pipeline of up to 1.4m diameter into a trench of up to 2m in depth.
+The devices are able to operate at depths of 400m and are controlled from a special dedicated operations room. Power and telemetry signals are passed from this cabin via an umbilical to a subsea electronics pod mounted on the ploughs.
+A 100-lonne SWL heavy lift offshore crane is mounted on the port side of the aft deck while three smaller ones occupy positions at the other corners. The main winch has a maximum pull of 500 tonnes and houses up to 6,100m of 90mm diameter wire.
+A 7m \ 5m working union pool is incorporated into the 680m3 of high load open deck space of the vessel's main deck and a removable modular ROV deployment deck can provide an additional 320m- of equipment storage room.
+Main Particulars
+Operator
+Farstad Shipping, Norway
+Builder
+Langsten Slip, Norway
+Length oa 85.20m
+Breadth mid 20.50m
+Draft (design) 7.00m
+Main engines 4 x Ulstein Bergen diesels, 6,850hp each
+Propulsion 2 x Ulstein 9275kW props in nozzles
+Bollard pull 280 tonnes
+Speed (maximum) 17 knots
+Accommodation 63
+Crew 13
+Equipment
+Anschutz gyro compass and autopilot, Furuno echosounder and speed log, Taiyo VHF, Skanti radio: Kongsberg Simrad SDP21
+DP system
+Significant Small Craft of 1999
+HUMBER CALLISTO: super star joins pilot fleet
+Associated British Porls at Hull, responsible for pilot services on ihe
+River Humber. has Iradilionally operated
+Scania powered twin-screw Nelsons and currently has a fleet of three with another in reserve. Tradition has. however, now been casl aside by Bevan Thomas, marine engineering manager of ABP Hull, with the delivery of Humher Cattish), a triple- engined waleijei driven vessel whieh, it is claimed, marks a watershed lor pilot boat design and construction.
+Designed by Alaslair Cameron of
+Camarc Ltd and built on the Isle of Wight by Souter Marine, the 17.2m x 4.60m craft owes much in overall concept to a series of longer Rotterdam pilo! boats from ihe same designer and built by Engelacr in
+Holland. Waicrjet propulsion, advanced double chine hull, the bright livery and all- round tendering system have their roots in the Dutch boats but the three-engine/ waterjei propulsion system is, according to Thomas, a first for a pilot boat.
+Three Scania DIN engines, each developing 6lX)hp at 2,100 rev/min. are located across the boat aft with the two wing engines silling slightly forward of the centre unit. All three are direct coupled (no gearboxes) to Hamilton 362 waterjets using Centa flexible couplings and drive shafts. This arrangement gives a fully laden (two crew, ten passengers/pilots and 2,000 litres of fuel) continuous operating speed
+Of 32 knots and a top speed of 35 knots, well exceeding expectations. Commented
+Thomas: "!l would have been difficult to reach these speeds by using two larger engines because of the increased weight of (he engines and associated systems." A major advantage of waterje! propulsion is
+Ihe outstanding manoeuvrability when approaching and leaving large ships in motion and the triple arrangement offers flexible operating speed alternatives.
+Cameron's double chine hull has been proven on a number of vessels since its first development in the mid-eighties. It combines a number of advantages including finer entry in the forward sections, efficient spray rails to keep the deck dry and dampen motions in heavy seas (important attributes in a pilot boat) and a more scakindly shape in the forward slamming ni"eas. A chine shape at Ihe aft end also gives stability in following seas.
+The wheelhouse/saloon is mounted on six anti-vibration mounts and lo further reduce noise and vibration levels. Halyard
+Marine & Industrial was called in to design and manufacture a complete exhaust system with the task of reducing levels to around 7ridB(A) in the deckhouse. The effect of the Halyard system, which incorporates modular high risers with high- temperature silicone bellows and specially designed in-line silencers, has been to bring the level down to 71 dB(A).
+A major innovative feature of the boat is a stern mounted man overboard recovery device designed jointly by Cameron and
+Bevan. Using a small remotely controlled winch, a metal mesh and tubular scoop running in a channel over the stern can he lowered into the water to pick upthe victim and raise him/her above deck in the prone position. The fendering system is also unique being a further development, by
+Camarc, of the original 'Popsafe' system used on the earlier Dulch boats. The basic principle of holding a tubular rubber fender in posilion around the hull by a tensioned wire rope is retained but the recess in which the tube sits is now formed from large sections of elastomer foam mouldings. Mechanical fastenings around the hull, and their weakening effect, are thus eliminated except where the tensioning points are located on the transom. A Hadrian pilot rail system is fitted lo the foredeek.
+The wheelhouse. which is air conditioned by a Crusair/Taylor Made
+Environmental syslem. provides excellent all-round visibility with an abundance of windows, supplied by Seaglaze Marine, especially in ihe vital overhead area. Three
+Hcpworth pantograph wipers are lined lo the front screens whilst two pendulum systems keep the side screens clear.
+Centrally located, ihe command posilion not onlv has wheel sleerin» but also a
+Significant Smai i. Craft of 1999 19
+Left: the command position has wheel steering and Sinmtd
+Robertson follow-up lever.
+Below: stern-mounted MOB device.
+Simrad Rnhertson follow-up lever lo port.
+On the same side is the Servowateh engine room monitoring screen. The Raylhenn radar and plotter are to starboard, where they are also visible by the crewman/ navigator who can grab the throttle and jet reversing bucket controls in an emergency.
+Directly ahead of the navigator is a
+Robertson AP9 Mk3 autopilot with the extensive Sailor radio (with DSC) ilt-oin lo his left between the two
+Recaro N-Joy seats. The
+DGPS (again by Raylheon) along with depth, wind and speed indicators are ranged overhead. Behind the crew position are ten seats for the pilots, set out in forward lacing pairs along each side.
+All the seating is equipped with safely belts. On the port side of the control console, steps lend down to the forccabin area which luts a galley and twin berths.
+Humber CalHsto is impressive on virtually every level from its sleek and attractive appearance to the thoughtfully placed interior handrails overhead along both sides of the aisle. The vessel is in active service whilst undergoing a stringent evaluation programme by all concerned over the coming months. IT it meets with unanimous approval, ABP Hull will take out an option with Souter for a further two boats.
+Main Particulars
+Owner
+ABP, UK
+Builder
+Souter Marine, UK
+Designer
+Camarc Ltd, UK
+Length oa (excl. fenders) 17.20m
+Length wl 14.46rn
+Beam mid 4.64m
+Draft 0.80m
+Main engines 3 x Scania DI14 diesels, 600hp each
+Propulsion
+Hamilton 362 waterjets with
+Centa flexible couplings and drive shafts
+Speed (service) 32 knots
+Speed (maximum) 35 knots
+Crew 2
+Pilots/passengers 10
+Equipment
+Hadrian pilot rail system, Seaglaze windows and doors, Transit Super Nova 1400 pilot seats, Raytheon radar, plotter, DGPS and loudhaiier, SG Brown
+Meridian gyro compass.
+Robertson AP 9 autopilot, Jotron
+Tron 30 EPIRBs, Sailor VHF, Servowatch monitoring and alarm systems, Halyard (M&l) exhaust systems, Hepworth pantograph and pendulum windscreen wipers, Crusair AC system
+BURNESS, CORLETT & PARTNERS
+Leading independent maritime consultancy with over forty years experience in the international shipping industry.
+Quality cost effective consultancy in Naval Architecture, Marine
+Engineering, Survey and Legal Services.
+RO-RO FERRIES • CONVERSIONS
+TUGS • PROJECT MANAGEMENT
+Ccrtiyirg Auinonly la- Snail Commorc.a1 Vessels Code of Pracl ce
+Beiesford House, Town Quay, Southampton. Hants. S014 2AQ
+M023B0339449
+Fax: 023 B033 9440 info@bcp-intma riiimo.com
+Baltic House, Station Road.
+Ballnsalla, Isle of Mar, IM9 2AE
+Tel:01G24822BD3
+Fax: 01624 822B25 inio'gbcpiom-inltnaritime.corn
+The Italian Building, 41 Dnckhoad, London SE1 2BS
+Tel: 0Z0 723I 1415
+Fax: 020 7231 0037 info'itbcplondon-intmaritime.
+P.O. Box639,BrooWale, New South Wales, 2100 Australia
+Tul: (021993a 6199
+Fax: IO2| 9933 2131! bca'Sdot.nei.flj
+Significant Small Craft of 1999 21
+RT INNOVATION CLASS:
+Rotor' tugs adopt unique tractor concept
+One of the most intriguing tug concepts in recent years became reality in
+January '99 when RT Innovation and RT
+Pioneer, the first in a series of four, were delivered lo Dutch operator Kotug.
+Designated "Rolor" lugs, the initial duo - built in Spain ;it Aslilleros Balenciaga - were .soon lo be followed by RT Spirit and
+RT Mat>ic.
+Conceived Kid patented by Ton Kooren, president of Rotterdam based Kolug -
+Sleepdienst Adrinan Kooren 13V - the
+Rotor tug represents a new concept in lu» design. Al its heart, the concept is a unique tractor tug propulsion system utilising three main engines, each driving a fully azimuthing propulsion unit. Two propulsion units are located Forward of the centreline, in the normal tractor con figuration, with the third unit aft of the centreline replacing the traditional skeg.
+This seemingly complex arrangement oilers a number of Significant advantages, particularly in the close quarter? ship- handling role.
+The Rotor tug has the ability lo turn rapidly in its own length and apply almost all of its bollard pull in any direction - including sideways. The lack of a substantial skeg reduces resistance to turning and cuts down the influence of a ship's propeller wash when working in close proximity to large vessels underway.
+With 6,300hp installed in a 31m hull and a bollard pull of 75 tonnes, the Rotor tug is one of the most powerful and compact harbour lugs in existence. In fact. Kotug claims that if a breakdown occurs on one engine or propulsion system, the tug can remain operative with some 50 tonnes of bollard pull still available.
+Construction of the series has involved three shipyards. The hull and all major steelwork For RT Magic was completed by
+Couslrueciones Navales P Freire SA in
+Vigo, Spain, and Fit-out and completion undertaken by the Padmos Shipyard al
+Stellendam in Holland. RT Spirit was also ordered from Freire and handed over in
+February '99. Aslilleros Balenciaga delivered RT Innovation ami RT Pioneer as previously mentioned. All four tugs are registered under the Dutch flag and classed
+GL+100A5 - "E TUG" +MC.E Am.
+Measuring 31.61m \ 1 2.00m. each
+Rotor tug has a heavily built single chine steel hull and a semi-raised forecastle. No underwater skeg is Tilted but some protection is provided io tlie propellers and lor docking purposes by guard plalcs and struts. Three very small llns located under the stern enhance directional stability.
+Three Caterpillar 3516B DT-TA main engines are installed, each with a maximum continuous rating of 2,100hp running at 1.600 rev/min. Each engine drives a Schottel SRP 1212 FP, Fully azimuthing propulsion unit, incorporating a iive-bkidedrWed pitch propeller oi'2.15m diameter and a Kort noz/le. Power is transmitted through Twin Disc Type ."i()00- 2LD Marine Control Drive (MCD) units.
+The main engines are situated side by side across the engine room, with the outboard engines coupled to the forward Schottel units and the centre engine driving the alt unit. On trials the lugs produced a bollard pull ahead of 15 tonnes and 73.S tonnes
+Significant Small Craft op 23 astern, with u free-running speed of 12 knols.
+Towing equipment is substantial and the after deck is dominated by a
+Ridderinkhof TW-H-300 'waterfall' type hydraulic main towing winch with three declutchable drums. The tlilI width upper drum accommodates 650m of 56mm diameter steel wire rope, with a 20m Nylon (spring) of 100mm diameter. Each lower drum, used for ship-handling, curries 200m of 56mm sleel wire rope, with a lOrn
+Nylon spring and 48mm diameter steel wire pennant. On (he tbredeck is a
+Ridderinkhof AMW-H-236 combined towing winch and anchor windlass.
+The winch has ;\ single drum, tor a 200m towline with the necessary spring and pennant, iwo declutchable chain lifters and two fixed warping heads. Both towing winches have pneumatic controls and can be operated remotely from the wheelhouse or from small control consoles on deck. A Van de Graaf type
+GSH 100 quick release towing hook is filled Tor secondary use.
+The high rise Roior tug wheelhouse has been designed according to ergonomic principles and affords excellent visibility. The tugmnster position between two large consoles containing most of the propulsion, winch. communications and navigational equipment. The layout of the Schottei propulsion controls in the tugs is unique. Each propulsion unit has its own manual controller for thrust direction and propeller speed while a fourth 'Mastcrpilot' controller enables any combination of units to be directed in unison. The master can. therefore, choose the most suitable combination for the Operation he is earning out. In much the same way. the Anschutz
+Pilotstar D autopilot can be coupled to one. (wo or all three propulsion units. For example, at sea, the forward propulsion units are connected to the autopilot and the stern unit fixed in the straight-ahead position. All of the
+Kolug captains involved in the operation of the lugs were given extensive simulator training by Marine
+Safety Rotterdam BV. along with pilots and many others involved with the introduction of the new vessels.
+Crew accommodation is lilted out lo a very high standard. The tugs will normally work in harbour with a crew ol three, with additional manning for seagoing operations. Provision is made lor a maximum of seven personnel, in three single and two twin-berth cabins. manoeuvres the lug from a central
+Above: a truly impressive wheelhouse. Below left: three propulsion units, two forward and one aft of centre. Below right: a 'waterfall' type winch on the aft deck.
+Main Particulars
+Owner & Designer
+Kotug, The Netherlands
+Builders
+Ast. Balenciaga, Spain, P. Freire SA, Spain and Padmos Shipyard, The Netherlands
+Length oa 31.63m
+Beam mid 12.00m
+Draft 5.90m
+Main engines 3 x Caterpillar 3516B DITA diesels, 2,100hp each
+Propulsion 3 x Schottei SRP 1212 Rudderpropellers driven via Twin Disc 3000-2LD MCD clutches
+Speed 12.5 knots
+Bollard pull ahead 76 tonnes
+Bollard pull astern 73.5 tonnes
+Classification
+GL +100A5 - "ETUG" +MC.E Aut
+Equipment
+Ridderinkhof winches/anchor windlass, Van de Graaf towing hook, Anschutz autopilot, Skipper echosounder, Skanti VHFs, JRC
+Navtex, CSI bridgewatch system, Azcue hydraulic winch pump, K&R fire pump, Unitor fire-fighting monitor
+Small Crai-t oi- 25
+MARCIMORAN: first of four for naval duties
+Four new ASD lugs ordered by US operator Moran Towing arc now in service at two Military Sealift Command bases in ihe Norfolk, Virginia area. The prestigious design and build contract whs won by Wasliburn & Doughty of Hast
+Boothbay in Maine, respected commercial vessel builders thai had surprisingly little experience in the lug sector.
+The key to success in winning the order undoubtedly lies with the delivery of Fort
+Bragg, a 27.84m x 9.75m Z-drive reverse tractor designed by Bnice Washburn and built a! his yard in 1998. This in turn was inspired by a twin-screw tug design of 1991 but. aside from this, theWashburn portfolio had little else to help ihwari intense competition from other builders.
+The lead vessel for Moran - Murci
+Moron - measures 28,04m x 9.75m and has a draft of 4,2m. Power is provided by a pair of EMD-645-E2 diesels. each developing 2,100hp at 900 rev/min. These drive stem-mounted Ulstein type I350H
+Z-drives with stainless steel propellers turning inside stainless lined Kort nozzles.
+Twin Detroit 4-71 gensets with a total output of lOOkW supply auxiliary power.
+A third Detroit dicsel engine - an 8V7! T - rated 280fep al 1,800 rev/min is included in the package lo turn an Aurora fire pump. which has a discharge rale of 3.000 US galls/min. This feeds two Skum fire- fighting monitors located in the Forward starboard and all port quarters of the bridge deck.
+The compact wheelhouse, accessed internally to port and externally on ihe inside of (he starboard exhaust stack, has parallel consoles forward either side of the helmsman's seat. The chunky rectangular exhausl stacks scarcely obstruct good all- round views and all navigational equipment - including Furuno GPS. depth sounder and radar - are embedded in the control consoles.
+Crew accommodation is arranged in the deckhouse with two crew cabins, each with double bunk beds forward of the engine room and a shared cabin for captain and mate lo port. A roomy combined galley, dinette and lounge section takes up most of the starboard side. The dining area features a U- shapeil seating arrangement, which is sufficient to seat all crew members, and continuous sealing along ihe forward and side bulkheads for up lo ten extra people.
+This additional space will be used when vessel crews are beina ferried.
+Main Particulars
+Owner
+Moran Towing, USA
+Builder
+Washburn & Doughty, USA
+Designer
+Bruce Washburn
+Length oa 28.04rn
+Beam 9.75m
+Draft 4.20m
+A/lain engines 2 x EMD-645-E2 diesels, 2,100hp each
+Propulsion 2 x Ulstein 1350H Z-drives with stainless steel propellers turning inside Kort nozzles
+Auxiliary power 2 x Detroit 4-71 gensets, 50kW each
+Equipment
+Skum fire-fighling monitors, Aurora fire pump, Furuno GPS, depth sounder and radar, [COM
+VHFs, Schuyler soft loop fendering, MARCO electric capstans
+Significant Smau. Crafi of I999 27
+MARK 10 LCU: prototypes in test for 2000
+Two prototype vessels of Mark 10 LCU (landing craft utility) type are undergoing extensive operational trials during 2000 with the UK Royal Navy. The duo Form pan of a ,€35 million ten-vessel design and build contract placed with the
+Land & Sea Systems Division of British
+Aerospace and are being built under sub contract at Ailsa-Troon Shipyard on the
+Scottish west coast.
+The vessels form the initial stage of the
+Navy's programme to improve ils amphibious capability and are the flrsl to have a ro-ro facility with electrohydraulically operated bow and stem ramps. The forward ramp is wide enough to take a Challenger tank whilst aft access, restricted by the offset wheelhouse, can accept most normal vehicles. Both ramps were supplied by
+Transmarine.
+Wiili a displacement of 240 tonnes. Ihe
+LCUs measure 29.8m overall with a beam of 7.4ra and a draft Of 1.5m. Two completely self-contained engine rooms each house a 400kW MAN D2840LE diesel and one of two differently sized
+Cnmiiiiiis/Newage generator sets. This arrangement ensures that the craft are still operational in the event of a single engine room sustaining damage. The larger generator is an air-cooled set bavin" an output of lOOfcW and the other, a waler- cuolcd unit used for normal cruising, is of 50kW. Selected in order to provide trouble- free Operation when the craft is beached, the air-cooled arrangement provides power to three hydraulic power packs for the ramp and kedge winches, pins supplying a bow thrusler and under deck tract healing.
+Both main engines drive a model SPJ82
+PumpJet mounted at the stern. A similar, but smaller, electrically driven SPJ15RD
+PumpJei is lilted at the bow. The units are
+Hush mounted to prevent damage when grounding.
+Jigger winches raise and lower the bow and stern ramps, each of which has an independent electrohydraulic power pack.
+The third pack is dedicated to Ihe kedge winch but interconnection is possible in an emergency.
+Designed to operate from the new landing platform dock vessels, HMS
+Bulwark and HMS Albion, currently under construction al the Marconi Marine yard in Barrow-in-Furness, the LCUs arc capable of operating in a combat situation worldwide. Each can carry 120 fully equipped troops (willi skis and two over- snow vehicles), four high-sided vehicles or a main bailie lank. The first Iwo vessels were built to schedule within 14 months and were handed over simultaneously.
+Main Particulars
+Operator
+Royal Navy, UK
+Builder
+Ailsa-Troon, UK
+Designer
+British Aerospace Land & Sea
+Systems Division
+Length oa 29.8m
+Beam 7.4m
+Draft 1.5m
+Displacement 240t
+Capacity 120 troops
+Main engines 2 x MAN D2840LE diesels, 400kW each
+Main generators
+Cummins/Newage gen sets, 100kW and 50kW
+Propulsion
+Type SPJ82 Schottei PumpJet at the stern and SPJ15RD PumpJet at the bow
+Significant Small Craft of 1999 29
+MIDNIGHT ARROW: Multi-role
+OSV starts work in Mexican Gulf
+The 60m long survey/ROV/offshore support vessel Midnight Arrow lias recently begun a long term charter in the
+Gulf of Mexico with Torch, Inc. The vessel was built by the revitalised Balenciaga yard to a Cintnmava! design for Dublin-based
+Adams Vessels (Bilbao) Ltd, a wholly owned subsidiary of Khalifa A Algosaibi
+Diving & Marine Services of Saudi Arabia.
+As towing is not a prerequisite, power is comparatively low for an OSV ol'60.00] n x 13.30m \ 3.80m. Two Caterpillar 35I2TA diesels, each developing !.297hp at 1,800 rev/rain, are installed under the centre of the deck abaft the moonpool.
+These turn stern-mounted Schottel twin propeller units, type STP 1010. through flexible couplings and inclined shafts. By using these "dual-prop" units, it has been possible to minimise the diameter and hence, the operating draft At the bow. two 35OkW Schottel type 5TT 170 transverse thrusters are fitted.
+To meet the vessel's high eleetrieal demand, four Caterpillar driven generator sets are located in a separate auxiliary room adjacent to the main switchboard compart men t. Three, arranged for synchronous operation, are 425kW, 3412 units whilst a fourth, solely dedicated to
+ROV operations, is p 34O8TA producing 37OkW. A f)4k\V emergency set is located on the forecastle deck.
+Diving support, pipeline construction and maintenance are llie vessel's primary tasks and. as much manpower is needed to perform these operations, the vessel has accommodation for 52 persons. Most of the quarters are on the main deck and are notable for their spaciousness. On the upper deck arc two four-berth cabins, separate ROV and project offices, comfortable day room, mess and galley.
+The mess has sealing for 42 at seven tables and is equipped with a coffee machine.
+Forward of the galley are extensive dry arid cold stores. The captain and chief engineer each have extensive 'suites' at the forward end of the forecastle deck, together with other officer cabins, guest accommodation and the ship's office.
+With dimensions of 14m x 8m, the wheelhouse is large by any standards.
+Walk-round consoles fore and all duplicate most controls (Schottel) and commun ication systems (Sailor) whilst the unit facing ahead is flanked by two Furuno radars. Jusi all of the port wheelhouse door is the Furuno Inmarsat B equipment, alongside a battery of fax machines. A
+Sailor 'compact' GMDSS system backs onto a large char! table. Other electronic items include a Fiiruno echosounder and a
+Raytheon GPS.
+A prominent feature on the starboard aft quarter is the dual screen Naulronix
+DPS2 dynamic positioning system which can accept DGPS, hydro-acoustic and taut wire references. According to Balenciaga. this is the first Spanish built vessel of this type to be DP equipped and on trials, in 30-knol winds and 3m seas, the ship was able to maintain station to within 400mm.
+A eompanionway at the aft end of the wheelhouse leads lo the roof and on up to the helicopter deck. This is an aluminium structure supported on sled uprights and is prolecled by Iwo fire-fiyhling monitors mounted on a platform high on the mast.
+Dominating the fimber clad aft deck, which has an area of 310nr, is a Norlifl crane with a 45 ton SWL a! 10m outreach.
+Unusually, this is located near to the transom, which has a wide gale. Other deck machinery items include a pair of
+Ridderinkhoff capstans and a forward windlass. A Zodiac rieid inflatable.
+SlGNlFiCAN r Small Ckai-t of
+MIDNIGHT ARROW
+J3 a a o / ■/_ •/ powered by a 7Dhp Tohatsu outboard, is swung from the aft end of the bridge deck.
+To ABS classification requirements and supervision, the vessel has been completed in under 15 months from the signing of ilic contract and to the entire satisfaction of the customer, who may order a second vessel.
+Now under a new management team, Balenciaga has, over the last three years, entered a period of greatly improved profitability with the result thai mi extensive inveslmen! programme is in progress. Already a large dedicated pipe shop lias been constructed and a new NC bending machine installed, This has facilitated work on 2.000m of pipe installed on Midnight Arrow. Two more workshops i52m x I Km and 70m \ 15m) are to be added before mid-2000. together with n total of 215m of deep water quay. This hitler facility will result from a dredging exercise - the final stage in a marsh/mud reclamation project along two sides of the original yard perimeter.
+Main Particulars
+Owner
+Adams Vessels (Bilbao) Ltd, Spain
+Builder
+Balenciaga, Spain
+Designer
+Cinlranaval, Spain
+Length oa 60.00m
+Beam 13.30m
+Draft 3.80m
+Main engines 2 x Caterpillar 3512TA diesels, 1,297hp each
+Propulsion 2 x stern-mounted Schottel type
+STP1010 propellers driven via flexible couplings and inclined shafts. 2 x STT 170 transverse thrusters at the bow
+Accommodation 52
+Equipment
+Norlift crane, Ridderinkhoff capstans and windlass, Zodiac
+RIB, Furuno radars and echosounder, Sailor GMDSS and VHFs, Raytheon GPS, Nautronix DPS2 dynamic positioning system 32 Skinificavi Small Craft of 1999
+NANUQ & TAN'ERLIQ: powerful tractors for tanker escort
+Two of the most powerful Voith
+Schneider tractor lugs in the world.
+Nanuq and Tan'erliq (Alaskan words for 'polarbear' and "black bear' respectively) entered service in the first half oi' '9S.
+Designed by Seattle based naval architects Guido Perla & Associates to carry out tanker escort duties in Vuklez
+Harbour and Prince William Sound, each ves.se! is also fully equipped for ship handling, fire-fighting, emergency response and anti-pollution work. Owned by Crowley Marine Services (CMS) of
+Seattle, the tugs are on lease to the Alyeska
+Pipeline Service Company.
+Built at a contract price of around US$31 million by Dakota Creek Industries in
+Anacortes. Washington, the 46.63m x 14.63m sisters have all-welded steel structures with transverse framing and wing tanks, strengthened for operation in ice. Tank spaces are provided for 123.280
+US gallons of fuel. 17.800 gallons of fresh water and 3.000 gallons of lubricating oil.
+The hull design incorporates a prominent forecastle, extending almost half the length oi' the vessel, and a streamlined configuration. A substantial "breakwater" located on both after deck and forecastle is essential for safely in arduous working conditions. Heavy moulded rubber fendering extends around the entire hull, with an additional stern fender lilted for push-pull operation. The underwater hull is shaped lo give good handling characteristics while operaling stem first, and incorporates the usual hydrndynamic skeg.
+Two Caterpillar 3612-B lurbocharged. four-slroke diesel main engines, produce a total of 10.192hp at maximum continuous power and drive a pair of Voith Schneider
+Model 36G11/270 cycloidal propulsion units. This arrangement ensures a static bollard pull of some 104 tons and a Iree- ninning speed of 15 knots.
+On deck, the towing gear comprises a
+Markey DTSDS-62 split drum towing winch, the usual 'staple1 I'airlead and a further lead in the after rail. The main towline is 1000ft long 10 inch circumference D-I9 SWR, with a pennant of 15 inch Nylon. 200ft in length. For escort work and ship-handling the tugs are equipped with a 1000ft towline of
+Speclron-12 Plus, 12 strand braided, man- made fibre rope of 10 inch circumference.
+Three hydraulic deck cranes, supplied by North American Marine Cranes, are installed (one forward and two aft) to handle anti-pollution booms, stores and the onboard workbnats.
+Two Skum fire-fighting monitors are located above the wheelhouse roof, each with a capacity of 5.300 galls/min of water.
+Two pumps supply the fire-righting syslem
+Significant Small Craft oi-1 IW9 33
+NANUQ & TAN'ERLIQ . * : ' , : L - "j ' with a total capacity of 13.200 galls/min.
+Some 9.400 gallons or iire-fighting foam is carried on board in dedicated tanks.
+The centrally positioned wheeihousc has all-round vision, impaired only by the stainless steel uptakes of the engine exhausts. A substantial communications and navaids package is installed and includes: two Furuno 2110 ARPA radars;
+Robertson gyrocompass and autopilot;
+Trimble NT 200D GPS and electronic chart display, and Furuno LS 6000 depth sounder. Radio equipment is to GMDSS standard, with three SEA 156 VHF sets.
+Sal Com and fl FurUBO weather Fax.
+Main Particulars
+Owner
+Crowley Marine Services, USA
+Builder
+Dakota Creek Industries, USA
+Designer
+Guido Perla & Associates, USA
+Length oa 46.63m
+Beam oa 14.63m
+Draft (loaded) 6.71m
+Speed 15 knots
+Bollard pull 95.5 tonnes
+Main Power 2 x Caterpillar 3612-B diesels, 5,096hp each
+Propulsion 2 x Voith Schneider Type 36G11/ 270 cycloidal propulsors
+Classification
+ABS+A1 Towing Service, +AMS, +ABCU, A1 Fire-fighting, non- dedicated OSRV & FFVI Class 1
+Equipment
+Markey DYSD-62 towing winch, Skum fire-fighting monitors, Furuno radars, depth sounder and weather fax, Robertson gyrocompass and autopilot, Trimble GPS 34
+Significant Small Craft o\: 1999
+NEELTJE P\ first in
+Towmaster series
+The twin screw lug Nei'ltje P has become ihe first of a new class of vessel designated 'Towmasiei' due lo its patented rudder system. Designed in the UK by Burness. Corlett &
+Partners (BCP). ihe tug - along with two subsequent identical sisters - was built in Santiago at Astillcro.s Detroit
+Chile I'or Terminates Maracaibo in
+Venezuela.
+Neeltje P measures 30.40m x 10.0m with a draft aft of 4.0m and has a hull based upon BCP's much proven and easy to build double chine form. It has a transom slern and well-rounded bow with a half-height forecastle to provide freeboard ai the bow as well as space below for crew accommodation. Due lo low profile exhausts, positioned well aft, the wheelhouse has exceptionally good visibility for manoeuvring and safely controlling deck machinery.
+The vessel is powered by a pair of
+Detroit Diesel I2V-4000 engines, developing a total of 3,384k\V (4,60()hp) at 2,100 rev/min, driving 2,600mm diameter propellers with fixed nozzles. Bollard pulls in exeess of 60 tonnes ahead anil 41 tonnes astern were achieved on trials, together with a 13.6-knol maximum speed. Two
+Detroil Dicsel/Maraihon generator sets, each of 56kW. supply the eleclrical power and a 500hp Detroit Diesel 8V71 drives an 800m 7h fire pump.
+As well as providing detailed design plans for the lug. BCP designed the
+Towmaster system. For Neeltje P. Ihe most recently developed version of triple high lift rudder system was fitted to both Kurt nozzles. This arrangement provides almost pure side thrust when the rudders reach their maximum design helm angle. A Kobelt steering system gives hoth combined and independent control.
+A single, a double and two triple berlh cabins are situated forward of ihe engine mom whilst ihe captain's cabin is on the forecastle deck alongside a spacious mess and separate galley. The wheelhouse has a T-shaped floor plan with a centrally located helm seat. A chart table is to port and a Furuno
+GMDSS station to starboard. l;uruno also supplied the radar, sounder and
+GPS. Deck machinery items include a
+Kraaijeveld main lowing winch on the all deck, with SO tons brake power and capacity for 600m of 50mm diameter wire, a 60-ton Mampaey lowing hook and a NET EC anchor winch.
+Main Particulars
+Owner
+Terminales Maracaibo, Venezuela
+Builder
+Astilleros Detroit Chile
+Designer
+Burness, Corlett & Partners, UK
+Length oa 30.40m
+Beam oa 10.00m
+Draft aft 4.00m
+Main engines 2 x Detroit Diesel 12V-4000 diesels, 1,692kW each
+Propulsion 2 x fixed pitch propellers in Kort nozzles, each fitted with triple
+Towmaster high lift rudders
+Speed 11.9 knots
+Bollard pull (ahead) 60 tonnes
+Bollard pull (astern) 41 tonnes
+Equipment
+Kobelt steering system, Kraaijeveld towing winch, Mampaey towing hook, NETEC anchor winch, Furuno radar, sounder GPS and GMDSS system
+Significant Small Craft of 1999 35
+PACIFIC SUPPLIER: Ulstein design modified for extra flexibility
+Tywijic Supplier, the first of a series of
+JL four .<i8.03ni x 15.00m sister ships, joined the fleet of Singapore operator Swire
+Pacific Offshore in early '99, Based upon an Ulsiein UT 719 design hul modified in accordance with the owner's instructions by the Japanese builder Imamura Shipyard, the vessel lias greater capacity and flexibility for cargo carrying than standard
+UT 719 ships.
+Traditional in terms of offshore layout, with Forward superstructure, large aft deck and forecastle. Pacific Supplier has a top speed of 14 knots, service speed of 10 knots (burning an economic seven tonnes of fuel per day) and a bollard pull of 68 tonnes.
+Propulsion is by means of twin Ulsiein
+Bergen KRMB-9 main diesels, each developing 2.0()5kW at 825 rcv/min, driving CP propellers in Kort mizzles. A trio of 7,O00hp Ulsiein I50TVelectrically- driven timnei thrusters are fitted, two at the how and one at the stern. Enhanced manoeuvrability is ensured by incorporation of an Ulsiein Poscon joystick, which is integrated to the propellers, engines, rudders and side thruslers and interfaced to the Tokimec gyrocompass and
+Simrad Robertson AP9 Mk3 autopilot.
+Tanks for mud. brine and eemenl have been arranged, along with fuel oil. potable water, ballast and lube oil tanks, to allow a variety of products to be carried. All are centrally control ted by a tanklender system to meet specific customer needs. The tanks for liquid mud, for example, have sloping bottoms and are free of internal stiffening to optimise cargo out-turn and assist cleaning.
+A prominent feature of the aft deck is a totally enclosed winch house containing a remotely controlled Ulsiein Braltvaag SL 150-B2T low pressure hydraulic winch, which has a brake holding load of 250 tonnes and a capacity of 1.400m of 56mm wire. Remote TV cameras in the winch- bouse area and monitors on the bridge ensure thai a close watch can be kept on this potentially hazardous operation whilst minimising exposure to danger.
+Other deck machinery includes two rig chain lockers, a 300-tonue SWI, Kami shark's jaw, two lugger winches, a combined windlass anchor winch, two capstans, towing pins and stem roller, A deck crane is positioned at tlie aft end of the forecastle deck, along with a dedicated davit for launching a 25-knot Schai-
+Harding MOB boat, fitted with inboard diesel and watcrjet.
+Accommodation is provided for 24 with the mess, day room and galley on main deck d\\d sleeping quarters and ship's office on the forecastle deck. The wheelhottse has fore and aft consoles and radio officer's position to starboard. Electronic equipment includes two Furuno radars and GPS.
+Skipperechosounder, Sailor watch receiver and Area 3 GMDSS unit-
+Two months after Pacific Supplier commenced operation in Australian waters, the second in the series. Pacific
+Supporter, was delivered. Pacific Searcher and Pacific Server were delivered in the final quarter of 'i)1).
+Main Particulars
+Owner
+Swire Pacific Offshore, Singa pore
+Builder
+Imamura Shipyard, Japan
+Designer
+Uistein & Swire Pacific
+Length oa 58.03m
+Beam 15.00m
+Draft (summer) 4.72m
+Main engines 2 x Ulstein Bergen KRMB-9 diesels, 2,755hp each
+Propulsion 2 x CPPs in Kort nozzles
+Auxiliary power 3 x Yanmar gensets, 2 x Taiyo shaft generators
+Speed 14 knots
+Bollard pull 68 tonnes
+Significant Small Craft of 37
+REDBUS folds for
+A uniquely constructed foldable catamaran style workboat frora newly formed company Redbus Workboats can be adapted for a huge range of work and leisure activities. Designated Redbus 520, the craft can he launched and recovered from a dedicated trailer in a matter of minutes making it idea! for fast response situations .such as fire-fighting and pollution control.
+Key to the innovative design is a patented system for locking the two GRP multi-section hulls to the bridge deck and. hence, unfolding the boat for operation. On recovery, the hulls are easily detached and folded so that the boat can be lowed away.
+Measuring 5,2ra x 3.5m, the vessel is claimed to be highly stable in open sea and sheltered waters and offers more than 13m3 of useable deck space, equivalent to that of many larger workboats of 9m or more, 'fhe central bridge deck is made from steel with a marine-ply 'non-slip' surface through which equipment may be secured.
+II'required, the deck can be trap-doored to permit through-deck winching of up to 1.6 tonnes and can be easily adapted to incorporate securing points Cor onboard equipment.
+Redbus 520 is recognised by the Marine & Coastguard Agency (MCA) as meeting the requirements of the Code of Practice 520: Cat style craft road transport for Small Workboats & Pilot Boats for payloads of up to 1.6 tonnes. This represents a major advantage when compared to many RIBs and other vessels.
+Also of advantage are the different power and propulsion options of diesel or petrol engines. Redbu.s Workhoals will supply and lit engines of customer choice, together with steering gear and console. As a guide, a loiir-stroke engine should ensure a speed of 20 knots for an unladen craft. The power range spans 27-l20hp depending upon application.
+Other bonuses are good manoeuvrability and shallow draft, which makes the
+Rcdbus 520 ideal for operations within the confines of harbours and marinas. Draft can be as little as 30cm, allowing activities such as structural surveys and repairs to be conducted with ease.
+Commenting on the launch of the craft.
+Keith Lewis, managing director of Redbus
+Workhoats, said: "The stability, strength and loading capacity of the Redbus 520 creates unique opportunities within many marine sectors, where for many years conventional boats have provided only limited capability. The Redbus 520's ability to be stored and transported on land gives an added dimension to the boat's flexibility. The Redbus 520 brings together the very best of British innovation with the finest in British engineering."
+To dale, as evidence of its versatility, the 520 lias been marketed most specifically to harbours, fire-fighters and pollution control experts. Loading pollution and environmental control company.
+Vikoma International, has purchased the vessel as part of its integrated, rapid response capability and UK lire crews have recognised the value of die craft's shallow draft. Utilising the easy-access ramp has enabled llremen to easily launch modern roll-on roll-off lire-fighting equipment
+Main Particulars
+Builder
+Redbus Workboats, UK
+Length oa 5,2m
+Beam 3.5m
+Weight 960kg (including 50hp 4-stroke engine)
+Payload 1,600kg
+Free deck space 13m2
+Speed 20 knots
+Main engines
+Diesel or petrol engines 27-120hp
+Skimf-icani Small Craft of 1999 39
+IIISH*
+W9* 'I'1'
+RIVAGE ST MARTIN: first of new style 'boutique' cruisers
+Australian shipbuilder. Austal Ships, joutends thai there is a growing need
+Ibr a product that sits between the Full-size cruise ship and the luxury charter yacht, offering a high level erf exclusivity but ai a price approaching that of the traditional cruising vessel. The yard has named this the 'boutique' cruise market and believes the concept works best with up to around 100 passengers, Rivage Si Martin, at 60m x 15m, is the first example built specifically for ibis new market and is currently cruising in the
+Caribbean. An abundance of luxurious
+Features have been incorporated to cater to the comfort and relaxation of 80 passengers.
+The vessel is an all-aluminium catamaran with semi-SWATH bulls which, combined with the ship's wide beam, provides excellent stability and a seakindly motion. A maximum draft of 2.1m is particularly suitable for a vessel that needs to moor close inshore in natural scenic lagoons rather than at busy ports or out at sea.
+A service speed of 14.5 knots is derived from a twin MTU 12V 2000 M70 diesel arrangement, each unit developing 79OkW at 2,100 iev/min, turning fixed pilch propellers through ZF BW 256 gearboxes.
+This speed will enable the vessel to arrive at a different destination each morning after only three hours sailing during the night The operator, Rivages Crossieres, the Caribbean arm of leading French maritime group. Compagnie Chambon, intends to run the vessel on a seven-day cycle, the final day being the changeover at home port Si Martin.
+The luxury one-class vessel features a very high standard of interior finish with 34 fully carpeted cabins on three decks - each with an exterior view. Single beds in the 16 tWO-berth cabins can be linked to create double berths whilst four cabins are capable of accepting two extra persons and four more have a single additional berth.
+All have private en-suite facilities. controllable eir conditioning, safety deposit box and TV monitors connected to the ship's video system.
+Central reception is situated on the main deck, along with a souvenir shop and 80- seai restaurant. The gourmet galley provides a wide range of French cuisine.
+A bar and lounge on the upper deck (again will] scaling for 80) adjoins a dance floor with disc-jockey station. There are also smaller bars by the saltwater swimming pool and on (he sun deck.
+For those guesls seeking more action than lounging and drinking, a walersports boat is localed on the upper deck and slem platforms ease ihe use of a witle range of equipment including water skis, snorkel sels. sailboards and sea kayaks. Three large rigid inflatable tetulers arc also provided for swift transfer to and from ibc shore.
+Rivage Si Martin operates with a crew of 20 (eight officers and ratings plus 12 hotel and catering staff). The captain and chief engineer have accommodation abaft the bridge whilst the remaining crew quarters are lo be found in the forward sections of each hull. Crew amenities include a mess area and a lounge fully equipped with entertainment systems.
+Main Particulars
+Owner
+Rivages Crossieres, Caribbean
+Builder
+Austal Ships, Australia
+Length oa 60.00m
+Beam 15.00m
+Draft Maximum 2.1m
+Main engines 2 x MTU 12V 2000 M70 diesels, 790kW each
+Propulsion
+Fixed pitch propellers running via
+ZF BW 256 gearboxes
+Speed (service) 14.5 knots
+Passengers 80
+Crew 20
+Classification
+BV X 1 3/3E Coastal water 50nm from port of refuge +MACH AUT - MS, F
+Significant Smm.i, Craft of 1999 41
+RIVER RUNNER: Rotterdam takes six for ferry service
+Officially launched on Is1 November '99, the 'Nieuwc wegen over water' project has entered into its Bret phase of developing a low-wash mass transit ferry service in The Netherlands.
+Promoting waterbua transport as an efficient alternative to the use of congested road and rail networks, the service utilises four River Runner 150 ferries built in
+Holland by Damen Shipyards under a licence agreement with designers and builders NQEA Df Australia. The kilter also received a contract to build two of the larger Type 200 vessels in Australia for the same project.
+With a view to making Rotterdam more accessible by water, two companies were formed to operate ferry services - High
+Speed Ferries BV and Walerbus BV.
+Waterbus BV represcnls a joint venture between ZWN and Stadsvervoer and will provide a link with (he Drcchloever towns of Dordrecht, Papendrecht and
+Zwijndrechl every 15 minutes with a connection between Dordrecht. Sliedreehl.
+Mendrick Ido Ambachl and Albasserdam every 30 minutes. All towns involved have been provided with a purpose-built covered floating berth, located adjacent to car parking and bus interchange. Self-service lickcling is provided on Ihree floating berths.
+A! 30.50m x 7.00111. each ferry is powered by twin Caterpillar 3196 B DI-
+TA dicsels driving conventional bron/e five-bladed propellers via Twin Disc gearboxes. Two hydraulically driven bowthrusters are fined. Contract performance was achieved at SO per cent engine power. Aluminium hull fabrication was undertaken at Bayards Aluminium
+Coiistruetie BV in Nieuw Zckkerland and the FRP sandwich superstructure at
+Da men.
+Like the larger Type 200. the 150 is classed by DNV and has been designed and built with environmental limits on fuel
+Consumption, emissions, noise and wash.
+Damcn has reported that the measured wash on the Waterbus style River Runner is less than required in llie contract and less than the standard set by I he government. The 150 version caters for 130 passengers (50 standing and HO in aircraft style seals) and can carry (SO bicycles. A special folding type gangway system is incorporated to facilitate swill boarding.
+The Australian built craft are of River
+Runner 200 type, measure 37.<X)m x 8.00m and can accommodate 15(1 passengers and 20 bicycles. Powered by DeutZ engines, each has a service speed of 30 knols and operales on a hvice-liourly service, with a one-way trip between Dordrecht and
+Rotterdam taking around 25 minutes.
+Both Dameii and NQEA sec other opportunities in Europe for similar operations. A further River Runner is currently under construction and is due for delivery at the end of 2000 to another
+Dutch owner.
+Main Particulars
+Owner
+Waterbus BV, Holland
+Builder
+Damen Shipyards, Holland
+Designer
+NQEA, Australia
+Length mid 30.50m
+Beam mid 7.00m
+Depth at sides 2.22m
+Draft aft 1.32m
+Main engines 2 x Caterpillar 3196 B Dl-TA diesels, 330bkW each
+Propulsion 2 x bronze 5-bladed propellers, hydraulically-driven bowthruster
+Speed (cruising) 20 knots
+Speed (maximum) ... 22.70 knots
+Passengers 130
+Crew 2-3
+Sicmi-kant Small Crapt of 1999 43 located forward on the main deck. The mess consists of two tables ami seating for twelve and also houses a secure armoury
+Cor rifle and side arm storage. .Adjacent to ilie galley is a large freezer, refrigerator iiiul dry storage facility, capable of carrying sufficient stores Cor 12 people for28 days.
+Dimmable red lighting is lined throughout the vessel and the craft can be totally blacked out if necessary.
+Deck layout is designed fo comply with occupations] health and safety principles and to facilitate all possible combinations of vessel functions. The afl main deck area is well equipped and ease, of crew movement in this area is assisted by well placed handrails and bulwarks. Railings and gateways are arranged to facilitate the recovery of objects from the water, removal/replacement of equipment from the engine room and loading/unloading of cargo, Recessed lie downs are lilted on the main deck to enable secure cargo handling.
+Cargo and vessel machinery can be handled via a marine cargo crane situated on the upper deck, aft of the operation's room, Vessel towing is facilitated by three (owing bollards across the transom. The centre afl bollard has a lowing capacity of 12 tonnes. A further ten bollards are situated around the main deck to enable easy docking al any !ype of wharf in all weather conditions. Mounted aft of the iransom is a full width dive platform with access via permanent stairs and a Iransom gate to support SCUBA diving operations.
+Alt of (lie superstructure is a permanent semi-enclosed area with removable bench seating for 12 additional passengers.
+Main Particulars
+Owner
+Australian Customs
+Builder
+Austal Ships, Australia
+Length oa 38.2m
+Length wl 32.1m
+Beam mid 7.20m
+Draft (hull) 2.2m
+Main engine 2 x MTU 16V 2000 M70 diesels, 1,050kW each
+Propulsion 2 x Veem four-bladed propellers driving through Reintjes
+WVS430/1 gearboxes
+Speed 21 knots
+Range 1000nm
+Crew 4
+Accommodation 12
+Classification
+DNV+1A1 LC R1 Patrol EO
+Equipment
+Vest davits, Leica DGPS, Transas
+ECDIS, Racal Decca radar and
+ARPA. C Plath gyro/autopilot
+Above: A pair of MTU diesels dominate the engine room.
+Left: The central elevated bridge has ail round vision.
+Significant Small Craft op I1JL)9 47

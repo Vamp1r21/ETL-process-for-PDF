@@ -1,0 +1,2338 @@
+Editor:
+Martin Conway
+Design/Production Manager:
+Sandy Defraine
+Advertising Manager:
+Aftab Perwaiz
+Advertisement Production Manager:
+Stephen Bell
+Subscriptions & Publications Manager:
+Jim-Ray Semanhyia
+Publisher:
+Mark J Staunton-Lambert
+Published by:
+The Royal Institution of Naval Architects
+Editorial & Advertisement Office: 8-9 Northumberland Street London WC2N 5DA,UK
+Telephone: +44 (0) 20 7235 4622
+Telefax: +44 (0) 20 7245 6959
+E-mail: editorial@rina.org.uk advertising@rina.org.uk
+Significant Small Ships of 2016 1
+© 2017. The Royal Institution of Naval Architects
+This publication is copyright under the Berne Convention. All rights reserved. No part of the publication may be reproduced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, how- ever, required to copy abstracts or articles on condition that a full reference to the source is shown.
+Multiple copying of the contents without permission is always illegal.
+Printed by: Stephens and George, Goat Mill Road, Dowlais, Merthyr Tydfil, CF48 3TD, Wales.
+ISBN: 978-1-909024-62-5
+CONTENTS
+INTRODUCTION 2
+AHTO-14 4
+AL MUBSHIR 6
+ALBERT NILE-1 8
+ATLANTIC PIONEER 12
+BØKFJORD 14
+CRC GALAXY 18
+ELECTRA 20
+EMBLA 22
+EVOLUTION 24
+FOSNA TRITON 26
+GALACTICA SUPER NOVA 30
+HARVEY STONE 32
+HOLMØY 34
+LUISA NERI 36
+MTV 55 38
+NOORDZEE 40
+PACIFIC TITAN 42
+PETRA-1 46
+PROTECTOR 48
+QE IV 50
+RATAYAPIBANBANCHA / ARCARACHWARATORN 52
+RED JET 6 54
+SEA POWER 56
+SELKIE 58
+SHI ZI YANG 7 60
+SKANSEN 62
+ST FRANCIS 64
+T. SERVIS 1 66
+TELSTAR 68
+TEMPEST 70
+VISION OF THE FJORDS 72
+ZEELEEUW 74
+SIGNIFICANT
+SMALL SHIPS OF 2016 www.incatcrowther.com
+Ratayapibanbancha and Arcarachwaratorn | 24m Catamaran Patrol Boat Builder: Seacrest Marine Operator: Royal Thai Police
+ROBUST AND EFFICIENT MARINE SOLUTIONS FOR DEMANDING APPLICATIONS
+OPERATIONAL STUDIES FUNCTIONAL DESIGN PRODUCTION DESIGN PROCUREMENT CONSTRUCTION SUPPORT THROUGH-LIFE SUPPORT CONSULTING
+Incat Crowther
+E V E R E V O L V I N G E V E R I M P R O V I N G 4 Significant Small Ships of 2016
+Builder....................................Baltic Workboats
+Designer.................................Baltic Workboats
+Vessel’s name.......................................AHTO-14
+Owner/operator..........................Eesti Loots AS (Estonian Pilot Ltd)
+Country................................................... Estonia
+Flag......................................................... Estonia
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date..................................August 2014
+Delivery date.............................December 2015
+Delivered in late 2015, thus narrowly missing the deadline for last year’s Significant Small Ships collection, the 14.95m aluminium wave-piercing vessel
+AHTO-14 represented the debut model in Baltic
+Workboats’ Pilot 1500 WP class – a design that Baltic
+Workboats has developed to offer users “top-of-the- segment seakeeping capability”.
+At the request of the owner (Estonian Pilot Ltd), AHTO-14 was designed with additional rescue capability, in the form of a hydraulic rescue platform situated in the vessel’s aft. To get the most out of this feature, the designer/builder focused on making the craft’s draught as shallow as possible, and succeeded in restricting this element to below 0.85m.
+In terms of safety, Baltic Workboats also paid special attention to AHTO-14's wheelhouse windshield, which was designed specifically for maximum crew visibility, with the aim of avoiding collisions and related accidents.
+AHTO-14 accommodates a two-man crew and provides room for six pilots to sit in comfort. The vessel’s noise levels have been kept to a minimum, with Baltic
+Workboats managing to limit noise recorded in the wheelhouse to the 65dB mark at full speed.
+As another concession to crew/pilot comfort, the vessel’s wave-piercing hull design enables softer, smoother rides at higher sea states, thereby eliminating the need to spend money on an extra pilot boat designed specifically for operations in foul weather. The double chine is also effective in minimising the amount of green water and water spray that ends up on deck.
+Twin Volvo Penta D13MH marine diesel engines provide the vessel’s power, with ZF 325-1 marine transmissions propelling her to a maximum speed of 27knots, via a pair of fixed-pitch propellers.
+TECHNICAL PARTICULARS
+Length, oa............................................... 14.95m
+Breadth, moulded........................................ 4.5m
+Depth, moulded........................................... 2.2m
+Gross tonnage...................................... 32tonnes
+Displacement.................................... 21.4tonnes
+Design, draught....................................... 0.817m
+Service speed......................25knots@80% MCR
+Max speed...............................................27knots
+Range (nautical miles)....................285@25knots
+Fuel consumption...............115litres/hr@21knots 168litres/hr@27knots
+Classification society..................Lloyd’s Register
+Main engine(s)
+Make.......................................................Volvo
+Model........................................................D13
+Number......................................................... 2
+Output of each engine......................... 368kW
+Gearbox(es)
+Make...........................................................ZF
+Model.....................................................325-1
+Number......................................................... 2
+Output speed......................................885rpm
+Propeller(s)
+Material.......................................... NiBrAl Cu³
+Manufacturer............................................ CJR
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter.............................................. 812mm
+Bow thruster(s)
+Make.............................................Side-Power
+Number................................................ SH240
+Deck machinery
+Aft lifesaving platform
+Bridge electronics
+Radar(s)..........................JRC JMA-5208 HSC
+Autopilot..................................... Simrad AP70
+GMDSS.................... Cobham 6222 VHF/DSC
+GPS....................Simrad HS80 GPS Compass
+Chart plotter.............. Transas MFD 4000 ECS
+Engine monitoring system............ Volvo Penta
+Fire detection system.............................. BWB
+Onboard capacities
+Fuel oil.............................................1,600litres
+Fresh water........................................150litres
+Sullage...............................................150litres
+Complement
+Crew.............................................................. 2
+Passengers................................................... 6
+Number of cabins......................................... 0
+AHTO-14: Smooth and stable wave-piercing pilot boat 6 Significant Small Ships of 2016
+Builder:.....................................Austal Australia
+Designer:..................................Austal Australia
+Vessel’s name:...................................Al Mubshir
+Owner/operator:............... Royal Navy of Oman
+Country:..................................................... Oman
+Flag:........................................................... Oman
+Total number of sister ships already completed:......................................... 1
+Total number of sister ships still on order:......... 0
+Contract date:...................................March 2014
+Delivery date:...................................... May 2016
+As the first of two sister vessels designed and built for the Royal Navy of Oman (RNO), Austal’s 72.5m loa high-speed support vessel (HSSV) Al Mubshir could be described as a more compact and lightweight take on an established warship design.
+The vessel was developed specifically for the RNO based on the 103m expeditionary fast transport (EPF) platform that Austal developed for the US
+Navy in 2008. The all-aluminium Al Mubshir, which was handed over to the RNO from Austal’s
+Henderson yard in Australia in May 2016 (her sister vessel, Al Naasir, followed in September), can accommodate up to 260 troops and offers medium lift aviation support, courtesy of a helicopter deck.
+Intended for a whole host of military, search and rescue and relief mission tasks in both open-sea and littoral environments, Al Mubshir can achieve a top speed of 40knots and a range of up to 2,740nm at 12.5knots, and features a shallow draught of less than 3m, maximising the craft’s options when it comes to accessing coastal and shallow-water areas.
+The design includes a 900m² vehicle deck, a pivoting roll-on/roll-off stern ramp and cranes, to facilitate quick and efficient payload transfers in any port, Austal says. The vessel also carries a pair of 7.3m
+RIBs, which can be deployed in specific missions.
+Austal comments: “Unlike traditional, steel monohull naval vessels, the HSSV can transport more troops, vehicles and equipment more easily and much more quickly to remote locations, with no or little port infrastructure required.” As such, the builder and designer envisages this type of vessel as potentially providing a less expensive alternative to the use of traditional military transporter aircraft, such as the C130 Hercules.
+Alternatively, Austal suggests, the HSSV platform could be further modified, to create, for instance, a high-speed hospital ship; one could adapt the vessel’s space to accommodate operating theatres, medical rooms and rehab facilities. Overall, Al
+Mubshir reflects the growing tendency for naval forces to seek out alternatives to slower and heavier logistics and support vessels – and points towards a future of more compact, cost-effective and flexible fleet solutions.
+TECHNICAL PARTICULARS
+Length, oa................................................. 72.5m
+Length, bp................................................. 64.3m
+Breadth, oa.............................................. 18.66m
+Depth, moulded........................................... 6.2m
+Gross tonnage................................. 3,475tonnes
+Displacement.................................. 1,020tonnes
+Design, draught......................................... 2.68m
+Design, deadweight........................... 332tonnes
+Deck space (total)............. 900m² (vehicle deck)
+Service speed.........................................35knots
+Max speed...............................................40knots
+Range (nautical miles)..............2,740@12.5knots
+Fuel consumption............530litres/hr@12.5knots
+Classification society.............................. DNV GL
+Notations......... X100 N5 RSA (200) HSDE Troop
+Carrier FO (HEL1L) XMC
+Main engine(s)
+Make........................................................MTU
+Model............................................... 20V 4000
+Number......................................................... 4
+Output of each engine...................... 4,300kW
+Gearbox(es)
+Make.................................................. Reintjes
+Model................................................ VLJ2230
+Number......................................................... 4
+Generator(s)
+Make......................................... Caterpillar C9
+Number......................................................... 4
+Output of each set............................... 200kW
+Waterjet(s)
+Make...................................Rolls-Royce 80S3
+Number......................................................... 2
+Deck machinery 2 x telescopic gantry cranes, 8.5tonnes each . 1 x knuckle crane, 2tonnes . 4 x mooring capstans . 2 x Hypac anchoring windlass
+Bridge electronics
+Radar....................... Furuno X-Band / S-Band
+Autopilot...............................Navitron NT888G
+GMDSS.................................Furuno NX-700A
+GPS.........................................Furuno GP-150
+Gyro.................................................Alphatron
+Chart plotter........ECDIS Furuno FEA-2107BB
+Engine monitoring system...Austal MarineLink
+Onboard capacities
+Fuel oil.........................................160,000litres
+Fresh water...................................26,000litres
+Complement
+Crew ........................................................... 56
+Passengers............................................... 260
+Number of cabins......................................... 0
+Vehicles
+Number of vehicle decks.............................. 1
+Total lane length..................................... 158m
+Number of vehicles............ 54m light vehicles 104m heavy vehicles
+Other significant or special items of equipment . 1 x 20mm naval gun 4 x 12.7mm GPMG . 1 x 36tonne SWL bi-folding/ slewing stern ramp . Helideck with capability for
+Agusta Westland Super Lynx 300 or NHI Industries NH-90
+AL MUBSHIR: Compact, lightweight and cost- efficient naval logistics and support vessel 8 Significant Small Ships of 2016
+Builder..................................................... Damen
+Designer.................................................. Damen
+Vessel’s name................................. Albert Nile-1
+Owner/operator........... Uganda National Roads
+Authority (UNRA)
+Country................................................... Uganda
+Flag................................................................ N/A
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.............................November 2014
+Delivery date....................................... May 2016
+Notably, the Damen-designed, 42.4m ferry Albert
+Nile-1 has been entirely configured from container-sized floating units.
+These units, which are referred to as Damen
+Modular Barges, can be likened to ‘building blocks’ and used to construct vessels and/or pontoons. They are transportable to remote areas, inland waterways and coastal spots, and represent a potential solution for parties requiring vessels at land-locked water areas, for example, permitting assembly to be conducted on site.
+Each Damen Modular Barge consists of a 20’ (6.1m) or 40’ (12.2m) container-sized module.
+Options for these blocks range from wheelhouses and accommodation units to moon pools, bulwarks and bollards. “Machinery, superstructure and deck equipment are mounted to modular units to the hull construction,” Damen says.
+The Damen Modular Barges can be coupled together in the water with a specially designed coupling system, monikered the Damen Link.
+Following construction, Albert Nile-1 was disassembled and transported to Uganda via 22 trucks, and assembled on site at Lake Albert. The vessel incorporates four Perkins engines, delivering a combined output of 447.4kW, driving four propellers through PRM Marine gearboxes. The vessel has been developed with seating for 200 passengers, though Damen confirms that provisions were made to accommodate 300 persons in total.
+TECHNICAL PARTICULARS
+Length, oa................................................. 42.4m
+Breadth, moulded...................................... 12.2m
+Depth, moulded........................................... 1.8m
+Gross tonnage.................................... 149tonnes
+Displacement....245tonnes (no pax/no vehicles)
+Design, draught........................................... 0.9m
+Design, deadweight........................... 215tonnes
+Lightweight......................................... 217tonnes
+Deck space.....................................250m² (total)
+Deck capacity................................ 6.8tonnes/m²
+Max speed..............................................8.9knots
+Range (nautical miles)................................ 1,788
+Fuel consumption......................... 0.7tonnes/day
+Classification society..................................... N/A
+Notations....................................................... N/A
+Main engine(s)
+Make................................................... Perkins
+Model..............................................1006-6TW
+Number......................................................... 4
+Output of each engine.................... 111.85kW
+Gearbox(es)
+Make......................................PRM Marine Ltd
+Model............................................ PRM750D1
+Number......................................................... 4
+Propeller(s)
+Material............................Manganese-bronze
+Manufacturer..............................Sykes Marine
+Number......................................................... 4
+Fixed/controllable pitch.......................... Fixed
+Diameter.............................................. 900mm
+Open or nozzled.................................... Open
+Deck machinery 2 x Van Wijk winches, 10tonnes 17kVA generator set, 230/400V
+Bridge electronics
+Radar(s)..... 2 x Furuno Navnet 3D MFD12 (w/ radar sensor)
+Other communications systems...... VHF radio
+GPS..................................... 1 x Furuno GP-32
+Onboard capacities
+Fuel oil...........................................20,800litres
+Fresh water.....................................3,500litres
+Sullage..........................................10,000litres
+Complement
+Crew.............................................................. 4
+Passengers..........................200 (seated)-300
+Number of cabins......................................... 0
+Vehicles
+Number of vehicle decks.............................. 1
+Total lane length....................................... 80m
+Number of cars........................................... 18
+Number of trucks/trailers..................... 4 (max)
+ALBERT NILE-1: Modular ferry for Ugandan waters 12 Significant Small Ships of 2016
+Builder....................................Blount Boats, Inc
+Designer.................................South Boats IOW
+Vessel’s name...........................Atlantic Pioneer
+Owner/operator...........Atlantic Wind Transfers
+Country........................................................... US
+Flag................................................................. US
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date....................................March 2015
+Delivery date...................................... April 2016
+The first US-built and -flagged offshore wind farm support vessel officially left the blocks in
+April, in the form of the 21.4m Atlantic Pioneer.
+Built to the tune of more than US$4 million by
+Rhode Island’s Blount Boats, the vessel has been delivered to operator Atlantic Wind Transfers, a subsidiary of Rhode Island Fast Ferry which was specifically set up in 2015 to provide offshore wind farm services. Atlantic Pioneer has subsequently been tasked with servicing the 30MW Block Island turbine farm, a development located some 4.8km offshore the north-east US state.
+As the US marine sector is subject to the terms of the protectionist Jones Act, any vessel operating in North American waters must have been constructed in the US. As Blount Boats’ first attempt to construct a vessel of this type, input from the UK proved invaluable to Atlantic
+Pioneer's development. The vessel’s design was provided by South Boats Isle of Wight (IOW), which has provided the plans for more than 80 existing and operational wind farm support vessels in the UK and Europe. Atlantic Pioneer has been built to South Boats IOW’s DNV
+GL-certified 21m aluminium catamaran design, and can carry up to 49 passengers – or up to 16 turbine technicians – as well as three members of crew and 12tonnes of equipment and parts.
+Additionally, Atlantic Pioneer is the first
+US-built aluminium craft to comply with the
+USCG’s Subchapter L requirements (for offshore vessels). The craft has also been developed to comply with the USCG’s Subchapter T requirements for small passenger vessels under 30.5m in length. In this way, when the vessel is not being utilised for offshore wind farm support activities, it can be hired out as a sightseeing vessel and undertake cruises for guests.
+The transfer vessel is powered by two MAN V12 engines, rated 1,044kW apiece, feeding Hamilton
+Jet HM571 waterjets through ZF Marine 3050 gears. This set-up enables the vessel to operate at a cruising speed of 26knots, or at more than 30knots in sprint mode. In terms of range, Atlantic Pioneer can reportedly operate “for several days at a time between refuelling”, owner and operator Atlantic Wind Transfers says, courtesy of an onboard fuel capacity of approximately 7,950litres.
+Personnel transit from the vessel to the turbine via a boarding platform situated on Atlantic
+Pioneer’s bow, which is fitted with a special fendering system that connects to the turbine base and enables safe transfers in significant wave heights of 1.5m.
+TECHNICAL PARTICULARS
+Length, oa................................................. 21.4m
+Breadth, moulded........................................... 7m
+Depth, moulded........................................... 2.3m
+Gross tonnage...................................... 80tonnes
+Displacement....................................... 76tonnes
+Design, draught........................................... 1.2m
+Design, deadweight.......................... 29.4tonnes
+Lightweight........................................ 45.7tonnes
+Deck space.......................................30m² (bow) 29m² (stern)
+Deck capacity................................ 1.2tonnes/m²
+Service speed.................. 24knots (@70% MCR)
+Max speed...............................................30knots
+Range (nautical miles)................................... 350
+Classification society and notations.............. N/A
+Other important international regulations complied with......USCG Subchapter L . USCG Subchapter T
+Main engine(s)
+Make....................................................... MAN
+Model......................................... D2862LE466
+Number......................................................... 2
+Output of each engine...................... 1,044kW
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 3050
+Number......................................................... 2
+Waterjet(s)
+Make............................................ HamiltonJet
+Model...................................................HM571
+Number......................................................... 2
+Deck machinery 1 x Palfinger knuckle boom crane, 550kg@7.8m
+Onboard capacities
+Fuel oil.............................................7,950litres
+Fresh water........................................492litres
+Sullage...............................................265litres
+Complement
+Crew...........................................................2-3
+Passengers........ 16 (offshore technicians), or . 49 (passengers)
+Number of cabins......................................... 0
+Other significant or special items of equipment 1 x salt water pressure washer 1 x fuel transfer system 1 x Cummins Onan generator (17kw)
+ATLANTIC PIONEER: First offshore wind farm support vessel to be built in the US 14 Significant Small Ships of 2016
+Builder.....Hvide Sande Shipyard, Steel & Service
+Designer........................ HVSA / OSK-ShipTech
+Vessel’s name....................................... Bøkfjord
+Owner/operator.................................Kystverket
+Country................................................... Norway
+Flag......................................................... Norway
+Total number of sister ships already completed............................................ 0
+Total number of sister ships still on order.......... 0
+Contract date.......................................July 2014
+Delivery date..................................August 2016
+Measuring 44m x 11.4m, and designed in close cooperation between Kystverket, Hvide Sande Shipyard, Steel & Service and Jorgen
+Petersen Ltd (now part of OSK-ShipTech), the multi-purpose vessel Bøkfjord has been described as constituting “two vessels in one hull”.
+On one hand, the vessel functions as a maintenance ship for buoys and beacons; on the other, Bøkfjord has been developed to act as a fast-response oil recovery vessel, having been equipped with surface oil skimmers and dedicated holding tanks for recovered oil, in addition to the offshore working cranes that one might expect from a more typical maintenance vessel. Not only that, but Bøkfjord has also been developed with environmental compliance in mind, featuring an advanced diesel-electric hybrid propulsion system.
+The vessel’s accommodation has been designed with exterior cleaning facilities and dedicated secondary access in oil recovery operation mode.
+On top, the navigation bridge is integrated with operation control facilities for full 360degs visibility. The operation facilities area functions on a daily basis as the planning centre for the maintenance of buoys and beacons. When tasked with oil recovery operations, however, this onboard area functions as a base for the oil response team.
+The vessel is equipped with a complex ramp system, allowing the vessel to approach and call at smaller islands. The ramps can also be used for dynamic positioning (DP) purposes – for instance, when the vessel is undergoing repairs at sea.
+The activation of DP during repairs was a major reason for the selection of a hybrid propulsion system, OSK-ShipTech explains. The group comments: “In DP mode, only one generator is running at optimal load, whilst simultaneously charging batteries. In harbour in general, operation is conducted on batteries to eliminate noise pollution.”
+TECHNICAL PARTICULARS
+Length, oa.................................................... 44m
+Length, bp.................................................... 40m
+Breadth, moulded...................................... 11.4m
+Depth, moulded........................................... 4.5m
+Gross tonnage.................................... 935tonnes
+Displacement.................................. 1,009tonnes
+Design, draught......................................... 3.03m
+Design, deadweight........................... 230tonnes
+Lightweight......................................... 780tonnes
+Deck capacity................................... 3tonnes/m²
+Service speed......................................12.5knots
+Max speed............................................13.5knots
+Classification society.............................. DNV GL
+Notations.............................. 1A1 BWM(E(d, s,f))
+Clean COMF (C-3, V-3) DK (X) DYNPOS(AUT) E0 Ice (1C) OILREC R0
+Bollard pull........................................... 45tonnes
+Main engine(s)
+Make...............................................Caterpillar
+Model........................................................C32
+Number......................................................... 3
+Output of each engine....................... 945kWe
+Propeller(s)
+Manufacturer................... Rolls-Royce US 205
+P20/3135 FP
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter........................................... 2,200mm
+Open or nozzled................................ Nozzled
+Bow thruster(s)
+Make.................Rolls-Royce TT1300 DPN CP
+Number......................................................... 2
+Output of each...................400kW@1,200rpm
+Deck machinery 1 x Palfinger PK150002M deck crane, 30tonnes SWL 2 x Palfinger PK15500M deck cranes, 6.2tonnes SWL 1 x SCAN chain winch, 8tonnes pull force 2 x SCAN anchor winches (fwd), 5tonnes pull force 1 x SCAN anchor winch (aft), 5tonnes pull force 1 x Mampaey towing hook, 45tonnes SWL
+Lamor skimmer equipment
+Onboard capacities
+Fuel oil.........................................180,000litres
+Fresh water...................................66,000litres
+Sullage..........................................16,000litres
+Ballast water................................156,000litres
+Recovered oil..............................178,000litres
+Complement
+Crew............................................................ 11
+Passengers................................................... 5
+Number of cabins....................................... 16
+Other special or significant items of equipment
+Vehicle ramp with working platform for operation in DP mode, when maintaining buoys and beacons
+BØKFJORD: Green craft with a double remit of buoy/beacon maintenance and oil spill recovery 18 Significant Small Ships of 2016
+Builder................... Ribcraft /Goodchild Marine
+Designer..........................Bruce Sexton-Barrow
+Vessel’s name..................................CRC Galaxy
+Owner/operator.......... Commercial Rib Charter
+Country........................................................... UK
+Flag................................................................. UK
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date.................................Not specified
+Delivery date......................................June 2016
+Billed as being the largest RIB to enter its fleet to date, Commercial Rib Charter’s (CRC’s) 15m cabin craft CRC Galaxy has been developed to fulfil a wide range of marine missions, including crew transfer – particularly involving offshore wind turbine farms – and survey/dive work.
+As a result of CRC Galaxy’s MCA Category 1 coding and the fact that she has been fitted with lifting hooks, supplied by Norwegian manufacturer
+Henriksen Hooks, the vessel can also be utilised as a daughter craft aboard a larger vessel, thus widening her window of launch and mission opportunities. The coding also enables the RIB to operate independently at distances of up to 150nm from the nearest safe haven when carrying six people, and up to 60nm when carrying a full complement of three crew members and 12 passengers (such as technicians, divers or scientists).
+A total of 14 air suspension seats, manufactured by Grammer, provide protection against slamming and the risk of whole body vibration. These seats, however, are removable, enabling CRC (and its clients) to rearrange the craft’s layout as required; for instance, swapping some (or all) of the seats to accommodate work stations, work benches and instrumentation, in order to conduct survey work.
+The cabin can also be modified to accommodate additional bunks, if so required, and features a galley and shower facilities.
+Two Volvo Penta engines drive a pair of
+HamiltonJet HJ322 waterjets. The latter are fitted with HamiltonJet’s blueARROW control system, for optimal manoeuvrability at low speeds, and, alongside her 0.8m draught, these enable the RIB to access waters which may be typically inaccessible by traditional CTVs. As such, CRC has welcomed the vessel’s ability to guarantee “transfers to inshore assets at almost all states of tide.” Personnel transfers are conducted over the RIB’s bow, courtesy of a bow snubber.
+Compared to standard industry CTVs, RIBS also offer a rather lucrative advantage in terms of cost savings. Speaking earlier in 2016, following CRC
+Galaxy’s launch, CRC director Stuart Hedges commented: “RIBs attract much lower running costs, burning 120litres of fuel an hour compared to bigger boats using four times as much.”
+And, although CRC Galaxy remains a sole vessel for now, CRC has hinted that a second 15m cabin
+RIB – or an even longer version – could well be on the cards; given the versatility offered by this delivery, it’s not difficult to see why.
+TECHNICAL PARTICULARS
+Length, oa.................................................... 15m
+Length, bp................................................. 14.5m
+Breadth, moulded........................................ 3.6m
+Depth, moulded........................................... 1.3m
+Gross tonnage...................................... 12tonnes
+Displacement .....................15.5tonnes (loaded)
+Design, draught...........................0.85m (loaded)
+Service speed.........................................27knots
+Max speed...............................................35knots
+Range (nautical miles)................................... 400
+Fuel consumption................. 0.25tonnes per day
+Notations.............MCA Category 1, Part 1 Ships
+Registered, Load Line exemption, IMCA-CMID registered
+Main engine(s)
+Make............................................ Volvo Penta
+Model...................................................D6 435
+Number......................................................... 2
+Output of each engine......................... 320kW
+Gearbox(es)
+Make................................................Twin Disc
+Model..............................................MG505SC
+Number......................................................... 2
+Waterjet(s)
+Make......................................Hamilton HJ322
+Number......................................................... 2
+Deck machinery.............1 x Goodchild manually operated MOB recovery davit, 150kg SWL
+Bridge electronics
+Radar......................................... Garmin 7412
+Autopilot.............................................. Garmin
+Other communications systems.......Garmin 300i
+VHF / ICOM M802 SSB
+GPS............................................ Garmin 7412
+Chart plotter............................... Garmin 7412
+Engine monitoring / fire detection system............................ Stat-x
+Onboard capacities
+Fuel oil.............................................1,800litres
+Fresh water........................................185litres
+Sullage...............................................185litres
+Complement
+Crew.............................................................. 2
+Passengers................................................. 12
+Number of cabins......................................... 0
+Other significant or special items of equipment . Henriksen Hook recovery system . 14 x Grammer air suspension seats . HamiltonJet blueARROW system
+CRC GALAXY: Multi-role, shallow-draught RIB, enabling crew transfer, dive support and survey work 20 Significant Small Ships of 2016
+Builder....................................Baltic Workboats
+Designer.................................Baltic Workboats
+Vessel’s name............................ Electra af Askö
+Owner/operator...............Stockholm University
+Country...................................................Sweden
+Flag.........................................................Sweden
+Total number of sister ships already completed.......................................... 1
+Total number of sister ships still on order..................................................... 0
+Contract date.......................................July 2014
+Delivery date.......................................June 2016
+Last year, Stockholm University, Sweden enhanced its offerings to students and guest scientists by taking delivery of a new scientific research vessel, Electra. Assembled by Estonian builder Baltic Workboats, Electra has been developed to carry up to 35 passengers, in addition to crew, and her main tasks are to undertake research work on the Baltic Sea and to ferry students between the mainland campus and the university’s research lab on Askö Island, situated in the Trosa archipelago, approximately 80km south of Stockholm. This latter hub, surrounded by hundreds of islands, serves as a valuable maritime research centre for students and visiting scientists alike.
+Featuring a steel hull, Electra measures 24.3m x 7.2m, has been designed to draw 2.1m, and features a combined 42m² of laboratory and work space. The craft is kitted out with a wide array of research equipment, including: Kongsberg’s
+Topas PS40 parametric sub-bottom profiler, and sensors; Simrad’s EK80 echo sounder and
+EM2040 multibeam echo sounder; Valeport’s
+Mini SVS sound velocity sensor and Mini SVP sound velocity profiler; and acoustic Doppler current profiler (ADCP) sensors. These are all connected by a K-sync system.
+The vessel’s complement is thus effectively able to monitor and collate information related to the seabed and surrounding waters. Using this set-up, participants can probe up to 50m within the seabed’s sediment layers. A KVM system enables all data gathered by these sensors to be displayed on up to 17 onboard monitors.
+To facilitate sampling, Electra is equipped with four dedicated research winches, including a 12m pistol corer for the collection of bottom sediment samples. This arrangement is supported by three cranes and an A-frame.
+A customised electrical winch, rated approximately 7.5kW, is situated in the vessel’s wet lab area. This winch has been integrated with a Kongsberg motion reference unit (MRU), so as to compensate winch wire length depending on vessel movement.
+Crew are housed in four below-deck cabins – two double, two single – and, with their comfort in mind, Baltic Workboats says that it has created an insulated environment in which volume levels have been reduced to 55dBA max, both in this accommodation area and within the vessel’s work zones.
+Similarly, stability was an important consideration in this vessel’s development. To this end, Baltic Workboats has fitted the boat with two
+Seakeeper 35HD gyrostabilisers, to provide a steady platform for scientists working inside the onboard lab space. Also, to curtail vessel movement due to wind and/or current, Electra has been fitted with a DP system, supplied by
+Navis Engineering.
+TECHNICAL PARTICULARS
+Length, oa................................................. 24.3m
+Length, bp................................................. 20.1m
+Breadth, moulded........................................ 7.2m
+Depth, moulded........................................... 3.5m
+Gross tonnage.................................... 182tonnes
+Displacement..................................... 172tonnes
+Design, draught........................................... 2.1m
+Service speed.........................................10knots
+Max speed...............................................12knots
+Range (nautical miles)................................... 300
+Classification society..................Lloyd’s Register
+Notations..... X100A1 SSC Workboat, Mono, G3, Ice class 1 C FS MCH UMS
+Other important international regulations complied with...................... Finnish-Swedish ice class 1C rules
+Main engine(s)
+Make............................................ Volvo Penta
+Model................................................. D16 MH
+Number......................................................... 2
+Output of each engine.......368kW@1,800rpm
+Gearbox(es)
+Make............................................ Rolls-Royce
+Model.............................................. US 105FP
+Propeller(s)
+Manufacturer................................ Rolls-Royce
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Bow thruster(s)
+Make.................................................. Sleipner
+Deck machinery 1 x Fassi F165 crane 1 x Fassi M25 crane 1 x Fassi M20 crane 1 x hydraulic winch, 3tonnes 1 x electric motion-compensated winch, 400kg
+A-frame, 5tonnes
+Custom-built piston corer
+Full-size moon pool
+Bridge electronics
+Radar(s)......................................... 2 x Furuno
+Autopilot.....................................Simrad/Navis
+Gyro...............................2 x Seakeeper 35HD
+Chart plotter........................................Maxsea
+Fire detection system...........................Firepro
+Onboard capacities
+Fuel oil.............................................4,500litres
+Fresh water.....................................2,500litres
+Sullage............................................1,300litres
+Complement
+Crew.............................................................. 3
+Passengers................................................. 35
+Number of cabins......................................... 4
+ELECTRA: Scientific research vessel with an emphasis on stability and seakeeping 22 Significant Small Ships of 2016
+Builder......................................................Rafnar
+Designer..... Össur Kristinsson/Páll Einarsson
+Vessel’s name........................................... Embla
+Owner/operator........................................Rafnar
+Country....................................................Iceland
+Flag..........................................................Iceland
+Total number of sister ships already completed.......................................... 3
+Total number of sister ships still on order.......... 4
+Contract date...................................... Classified
+Delivery date...................................... Classified
+Embla represents the debutante in Icelandic boatyard Rafnar’s Leiftur 1100 Cabin Explorer
+RIB class, developed to achieve and maintain high operational speeds in the roughest of environments. Indeed, the 11.1m RIB’s 1,307nm maiden voyage from Iceland to Gothenburg, Sweden, which took place in May 2016, saw her take all the North Atlantic had to throw at her in terms of wind, rain and even an outboard- wrecking log. However, a minor repair aside, Embla and her six-man complement made it to
+Sweden unscathed, justifying the Leiftur 1100
+Cabin Explorer RIB’s reputation as the ‘workhorse’ of the Rafnar range.
+Embla’s backbone is the ÖK Hull, which was designed and perfected in-house by Rafnar and debuted in 2015. Compared to similarly sized planing or semi-planing hulls, the ÖK Hull has been developed to provide unusually high levels of stability and comfort at high speeds (especially when travelling at 40knots or more) – considerations that are becoming increasingly scrutinised as naval, police and military customers look to combat fatigue and the likelihood of whole body vibration-related injuries.
+Also, while being displacement-type hulls and remaining, for the most part, in the water, the ÖK
+Hull concept enables the vessel to power forward without creating a displaced-water ‘bow-wave’, and simultaneously avoiding the formation of a ‘hole’ in the transom area behind the boat.
+Therefore, when powering forward at speed, or decreasing speed rapidly, the boat constantly retains an ‘even-keel’ aspect, not fighting to overcome the water ahead and attempting to ‘climb over the hump’, and likewise not falling back into the ‘hole’ when decelerating suddenly.
+Although Embla is fitted with 184kW Evinrude outboards, developments have seen Rafnar approach Lloyd’s Register for build certification for motors such as Mercury’s 298kW Verado range, which could take the RIB type’s speed up to more than 50knots. The vessel can be picked up and stowed aboard any mothership with room for a RIB of between 4-6tonnes, and, aside from her obvious advantages as a military/SAR craft, the boat could equally be used as an effective, safe and stable tender for superyacht and megayacht guests; if her cross-North Atlantic escapades couldn’t daunt her, recreational life in the
+Mediterranean certainly won’t.
+TECHNICAL PARTICULARS
+Length, oa................................................. 11.1m
+Length, bp................................................. 9.95m
+Breadth, moulded........................................ 2.6m
+Depth, moulded........................................... 0.8m
+Gross tonnage................................. 11.02tonnes
+Displacement...................................... 4.3tonnes
+Design, draught......................................... 0.55m
+Design, deadweight............................ 2.5tonnes
+Lightweight.......................................... 3.8tonnes
+Deck space.......................................22m² (total)
+Max speed...............................................42knots
+Range (nautical miles)................................... 230
+International regulations complied with
+Lloyd’s Register SSC (hull and structure)
+Icelandic Transport Authorities (electrical/bilge systems)
+Bollard pull........................................ 4.95tonnes
+Main engine(s)
+Make................................................. Evinrude
+Model.............................................. E-TEC G2
+Number......................................................... 2
+Output of each engine......................... 184kW
+Gearbox(es)
+Make................................................. Evinrude
+Output ............................................. 0.54 ratio
+Propeller(s)
+Material.................................... Stainless steel
+Manufacturer..................................... Evinrude
+Number......................................................... 2
+Fixed/controllable pitch..................Fixed (20”)
+Diameter.............................................. 380mm
+Open or nozzled.................................... Open
+Alternator(s)
+Make................................................. Evinrude
+Number......................................................... 2
+Output of each set...............................50A for battery charging
+Bridge electronics
+Radar(s).................................... Garmin HD18
+Autopilot................................ Garmin GHC 20
+GMDSS......................................... Sailor 6215
+Other communications systems
+Handheld VHF
+Iridium satellite mobile telephone
+GPS............................................ Garmin 7212
+Chart plotter............................... Garmin 7212
+Onboard capacities
+Fuel oil................................................600litres
+Complement
+Crew.............................................................. 2
+Passengers................................................... 4
+Number of cabins......................................... 0
+EMBLA: Tough ‘workhorse’ RIB based on innovative ÖK Hull formula 24 Significant Small Ships of 2016
+Builder.......... Marine Engineering Consultants
+Designer..................................... Incat Crowther
+Vessel’s name......................................Evolution
+Owner/operator..Down Under Cruise and Dive
+Country.................................................Australia
+Flag.......................................................Australia
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date.................................Not specified
+Delivery date...............................February 2016
+Evolution, which was designed and built for
+Down Under Cruise & Dive of Cairns, Australia, and delivered in February 2016, is intended to represent a cross between a motor yacht – specifically in terms of style and comfort – and a more rugged, utilitarian aluminium commercial vessel, in order to provide a workable, yet attractive, means of escorting passengers to and from the Great Barrier Reef.
+As a result, the vessel features large and well-glazed interior spaces, while outdoor spaces are equipped with comfortable lounges and protection from the sun. Passengers are able to board the vessel via gates situated aft and amidships on the main deck, as well as through an additional set of gates located on the upper deck.
+The vessel also incorporates three platforms, for use when the vessel is at rest at the Reef. These include a lifting stern platform, and two aft fold- down platforms, located port and starboard.
+When positioned, these three platforms encircle the aft end of the vessel, thereby granting her diver complement comfortable and safe access to the water.
+The main cabin has seats for 151 persons, and also contains a bar and a kiosk. Aft of this are toilets and access to the aft deck, which also features storage spaces for wetsuits, snorkels and dive tanks.
+A set of stairs on the aft main deck leads to the upper deck, with outdoor seating and a lifeguard lookout station. Inside the upper deck cabin there is booth seating for 46 passengers, as well as a VIP room designed to accommodate 10 persons.
+Forward of the wheelhouse are sun lounges and a stairway to the foredeck.
+The roof deck features forward-facing seats and lounges to the aft. This deck, which is covered by a solid roof, can accommodate 70 passengers.
+Evolution has been designed to operate at a cruising speed of 25knots at 90% MCR, courtesy of two MAN D2862 LE463 engines, rated 1,029kW apiece.
+TECHNICAL PARTICULARS
+Length, oa............................................... 33.65m
+Length, bp................................................. 30.1m
+Breadth, moulded........................................... 9m
+Depth, moulded........................................... 3.2m
+Gross tonnage.................................... 297tonnes
+Displacement..................................... 145tonnes
+Design, draught........................................... 1.3m
+Design, deadweight........................ 43.91tonnes
+Lightweight...................................... 87.99tonnes
+Service speed.................. 25knots (@90% MCR)
+Range (nautical miles)................................... 400
+Classification society and notations..... NSCV 1C
+Main engine(s)
+Make....................................................... MAN
+Model........................................ D2862 LE463
+Number......................................................... 2
+Output of each engine....1,029kW@2,100rpm
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 3050
+Number......................................................... 2
+Propeller(s)
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Alternator(s)
+Make ..........................Cummins 6BT5.9-D(M)
+Number......................................................... 2
+Output of each set..................................50Hz
+Onboard capacities
+Fuel oil.............................................8,000litres
+Fresh water.....................................6,000litres
+Sullage............................................4,000litres
+Complement
+Crew............................................................ 20
+Passengers............................................... 200
+Number of cabins......................................... 0
+EVOLUTION: Dive support vessel combining rugged workboat and classy yacht features 26 Significant Small Ships of 2016
+Builder.....................................Maritime Partner
+Designer..................................Maritime Partner
+Vessel’s name.................................Fosna Triton
+Owner/operator.............................. Abyss Aqua
+Country................................................... Norway
+Flag......................................................... Norway
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.......................................July 2015
+Delivery date....................................... May 2016
+Fosna Triton made an immediate impression in 2016 as the first tailor-made ocean farming vessel to be delivered by Norway’s
+Maritime Partner.
+Developed jointly by Maritime Partner and ocean farming service supplier Abyss Group, the latter of which oversees ocean farming vessel operator Abyss Aqua, the vessel was built to the specs of the Alusafe 1500 Light Diving Vessel (LDV) class, featuring an overall length of 15.8m and a moulded beam of 4.6m.
+Despite her small size, though, Fosna Triton has been specifically developed to handle rough seas, harsh conditions and abundant workloads. The Norwegian Maritime
+Directorate has subsequently classified the craft as suitable for deployment in coastal operations, thereby enabling Fosna Triton to perform operations in open waters and all along the Norwegian coastline.
+The contract was also hailed as an example of “combined competence” within the Norwegian marine cluster, at a time when the ocean farming sector (and, in particular, the deep-sea ocean farming segment) is looking to incorporate technologies and practices developed for offshore interests. Speaking at the time of Fosna
+Triton’s delivery, Olav Otterlei, technical manager at Abyss Group, commented: “We can clearly see that there are great benefits to relying on each other’s mutual experiences from the combined industries of offshore…and ocean farming, both with regards to competence, equipment and vessels.”
+The vessel will primarily be used to enable dive inspections of both “hulls and the nets of future ocean farms,” Abyss Aqua has stated, although she can also be utilised for fish delousing operations. The vessel’s deck is fitted with a single
+Palfinger PC2700N crane, featuring a safe working load (SWL) of 2.7tonnes, and a sole stern winch manufactured by MB Hydraulikk AS.
+A pair of Scania DI13 engines, rated 522kW apiece and driving twin Hamilton HJ364 waterjets, enable a cruising speed of 30knots, increasing to 35knots max.
+TECHNICAL PARTICULARS
+Length, oa................................................. 15.8m
+Length, bp................................................. 14.5m
+Breadth, moulded........................................ 4.6m
+Depth, moulded........................................... 0.9m
+Gross tonnage................................... 18.7tonnes
+Lightweight........................................ 15.9tonnes
+Service speed.........................................30knots
+Max speed...............................................35knots
+Classification society..................................... N/A
+Main engine(s)
+Make.................................................... Scania
+Model.......................................................DI13
+Number......................................................... 2
+Output of each engine......................... 522kW
+Gearbox(es)
+Make...........................................................ZF
+Model................................................... ZF 325
+Number......................................................... 1
+Alternator(s)
+Make...................................... Stamford P0/P1
+Number......................................................... 1
+Waterjet(s)
+Make......................................Hamilton HJ364
+Number......................................................... 2
+Bow thruster(s)
+Make........................................Sleipnir SH160
+Number......................................................... 1
+Deck machinery
+Crane(s).............1 x Palfinger PC2700N, SWL 2.7tonnes
+Winch(es)............ 1 x MB Hydraulikk AS stern . winch Bridge electronics
+Radar(s)..............................Furuno Time Zero
+GMDSS.......................... Jotron TR20 GMDSS
+Other communications systems.... Sailor 6215
+VHF DSC
+GPS...........................................Furuno GP-32
+Chart plotter........................Furuno Time Zero
+Onboard capacities
+Fuel oil.............................................2,000litres
+Fresh water........................................200litres
+Sullage...............................................200litres
+Complement
+Crew.............................................................. 4
+Passengers................................................... 2
+Number of cabins......................................... 1
+Other significant or special items of equipment
+Rescue raft (supplied by Survitec Norway)
+Rescue equipment (c/o Hansen Protection)
+Recaro Northsea crew seats
+CCTV system
+Seascape diving pack / Pommec diving pack
+FOSNA TRITON: Customised ocean farming boat 30 Significant Small Ships of 2016
+Builder........................................Heesen Yachts
+Designer..Heesen Yachts / Espen Øino / Sinot
+Exclusive Yacht Design / Oossanen Naval Architects
+Vessel’s name................. Galactica Super Nova
+Owner/operator.............................Not specified
+Country........................................................... US
+Flag...........................................Cayman Islands
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.................................Not specified
+Delivery date............................................... 2016
+Hailed as comprising Dutch builder Heesen
+Yachts’ largest delivery to date, the 70m loa fast displacement hull form (FDHF) superyacht Galactica Super Nova is reported to be one of the top 200 largest yachts in the world – and certainly the largest yacht to have emerged from the group’s yard.
+Built for an anonymous owner, the aluminium, motor-powered vessel boasts a number of high-end features to please even the most demanding of guests, including: 357m² of deck space and the ability to deploy the foredeck as a helipad; an outdoor cinema area; and an informal dining space-cum- sunbathing plot.
+Additional luxuries include a 6m swim-jet infinity pool (complete with waterfall, glass- panelled bottom and spa jets), a 146m² ‘beach club’ area and a shaded sundeck.
+The upper deck has also been designed to combine with the sky lounge, creating a sizeable indoor/outdoor entertainment area covering 92m². Naval architect Espen Øino designed Galactica Super Nova’s exterior lines, while Sinot Exclusive Yacht Design was responsible for her interiors.
+Just as important as her onboard opulence, however, is the vessel’s FDHF technology, which was developed by van Oossanen Naval
+Architects, also of the Netherlands.
+The FDHF concept dates back to 1992, when (current) managing director Perry van
+Oossanen tasked himself with developing a new hull design capable of boosting efficiency and reducing hydrodynamic resistance across a wider speed spectrum. This move was partly born out of dissatisfaction with the performance of round bilge displacement hulls. Such hull forms are efficient when the owner is travelling at low speeds; however, attempts to increase speed are significantly restricted by the amounts of wave resistance generated by bilge displacement hulls.
+Switching to a hard chine hull, meanwhile, would have enabled higher speeds, but would have also resulted in increased draught and drag when travelling at low speed.
+As a result, van Oossanen opted for a bulbous bow design, combined with a slender fore body and a shallow transom area, the latter only minimally submerged. A vertical metal plate, or ‘interceptor’, was added to the transom below the waterline, to ‘intercept’ water flowing under the hull to provide significant lift at the back of the boat, improving its overall horizontal trim. This lift, in combination with the shallow transom area, also enables the installation of larger propellers – a scenario from which Galactica
+Super Nova has benefited. In sea trials, the
+FDHF concept has been proven to reduce wave resistance by 20%.
+TECHNICAL PARTICULARS
+Length, oa............................................... 70.07m
+Breadth, oa................................................ 11.9m
+Gross tonnage................................. 1,200tonnes
+Design, draught......................................... 3.25m
+Displacement.....645tonnes approx. @50% load
+Max speed............................30knots @50% load
+Range(nautical miles)..................4,000@12knots
+Class society................................................ ABS
+Notations............... XA1 Yachting Service XAMS
+Other regulations complied with....... MCA Large
+Commercial Yacht Code LY3
+Main engine(s)
+Make........................................................MTU
+Model.........20V 4000 M93L / 16V 4000 M93L
+Number.................................................... 2 / 1
+Output of each engine ..........4,300kW (20V) / 3,440kW (16V)
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 9050
+Number......................................................... 3
+Onboard capacities
+Fuel oil...........................................89,000litres
+Fresh water...................................25,000litres
+Complement
+Crew............................................................ 16
+Guests......................................................... 12
+Number of cabins....................1 x full-beam master suite 1 x VIP cabin 4 x double cabins
+Other significant or special items of equipment
+Sperry Marine steering system
+Quantum fin stabilisers
+GALACTICA SUPER NOVA: Opulence meets efficiency in fast displacement hull form superyacht 32 Significant Small Ships of 2016
+Builder..................Eastern Shipbuilding Group
+Designer.................................. Robert Allan Ltd
+Vessel’s name .............................. Harvey Stone
+Owner/operator............................... Harvey Gulf
+Marine International
+Country........................................................... US
+Flag ................................................................ US
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date......................................June 2014
+Delivery date..................................August 2016
+Harvey Stone is a multi-purpose field support vessel (MPFSV), serving as a field support vessel for the Shell Stones FPSO offshore terminal. Key duties include assisting the berthing, loading and unberthing of offtake tankers of up to 46,287dwt and escorting the above FPSO in the event of disconnection from the submerged buoy mooring for hurricane avoidance purposes, and the vessel is equipped to tow the FPSO in case of mechanical breakdown. Other tasks include transportation of stores and cargo to the FPSO. A hybrid propulsion system allows for economic propulsion (eco-transit of 8–9 knots) and station-keeping on one engine, driving mechanically/electrically to propulsion units and or bow thrusters. The hybrid system has a dual output (PTO/PTI)/single input gearbox driving the propulsion shaft line on one side and the motor/ generator on the other.
+The ship is set up to run in the following modes: • Conventional/Transit
+Two main engines powering two propellers
+One shaft alternator or SSG providing electrical power • DP2
+One main engine powering one propeller, both shaft lines online
+Shaft alternator providing power to bow thruster
+Split bus operation • Hybrid (transit and station-keeping)
+One main engine driving two propellers (one mechanically, one electrically) via PTI and shaft M/G off gearbox
+Electrical power from SSG • Firefighting
+One main engine powering one propeller, both shaft lines online, fire pumps clutched in
+Constant speed operation with CP propellers
+Shaft alternator on-line, or SSG providing electrical power
+TECHNICAL PARTICULARS
+Length, oa................................................. 64.8m
+Breadth, moulded......................................... 18m
+Depth, moulded........................................... 7.8m
+Gross tonnage................................. 2,315tonnes
+Displacement.................................. 3,750tonnes
+Design, draught...................... 5.5m (to baseline)
+Design, deadweight........................ 1,585tonnes
+Lightweight...................................... 2,163tonnes
+Deck space............................................... 255m²
+Deck capacity................................... 5tonnes/m²
+Service (hybrid propulsion) speed............9knots
+Max speed...............................................14knots
+Range (nautical miles)...............13,800@10knots
+Fuel consumption....................... 11.8tonnes/day
+Classification society....................... ABS / USCG
+Notations........................................ABS, Oceans
+Service, XA1, XACCU, UWILD, XDPS-2, FFV-2, X(E), OFFSHORE SUPPORT
+VESSEL, DSV CAPABLE, ROV CAPABLE, TOW, SUPPLY, HABX(WB), ENVIRO, GP
+Other important international regulations complied with
+EPA Tier 4 Emission Certification
+Bollard pull............................106tonnes (ahead)
+Main engine(s)
+Make.......................................................... GE
+Model..........................................12V250MDC
+Number......................................................... 2
+Output of each engine....3,495kW@1,000rpm
+Gearbox(es)
+Make.................................................. Reintjes
+Model...............................................LAF 3414
+Number......................................................... 2
+Output..................................1,000 / 1,800rpm
+Type...........Hybrid – single input, dual output with PTO/PTI
+Azimuth thruster(s)
+Manufacturer...................................... Schottel
+Make..........................................SRP 3030 CP
+Number......................................................... 2
+Fixed/controllable pitch................Controllable
+Diameter........................................... 3,400mm
+Input speed......................................1,000rpm
+Open or nozzled................................ Nozzled
+Shaft motor/generators
+Make.Marelli 1,000kw shaft motor/generators
+Number......................................................... 2
+Output of each set...........................1,800rpm
+Generator(s)
+Make...................................Cummins QSK 19
+Number......................................................... 2
+Output.....................................350kWe@60Hz
+Bow thruster(s)
+Make........................................ Schottel STT 2
+Number......................................................... 2
+Output of each..................................... 610kW
+Emergency generator
+Make......................................Cummins QSB7
+Number......................................................... 1
+Output of each........................120kWe@60Hz
+Deck machinery 1 x MacGregor MC-HMC1610 LK100-10, 10tonnes SWL 1 x MacGregor MG-AHTW-1530U15076h anchor handling/towing winch, 300tonnes 1 x MacGregor MG-HAT/GDG-38U3 1610U03076h ship assist winch/ windlass, 100tonnes 1 x MacGregor MG-HUW-1040UL tugger winch, 10tonnes 1 x MacGregor MG-HVC-0540-1 vertical capstan, 5tonnes 1 x Triplex shark jaw, 200tonnes 1 x MacGregor MG-STR200-4525 stern roller, 200tonnes
+Triplex V-200 guide pins, 200tonnes
+Onboard capacities
+Fuel oil.........................................874,000litres
+Fresh water.................................192,000litres
+Foam.............................................94,000litres
+Ballast water.............................1,496,000litres
+Complement
+Crew.......................................................15-24
+Passengers................................................... 0
+Number of cabins............................6 x single 9 x double
+HARVEY STONE: Multi-purpose/multi-mode offshore support vessel 34 Significant Small Ships of 2016
+Builder..Construcciones Navales Paulino Freire
+Designer.............................Rolls-Royce Marine
+Vessel’s name......................................... Holmøy
+Owner/operator.................. Prestfjord Havfiske
+Country................................................... Norway
+Flag......................................................... Norway
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date....................................March 2014
+Delivery date....................................March 2016
+Designed to the specs of Rolls-Royce’s NV 370 class, the development of the stern trawler Holmøy was strongly influenced by the results of sea trials conducted aboard Prestfjord Havfiske’s 2010-built fishing vessel Prestfjord (also a Rolls-Royce design).
+Using sensors to capture data from approximately 30,000 hours of operation aboard Prestfjord, Rolls-
+Royce analysed this cache of info in order to optimise
+Holmøy’s hull, equipment and propulsion arrangements, in both transit and trawling modes.
+On its March 2016 launch, Holmøy also represented the first commercial order of the designer’s new medium-speed Bergen B33:45 engine. The B33:45 engine reportedly offers a 20% increase in power for each cylinder compared to other Bergen models.
+Rolls-Royce adds: “The engines are economical with a specific fuel consumption of 177g/kWh at full load and comply with IMO Tier II and Tier III rules.” The engine is also designed to run for 25,000 hours between major maintenance periods, and provides all of the power required for the vessel’s trawling and fish freezing activities, as well as the vessel’s overall hotel load.
+Holmøy has also been equipped with the first commercial trawl winches to be powered by permanent magnet (PM) motors. Developed, again, by
+Rolls-Royce, the PM-powered winches result in far less noise and vibration, while enabling sensitive control and rapid changes in pull and speed.
+Other equipment supplied by Rolls-Royce includes eight sweepline winches, each rated 20tonnes; eight auxiliary winches; and a net drum with a capacity of 20m.
+TECHNICAL PARTICULARS
+Length, oa................................................. 69.7m
+Length, bp................................................. 62.2m
+Breadth, moulded......................................... 16m
+Depth, moulded................. 6.15m (to main deck) 9.25m (to trawl deck)
+Gross tonnage................................. 3,317tonnes
+Displacement.................................. 4,322tonnes
+Design, draught........................................... 6.5m
+Design, deadweight........................ 1,630tonnes
+Lightweight...................................... 2,692tonnes
+Service speed.........................................16knots
+Max speed............................................17.8knots
+Range (nautical miles).............................. 11,290
+Fuel consumption....................... 0.96tonnes/day
+Classification society.............................. DNV GL
+Notations....................................... X1A1, ICE 1B (HULL: ICE 1A), STERN TRAWLER, EO
+Main engine(s)
+Make................................................... Bergen
+Model.............................................B33/45L9P
+Number......................................................... 1
+Output of each engine...................... 5,400kW
+Gearbox(es)
+Make............................................ Rolls-Royce
+Model...........................RRM 850 GHC-SC600
+Number ........................................................ 1
+Output..........................................750/155rpm
+Propeller(s)
+Material................................................. NiAlBr
+Manufacturer................................ Rolls-Royce
+Number......................................................... 1
+Fixed/controllable pitch................Controllable
+Diameter........................................... 3,900mm
+Open or nozzled................................ Nozzled
+Alternator(s)
+Make.....................................................Marelli
+Model..................................B5J560L PTI/PTO
+Number......................................................... 1
+Output of each set..........2,200kW@1,200rpm
+Aux. Group 1
+Make...................... Marelli MJMB 500 LA 4
+Number..................................................... 1
+Output..........................................1,800rpm
+Aux. Group 2
+Make....................Marello MJMB 350 MB 4
+Number .................................................... 1
+Output..........................................1,800rpm
+Bow thruster(s)
+Make ................ Rolls-Royce TT 1300AUX CP
+Number......................................................... 1
+Output of each..................................... 590kW
+Deck machinery 4 x Triplex cranes 11 x Rolls-Royce winches 1 x Rolls-Royce anchor windlass
+Bridge electronics
+Radar(s)......... Furuno FAR-2117 / FAR-2137S
+Autopilot..................................... Simrad AP70
+GMDSS............................... Furuno FS-2575C
+Other communications systems.....Furuno AIS
+FA150 / SAILOR 6215VHF
+GPS.......................................... Furuno GP150
+Gyro................. Furuno SC-50 / Simrad GC80
+Engine monitoring system...Rolls-Royce Acon
+Fire detection system.........Wilhelmsen T2000
+Onboard capacities
+Fuel oil.........................................790,000litres
+Fresh water.................................125,000litres
+Sullage..........................................13,000litres
+Ballast water................225,000litres (approx.)
+Freezing cargo hold........... 1,470m³ (approx.)
+Packing room.......................... 75m³ (approx.)
+Complement
+Crew............................................................ 29
+Passengers................................................... 0
+Number of cabins....................................... 23
+HOLMØY: Advanced stern trawler, optimised for both trawling and transit modes 36 Significant Small Ships of 2016
+Builder....................... Damen Shipyards Group
+Designer.................... Damen Shipyards Group
+Vessel’s name.....................................Luisa Neri
+Owner/operator....... Fratelli Neri S.p.A Livorno
+Country.........................................................Italy
+Flag...............................................................Italy
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date............................................... 2015
+Delivery date................................ January 2016
+As the first Damen-designed and built ASD
+Tug 3212, Luisa Neri arrived at her home port of Livorno (Leghorn), Italy at the beginning of 2016, just five months after owner/operator
+Fratelli Neri signed the contract for her construction. Having been built for stock simplified this process, freeing up Damen
+Maaskant Shipyards Stellendam to concentrate on the final outfitting works. The Port of
+Livorno is acknowledged as being a challenging harbour in which to operate, due to a series of tight turns that require optimal vessel manouevrabilty to negotiate.
+One of Luisa Neri’s key significant features is a render-recovery towing winch, also designed by
+Damen, which is intended to lead to improved safety and flexibility when the vessel is partaking in towing and escorting operations – and which enables the tug’s operators to work in a variety of tough offshore environments.
+The render-recovery winch works by preventing the high peak loads that can occur in the towing wire in rough conditions, Damen explains. This is accomplished by rendering speeds of up to 100m/ min with a line force of 100tonnes and recovery speeds up to 50m/min with a line force of 60tonnes.
+According to Erik van Schaik, Damen senior design and proposal engineer: “The render-recovery winch gives tug captains an outstanding degree of flexibility; they can work with various operating modes depending on the weather, the sea conditions and the work needed to be done. These modes are used to control either the distance or the forces acting between tug and the vessel it is assisting.”
+The aft towing winch, meanwhile, is a single drum towing winch, with 750m of steel towing wire on the drum. Because the winches are not provided with gearboxes, the design has been kept relatively compact and maintenance-friendly.
+Other features include a high degree of dynamic stability, conferred by Luisa Neri’s deep skeg, bilge keels and relatively low wheelhouse, which ensure low accelerations for increased comfort, safety and seakeeping performance. The vessel is also equipped with a fendering system with a large contact area, for low static contact pressure, while a combination of a large freeboard, more pronounced V-shaped frames in the lines of the fore ship and a raised forecastle deck help to keep the working deck dry.
+TECHNICAL PARTICULARS
+Length, oa................................................. 32.7m
+Breadth, oa.............................................. 12.82m
+Depth ........................................ 5.35m (at sides)
+Gross tonnage.................................... 453tonnes
+Displacement..................................... 815tonnes
+Design, draught......................................... 5.51m
+Max speed............................................14.3knots
+Classification society...................................RINA
+Notations............................... C X HULL n MACH
+Escort Tug Unrestricted Navigation AUT UMS
+INWATERSURVEY Fire Fighting Ship 1 Water spray Oil Recovery Ship, Second Line, Supply vessel, Oil product (flame point>60°C)
+Bollard pull...........................80.8tonnes (ahead) . 74.9tonnes (astern)
+Main engine(s)
+Make...............................................Caterpillar
+Model.................................. 3516C HD+ TA/D
+Number......................................................... 2
+Output of each engine.......5,050bkW@1,800rpm
+Propeller(s)
+Material................................................. NiAlBr
+Manufacturer................................ Rolls-Royce
+Model.........................US 255 P30 CP Special
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter........................................... 2,800mm
+Open or nozzled................................ Nozzled
+Thuster(s)
+Make..... Rolls-Royce US 255 P30 CP Special
+Number......................................................... 2
+Deck machinery...... 1 x Heila HLM 20-3S crane, 1.7tonnes@10.56m SWL 2 x Damen Marine Components winches, hauling speed anchor part minimal 10m/min . 1 x render/recovery towing winch . 1 x capstan, 5tonnes@15m/min . 1 x Mampaey towing hook, aft, 100tonnes SWL . 1 x towing winch, aft (hydraulically driven, single drum winch with spooling device and warping head, pull 30tonnes up to 40m/min and 200tonnes brake)
+Bridge electronics
+Radar(s).............................. Furuno FSR 2117
+Other communications systems........... 2 x Sailor 6222 VHF and 2 x hand-held . 2 x Furuno Felcom 18 (Inmarsat)
+Autopilot...............................Robertson AP-70
+GPS ..................................... Furuno GP-150D
+Gyro compass............. Anschütz Compact 22
+AIS............................................Furuno FA-150
+Echo sounder...........................Furuno FE-800
+EPIRB..................................... Jotron Tron-40S
+SART................................... Jotron TronSart20
+Onboard capacities
+Fuel oil.........................................141,800litres
+Fresh water...................................15,200litres
+Sewage...........................................5,100litres
+Lube oil...........................................8,100litres
+Bilge water......................................6,800litres
+Foam.............................................12,600litres
+Dispersant.......................................5,400litres
+Oil recovery...................................42,600litres
+Complement
+Crew............................................................ 10
+Passengers................................................... 0
+Number of cabins......................................... 6
+LUISA NERI: Advanced tug with special winch for improved safety and flexibility 38 Significant Small Ships of 2016
+Builder..............................Bakri Cono Shipyard
+Designer.................... Albatross Marine Design
+Vessel’s name....................Multi Transportation
+Vessel (MTV) 55 (aka ASV1500W design)
+Owner/operator............Royal Sands Koh Rong
+Country............................. Thailand / Cambodia
+Flag.....................................................Cambodia
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 2
+Contract date.................................Not specified
+Delivery date................................ October 2016
+As the debutante in architect Albatross Marine
+Design’s (AMD’s) ASV1500W catamaran class, the Multipurpose Transport Vessel (MTV) 55, which Thailand’s Bakri Cono Shipyard delivered in October 2016, represents an attempt to balance small craft functionality, safety and utilitarian ‘water bus’-style design with luxury interiors and high-speed performance.
+The MTV55’s arrangement is fairly simple, incorporating an air-con-enhanced passenger saloon area with forward-looking seats. These seats can accommodate between 40 and 54 passengers, and are positioned either side of a central passageway. AMD reveals that design inspiration was gleaned from the “ergonomics and dimensioning of business and economy class aircraft sections”, albeit with a greater degree of space between the seat rows. In comparison to monohull craft, the designer says: “For craft with the same passenger capacity, catamarans offer about 40% more saloon area per passenger, which results in more comfortable accommodation.”
+The steering station is located starboard, at the front part of the saloon, and features a console and seats for two crew members. The starboard area also houses a service room with pantry, while the toilet is located at the stern part of the saloon, port side. The aft section is an open deck, which passengers can use to board via the side doors, and the side windows can be opened to increase airflow. The front windows, meanwhile, feature an angular, weatherproof door, to enable the crew to access the vessel via the bow, and which can also be used for forward boarding through the bow cockpit. The MTV 55’s bow is fitted with a folding bow ramp for beach loading.
+AMD explains: “Once lifted, the ramp becomes an integral part of the bridge deck.”
+The vessel’s hulls are described as being fairly typical for planing catamarans, and of the symmetrical type. Vertical accelerations are reduced, approximately by 30-50%, compared to similar monohull vessels, thus enabling the cat to perform a wider range of tasks and to maintain higher speeds at given sea states. The
+MTV 55’s hull structure is fashioned from composites, using vacuum infusion, with sandwich panels covering the vessel’s bottom, sides, deck, wet deck and superstructure.
+AMD’s design for this craft is compliant with
+Germanischer Lloyd’s (GL’s) 2012 rules for high-speed craft. The bow section below waterline is bolstered by a foam-packed ‘collision block’, to provide an added layer of protection in the event of an accident. As an additional safety-related measure, the craft has been divided into compartments by watertight bulkheads, to ensure that, should one compartment become damaged, the vessel will remain afloat – buying both crew and passengers valuable time to evacuate.
+TECHNICAL PARTICULARS
+Length, oa............................................... 15.95m
+Length, bp............................................... 14.24m
+Breadth, moulded...................................... 4.55m
+Depth, moulded......................................... 2.05m
+Displacement.................................. 18.25tonnes
+Design, draught.............................................. 1m
+Design, deadweight............................ 7.2tonnes
+Lightweight...................................... 11.05tonnes
+Service speed.........................................22knots
+Max speed........25-30knots (dependent on engine)
+Range (nautical miles)....................320@22knots
+Classification society..................................... N/A
+Notations....................................................... N/A
+Other important international regulations complied with......................Structure designed to Germanischer Lloyd (GL)HSC 2012 in advanced composites . Stability intact and damaged in compliance with HSC Code
+Main engine(s)
+Make....................................................... Steyr
+Model..............................................SE286E40
+Number......................................................... 2
+Output of each engine......................... 205kW
+Gearbox(es)
+Make...........................................................ZF
+Model....................................................ZF63A
+Number......................................................... 2
+Propeller(s)
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter.................................................. 0.6m
+Special adaptations.........................Tunnelled
+Deck machinery 1 x Maxwell winch
+Bridge electronics
+Radar(s)...............................................Simrad
+Onboard capacities
+Fuel oil.............................................1,800litres
+Fresh water........................................300litres
+Sullage...............................................300litres
+Complement
+Crew.............................................................. 2
+Passengers............................................40-54
+Number of cabins......................................... 0
+MTV 55: Composite catamaran with aeroplane- influenced passenger saloon 40 Significant Small Ships of 2016
+Builder....................... Damen Shipyards Group
+Designer.................... Damen Shipyards Group
+Vessel’s name......................................Noordzee
+Owner/operator.......... Royal Netherlands Navy
+Country........................................... Netherlands
+Flag................................................. Netherlands
+Total number of sister ships already completed.......................................... 2
+Total number of sister ships still on order.......... 0
+Contract date............................................... 2014
+Delivery date...............................February 2016
+Upon delivery to the Royal Netherlands Navy (RNLN) last year, Noordzee represented the first in a series of three of Damen’s ASD Tug 2810
+Hybrid models, selected for performance as well as environmental sustainability. The two follow- up sister vessels – namely Waddenzee and
+Zuiderzee – were delivered in Q1 and Q2 2016 respectively.
+The RNLN was reportedly looking for a standard tug that was very environmentally friendly, albeit also being powerful enough to undertake heavy operations. The ASD Tug 2810
+Hybrid utilises two rudder propeller units for optimum manoeuvrability and is able to sail on full electric power, via a set of batteries, or in diesel mode, care of her two MTU main engines.
+When full pull is required, both MTU engines are deployed, granting the tug a top bollard pull (bp) of 60tonnes – a considerable increase on the 22tonnes bp-rated, Linge-class RNLN tugs which this trio has replaced. When sailing under diesel power, meanwhile, the vessels within the Damen
+ASD Tug 2810 Hybrid class are able to store any electrical energy that is not immediately being used in its battery pack. As such, this energy can be used for onboard hotel applications / operating systems, or saved for use when the tug switches to electric sailing mode.
+Post-delivery, Damen Shipyards is also responsible for the maintenance of these three vessels – a task that has previously been handled by the RNLN in-house – thus reflecting growing expectations for after-sales customer support as a key part of the overall newbuild contract.
+TECHNICAL PARTICULARS
+Length, oa............................................... 28.67m
+Breadth, oa.............................................. 10.43m
+Depth........................................................... 4.6m
+Gross tonnage.................................. <300tonnes
+Displacement..................................... 590tonnes
+Draught...............................................5.05m (aft)
+Max speed...................13.2knots (main engines) 8.7knots (generator) 4.8knots (batteries – 1hr max)
+Classification society..................Lloyd’s Register
+Notations........X100A1 Tug [X] LMC UMS ECO IWS
+Bollard pull..............................61tonnes (ahead) 56.5tonnes (astern)
+Main engine(s) (DIESEL)
+Make........................................................MTU
+Model.......................................16V4000M63R
+Number......................................................... 2
+Output of each engine.........3,680bkW@1,600rpm
+Main engine(s) (ELECTRIC)
+Make........................................................ ABB
+Model............................................... M3LP450
+Number......................................................... 2
+Output of engines...............460bkW@900rpm (free sailing) 100bkW@500rpm (standby)
+Propeller(s)
+Material................................................. NiAlBr
+Manufacturer................................ Rolls-Royce
+Number......................................................... 2
+Diameter........................................... 2,400mm
+Open or nozzled................................ Nozzled
+Deck machinery 1 x Heila HLM 10-2S crane and winch, 100kg@8.4m 1 x capstan, 5tonnes@15m/min 1 x towing hook aft, 650kN/65tonnes SWL
+Bridge electronics
+Radar(s).............................. Furuno FAR-2117
+Autopilot.................................... Simrad AP-70
+ECDIS......................2 x Furuno FMD 3200 BB
+DGPS.................................. Furuno GP-170-D
+Gyro.............Anschütz Standard 22 Compact
+Compass................................Magnetic Kotter
+Other communications systems........2 x Sailor 6222 VHF radio telephones 2 x Jotron TRON TR-20 VHF handheld 4 x Motorola DP-4401 ATEX handheld
+AIS......................................Saab R5 Supreme
+Onboard capacities
+Fuel oil...........................................72,300litres
+Fresh water...................................16,500litres
+Foam...............................................8,100litres
+Lube oil...........................................6,800litres
+Sewage...........................................8,800litres
+Ballast water....................................5,600litres
+Complement
+Accommodation for 5+1 persons
+NOORDZEE: Hybrid tug for the Royal
+Netherlands Navy 42 Significant Small Ships of 2016
+Builder............Hung Seng Shipbuilding (under supervision of East
+Coast Maritime Pty Ltd)
+Designer.................Sea Transport / East Coast
+Maritime Pty Ltd
+Vessel’s name................................. Pacific Titan
+Owner/operator....East Coast Maritime Pty Ltd
+Country.................................................Australia
+Flag.......................................................Australia
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date...............................February 2015
+Delivery date................................ January 2017
+Pacific Titan comprises a shallow-draught utility tug, designed in tandem by owner East Coast
+Maritime and architect Sea Transport, and built at
+Malaysia’s Hung Seng Shipbuilding. The vessel was purpose-built to support operations such as dredging, marine construction, barge-handling / anchor- handling and towage.
+Her hull is a double-chine, high-displacement, low- dead rise and shallow-draught design, which incorporates propulsion tunnels. The bow features a straight stem and a balanced entry for stability and ocean-going voyages. For optimal strength and reduced vibrations, the hull has been encircled by a central longitudinal double ring from stern to stern, and features a dense grid of longitudinal and transverse frames throughout the engine room.
+The vessel is a conventional twin-screw design, powered by two Yanmar 6EY17W engines.
+Gearboxes are island-mounted Yanmar YXH500L models with an output ratio of 4.96:1. The vessel’s main engine shafts, rudder stocks and stern roller shaft have been fabricated from 2205 stainless steel.
+Nickel-aluminium-bronze propellers were supplied by Veem Australia and are a 4-blade skewed Kaplan design, housed in 1,880mm Rice Thrust Nozzles. The vessel is equipped with a hydraulically driven
+Nakashima TFN-100S bow thruster, supplying 2tonnes of thrust.
+The hydraulic system was designed and supplied by
+HES Winches Australia. Hydraulic power is supplied by a 257kW Yanmar 6HA2M-WHT. The diesel hydraulic power unit is fitted with two pumps: one running the bow thruster, the other running a ‘ring- main’ for the deck machinery. An emergency electric- hydraulic power unit is available as an back-up for the deck machinery. Pacific Titan also employs a system of Weka Box Coolers to cool all five engines.
+Ploughing equipment consists of twin plough arms with a working load limit (WLL) of 15tonnes each.
+Each plough arm is fitted with a Dinamic Oil winch.
+The plough is held in position laterally using twin side stays, which are adjusted using the custom quad-gypsy anchor windlass designed and fabricated by HES
+Winches Australia.
+Accommodation is Maritime Labour Convention- compliant. The fit-out of the wheelhouse was completed using lightweight Ayres aluminium honeycomb panels, Dampa ceiling panels and adhesive glass from Sealed Marine Windows. The forward and aft helm stations feature custom cockpit- style dash panels and Norsap helm chairs. Heating and cooling is supplied by twin Daikin air-con units. The wheelhouse has individual temperature controls, as does each crew cabin.
+TECHNICAL PARTICULARS
+Length, oa................................................. 25.8m
+Breadth, moulded........................................ 9.1m
+Depth, moulded........................................... 3.6m
+Gross tonnage.................................... 212tonnes
+Displacement..................................... 365tonnes
+Design, draught......................................... 2.65m
+Design, deadweight.......................... 93.4tonnes
+Lightweight...................................... 271.6tonnes
+Deck capacity................................. 10tonnes/m²
+Service speed.........................................11knots
+Max speed............................................12.7knots
+Range (nautical miles)................................ 5,650
+Fuel consumption......................... 4.3tonnes/day
+Classification society..................Lloyd’s Register
+Notations......... X100A1 Tug [X] LMC UMS *IWS
+Bollard pull........................................ 31.6tonnes
+Main engine(s)
+Make................................................... Yanmar
+Model.................................................6EY17W
+Number......................................................... 2
+Output of each engine.......837kW@1,450rpm
+Gearbox(es)
+Make................................................... Yanmar
+Model................................................YXL500L
+Number......................................................... 2
+Output................................................... 4.96:1
+Propeller(s)
+Manufacturer.......................................... Veem
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter........................................... 1,880mm
+Special adaptations.........................Skewplan
+Open or nozzled............... Rice Thrust Nozzle
+Alternator(s)
+Make................................................... Yanmar
+Number......................................................... 2
+Output of each set................................ 60kVA
+Bow thruster(s)
+Make............................................. Nakashima
+Number......................................................... 1
+Output of each......................132kW@634rpm
+Deck machinery 1 x Heila telescopic knuckle boom, 18tonnes@7.5m / 8tonnes@14m 1 x HES Australia double drum reverse waterfall winch 1 x HSS roller, 65tonnes
+WLL plough arms, 15tonnes
+Dinamic Oil plough winches, 10tonnes
+Dinamic Oil tugger winch, 8tonnes
+HES Australia quad-gypsy anchor windlass
+Mampaey tow hook, 30tonnes
+WK-Hydraulics 3-In-A-Row towing pins, 35tonnes
+Bridge electronics
+Radar(s)................................ Furuno DRS25A
+Autopilot..........................Furuno NavPilot 700
+GMDSS.......Furuno RC1800T w/2x Felcom18
+GPS........................................... Furuno SC-30
+Chart plotter........................................Maxsea
+Fire detection system...........................Firepro
+Onboard capacities
+Fuel oil.........................................107,000litres
+Fresh water...................................25,000litres
+Sullage............................................7,500litres
+Ballast water....................................3,000litres
+Complement
+Crew.............................................................. 5
+Passengers................................................... 7
+Number of cabins............................ 5 (single)
+Other significant or special items of equipment
+Yanmar 257kW hydraulic power unit 550x550mm moon pool
+High-lift fishtail rudders
+PACIFIC TITAN: Plough-equipped tug, designed to undertake dredging support 46 Significant Small Ships of 2016
+Builder...................................Triangle Shipyard
+Designer.................................... Camarc Design
+Vessel’s name.......................................PETRA-1
+Owner/operator............. Marine Core & Charter
+Country...................................................... Dubai
+Flag........................................................ Panama
+Total number of sister ships already completed.......................................... 1
+Total number of sister ships still on order..................................................... 1
+Contract date.................................Not specified
+Delivery date...............................February 2016
+Built by Dubai-based Triangle Shipyard, the all-aluminium PETRA-1 represents the first in an all-new class of 45m-long fast offshore support vessels (FOSVs). Delivered to operator
+Marine Core & Charter in February 2016, the vessel type was developed, in designer Camarc’s words, to “provide a step change in the crew boat market, in terms of speed, fuel efficiency, crew comfort and payload”.
+The FOSV45 features a specifically developed hull design, evolved from Camarc’s double chine hull concept, for enhanced efficiency and comfort relative to more conventional crew boat designs. Tank testing in the UK has led to this hull form displaying a refined shape forward, resulting in improvements in efficiencies and vertical accelerations – and, subsequently, improved fuel economy and onboard comfort.
+The vertical bow shape forward is above water only: in this way, waterline length can be maximised while maintaining the crew boat’s all-round seakeeping ability.
+As another concession to crew and passenger comfort, Camarc and Triangle have managed to restrict PETRA-1’s onboard noise levels below the 65dBA mark. The superstructure was designed to provide superior roll angle tolerance – for instance, specific fendering and recessed windows were incorporated into the craft’s design, for added protection when she is alongside. However, the FOSV45 concept remains a flexible one, in terms of design. Camarc adds: “Alternative configurations with more conventional side decks are available as an option should that be a particular operator’s preference.”
+PETRA-1 has been built to full Bureau Veritas class with an unrestricted navigation notation.
+Redundancy has been fully factored into the design: the vessel features twin bow thrusters, twin anchors, triple generators and independent steering. The vessel has also been fitted with an integrated navigation system (INS), complete with large displays for improved control and monitoring from the bridge and enabling internal communications between stations. The systems fitted are fully compliant with sea area
+A3 GMDSS requirements.
+PETRA-1 has the capacity to accommodate up to 100 offshore workers/passengers, with room for an additional 12 VIPs. Overall, her deadweight capacity is rated 160tonnes. The deck area is sized 140m², strengthened to 2tonnes per m², enabling a maximum cargo load of 85tonnes. The FOSV has the capacity to store up to 100,000litres of fuel and 24,000litres of water. Meanwhile, Heila supplied PETRA-1’s crane; an HLM 170-4S unit, capable of lifting 6tonnes at an outreach of 2.5m and 1tonne at 12m. The crane is centred on the deck, enabling crew to move deck cargo around as required.
+TECHNICAL PARTICULARS
+Length, oa.................................................... 45m
+Length, bp................................................. 44.3m
+Breadth, moulded........................................... 8m
+Depth, moulded......................................... 3.65m
+Gross tonnage.................................... 304tonnes
+Displacement..................................... 290tonnes
+Design, draught......................................... 1.85m
+Design, deadweight........................... 160tonnes
+Lightweight......................................... 130tonnes
+Deck space (total)..................................... 140m²
+Deck capacity................................... 2tonnes/m²
+Service speed...................28.5knots@85% MCR
+Max speed............................................ 30+knots
+Classification society....................Bureau Veritas
+Notations......................XHULL XMACH, Special service – Fast offshore support vessel, Crew boat, Unrestricted navigation, SDS
+Main engine(s)
+Make.........................................................CAT
+Model........................................................C32
+Number......................................................... 3
+Output of each engine...................... 1,081kW
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 3050
+Number......................................................... 3
+Propeller(s)
+Material................................................. NiBrAl
+Manufacturer............................................ CJR
+Number......................................................... 3
+Fixed/controllable pitch.......................... Fixed
+Open or nozzled.................................... Open
+Bow thruster(s)
+Make................................ Global Engineering
+Number......................................................... 2
+Output of each....................................... 50kW
+Deck machinery . 1 x Heila crane, SWL 1tonne@13m . 2 x Counterfire monitors, 600m³/hr
+Bridge electronics
+Radar(s).................. Sperry Marine VMFT 250 + GEM 1024
+Autopilot................................ Navitron NT 888
+GMDSS......................................Area 3, Sailor
+GPS.......................................................Koden
+Gyro.............Sperry / Autonautic Instrumental
+Chart plotter............................................ GEM
+Onboard capacities
+Fuel oil.........................................100,000litres
+Fresh water...................................24,000litres
+Complement
+Crew............................................................ 10
+Passengers............................... 100 (+12 VIP)
+Number of cabins...................... 5 (1 x 4-man, 2 x 2-man, 2 x 1-man)
+Other significant or special items of equipment
+Rescue boat and davit 6 x liferafts 3 x CAT C4.4 generators, 86kW each
+Fresh water maker, 5tonnes/day
+Tecnicomar sewage treatment plant
+PETRA-1: Crew boat with enhanced roll angle tolerance 48 Significant Small Ships of 2016
+Builder.........................................Foss Shipyard
+Designer.................................. Robert Allan Ltd
+Vessel’s name...................................... Protector
+Owner/operator.......Port of Long Beach / Long
+Beach Fire Department
+Country........................................................... US
+Flag................................................................. US
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 1
+Contract date.............................December 2012
+Delivery date...............................February 2016
+Protector, the first in Robert Allan Limited’s (RAL’s) RAnger V-3300 class, could serve as a good demonstrator of the shift in expectations placed upon modern fireboats. Such vessels are increasingly being relied upon to serve as incident command centres, capable of responding to local emergencies, instead of being viewed as mere fire pump-equipped workboats.
+The 32.9m loa Protector and its forthcoming RAnger
+V-3300 sisters (the second-in-class Vigilance is expected in mid-2017) feature Voith cycloidal drives in a tractor configuration, which, RAL claims, grants this class a high degree of manoeuvrability and the ability to tackle fires in a number of environmental conditions.
+Given this remit, high speed was put on the back burner; instead, RAL used its in-house CFD capabilities to optimise the hull form to result in minimal wake when travelling ahead and astern at 8knots, as well as to provide good seakeeping ability in foul weather.
+These new fireboats are also equipped with chemical, biological, radiological and nuclear (CBRN) defence capabilities, including a citadel enclosure with specialised HVAC filters, a decontamination shower and chemical detectors.
+Aboard, one finds a ‘Command Information Center’, which enables crew to perform on-scene command duties and to communicate with other agencies and emergency responders.
+In terms of firefighting capacity, each RAnger
+V-3300 craft features an aggregate pumping capacity of 186,390litres per minute. The vessels can also provide more than 136,380litres of water shore-side via 4 inch hoses, to support land-based firefighting operations.
+TECHNICAL PARTICULARS
+Length, oa................................................. 32.9m
+Length, bp................................................. 30.7m
+Breadth, moulded...................................... 10.7m
+Depth, moulded........................................... 4.4m
+Gross tonnage.................................... 454tonnes
+Displacement......................... 587 metric tonnes
+Design, draught........................................... 4.6m
+Design, deadweight................. 77 metric tonnes
+Lightweight............................. 500 metric tonnes
+Deck space (total)....................................... 53m²
+Service speed.........................................10knots
+Max speed...............................................13knots
+Range (nautical miles)................................ 1,170
+Fuel consumption.......................... 14tonnes/day
+Class society and notations.......................... N/A
+Other important international regulations complied with...................USCG Subchapter C . NFPA Standard on Marine
+Firefighting Vessels (Standard 25)
+Main engine(s)
+Make...............................................Caterpillar
+Model....................................................3512C
+Number......................................................... 2
+Output of each engine...................... 1,500kW
+Gearbox(es)
+Make.................................................. Reintjes
+Model.................................................AF 743P
+Number......................................................... 2
+Output .............................................1,600rpm
+Propeller(s)
+Material.................................... Stainless steel
+Manufacturer................................. Voith Turbo
+Number......................................................... 2
+Fixed/controllable pitch..... Cycloidal propeller (controllable)
+Diameter........................................... 2,600mm
+Blade length..................................... 1,660mm
+Speed.....................................1,200-1,800rpm
+Special adaptations.........................Voith fluid coupling VTC 866 DTL
+Open or nozzled...............Thrust-augmenting bottom plate
+Gensets
+Make...................................... Caterpillar C7.2
+Number......................................................... 2
+Output of each set...........150kWe@1,800rpm
+Deck machinery 1 x Rapp Hydra-Pro HP50-15T2 rescue crane/ladder, 1,360kg@15m
+Bridge electronics
+Radar(s)................ Furuno NavNet 3D system
+Autopilot...............................................Furuno
+Other communications systems.......Motorola / Standard Horizon radios
+GPS................................... Furuno NavNet 3D
+Chart plotter...................... Furuno NavNet 3D
+Engine monitoring / fire detection system.............. Eltech Electric
+Onboard capacities
+Fuel oil...........................................60,000litres
+Fresh water.....................................2,800litres
+Sullage............................................3,750litres
+Ballast water..................................93,000litres
+Complement
+Crew...........................................................4-6
+Passengers................................................... 8
+Number of cabins......................................... 1
+Other significant or special items of equipment
+FiFi system • Dedicated pump engines – 2 x CAT 3512C, 1 x CAT C12 • Fire Fighting Systems (FFS)-supplied system with :
+Seven fire pumps, serving 10 water cannons with aggregate capacity of 186,390litres per minute;
+Largest single monitor is rated 54,553litres per minute at range of 183m;
+Two other monitors deliver 27,276litres at 152.4m range;
+Two underwharf monitors for fighting pier fires;
+Manifolds capable of providing shore-side supply of 100,014litres per minute for land-based firefighting 1 x fast rescue boat (Lee Shore Boats, 4.9m Silverheels)
+PROTECTOR: Fireboat optimised for minimal wake and good seakeeping capabilities 50 Significant Small Ships of 2016
+Builder:......................... Gold Coast Yachts, Inc
+Designer..................... Gold Coast Yachts, Inc / Warren Mosler
+Vessel’s name.............................................QE IV
+Owner/operator.......................... Warren Mosler
+Country........................................................... US
+Flag................................................................. US
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 1
+Contract date..................................August 2015
+Delivery date..................................August 2016
+Tasked with making daily trips across the 38nm of deep ocean that separate the Caribbean islands of St
+Croix and St Thomas in the US Virgin Islands, the passenger ferry QE IV is described by builder Gold
+Coast Yachts as having succeeded “where all predecessors had failed”.
+Although a seemingly undaunting distance, the route between the islands is subject to extremely volatile sea conditions. Coupled with strong passenger demand, this has proven a challenge too much for the large conventional ferries, hydrofoils, sea planes and catamarans that have attempted to provide this service in the past. As Gold Coast Yachts puts it: “The prevailing wind and wave direction on the route places the vessel in a beam-on wave orientation for the majority of days in operation”.
+QE IV was subsequently influenced by multihull vessel design, adapted to introduce a tandem- catamaran hull form so as to optimise fuel consumption whilst improving sea motion. Four hulls have been placed in a ‘2+2’ arrangement, with a large span between the forward and aft pairs, at the behest of owner Warren Mosler. Gold Coast
+Yachts adds: “By removing displacement from the centre, both transversely and longitudinally, the vessel has a reduced tendency to react to head and beam seas, as well as reducing wetted surface and hull weight.” This is not without its own challenges – for instance, by grouping four hulls closely together, one encounters additional complexity in hull-wave interactions and cross structuring – but
+CFD and small-scale modelling lend credence to the concept overall.
+To further reduce weight, QE IV’s components were fashioned from carbon fibre – resulting in an approximate vessel weight of just 14tonnes. “FEA was used to analyse the loading in the monococque structure, which was then calibrated with measurements from strain gauges during sea trials,”
+Gold Coast Yachts explains.
+For optimal passenger comfort, QE IV features round windows, two aft heads and six 4.4kW air- con units. The helm has been positioned forward for enhanced visibility in the wheelhouse, and to grant the captain “maximum experience of ship motion and accelerations”, so that the passengers are not adversely affected by sudden adjustments in vessel course and/or speed.
+TECHNICAL PARTICULARS
+Length, oa.................................................................. 31.45m
+Length, bp.................................................................. 29.98m
+Breadth, moulded......................................................... 5.33m
+Depth, moulded............................................................ 2.11m
+Displacement........................................................22.8tonnes
+Design, draught............................................................ 0.85m
+Design, deadweight..............................................8.88tonnes
+Lightweight..........................................................13.95tonnes
+Deck space (total)........................................................ 120m²
+Service speed............................................................18knots
+Max speed..................................................................22knots
+Range (nautical miles)...................................................... 300
+Fuel consumption.........................................0.83tonnes / day
+Classification society........................................................ N/A
+Notations.......................................................................... N/A
+Main engine(s)
+Make.................................................................. Cummins
+Model....................................................................QSB6.7
+Number........................................................................... 2
+Output of each....................................................... 279kW
+Gearbox(es)
+Make............................................................................. ZF
+Model....................................................................... 280-1
+Number........................................................................... 2
+Output.......................................................................... 1:1
+Propeller(s)
+Material...................................................... Stainless steel
+Manufacturer..........................................................Konrad
+Number........................................................................... 4
+Fixed/controllable pitch.............................................Fixed
+Special adaptations.......................Twin prop stern drives
+Open or nozzled...................................................... Open
+Alternators
+Make................................... Cummins Onan 11.5MDKBM
+Number........................................................................... 2
+Output of each set...................................................95.8A
+Deck machinery..........6 x Dometic DuraSea 4.4kW AC units
+Bridge electronics
+Radar(s)........................................ Simrad Broadband 4G
+Autopilot.......................................................Simrad AC70
+VHF/GMDSS................................... 2 x Simrad RS12 DCS
+Displays................. 2 x Simrad NSS12 evo2 Multifunction
+AIS..........................................................Simrad NAIS-400
+Gyro..........................4” Danforth Constellation Compass
+Chart plotter...............................Standard Horizon CP590
+Engine monitoring system.........................SmartCraft VV7
+Fire detection system.................................... Fireboy MA2
+Onboard capacities
+Fuel oil...............................................................1,900litres
+Fresh water..........................................................208litres
+Waste water.........................................................208litres
+Complement
+Crew................................................................................ 3
+Passengers................................................................... 70
+Number of cabins........................................................... 1
+QE IV: Carbon fibre-built passenger tandem cat to handle a treacherous deep ocean route 52 Significant Small Ships of 2016
+Builder.................................... Sea Crest Marine
+Designer..................................... Incat Crowther
+Vessel’s name...................Ratayapibanbancha / Arcarachwaratorn
+Owner/operator......................Royal Thai Police
+Country................................................. Thailand
+Flag....................................................... Thailand
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 0
+Contract date.................................Not specified
+Delivery date....................................... July 2016
+Delivered in July 2016, the 26.2m x 8.5m, aluminium patrol boat sisters
+Ratayapibanbancha and Arcarachwaratorn were constructed by Bangkok-based builder Seacrest
+Marine to a design based on Incat Crowther’s 24m ‘Reef Ranger’ catamaran. This previous aluminium vessel originally entered service in 2014, providing protection to Australia’s famous and environmentally sensitive Great Barrier
+Reef. However, the Thai duo will instead focus on border protection and long-range and coastal patrol duties, as well as transporting dignitaries in a safe manner.
+Each boat features a large aft working deck, which houses a 4.5m fast rescue craft. Forward of this is the main deck cabin, which includes a fully featured galley to starboard and a wet room to port. Forward of the hull access, one finds an eight-man dormitory and a large mess and dining area.
+Two large cabins, dedicated to the senior offices, are located upstairs, next to a private living area, while below decks reveals another two cabins for crew members, in addition to pump rooms and equipment/storage space.
+Meanwhile, visibility is optimised inside the wheelhouse care of forward-raked windows.
+Personnel comfort was another important consideration. Incat Crowther states: “The application of underwater main engine exhaust outlets ensures very low ambient noise levels throughout the vessels and surrounding environment.”
+Each vessel is equipped with twin MAN 12V
+D2862 main engines, rated 1,213kW apiece, which additionally come with Humphree interceptors, for reduced roll in volatile sea conditions.
+Before the vessels were handed over, sea trials proved particularly illuminating; when put through their paces, both newbuilds managed to attain a loaded speed of 32knots and a cruise speed range of 1,000 miles.
+TECHNICAL PARTICULARS
+Length, oa................................................. 26.2m
+Length, bp............................................... 23.89m
+Breadth, moulded........................................ 8.5m
+Depth, moulded........................................... 3.4m
+Displacement....................................... 85tonnes
+Design, draught......................................... 1.15m
+Design, deadweight............................. 15tonnes
+Lightweight...................................... 60.47tonnes
+Service speed.........................................32knots
+Max speed...............................................34knots
+Classification society....................Bureau Veritas
+Main engine(s)
+Make....................................................... MAN
+Model................................. 12V D2562 LE453
+Number......................................................... 2
+Output of each engine.........1,213kW@2,300rpm
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 3000
+Number......................................................... 2
+Propeller(s)
+Number ........................................................ 2
+Alternators
+Make.............................Deutz BF4M 1013MC
+Number......................................................... 2
+Onboard capacities
+Fuel oil...........................................15,000litres
+Fresh water.....................................2,500litres
+Ballast water....................................2,500litres
+Complement
+Crew.............................................................. 2
+Passengers/personnel................................ 12
+Number of cabins......................................... 5
+RATAYAPIBANBANCHA / ARCARACHWARATORN: Arresting patrol boat duo for the Royal Thai Police 54 Significant Small Ships of 2016
+Builder................................. Shemara Refit LLP (now Wight Shipyard Co.)
+Designer............... One2three Naval Architects
+Vessel’s name...................................... Red Jet 6
+Operator...........................................Red Funnel
+Country........................................................... UK
+Flag................................................................. UK
+Total number of sister ships already completed.......................................... 0
+Total number of sisters ships still on order........ 0
+Contract date...................................... April 2015
+Delivery date....................................... July 2016
+Proving that the British still have the knack for innovative fast ferry construction, the delivery of Red Jet 6 has been hailed as a significant milestone for the UK boatbuilding industry, representing the first high-speed passenger ferry to have been constructed domestically in just over 15 years.
+The US$8.5 million, all-aluminium catamaran, which was formally delivered in July 2016, was built on the Isle of Wight by Shemara Refit (now
+Wight Shipyard Co.), working from leased facilities at Venture Quays in East Cowes. Although previously specialising in vessel repairs and refits, WSC has now announced its intention, following the completion of Red Jet 6, to bring ferry construction back to the UK – reviving a tradition that seemed to have become obsolete in late 2000, following the closure of the then active FBM
+Marine yard in Cowes, a celebrated factory for numerous vessels delivered to Greece, Portugal, Hong Kong and Asia throughout the 1990s.
+Red Jet 6 was based on a design supplied by
+Australia’s One2three Naval Architects. Red Jet 6 has since entered service under the management of operator Red Funnel Ferries, ploughing a route between Southampton, on the UK mainland, and
+Cowes, on the Isle of Wight. The company’s Red
+Jet service carries more than 1.1 million passengers each year.
+There are a number of ways in which Red Jet 6 builds on her predecessor, Red Jet 4, which was built in 2003 by Australia-based North West Bay
+Ships. For instance, Red Jet 6 incorporates four
+MTU engines instead of Red Jet 4’s twin-engine arrangement, in order to achieve greater efficiency and redundancy, for minimal potential disruption to sailing schedules. As Peter Morton, Shemara Refit chief executive, put it when Red Jet 6 was delivered: “If the need arises, the engines can be shut down individually and the ferry can maintain the service running on three engines with only minor reduction in speed.”
+Propulsive power is also marginally stronger than that of Red Jet 4, clocking in at 3,600kW compared to 3,500kW. This arrangement grants
+Red Jet 6 the ability to complete a typical
+Southampton-to-Cowes crossing in approximately 23 minutes.
+Red Funnel Ferries also estimates that Red Jet 6’s levels of fuel consumption should prove to be 11% less compared to those of her predecessor. This has been achieved partly by the engines and waterjets combination, and partly by the application of Teflon coatings to her hull, to minimise drag. Also, a special vinyl wrap has been used for the ferry’s superstructure, which, the operator states, should prove effective in reducing weight and overall maintenance costs when compared to conventional paints.
+The passenger lounge has been insulated from the twin hulls via the incorporation of resilient mountings, to curb noise and vibration levels.
+The engines and the associated gearboxes have been laid out in pairs between the ferry’s twin hulls, with the machinery in each hull being of a staggered configuration, with long and shorter shaft lines connecting to each pair of waterjets.
+TECHNICAL PARTICULARS
+Length, oa................................................. 40.7m
+Length, bp............................................... 39.23m
+Breadth, moulded.................................... 10.87m
+Depth......................................................... 3.05m
+Gross tonnage.................................... 363tonnes
+Displacement................................ 132.25tonnes
+Design, draught........................................... 1.3m
+Design, deadweight............................. 31tonnes
+Lightship........................................ 100.87tonnes
+Service speed......................38knots@85% MCR
+Classification society..................Lloyd’s Register
+Notations..................Special Service Craft 2014, Passenger HSC 2008 MCA
+Other important international regulations complied with.........................MSN-1823 Safety
+Code for Passenger Ships Operating Solely in
+UK Categorised Waters – Category D
+Main engine(s)
+Make........................................................MTU
+Model....................................... 10V 2000 M72
+Number......................................................... 4
+Output of each engine.......900kW@2,250rpm
+Gearbox(es)
+Make...........................................................ZF
+Model....................................................3030D
+Generators
+Make.........................................Perkins Sabre
+Number......................................................... 2
+Output of each set.... 63kW 415v phase 50Hz
+Waterjet(s)
+Make.........................................MJP 500 DRB
+Number......................................................... 4
+Bridge electronics
+Radar(s)..........................2 x Furuno FAR2817 12kW X-Band
+GPS................2 x Furuno GP170 w’ OP-20-23
+DGPS beacon set
+Gyro...........................................Simrad GC85
+Chart plotter....... 2 x Furuno FMD3200 ECDIS
+Onboard capacities
+Fuel oil.............................................5,000litres
+Fresh water.....................................1,000litres
+Complement
+Crew.............................................................. 4
+Passengers............ 279 (incl 2 x wheelchairs)
+Number of cabins......................................... 0
+Other significant or special items of equipment.......3 x liferafts, 151-person capacity each . Humphree interceptors for low wash characteristics
+RED JET 6: First UK-built fast ferry in more than 15 years 56 Significant Small Ships of 2016
+Builder................... BAE Systems Jacksonville
+Designer.......... Guido Perla & Associates, Inc.
+Vessel’s name.................................... Sea Power
+Owner/operator....................................SEACOR
+Country........................................................... US
+Flag................................................................. US
+Total number of sister ships already completed..... 1
+Total number of sister ships still on order.......... 0
+Contract date....................................March 2014
+Delivery date..................................August 2016
+Delivered in August 2016, articulated tug barge (ATB) unit Sea Power was designed by Guido Perla & Associates, Incorporated (GPA) and customised for the shipowner’s specific operational requirements.
+Constructed at BAE Systems, Sea Power is the first ATB tug designed and built for SEACOR.
+She has subsequently been ‘married’ to the barge
+Sea Chem-I, a 176.78m x 23.77m, 180,000bbl barge that was constructed at DonJon Marine’s
+Erie Shipbuilding, in Erie, Pennsylvania.
+Sea Power herself has an overall length of 42.98m, a draught of 6.75 m and a breadth of 14m, with accommodation for 12 crew members.
+According to GPA, what distinguishes Sea Power from other ATB tugs is her power, manoeuvrability, high levels of crew comfort and environmental compatibility. Not only does she perform in the top tier as a pusher, but she also does so while minimising ecological impact.
+With twin 8-cylinder, Wärtsilä W8L32 diesel engines, Wärtsilä SCV95 reduction gears and twin propellers, she is rated 8,948kW and features a top solo speed of 15knots and a service speed of 12knots. To carry her payload, she has also been designed with an INTERCON 50 PIN connector system (engaged force generated 136tonnes) and Van Der Velden Barke High-Lift rudders for superior manoeuvrability and course-keeping.
+Sea Power’s internal electrical power comes from two 250kW Marathon 433PSL6216 main generator sets and a third auxiliary 250kW
+Marathon 433PSL6216 generator set.
+Along with her ergonomic design, spacious crew quarters and berths, GPA performed extensive noise and vibration analysis to ensure a smooth and quiet vessel for crew comfort.
+Ecologically, Sea Power is also equipped with an internal recirculating liquid ballast system.
+This assists the vessel in minimising her impact on underwater noise pollution – thereby reducing the frequency and likelihood of ill effects on sea life in waterways – and is able to minimise pumping overboard, lowering the risk of ecological contamination.
+GPA adds: “Sea Power also utilises Wärtsilä’s
+Sternguard system for her propulsion shafts.
+Sternguard is a contained system which seals in and purifies the unique biodegradable lubrication oil.”
+TECHNICAL PARTICULARS
+Length, oa.................................................... 43m
+Length, bp.................................................... 43m
+Breadth, moulded......................................... 14m
+Depth, moulded.............................................. 8m
+Gross tonnage................................. 1,301tonnes
+Displacement.................................. 2,244tonnes
+Design, draught......................................... 6.75m
+Design, deadweight...................... 976.58tonnes
+Lightweight................................. 1,284.45tonnes
+Service speed.........................................12knots
+Max speed...............................................15knots
+Main engine(s)
+Make.................................................. Wärtsilä
+Model................................................... W8L32
+Number......................................................... 2
+Output of each engine.......4,640kW@750rpm
+Gearbox(es)
+Make.................................................. Wärtsilä
+Model................................................... SCV95
+Number......................................................... 2
+Output...................................... 600-24,000kW
+Propeller(s)
+Material ...............................................Bronze
+Manufacturer...................................... Wärtsilä
+Number......................................................... 2
+Fixed/controllable pitch................Controllable
+Open or nozzled................................ Nozzled
+Alternator(s)
+Make..............SSDG John Deere 6090SFM85
+Number......................................................... 3
+Output of each set............................... 250kW
+Deck machinery 2 x Rapp Hydra-Pro cranes, 0.99tonnes SWL
+Bridge electronics
+Autopilot..........Sperry Marine / Navipilot 4000
+Onboard capacities
+Fuel oil.........................................577,700litres
+Fresh water...................................77,000litres
+Sullage..........................................19,000litres
+Ballast water................................514,600litres
+Complement
+Crew............................................................ 12
+Passengers................................................... 0
+Number of cabins....................................... 12
+Other significant or special items of equipment
+PIN connecting system: INTERCON 50
+SEA POWER: Environmentally friendly and low- noise/low-vibration ATB unit 58 Significant Small Ships of 2016
+Builder...........................Macduff Shipyards Ltd
+Designer.................... Macduff Ship Design Ltd
+Vessel’s name............................................Selkie
+Owner/operator......... Moray Council, Scotland
+Country........................................................... UK
+Flag ................................................................ UK
+Total number of sister ships already completed......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date....................................March 2015
+Delivery date....................................... May 2016
+Valued at US$3.5 million, the 25.7m dredger
+Selkie emerged from Macduff Shipyards’
+Buckie facilities in North-East Scotland in May 2016, whereupon she was handed over to Moray
+Council. Macduff Ship Design secured the competitive tender to design the vessel in 2015, via the European Union (EU) tender process, and the completed dredger replaces the 1968-built
+Shearwater, taking over her role of servicing harbours administered by Moray Council – including Buckie, Burghead, Hopeman, Findochty, Portknockie and Cullen – as well as offering her services to other harbours located in the north and east of Scotland.
+Selkie was specifically designed to cope with the small harbours that are encountered on the Moray coast, most of which feature narrow entrances. As such, Macduff designed the vessel with a relatively narrow beam of 8.2m and a moulded depth of 3.4m.
+The vessel has been fitted with an excavator unit, supplied by Liebherr, which has been built to a marine specification and is mounted on the deck.
+This excavator has the capability to dredge at depths down to 8m below waterline.
+Selkie is also fitted with a pair of spud legs, enabling her to position herself as a stable platform when in harbour. The legs are controlled by two spud leg winches, each rated 10tonnes, which can be controlled both locally and from the wheelhouse. Other deck equipment includes two capstans and an anchor windlass.
+The vessel has been classed by the UK
+Maritime & Coastguard Agency (MCA) to accommodate a three-man crew, with a galley and messing facilities, three single cabins, WC facilities and a laundry area. Macduff Ship
+Design notes: “The hopper itself can hold up to 147m³ of dredge spoil at a maximum specific gravity of 1.80.”
+Propulsion-wise, the vessel benefits from a set-up of two CAT C18 Acert engines, coupled to a pair of Twin Disc MGX -516 gearboxes and two auxiliary C4.4 engines. Selkie’s propulsion systems were supplied by Kort
+Propulsion, with 1,500mm propellers and a
+KT 150 bow thruster, while her steering gear was supplied by Wills Ridley.
+TECHNICAL PARTICULARS
+Length, oa................................................. 25.7m
+Length, bp................................................. 24.2m
+Breadth, moulded........................................ 8.2m
+Depth, moulded........................................... 3.4m
+Gross tonnage.................................... 212tonnes
+Displacement..... 507tonnes (max summer load)
+Design, draught.......................3.028m (summer)
+Lightweight.................................... 218.95tonnes
+Classification society............................. UK MCA
+Main engine(s)
+Make...............................................Caterpillar
+Model..............................................C18 Acert
+Number......................................................... 2
+Output of each engine.......357kW@1,800rpm
+Gearbox(es)
+Make................................................Twin Disc
+Model............................................ MGX – 516
+Number......................................................... 2
+Propeller(s)
+Material................................................Bronze
+Manufacturer.............................................Kort
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter........................................... 1,500mm
+Open or nozzled.................................... Open
+Alternators
+Make/type........................................CAT C4.4
+Number......................................................... 2
+Output of each set................................. 51kW
+Bow thruster(s)
+Make............................................ Kort KT 150
+Number......................................................... 1
+Deck machinery . 1 x Liebherr 926 excavator crane 2 x Macduff Shipyards winches, 10tonnes each
+Bridge electronics................ Echomaster Marine
+Onboard capacities
+Fuel oil...........................................32,893litres
+Fresh water.....................................4,317litres
+Sullage............................................1,955litres
+Ballast water....................................7,372litres
+Complement
+Crew.............................................................. 3
+Passengers................................................... 0
+Number of cabins......................................... 3
+SELKIE: Compact dredger, customised to access narrow harbours in North-East Scotland 60 Significant Small Ships of 2016
+Builder.......................Wang Tak Engineering &
+Shipbuilding Co, Ltd
+Designer...................... Wang Tak / Guangdong
+Hongshen Shipbuilding &
+Engineering / Incat Crowther
+Vessel’s name................................Shi Zi Yang 7
+Owner/operator.....Dongguan Humen Longwei
+Passenger Ferry Co.
+Country................................China / Hong Kong
+Flag............................................................ China
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.................................Not specified
+Contract date.................................Not specified
+Delivery date................................ January 2017
+Hitting the waves just on the other side of New
+Year, the 2017-launched Shi Zi Yang 7 was built by Wang Tak, with design assistance sourced from
+Guangdong Hongshen Shipbuilding & Engineering and Incat Crowther. The 199-passenger ferry has been designed to compete in the cut-throat Chinese ferry market, and to satisfy this market’s requirements for high speed and high levels of passenger comfort.
+The vessel has been tasked with operations in the
+Pearl River Delta, between Hong Kong and Macau.
+Despite her colourful and eye-catching livery, the vessel’s core selling point is her efficient hull form.
+Incat Crowther states: “An effectively laid-out deck plan keeps superstructure to a minimum, with hull cross structure eliminated where not required.” This is coupled with a semi-SWATH hull form. Both hull and superstructure have been fashioned from lightweight alluminium alloy.
+Shi Zi Yang 7’s main boarding zones have been situated port and starboard aft. Utilising these, passengers enter the main cabin via an area that houses the 10-man crew’s mess, bathrooms, luggage racks and a small kiosk. Further forward, one enters the main cabin, which has been designed for optimal light, and which features 139 passenger seats. A pair of VIP cabins are located at the aft outboard sides of this cabin, each seating four persons.
+Passengers can ascend by stair to the upper deck, which houses the business class cabin, complete with 52 seats. Forward of this, one encounters the wheelhouse, which has been designed with external bridge wing stations for enhanced visibility and manoeuvrability. Shi Zi Yang 7 has also been equipped with six life rafts: two featuring the capacity for 65 persons each, and four designed for 25 persons apiece. Searchlights, floodlights, navigation lights and lighting fixtures have been installed for both internal and external vessel usage, as has a CCTV system.
+TECHNICAL PARTICULARS
+Length, oa................................................. 41.9m
+Length, wl..................................................... 40m
+Beam........................................................... 9.5m
+Depth........................................................... 3.2m
+Gross tonnage.................................... 387tonnes
+Design, draught.............................1.1m (approx)
+Service speed......................30.5knots (full load)
+Max speed..............................32knots (lightship)
+Classification society............China Classification
+Society
+Main engine(s)
+Make........................................................MTU
+Model........................................ 12V 2000M72
+Number......................................................... 2
+Output of each engine...................... 1,080kW
+Gearbox(es)
+Make...........................................................ZF
+Model...................................................... 3055
+Number......................................................... 2
+Waterjet
+Make........................................................ MJP
+Model................................................... 650DD
+Number......................................................... 1
+Generator(s)
+Make............................... Dongfeng Cummins
+Model..........................................CCFJ-80JYA
+Number......................................................... 2
+Output of each ...................................... 80kW
+Deck machinery 1 x Hypac HEAW15-16 windlass
+Bridge electronics
+Radar(s)......Furuno FR2127, Furuno FR-8065
+GPS.........................................Furuno GP-170
+Other communications systems........... Furuno
+FM-8900
+Depth sounder.........................Furuno FE-800
+Engine monitoring/fire detection system
+W/H & E/R’s alarm and monitoring systems for propulsion engines, fire detection and alarm system
+Onboard capacities
+Fuel oil.............................................7,100litres
+Fresh water.....................................1,080litres
+Complement
+Crew............................................................ 10
+Passengers............................................... 199
+SHI ZI YANG 7: High-speed Hong Kong ferry keeps it simple 62 Significant Small Ships of 2016
+Builder.....................................Maritime Partner
+Designer..................................Maritime Partner
+Vessel’s name....................................... Skansen
+Owner/operator...................... Ålesund Harbour
+Country................................................... Norway
+Flag......................................................... Norway
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order..................................................... 1
+Contract date.................................Not specified
+Delivery date...................................... April 2016
+Described by its designer and builder as a ‘Swiss army knife’, the multi-purpose monohull/single-chine Alusafe 1500 MPV
+Skansen was developed to fulfil a wide range of assignments – from towing and oil spill response to firefighting operations – along the coast, as well as in the harbour and along the the quay fronts of the Ålesund/Sunnmøre region of
+Norway. The vessel has received approval according to the new regulations for coastal vessels and for oil spill response duties, and is also fully equipped to assist the fire department in firefighting and rescue-diving operations.
+This new workboat has been given the same name as the previous, outgoing Port Authority workboat, Skansen, which had been operating in the Ålesund region since 1975. According to
+Anders Bjørdal, port captain of the Port Authority of Ålesund: “Improved stability and high towing capacity makes Skansen an important part of our emergency preparedness, especially with regards to acute pollution situations.”
+Skansen is certified for oil pollution response operations, and is equipped with high towing capacity for towing oil booms. It is also fitted with a water cannon for firefighting operations.
+On the foredeck, the vessel is equipped with a 3tonne-capacity capstan winch and a crane with a lifting capacity of 4.5tonnes. The reinforced deck can withstand concentrated loads, and is approved for carrying cargo up to a weight of 5tonnes, enabling the crew to load heavy equipment needed for various operations and to collect heavy objects floating in the water.
+This large load capacity, in addition to a hydraulically operated bow ramp, means the vessel can operate as a transportation platform for heavy machinery – such as all-terrain vehicles, fire engines or police patrol cars – to otherwise inaccessible areas. The bow ramp, which can be remotely operated from the helmsman’s position at the bridge, enables the crew to deploy oil booms from the deck. The aft deck is fitted with one additional capstan winch, with 1tonne pulling capacity, and a remote- released towing hook, operated from the helmsman’s position at the bridge.
+The Alusafe 1500 MPV is constructed from aluminum and features a fiberglass sandwich superstructure, mounted on dampeners to reduce noise and vibrations from the engine room to the wheelhouse. The wheelhouse is arranged with a small pantry, and a seating area with room for six people, thus seating eight people in the wheelhouse in total. A locker room with sinks and toilet facilities is located below deck.
+Maritime Partner has claimed that the multipurpose nature of this vessel type means that it could also be deployed as a support vessel for fish farms and diving operations, for example.
+TECHNICAL PARTICULARS
+Length, oa............................................... 14.99m
+Length, bp................................................. 14.5m
+Breadth, moulded........................................ 4.9m
+Depth, moulded........................................... 0.9m
+Gross tonnage................................... 18.7tonnes
+Lightweight........................................ 15.9tonnes
+Service speed.........................................25knots
+Max speed...............................................30knots
+Main engine(s)
+Make............................................ Volvo Penta
+Model..........................................................D9
+Number......................................................... 2
+Output of each engine......................... 317kW
+Gearbox(es)
+Make...........................................................ZF
+Model........................................................ 286
+Number......................................................... 2
+Waterjet(s)
+Make......................................MJP Hybrid 300
+Number......................................................... 2
+Bow thruster(s)
+Make.................................................. Sleipner
+Number............................................... SH 240
+Deck machinery..........1 x Fassi F50 AFM crane, 4.5tonnes/m
+Bridge electronics
+Radar(s)..................................Furuno DRS 4F
+Autopilot..................................... Simrad AP70
+GMDSS......................................... Sailor 6222
+GPS...................................Furuno GPS SC-30
+Chart plotter........................... Furuno MaxSea
+Onboard capacities
+Fuel oil................................................800litres
+Fresh water........................................200litres
+Sullage.................................................50litres
+Complement
+Crew.............................................................. 2
+Passengers................................................... 6
+Number of cabins......................................... 1
+SKANSEN: Bigger and better multi-purpose workboat to replace 1975 Norwegian stalwart 64 Significant Small Ships of 2016
+Builder............................Vigor Fabrication LLC
+Designer............ Jensen Maritime Consultants
+Vessel’s name.....................................St Francis
+Owner/operator................... San Francisco Fire
+Department
+Country........................................................... US
+Flag................................................................. US
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.................................Not specified
+Delivery date....................................... July 2016
+As San Francisco’s first new fireboat in 61 years, St Francis (formerly Fireboat 3) has been hailed as both a high-end firefighting solution and a mobile pumping station “powerhouse”. Designed by
+Jensen and built by Vigor, the 26.8m loa vessel is capable of pumping millions of gallons of water directly from San Francisco Bay into the city’s auxiliary water system – an act to ensure that, should an earthquake cause damage to San
+Francisco’s water mains, onshore firefighters will be able to rely on the vessel for a steady flow of water.
+This consideration reflects one of the most serious infrastructural challenges affecting earthquake- prone zones, and serves as a reminder of the
+October 1989 Loma Prieta quake, which burst San
+Francisco’s subterranean domestic water lines.
+Speaking at the time of her delivery, Keith
+Whittemore, Vigor’s executive vice president for business development, commented: “St Francis is a complex vessel with multiple modes of operation and different systems that need to communicate with each other seamlessly to give the City’s firefighters the best possible tool for the future.”
+Cummins was largely responsible for the fireboat’s critical pumping and propulsion power.
+A trio of QSK19-M US EPA Tier 3 engines provide 559kW@1,800rpm and feed Counterfire ESF 300- 550 fire pumps with a capacity for 27,276litres per minute each – or a total of 81,830litres per minute of flow with all three engines in pumping mode.
+Power is transmitted to the pumps via three Logan
+LC318 SAE #0 air actuated clutches and Elbe cardan shafts with a Centa Centaflex-R flywheel -mounted torsional coupling.
+In a bid to significantly reduce noise and vibrations, the designer also mounted St Francis’ three engines on Christie & Grey TSC T-10 vibration isolators.
+TECHNICAL PARTICULARS
+Length, oa................................................. 26.8m
+Length,bp.................................................. 23.9m
+Breadth, moulded...................................... 7.62m
+Depth, moulded......................................... 4.37m
+Gross tonnage.................................... 207tonnes
+Displacement..................................... 260tonnes
+Design, draught......................................... 2.74m
+Design, deadweight............................. 46tonnes
+Lightweight......................................... 214tonnes
+Deck space .............................................. 148m²
+Deck capacity................................... 1,270kg/m²
+Service speed......................12knots@80% MCR
+Max speed...............................................12knots
+Range (nautical miles).................2,000@12knots .4,000@10knots
+Fuel consumption...........4.8tonnesday@12knots 2tonnes/day@10knots
+Classification society ................................... ABS
+Other important regulations complied with.........NFPA 1925 Type II Fireboat
+Main engine(s)
+Make................................................ Cummins
+Model..................................................QSK 19
+Number......................................................... 3
+Output of each engine......................... 559kW
+Gearbox(es)
+Make.................................................. Reintjes
+Model.................................................WAF364
+Number......................................................... 2
+Propeller(s)
+Material........ Austenitic stainless steel (ASTM
+Grade CF-3)
+Manufacturer..........................Sound Propeller
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter................................................ 1.57m
+Open or nozzled.................................... Open
+Generator(s)
+Make........................Northern Lights M99C13
+Number......................................................... 2
+Output of each set...............99kW@1,800rpm
+Bow thruster(s)
+Make ..................................Wesmar V2-20NS
+Number......................................................... 1
+Output of each....................................... 93kW
+Deck machinery 1 x MPH1.25-20K crane, 1,130kg@3m / 385kg@7.6m 1 x Pullmaster PL2 boat handling winch, 1tonne capacity
+Other deck equipment
+Rescue boat
+Bridge electronics
+Radar(s)........Furuno FAR 2117 X-Band radar
+DRS6A UHD digital radar
+Autopilot...............................................Simrad
+GMDSS................................................ Furuno
+GPS.........................Furuno GP33 WAAS GPS
+Gyro.....................................................Simrad
+Chart plotter.........................................Furuno
+Onboard capacities
+Fuel oil...........................................44,665litres
+Fresh water.....................................1,020litres
+Sullage...............................................375litres
+Foam (firefighting)...........................4,060litres
+Complement
+Crew.............................................................. 3
+Passengers................................. 4 firefighters
+Number of cabins......................................... 0
+Other significant or special items of equipment 1 x Cummins QSK 19-M dedicated fire pump engine 3 x Counterfire fire pumps 6 x fire monitors, 2 x 680m³/hr 4 x 340m³/hr (2 of which are under wharf monitors)
+ST FRANCIS: A firefighting platform and a mobile pumping station in one craft 66 Significant Small Ships of 2016
+Builder............................... RMK Marine – Tuzla
+Designer...........................Macduff Ship Design
+Vessel’s name.................................... T. Servis 1
+Owner/operator................................... Unknown
+Country.................................................... Turkey
+Flag.......................................................... Turkey
+Total number of sister ships already completed.......................................... 1
+Total number of sister ships still on order..................................................... 0
+Contract date.................................Not specified
+Delivery date...............................February 2016
+As the first of two 14.9m service vessels constructed by Turkish boatbuilder RMK
+Marine to a design provided by Scotland’s Macduff
+Ship Design, the 39gt T. Servis 1 was delivered to her local, Turkish owner (whose identity has remained confidential) in February 2016 – shortly followed by sister vessel, T. Servis 2. This duo was part of a wider order coordinated between Macduff and the Tuzla-based yard for a selection of newbuilds for the same owner, including five 10.1m mooring tugs and two 19m shallow-draught ASD tugs.
+T. Servis 1’s prime remit is to serve as a multi-role harbour service boat, able to carry a maximum complement of 10 persons as well as 5tonnes of cargo on the aft deck. Cargo is transported onboard independently, without the need for external assistance, courtesy of a small, Toimil-supplied marine crane, rated 0.7tonnes at 6.85m and positioned aft.
+In terms of capacity, T. Servis 1 and her sister can each carry up to 2,270litres of fuel oil, 500litres of fresh water and 330litres of black water.
+The vessel is powered by twin Volvo Penta D16- 750 main engines, rated 552kW at 1,900rpm apiece, driving propellers through Twin Disc MG 5145 gearboxes. For enhanced speed and seakeeping, T.
+Servis 1 has also incorporated Humphree active interceptors into her arrangement.
+At the time of delivery, Ian Ellis, managing director of Macduff, commented: “[Our] biggest design challenge was the required 16knot service speed, in light of the vessel’s relatively low power and the ability to carry 10 crew and personnel, have a pushing capability and accommodate space for the cargo and crane.”
+TECHNICAL PARTICULARS
+Length, oa................................................. 14.9m
+Length, bp............................................... 14.22m
+Breadth, moulded........................................ 4.8m
+Gross tonnage...................................... 39tonnes
+Displacement....................................... 51tonnes
+Design, draught......................................... 1.83m
+Design, deadweight............................. 11tonnes
+Lightweight........................................... 40tonnes
+Deck space.........................................4m2 (total)
+Deck capacity................................... 5tonnes/m2
+Service speed.........................................14knots
+Max speed...............................................16knots
+Classification society.........................TÜrk Lloydu
+Notations.................... X1A5XM, AUT-N Harbour
+Service Boat
+Main engine(s)
+Make............................................ Volvo Penta
+Model........................................................D16
+Number......................................................... 2
+Output of each engine......................... 552kW
+Gearbox(es)
+Make................................................Twin Disc
+Model............................................... MG 5145
+Number......................................................... 2
+Propeller(s)
+Manufacturer................................ Teignbridge
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter........................................... 1,900mm
+Open or nozzled.................................... Open
+Deck machinery 1 x Toimil T-055M/2 crane, 700kg@6.85m SWL
+Onboard capacities
+Fuel oil.............................................2,270litres
+Fresh water........................................500litres
+Sullage...............................................330litres
+Complement
+Crew.............................................................. 2
+Passengers................................................... 8
+T. SERVIS 1: Speed, space and push in one compact tug 68 Significant Small Ships of 2016
+Builder..................................Holland Shipyards
+Designer..............................................Eddy Tug
+Vessel’s name.......................................... Telstar
+Owner/operator......Iskes Towage and Salvage
+Country........................................... Netherlands
+Flag................................................. Netherlands
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.............................November 2015
+Delivery date................................ October 2016
+Slightly more compact than her predecessor
+Eddy 1 (see Significant Small Ships of 2014, pages 26 and 27), the compact, 25m Telstar, which was delivered in October 2016, is a further refined version of the hybrid-driven ‘Efficient, Dynamic, Double-Ended’ tug (EDDY Tug) concept, which aligns azimuthing thrusters, one under the prow and one under the stern, to realise a vessel capable of high-precision manoeuvring and the ability to exert full thrust in any direction.
+As with Eddy 1, Telstar was built at Holland
+Shipyards to the specs of the EDDY 24-75 design.
+The vessel was delivered to Iskes Towage & Salvage in the Port of IJmuiden – an ideal location to test the tug’s manoeuvrability. The design also allows for towing pins to be fitted on the aft bulwark, to assist with control when encountering narrow lock and bridge passages. Stability is an important consideration given that lock transits are a key part of the Iskes harbour towage business.
+Telstar is powered by two Mitsubishi main engines and two permanent magnet electric motors. The vessel also features the Veth Hybrid
+Drive (VHD) system manufactured by Veth
+Propulsion, which supplied the vessel’s Z-drive
+VZ1800 VHD thrusters, Scania Dl16 gensets and a
+Sisu harbour set.
+The tug’s hybrid arrangement incorporates diesel-direct and diesel-electric inputs to the thrusters. The electric motors, rated 600kW each, are powered by the two 640kW Scania gensets. A transit speed of 8knots can be attained using one generator, and 10knots on two. The bollard pull of 75tonnes in diesel-direct mode is measured at 30tonnes in ‘e-mode’. Operating in ‘e-mode’ could help to slash fuel costs and emissions by 50%, depending on the port of operations, whilst also reducing main diesel engine running hours, lowering maintenance costs. When more power is required in e-mode (for push-pull and active assist operations, for example) the operator can add the power of the diesel-direct input for extra kick.
+TECHNICAL PARTICULARS
+Length, oa............................................... 25.45m
+Length, bp............................................... 23.57m
+Breadth, moulded...................................... 11.4m
+Depth, moulded......................................... 7.01m
+Gross tonnage.................................... 303tonnes
+Displacement..................................... 529tonnes
+Design, draught......................................... 5.65m
+Design, deadweight............................. 91tonnes
+Lightweight......................................... 438tonnes
+Service speed..................... 8.2knots (on 640kW electric motor)
+Max speed............................................13.5knots
+Range (nautical miles)................................ 4,700
+Classification society....................Bureau Veritas
+Notations.........I TUG, _HULL. MACH, AUT-UMS
+Bollard pull........................................ 76.4tonnes
+Main engine(s)
+Make............................................... Mitsubishi
+Model ...................................................S16R2
+Number......................................................... 2
+Output of each engine....1,450kW@1,350rpm
+Propeller(s)
+Manufacturer.......................... Veth Propulsion
+Type...........................................Veth VZ-1800
+Number......................................................... 2
+Diameter........................................... 2,600mm
+Speed........................ 1,540rpm (input speed)
+Special adaptations..........Diesel and e-motor in-line
+Open or nozzled................................ Nozzled
+Deck machinery 1 x Ridderinkhof double drum, rope diameter 88mm, rope storage 2 x 170m, 149kW, 30tonnes pull on first layer@15m/min 1 x MKB Machinefabriek angled towing pin system, 75tonnes SWL 2 x Holland Shipyards towing bits, 75tonnes SWL 1 x capstan, 50kN with speed approx. 10m/min
+Bridge electronics
+Radar(s)............................... Furuno FAR2117
+Autopilot..........................................Pilotstar D
+GMDSS.......................VHF – 1 / 2 Sailor-6222
+AIS............................................Furuno FA-150
+GPS.........................................Furuno GP-170
+Magnetic compass..............Cassens & Plath, Reflecta 1 Fiberline
+GPs compass............................ Furuno SC-50
+Chart plotter...... Transas, Tsunamis Navigator
+Onboard capacities
+Fuel oil...........................................80,000litres
+Fresh water...................................16,000litres
+Sullage..........................................11,000litres
+Bilge water......................................3,500litres
+Sludge.............................................4,000litres
+Dirty oil............................................4,000litres
+Complement
+Crew.............................................................. 5
+Passengers................................................... 0
+Number of cabins......................................... 4
+TELSTAR: EDDY Tug concept vessel matches clean electric power with high manoeuvrability 70 Significant Small Ships of 2016
+Builder.................................. Aluminium Marine
+Consultants Ltd (AMC)
+Designer...................................................... AMC
+Vessel’s name ...................................... Tempest
+Owner/operator........................................CWind
+Country........................................................... UK
+Flag................................................................. UK
+Total number of sister ships already completed.......................................... 3
+Total number of sister ships still on order.......... 0
+Contract date................................ January 2015
+Delivery date................................ January 2016
+Offshore wind farm support vessels face working environments within deeper waters, and in more far-flung locations, than has been the case to date, and, as such, vessel seakeeping ability has become as important as, if not more important than, speed.
+As the first of a series of four crew transfer vessels (CTVs) built to yield maximum days at sea, Tempest’s focus is not solely on transit speed – although the 22.5m loa boat is capable of achieving a top speed of 28knots – but on its ability to stand firm against rough weather and waves. The craft’s 1.4m draught, combined with a high waterline, provides ample room for the waves to pass between her hulls, thus preventing slamming and increasing the vessel’s personnel transfer capability.
+Waterjets were selected for enhanced manoeuvrability and thrust. The Rolls-Royce
+Kamewa models chosen come with compact reversing buckets which can deliver up to 70% of the normal forward thrust, resulting in enhanced transit efficiency and the ability to keep the CTV pushed onto the tower in high sea states.
+To reduce the likelihood of unplanned downtime, Tempest has adopted MTU’s
+BlueVision propulsion monitoring system. Rob
+Stewart, commercial director at AMC, adds that the bridge has been fitted with state-of-the-art navigation and communication solutions, incorporating “some unique features at the request of the client”.
+A set of Cummins Onan MDKBV units were chosen to provide onboard power, mainly due to their reported low sound and vibration profile, AMC says. The vessel superstructure has been resiliently mounted, granting Tempest’s technician complement a relatively smooth and quiet transit, with KPM shock-mitigating seats playing their part in boosting passenger comfort.
+Although Tempest’s second and third ‘sister’ vessels are some 2m smaller in length than the debutant, all four vessels in this series have been simultaneously in build with staggered delivery dates. AMC says: “The installations are almost identical, allowing a completely interchangeable crewing which is providing a huge benefit to the client.”
+TECHNICAL PARTICULARS
+Length, oa................................................. 22.5m
+Breadth, moulded........................................ 7.7m
+Depth, moulded...................... 2.8m (@midships)
+Gross tonnage................................... 51.7tonnes
+Displacement`................................... 72.5tonnes
+Design, draught....................................... 1.343m
+Design, deadweight........................ 20.32tonnes
+Deck space ...................................40m² forward 25m² aft
+Deck capacity...............................7.5tonnes fwd 7.5tonnes aft
+Service speed.........................................22knots
+Max speed...............................................28knots
+Bollard pull........................................... 10tonnes
+Classification society................................... MCA
+Notations........................................... Category 2
+Other important international regulations complied with
+MCA dangerous goods and fuel transfer compliant
+Main engine(s)
+Make........................................................MTU
+Model....................................... 10V 2000 M72
+Number......................................................... 2
+Output of each engine......................... 900kW
+Gearbox(es)
+Make...........................................................ZF
+Model................................................. ZF 3000
+Number......................................................... 2
+Alternator(s)
+Make...................................................... Onan
+Number......................................................... 2
+Output of each set................................. 19kW
+Waterjet(s)
+Make...................Rolls-Royce Kamewa 50 A3
+Number......................................................... 2
+Deck machinery
+Winch(es).................................... 1 x Hercules
+Bridge electronics
+Radar................................................... Furuno
+Autopilot.....................................Simrad AC80
+GMDSS......................................... Sailor 6222
+GPS............................................ Furuno GP33
+Chart plotter......................Furuno Navnet T2T
+Engine monitoring/ fire detection system...........Energy Solutions
+Consulting
+Onboard capacities
+Fuel oil.............................................7,000litres
+Fresh water.....................................1,000litres
+Sullage............................................1,000litres
+Complement
+Crew.............................................................. 2
+Passengers................................................. 12
+Number of cabins......................................... 2
+TEMPEST: Semi-displacement catamaran CTV, designed to balance seakeeping and transit speed 72 Significant Small Ships of 2016
+Builder............................................Brødrene Aa
+Designer.........................................Brødrene Aa
+Vessel’s name.....................Vision of the Fjords
+Owner/operator.................................The Fjords
+Country................................................... Norway
+Flag......................................................... Norway
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order...................................Not specified
+Contract date.................................Not specified
+Delivery date....................................... July 2016
+Completed just a year after contract signing, the futuristic sightseeing catamaran Vision of the
+Fjords has commenced services on Norway’s
+UNESCO World Heritage-listed Nærøyfjord. The 40m, carbon-fibre ferry was developed with the intent of causing minimal impact on her ecologically sensitive surroundings whilst providing a first rate tourist experience. Designed and built in western
+Norway by Brødrene Aa, Vision of the Fjords is unique as a hybrid diesel/battery electric-powered, twin-hull vessel, and is described as a ‘parallel hybrid’ due to the fact that her electric and diesel engines can be run independently of each other, or can power the propellers together, with seamless transition between modes.
+The vessel is operated by Norwegian tourist boat operator The Fjords, between Flam and Gudvangen, with a top speed of 18knots. However, when reaching the sensitive Nærøyfjord waters, she switches to pure battery power at a speed of approximately 8knots, engaging in emissions-free, silent running. The battery pack is charged by the engines or from a shoreside supply, and a compact version of ABB’s
+Onboard DC Grid system is responsible for managing the energy flow between the diesel machinery, propellers and battery charging station.
+The ferry’s exterior lines were designed to resemble a twisting mountain path, granting passengers full freedom of movement up and around the entire vessel. The catamaran is certified for 400 passengers, accommodated across two decks, and her twin hulls were designed with a very high prismatic coefficient, so as to minimise wake and lessen wave-induced erosion on the fjords’ narrow shores.
+Vision of the Fjords’ parallel hybrid propulsion system was engineered by Mancraft of Bergen, Germany. This system incorporates two drivelines, each consisting of a diesel engine, coupling/clutch combination, electric motor and generator combination with flexible connectors on each side, and advanced torque measuring equipment and monitoring for the respective operating modes.
+A pair of 12-cylinder MAN D2862 LE422 engines, each producing 749kW at 2,100rpm, provides diesel power. In each case, power is transmitted via a
+Centa electro-magnetic clutch through a Centalink drive shaft to an Oswald permanent-magnet electric motor. The diesel and electric engines can power the propellers together, or independently; in diesel mode, full engine power can be directed through the Oswald electric motor to the ZF gearbox and
+West Mekan controllable-pitch propeller. The
+Oswald synchronous machines can also function as alternators, at a 200kW rating, to charge the batteries, drawing on excess power available from the diesels.
+The battery packs are installed in the twin hulls.
+The 576kWh energy storage system uses lithium-ion nickel-manganese-cobalt (NMC) cells and modules from LG Chem, adapted for maritime use by Hovik- based system contractor ZEM. During sightseeing in the most picturesque sections of the fjord, or for trips in harbour, Vision of the Fjords is driven solely by battery-fed electric motor propulsion, with an endurance of up to three hours in this mode.
+Vision of the Fjords is undertaking a year-round schedule and is expected to make about 700 journeys per annum.
+TECHNICAL PARTICULARS
+Length, oa............................................... 42.04m
+Length, bp............................................... 40.85m
+Breadth...................................................... 15.2m
+Depth........................................................... 3.5m
+Gross tonnage.................................... 753tonnes
+Design, draught........................................... 1.5m
+Design, deadweight............................. 47tonnes
+Service speed...........................8knots (approx.)
+Max speed...............................................18knots
+Classification society.............................. DNV GL
+Main engine(s) (DIESEL)
+Make....................................................... MAN
+Model........................................ D2862 LE422
+Number......................................................... 2
+Output of each engine.......749kW@2,100rpm
+Main engines (ELECTRIC)
+Make................ Oswald permanent-magnetic electric engines
+Number......................................................... 2
+Output of each engine...... 150kW (as engine) . 200kW (as alternator)
+Battery power......................................... 576kWh
+Propeller
+Manufacturer ...............................West Mekan
+Number......................................................... 1
+Fixed/controllable pitch................Controllable
+Complement
+Passengers............................................... 400
+VISION OF THE FJORDS: Hybrid tour boat keeping Norwegian fjord pristine 74 Significant Small Ships of 2016
+Builder....................................Baltic Workboats
+Designer.................................Baltic Workboats
+Vessel’s name...................................... Zeeleeuw
+Owner/operator............. Agentschap Maritieme
+Dienstverlening en Kust / Dab Vloot
+Country.................................................. Belgium
+Flag........................................................ Belgium
+Total number of sister ships already completed.......................................... 0
+Total number of sister ships still on order.......... 0
+Contract date.......................................July 2015
+Delivery date................................ October 2016
+Designed to perform as a multi-function patrol boat for Belgium Customs, Zeeleeuw (or ‘sea lion’) is the first vessel to incorporate
+Estonia-based Baltic Workboats’ new advanced wave-piercing design, which has been developed to enable high-speed travel across a range of sea and weather conditions. This design has been named the Patrol 2200 WP and
+Baltic Workboats intends to use it as the building block for a number of scalable / customisable future patrol boats.
+Speed and stability aside, Zeeleeuw’s more notable features include extreme attention to noise reduction; the designer and builder was able to limit wheelhouse noise levels to 62dBA when the craft is travelling at her maximum speed of 23knots, or between 60-61dBA when the boat is in the 19-21knots bracket. The wheelhouse has been positioned centrally; this permits
+Zeeleeuw’s crew to safely launch a 5m RIB from the aft ramp at speeds of up to 8knots.
+Zeeleeuw has also managed to avoid earning a reputation as a gas guzzler; instead, the vessel consumes fuel at a rate of approximately 133litres per hour when travelling at 20knots. The craft’s powertrain comprises two Volvo Penta D16 MH engines driving five-bladed, fixed-pitch propellers through ZF marine gearboxes.
+The vessel has been equipped with two radars: a
+Simrad Argus model, to be utilised at sea, and a
+Furuno radar, for deployment in riverine conditions. Both interface with twin 24” widescreen displays which can also be used for
+ECDIS, Baltic Workboats confirms.
+TECHNICAL PARTICULARS
+Length, oa.................................................... 22m
+Length, bp............................................... 20.87m
+Breadth, moulded...................................... 5.56m
+Gross tonnage...................................... 64tonnes
+Displacement.................................... 40.7tonnes
+Design, draught.............................................. 1m
+Design, deadweight............................ 5.6tonnes
+Lightweight........................................ 34.9tonnes
+Service speed.........................................16knots
+Max speed...............................................23knots
+Range (nautical miles)................................... 250
+Fuel consumption.................. 1,100litres per day
+Classification society..................................... N/A
+Notations....................................................... N/A
+Main engine(s)
+Make............................................ Volvo Penta
+Model................................................. D16 MH
+Number......................................................... 2
+Output of each engine.......405kW@1,800rpm
+Gearbox(es)
+Make...........................................................ZF
+Model......................................................665V
+Number......................................................... 2
+Output................................................. 2,517:1
+Propeller(s)
+Manufacturer............................................ CJR
+Material.......................................... NiBrAl Cu³
+Number......................................................... 2
+Fixed/controllable pitch.......................... Fixed
+Diameter.............................................. 925mm
+Speed..................................................715rpm
+Bow thruster(s)
+Make.................................................. Sleipner
+Number......................................................... 1
+Output of each thruster....................... 23.3kW
+Bridge electronics
+Radar(s).................................... Simrad Argus
+Autopilot.................................... Simrad AP-80
+Gyro......................................... Simrad GC-80
+Chart plotter.................... Simrad ECDIS 5000
+Engine monitoring / fire detection system.............. Volvo/Deckma /Baltic Workboats
+Onboard capacities
+Fuel oil.............................................3,000litres
+Fresh water........................................300litres
+Sullage...............................................300litres
+Complement
+Crew.............................................................. 2
+Passengers................................................... 7
+Number of cabins......................................... 0
+ZEELEEUW: Multi-function patrol boat matches low fuel burn with low noise
