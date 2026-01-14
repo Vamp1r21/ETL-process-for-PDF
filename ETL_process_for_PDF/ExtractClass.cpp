@@ -26,7 +26,7 @@ std::string ExtractClass::removeSpacesBetweenChars(const std::string& input)
 			bool hasCharBefore = (i > 0) && (isalnum(static_cast<unsigned char>(input[i - 1])) || input[i - 1] == '.' ||
 				input[i - 1] == ',' || input[i - 1] == '(' || input[i - 1] == ')' || input[i - 1] == '/');
 			bool hasCharAfter = (i < input.length() - 1) && (isalnum(static_cast<unsigned char>(input[i + 1])) ||
-				input[i + 1] == '.' || input[i + 1] == ',' || input[i + 1] == '(' || input[i + 1] == ')' || input[i + 1] == ')');
+				input[i + 1] == '.' || input[i + 1] == ',' || input[i + 1] == '(' || input[i + 1] == ')');
 
 			if (hasCharBefore && hasCharAfter)
 			{
@@ -184,8 +184,102 @@ bool ExtractClass::runOCR(const std::string& pdf, const std::string& txt)
 	return processed;
 }
 
-void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
+//To CSV
+// 
+// Убираем лишние пробелы
+std::string ExtractClass::trim(const std::string& s) {
+	size_t start = s.find_first_not_of(" \t.");
+	size_t end = s.find_last_not_of(" \t.");
+	if (start == std::string::npos || end == std::string::npos)
+		return "";
+	return s.substr(start, end - start + 1);
+}
+
+// Обработка очищенного текста
+void ExtractClass::convertTextToCSV(
+	const std::string& text,
+	const std::string& csvFile)
 {
+	std::ofstream out(csvFile);
+	if (!out.is_open())
+	{
+		std::cerr << "Не удалось создать CSV: " << csvFile << "\n";
+		return;
+	}
+
+	// Шапка CSV
+	out << "VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed\n";
+
+	std::istringstream stream(text);
+	std::string line;
+	std::map<std::string, std::string> record;
+	int i = 0;
+	while (std::getline(stream, line))
+	{
+		if (line.find(":") == std::string::npos &&
+			line.find("..") == std::string::npos)
+			continue;
+
+		size_t pos = line.find(":");
+		if (pos == std::string::npos)
+			pos = line.find("..");
+
+		std::string key = trim(line.substr(0, pos));
+		std::string value = trim(line.substr(pos + 1));
+
+		if (key.find("Builder") != std::string::npos ||
+			key.find("Shipbuilder") != std::string::npos)
+			record["Builder"] = value;
+
+		else if (key.find("Designer") != std::string::npos ||
+			key.find("Design") != std::string::npos)
+			record["Designer"] = value;
+
+		else if (key.find("Vessel") != std::string::npos)
+			record["VesselName"] = value;
+
+		else if (key.find("Owner") != std::string::npos ||
+			key.find("Operator") != std::string::npos)
+			record["OwnerOperator"] = value;
+
+		else if (key.find("Country") != std::string::npos)
+			record["Country"] = value;
+
+		else if (key.find("Delivery date") != std::string::npos)
+			record["DeliveryDate"] = value;
+
+		else if (key.find("Length, oa") != std::string::npos ||
+			key.find("Length oa") != std::string::npos)
+			record["Length"] = value;
+
+		else if (key.find("Max speed") != std::string::npos ||
+			key.find("Maximum speed") != std::string::npos)
+			record["MaxSpeed"] = value;
+
+		if (i == 11) {
+			out
+				<< "\"" << record["VesselName"] << "\","
+				<< "\"" << record["Builder"] << "\","
+				<< "\"" << record["Designer"] << "\","
+				<< "\"" << record["OwnerOperator"] << "\","
+				<< "\"" << record["Country"] << "\","
+				<< "\"" << record["DeliveryDate"] << "\","
+				<< "\"" << record["Length"] << "\","
+				<< "\"" << record["MaxSpeed"] << "\"\n";
+			i = 0;
+			record.clear();
+		}
+		if (!record["Length"].empty()) i++;
+	}
+
+	out.close();
+}
+void ExtractClass::processFile(const std::string& pdf)
+{
+	std::filesystem::path pdfPath(pdf);
+	std::string baseName = pdfPath.stem().string();
+	const std::string& txt = ("TXTFiles/" + baseName + ".txt");
+	const std::string& csv = ("CSVFiles/" + baseName + ".csv");
 	// Попытка обычного извлечения текста
 	std::string convertCmd = "pdftotext -raw -nopgbrk -enc UTF-8 \"" + pdf + "\" \"" + txt + "\"";
 
@@ -229,7 +323,6 @@ void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
 		return;
 	}
 
-	// Обработка текста функциями из твоего примера
 	bool shouldRemoveSpaces = needsSpaceRemoval(content);
 	std::string cleanedContent = removeIndents(content);
 
@@ -244,7 +337,7 @@ void ExtractClass::processFile(const std::string& pdf, const std::string& txt)
 		std::cerr << "Не удалось открыть файл для записи: " << txt << "\n";
 		return;
 	}
-
+	convertTextToCSV(cleanedContent, csv);
 	outFile << cleanedContent;
 	outFile.close();
 

@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpp23</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -137,6 +137,41 @@
   <ItemGroup>
     <Text Include="TXTFiles\SS 1998.txt" />
     <Text Include="TXTFiles\SS 2004.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CSVFiles\SS 2010.csv" />
+    <None Include="CSVFiles\SS 2012.csv" />
+    <None Include="CSVFiles\SS 2013.csv" />
+    <None Include="CSVFiles\SS 2014.csv" />
+    <None Include="CSVFiles\SS 2015.csv" />
+    <None Include="CSVFiles\SS 2016.csv" />
+    <None Include="CSVFiles\SS 2018.csv" />
+    <None Include="CSVFiles\SS 2019.csv" />
+    <None Include="CSVFiles\SS 2020.csv" />
+    <None Include="CSVFiles\SS 2021.csv" />
+    <None Include="CSVFiles\SS 2022.csv" />
+    <None Include="CSVFiles\SSS 1998.csv" />
+    <None Include="CSVFiles\SSS 1999.csv" />
+    <None Include="CSVFiles\SSS 2000.csv" />
+    <None Include="CSVFiles\SSS 2002.csv" />
+    <None Include="CSVFiles\SSS 2003.csv" />
+    <None Include="CSVFiles\SSS 2004.csv" />
+    <None Include="CSVFiles\SSS 2005.csv" />
+    <None Include="CSVFiles\SSS 2006.csv" />
+    <None Include="CSVFiles\SSS 2007.csv" />
+    <None Include="CSVFiles\SSS 2008.csv" />
+    <None Include="CSVFiles\SSS 2010.csv" />
+    <None Include="CSVFiles\SSS 2011.csv" />
+    <None Include="CSVFiles\SSS 2012.csv" />
+    <None Include="CSVFiles\SSS 2013.csv" />
+    <None Include="CSVFiles\SSS 2014.csv" />
+    <None Include="CSVFiles\SSS 2015.csv" />
+    <None Include="CSVFiles\SSS 2016.csv" />
+    <None Include="CSVFiles\SSS 2017.csv" />
+    <None Include="CSVFiles\SSS 2018.csv" />
+    <None Include="CSVFiles\SSS 2019.csv" />
+    <None Include="CSVFiles\SSS 2020.csv" />
+    <None Include="CSVFiles\SSS 2022.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
