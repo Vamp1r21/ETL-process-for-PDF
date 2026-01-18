@@ -15,24 +15,26 @@
 int main() 
 {
     setlocale(0, "RUS");
+    std::ofstream out("CSVFiles/allShip.csv");
+    out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed,ImoNumber,Gross,MainEngineDesigner,MainEngineModel\n";
     ExtractClass extractClass;
     // Обрабатываем файлы
     //SSS
-    extractClass.processFile("PDFFiles/SSS 1998.pdf");
+    //extractClass.processFile("PDFFiles/SSS 1998.pdf");
 
-    extractClass.processFile("PDFFiles/SSS 1999.pdf");
+    //extractClass.processFile("PDFFiles/SSS 1999.pdf");
 
-    extractClass.processFile("PDFFiles/SSS 2000.pdf");    
+    //extractClass.processFile("PDFFiles/SSS 2000.pdf");    
     
-    extractClass.processFile("PDFFiles/SSS 2001.pdf");
+    //extractClass.processFile("PDFFiles/SSS 2001.pdf");
 
     //extractClass.processFile("PDFFiles/SSS 2002.pdf");
 
-    extractClass.processFile("PDFFiles/SSS 2003.pdf");
+    //extractClass.processFile("PDFFiles/SSS 2003.pdf");
+        
+    //extractClass.processFile("PDFFiles/SSS 2004.pdf");
 
-    extractClass.processFile("PDFFiles/SSS 2004.pdf");
-
-    extractClass.processFile("PDFFiles/SSS 2005.pdf");
+    //extractClass.processFile("PDFFiles/SSS 2005.pdf");
 
     extractClass.processFile("PDFFiles/SSS 2006.pdf");
 

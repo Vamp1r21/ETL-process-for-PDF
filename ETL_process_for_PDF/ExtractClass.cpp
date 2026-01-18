@@ -1,5 +1,4 @@
-﻿#include "ExtractClass.h"
-#include <iostream>
+﻿#include <iostream>
 #include <fstream>
 #include <string>
 #include <cstdio>
@@ -9,6 +8,7 @@
 #include <sstream>
 #include <filesystem> // Используем для поиска временных файлов картинок
 #include <vector>
+#include "ExtractClass.h"
 
 namespace fs = std::filesystem;
 
@@ -61,7 +61,7 @@ std::string ExtractClass::removeIndents(const std::string& content)
 		if (!prevLine.empty())
 		{
 			char lastChar = prevLine.back();
-			if (lastChar == ',' || lastChar == '/')
+			if (lastChar == ',' || lastChar == '/' || lastChar == '.')
 			{
 				shouldRemoveNewline = true;
 			}
@@ -195,11 +195,34 @@ std::string ExtractClass::trim(const std::string& s) {
 	return s.substr(start, end - start + 1);
 }
 
+//Добавление в файд
+void ExtractClass::WriteToFile(std::ofstream& out, std::string nameFile, std::map<std::string, std::string> record)
+{
+	out
+		<< "\"" << nameFile << "\","
+		<< "\"" << record["VesselName"] << "\","
+		<< "\"" << record["Builder"] << "\","
+		<< "\"" << record["Designer"] << "\","
+		<< "\"" << record["OwnerOperator"] << "\","
+		<< "\"" << record["Country"] << "\","
+		<< "\"" << record["DeliveryDate"] << "\","
+		<< "\"" << record["Length"] << "\","
+		<< "\"" << record["MaxSpeed"] << "\","
+		<< "\"" << record["IMONumber"] << "\","
+		<< "\"" << record["Gross"] << "\","
+		<< "\"" << record["SisterShip"] << "\","
+		<< "\"" << record["MainEngineDesign"] << "\","
+		<< "\"" << record["MainEngineModel"] << "\"\n";
+}
+
+
 // Обработка очищенного текста
 void ExtractClass::convertTextToCSV(
 	const std::string& text,
-	const std::string& csvFile)
+	const std::string& csvFile,
+	std::string baseName)
 {
+	std::ofstream out1("CSVFiles/allShip.csv",std::ios::app);
 	std::ofstream out(csvFile);
 	if (!out.is_open())
 	{
@@ -208,14 +231,22 @@ void ExtractClass::convertTextToCSV(
 	}
 
 	// Шапка CSV
-	out << "VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed\n";
+	out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed,ImoNumber,Gross,SisterShip,Displacement,MainEngineDesigner,MainEngineModel\n";
 
 	std::istringstream stream(text);
 	std::string line;
 	std::map<std::string, std::string> record;
+	int designer = 0;
 	int i = 0;
+	int mainEngine = 0;
+	int vessel = 0;
 	while (std::getline(stream, line))
 	{
+		if (line.find("Main engine") != std::string::npos || line.find("Mainengine") != std::string::npos)
+		{
+			mainEngine++;
+		}
+
 		if (line.find(":") == std::string::npos &&
 			line.find("..") == std::string::npos)
 			continue;
@@ -231,12 +262,18 @@ void ExtractClass::convertTextToCSV(
 			key.find("Shipbuilder") != std::string::npos)
 			record["Builder"] = value;
 
-		else if (key.find("Designer") != std::string::npos ||
-			key.find("Design") != std::string::npos)
+		else if ((key.find("Designer") != std::string::npos ||
+			key.find("Design") != std::string::npos) && designer == 0)
+		{
 			record["Designer"] = value;
+			designer++;
+		}
 
-		else if (key.find("Vessel") != std::string::npos)
+		else if (key.find("Vessel") != std::string::npos && vessel == 0)
+		{
 			record["VesselName"] = value;
+			vessel++;
+		}
 
 		else if (key.find("Owner") != std::string::npos ||
 			key.find("Operator") != std::string::npos)
@@ -248,32 +285,59 @@ void ExtractClass::convertTextToCSV(
 		else if (key.find("Delivery date") != std::string::npos)
 			record["DeliveryDate"] = value;
 
+		else if (key.find("IMO number") != std::string::npos)
+			record["IMONumber"] = value;
+
+		else if (key.find("Gross") != std::string::npos)
+			record["Gross"] = value;
+
 		else if (key.find("Length, oa") != std::string::npos ||
-			key.find("Length oa") != std::string::npos)
+			key.find("Length oa") != std::string::npos ||
+			key.find("Length,oa") != std::string::npos ||
+			key.find("Lengthoa") != std::string::npos)
 			record["Length"] = value;
 
 		else if (key.find("Max speed") != std::string::npos ||
-			key.find("Maximum speed") != std::string::npos)
+			key.find("Maximum speed") != std::string::npos ||
+			key.find("Speed service 2") != std::string::npos ||
+			key.find("Maxspeed") != std::string::npos ||
+			key.find("Maximumspeed") != std::string::npos ||
+			key.find("Speedservice 2") != std::string::npos)
 			record["MaxSpeed"] = value;
 
-		if (i == 11) {
-			out
-				<< "\"" << record["VesselName"] << "\","
-				<< "\"" << record["Builder"] << "\","
-				<< "\"" << record["Designer"] << "\","
-				<< "\"" << record["OwnerOperator"] << "\","
-				<< "\"" << record["Country"] << "\","
-				<< "\"" << record["DeliveryDate"] << "\","
-				<< "\"" << record["Length"] << "\","
-				<< "\"" << record["MaxSpeed"] << "\"\n";
+		else if ((key.find("Design") != std::string::npos ||
+			key.find("Make") != std::string::npos) && mainEngine > 0)
+			record["MainEngineDesign"] = value;
+
+		else if (key.find("Model") != std::string::npos && mainEngine > 0)
+			record["MainEngineModel"] = value;
+
+		else if (key.find("Total number of sister ships") != std::string::npos)
+			record["SisterShip"];
+
+		else if (key.find("Displacement") != std::string::npos)
+			record["Displacement"];
+
+		if (!record["MainEngineModel"].empty() || i==3) 
+		{
+			WriteToFile(out, baseName, record);
+			WriteToFile(out1, baseName, record);
+			mainEngine = 0;
+			designer = 0;
+			vessel = 0;
 			i = 0;
 			record.clear();
 		}
-		if (!record["Length"].empty()) i++;
+		if (!record["MainEngineDesign"].empty())
+		{
+			i++;
+		}
 	}
 
 	out.close();
+	out1.close();
 }
+
 void ExtractClass::processFile(const std::string& pdf)
 {
 	std::filesystem::path pdfPath(pdf);
@@ -337,7 +401,7 @@ void ExtractClass::processFile(const std::string& pdf)
 		std::cerr << "Не удалось открыть файл для записи: " << txt << "\n";
 		return;
 	}
-	convertTextToCSV(cleanedContent, csv);
+	convertTextToCSV(cleanedContent, csv, baseName);
 	outFile << cleanedContent;
 	outFile.close();
 

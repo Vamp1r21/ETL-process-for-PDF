@@ -65,5 +65,6 @@
     <None Include="CSVFiles\SSS 2019.csv" />
     <None Include="CSVFiles\SSS 2020.csv" />
     <None Include="CSVFiles\SSS 2022.csv" />
+    <None Include="CSVFiles\allShip.csv" />
   </ItemGroup>
 </Project>

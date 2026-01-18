@@ -27,11 +27,8 @@ E- mail: editorial @rina.org.ukadvertising @rina.org.uk
 SIGNIFICANTSHIPSOF20213
 © 2022.TheRoyalInstitutionofNavalArchitects
 ThispublicationiscopyrightundertheBerne
-Convention.Allrightsreserved.Nopartofthepub - licationmaybereproduced,storedinaretrievalsystem,ortransmittedwithoutthepriorpermissionofthecopyrightowner.Permissionisnot,however,requiredtocopyabstractsorarticlesonconditionthatafullreferencetothesourceisshown.
-Multiplecopyingofthecontentswithoutpermissionisalwaysillegal.
-Printedby:
-StephensandGeorge,GoatMillRoad,Dowlais,MerthyrTydfil,CF483TD,Wales.
-SigShips: 978-1- 911649- 27- 4
+Convention.Allrightsreserved.Nopartofthepub - licationmaybereproduced,storedinaretrievalsystem,ortransmittedwithoutthepriorpermissionofthecopyrightowner.Permissionisnot,however,requiredtocopyabstractsorarticlesonconditionthatafullreferencetothesourceisshown.Multiplecopyingofthecontentswithoutpermissionisalwaysillegal.Printedby:
+StephensandGeorge,GoatMillRoad,Dowlais,MerthyrTydfil,CF483TD,Wales.SigShips: 978-1- 911649- 27- 4
 CONTENTS
 INTRODUCTION5
 ALTERAWAVEShuttletanker6
@@ -80,15 +77,11 @@ XIANGANKOUHeavyliftvessel98
 SIGNIFICANT
 SHIPSOF20216SIGNIFICANTSHIPSOF2021
 DeliveredinJanuary2021bySamsungto
-Altera(previouslyTeekayOffshore),AlteraWavehastakentheshuttlecarriertypetoanewleveloftechnicalsophistication.
-AlteraWaveisthefirstoftwoAframax
-DP2- classshuttletankersthathaveadiesel- electricpropulsionsystemwhichfeaturesnolessthanfourpowersources.ThesystemissimilartothatoftheSuezmaxAuroraSpiritbuiltayearearlier.ThemainenginesareaquartetofWärtsilä 8L34DFsinagensetconfigurationthateachdelivers3,690kWeat720rpm.TheenginesareintendedtorunmainlyonLNGbutcanuseMDOasaback- up.Thatsaid,theMDOoptionisdesignedtobetheleastfavouredwiththesecondarychoiceforpowerbeingtheship’ sabilitytoalsomakeuseofrecoveredandliquefiedvolatileorganiccompounds(VOCs)fromthecargoinjectedintotheLNGfuel.
-TheVOCcollectionsystemisalsofrom
+Altera(previouslyTeekayOffshore),AlteraWavehastakentheshuttlecarriertypetoanewleveloftechnicalsophistication.AlteraWaveisthefirstoftwoAframax
+DP2- classshuttletankersthathaveadiesel- electricpropulsionsystemwhichfeaturesnolessthanfourpowersources.ThesystemissimilartothatoftheSuezmaxAuroraSpiritbuiltayearearlier.ThemainenginesareaquartetofWärtsilä 8L34DFsinagensetconfigurationthateachdelivers3,690kWeat720rpm.TheenginesareintendedtorunmainlyonLNGbutcanuseMDOasaback- up.Thatsaid,theMDOoptionisdesignedtobetheleastfavouredwiththesecondarychoiceforpowerbeingtheship’ sabilitytoalsomakeuseofrecoveredandliquefiedvolatileorganiccompounds(VOCs)fromthecargoinjectedintotheLNGfuel.TheVOCcollectionsystemisalsofrom
 Wärtsilä andaswellasprovidingwhatiseffectivelyfreeenergyfortheship,alsohelpsittomeetstrictVOCemissionreductionin
-Norwegianwatersfromwherethevesselwillloadmostofitscargo.AsaDPshuttletanker,powerrequirementscanvarymassivelyduringloadingandherethevesselisaidedbythetwin1,808kWhbatteryenergystoragesystemthatcanprovideinstantaneouspowerwhenneeded.
-Inaddition,thevesselisequippedwitharedundantelectricalpropulsiondrivingtwo
-CPPpropellers,complementedbyonetunnelandthreeazimuththrustersfordynamicpositioningoperations.
-TECHNICALPARTICULARS
+Norwegianwatersfromwherethevesselwillloadmostofitscargo.AsaDPshuttletanker,powerrequirementscanvarymassivelyduringloadingandherethevesselisaidedbythetwin1,808kWhbatteryenergystoragesystemthatcanprovideinstantaneouspowerwhenneeded.Inaddition,thevesselisequippedwitharedundantelectricalpropulsiondrivingtwo
+CPPpropellers,complementedbyonetunnelandthreeazimuththrustersfordynamicpositioningoperations.TECHNICALPARTICULARS
 Lengthoa: .........................................Approx.245m
 Lengthbp: ...........................................................233m
 Breadthmoulded: ............................................43.8m
@@ -233,13 +226,9 @@ Totalnumberofsistershipsstillonorder: Nil8SIGNIFICANTSHIPSOF2021
 Aquasmeralda,deliveredbyNewYangzi
 Shipbuilding,asubsidiaryofYangzijiang
 ShipbuildingGrouptoGreekoperator
-Chandris,isaSDARI- designedMRproduct/chemicaltankerwithalengthof182.55m,abeamof32.20mandadeadweightof50,295tonnes.ThevesselisthefirstofapairfortheGreekowneranditsdeliverywasfollowedwithinweeksbythesistervesselAliai.TwoothershipsofthesamedesignweredeliveredtoCelsiusShipping.
-Theshiphas12cargotanksandtwosloptanksandisdesignedforcarriageofuptosixgradesofcleananddirtypetroleumproductsandIMOtypes2and3chemicalliquidcargoes.Thetanksareseparatedbycorrugatedbulkheads.CargohandlingequipmentcomprisesaMarflexelectricdeepwellpumpineachtank.Capacitiesbeing550m3 /hforthemaintanksand300m3 /hforthesloptanks.
-Aquasmeraldaispoweredbyasix- cylinder
-MANB & Wultra-longstrokeG50ME- C9.6mainenginewithapoweroutputof7,240kWdrivinga6.9mdiameterfixedpitchpropellerat84.1rpmMCR.Servicespeedat75 % MCRis14.5knots.Withnoscrubberinstalledtheshipisrequiredtouselow- sulphurfuels.TheSDARIdesigncanhoweverbecustomisedforotherfueltypesandenginechoices.
-AnoptimisedhullformallowstheshiptocomfortablymeetEEDIrequirements.Thevessel’ sattainedratingbeing4.03againstarequired6.23.ASunRuiballasttreatmentsystemwhichhasbothIMOandUSCoast
-Guardapprovalsisinstalledallowingworldwidetrading.
-TECHNICALPARTICULARS
+Chandris,isaSDARI- designedMRproduct/chemicaltankerwithalengthof182.55m,abeamof32.20mandadeadweightof50,295tonnes.ThevesselisthefirstofapairfortheGreekowneranditsdeliverywasfollowedwithinweeksbythesistervesselAliai.TwoothershipsofthesamedesignweredeliveredtoCelsiusShipping.Theshiphas12cargotanksandtwosloptanksandisdesignedforcarriageofuptosixgradesofcleananddirtypetroleumproductsandIMOtypes2and3chemicalliquidcargoes.Thetanksareseparatedbycorrugatedbulkheads.CargohandlingequipmentcomprisesaMarflexelectricdeepwellpumpineachtank.Capacitiesbeing550m3 /hforthemaintanksand300m3 /hforthesloptanks.Aquasmeraldaispoweredbyasix- cylinder
+MANB & Wultra-longstrokeG50ME- C9.6mainenginewithapoweroutputof7,240kWdrivinga6.9mdiameterfixedpitchpropellerat84.1rpmMCR.Servicespeedat75 % MCRis14.5knots.Withnoscrubberinstalledtheshipisrequiredtouselow- sulphurfuels.TheSDARIdesigncanhoweverbecustomisedforotherfueltypesandenginechoices.AnoptimisedhullformallowstheshiptocomfortablymeetEEDIrequirements.Thevessel’ sattainedratingbeing4.03againstarequired6.23.ASunRuiballasttreatmentsystemwhichhasbothIMOandUSCoast
+Guardapprovalsisinstalledallowingworldwidetrading.TECHNICALPARTICULARS
 Lengthoa: .........................................................182.55m
 Lengthbp: ........................................................174.00m
 Breadthmoulded: ...........................................32.20m
@@ -380,19 +369,13 @@ Totalnumberofsistershipsstillonorder: Nil12SIGNIFICANTSHIPSOF2021
 Superficiallyasistershiptothe2018- built
 Gioconda,Arabellawasdeliveredto
 GermanchemicaltankeroperatorGEFOin
-September2021.ThevesseliscurrentlythelargestandnewestvesselintheGEFOfleet.
-ArabellaandhersisterwerebuiltbyIcdas
+September2021.ThevesseliscurrentlythelargestandnewestvesselintheGEFOfleet.ArabellaandhersisterwerebuiltbyIcdas
 CelikEnerjiTersaneinTurkeytoadesignby
-TurkishdesignerDeltaMarine.
-At110minlengthand18minbeamandwithadeadweightof7,703tonnes,Arabellasharesthesamedimensionsasitseldersister.Thedifferencebetweenthemisthat
+TurkishdesignerDeltaMarine.At110minlengthand18minbeamandwithadeadweightof7,703tonnes,Arabellasharesthesamedimensionsasitseldersister.Thedifferencebetweenthemisthat
 ArabellareflectsGEFO’ sshifttofavouring
-LNGasafuelratherthanHFO.ThecompanyhasseveralshipsonorderwithChineseyardsandoneofthesebecamethefirsttorunonLNGwhendeliveredlastyear.
-WhilstGiocondawasequippedwitha
+LNGasafuelratherthanHFO.ThecompanyhasseveralshipsonorderwithChineseyardsandoneofthesebecamethefirsttorunonLNGwhendeliveredlastyear.WhilstGiocondawasequippedwitha
 MAN6L32 /44CRfour- strokeengine,thenewervesselhasbeenequippedwitha6L34DFenginefromWärtsilä thatproduces3,000kWofpowerandalsohasamainenginedrivenalternatorwithanoutputof1,000kW.Theenginedrivesa4.5mcontrollablepitchpropellerthrougha
-Wärtsilä SCV105gearboxforaservicespeedof13knots.ThevesselwasdeliveredLNGreadywithspacefortwofueltankstobeinstalledondeckaftofthedeck- mountedsloptanks.
-Thevesselisequippedwith16cargotanksofwhich12arelargefittedwithFramo200m3 /hhydraulicdeepwellpumpsandfouraresmallerwith100m3 /hpumps.
-Efficiencyofthevesselisratedat11.3gCO2pertonne/mileagainstarequiredEEDIratingfortheshipof15.1.
-TECHNICALPARTICULARS
+Wärtsilä SCV105gearboxforaservicespeedof13knots.ThevesselwasdeliveredLNGreadywithspacefortwofueltankstobeinstalledondeckaftofthedeck- mountedsloptanks.Thevesselisequippedwith16cargotanksofwhich12arelargefittedwithFramo200m3 /hhydraulicdeepwellpumpsandfouraresmallerwith100m3 /hpumps.Efficiencyofthevesselisratedat11.3gCO2pertonne/mileagainstarequiredEEDIratingfortheshipof15.1.TECHNICALPARTICULARS
 Lengthoa: .........................................................110.00m
 Lengthbp: ........................................................107.49m
 Breadthmoulded: ...........................................18.00m
@@ -467,8 +450,7 @@ Othercranes
 Number: .........................................................................1
 Make: .............................................................Gurdesan
 Type: ...............................................Electro- hydraulic
-Tasks: .................................................................................
-Provision & RescueBoat
+Tasks: .................................................................................Provision & RescueBoat
 Performance: ...............................2t,8moutreach
 Mooringequipment
 Number: ....................2xCombinedWindlass &
@@ -531,8 +513,7 @@ Owner/Operator: ........GEFOGesellschaftfür
 OeltransportembH
 Country: .......................................................Germany
 Designer: ......DeltaMarineEngineeringand
-ComputerCo.
-Country: ............................................................Turkey
+ComputerCo.Country: ............................................................Turkey
 Modeltestestablishmentused: ....Analysedby
 DeltaMarinewithCFD
 Flag: ....................................................................Cyprus
@@ -541,14 +522,7 @@ Totalnumberofsistershipsstillonorder: Nil14SIGNIFICANTSHIPSOF2021
 ArvikI,deliveredinMarchbyJapan
 MarineUnitedtoCanadianoperator
 Fednav,isadesignevolutionoftwoearlier‘sister’ ships,UmiakI,deliveredin2006and
-Nunavik,deliveredin2014.Bothearliershipswereconstructedbythesamebuilder.
-The30,323dwt,PolarClass4vesselisclassedwithDNVasabulkcarrierbutcouldbeconsideredamulti- purposevessel.Itwillbeusedforshippingnickelconcentratefromminestosmeltingfacilitiesandonreturnjourneysthevesselcancarrycontainers,equipment,vehiclesandtwogradesoffueloilsinseparatecargooiltanks.
-ArvikIhasadoublehullinitsfive- holdcargosectionof30,221m3capacityandisservedbythreecentrelinecranes,twoofwhichare30.5tonneSWLandthatbetweenholds1and2havinga65tonnecapacityasignificantincreaseoverthelargercraneonitspredecessors.
-Thevesselhascontinuousicebreakingcapabilitytosailin1.5mthickiceandisequippedwithicebreakingbow,ductedpropellerandiceknifeinthestern.
-InordertocomplywithIMONOxTierIIIregulations,thisvesselisequippedwithEGRformainengineandSCRforauxiliaryengines.ThemainengineisaHitachiZosen- builtMAN7S70ME- C8.5witha21,770kWpoweroutputlinkedtoaKongsbergcontrollablepitchpropeller.Anunusualfeatureforabulkcarrierbutnecessaryforoperationinicebreakingmode.Thepropellerismountedinanozzleforoptimisingthrustandtoprovideprotectionfromicepieces.
-Openwaterservicespeedis13.5knots.
-Forenvironmentalreasonsdeterminedbytheowner,operationinarcticareasisdoneusingdistillatefuelsonly.ThevesselisexemptfromEEDIasaPolarCode‘ Category’ vesselrequiredtooperateinheavyice.
-TECHNICALPARTICULARS
+Nunavik,deliveredin2014.Bothearliershipswereconstructedbythesamebuilder.The30,323dwt,PolarClass4vesselisclassedwithDNVasabulkcarrierbutcouldbeconsideredamulti- purposevessel.Itwillbeusedforshippingnickelconcentratefromminestosmeltingfacilitiesandonreturnjourneysthevesselcancarrycontainers,equipment,vehiclesandtwogradesoffueloilsinseparatecargooiltanks.ArvikIhasadoublehullinitsfive- holdcargosectionof30,221m3capacityandisservedbythreecentrelinecranes,twoofwhichare30.5tonneSWLandthatbetweenholds1and2havinga65tonnecapacityasignificantincreaseoverthelargercraneonitspredecessors.Thevesselhascontinuousicebreakingcapabilitytosailin1.5mthickiceandisequippedwithicebreakingbow,ductedpropellerandiceknifeinthestern.InordertocomplywithIMONOxTierIIIregulations,thisvesselisequippedwithEGRformainengineandSCRforauxiliaryengines.ThemainengineisaHitachiZosen- builtMAN7S70ME- C8.5witha21,770kWpoweroutputlinkedtoaKongsbergcontrollablepitchpropeller.Anunusualfeatureforabulkcarrierbutnecessaryforoperationinicebreakingmode.Thepropellerismountedinanozzleforoptimisingthrustandtoprovideprotectionfromicepieces.Openwaterservicespeedis13.5knots.Forenvironmentalreasonsdeterminedbytheowner,operationinarcticareasisdoneusingdistillatefuelsonly.ThevesselisexemptfromEEDIasaPolarCode‘ Category’ vesselrequiredtooperateinheavyice.TECHNICALPARTICULARS
 Lengthoa: ......................................................188.80m
 Breadthmoulded: ........................................26.60m
 Depthmouldedtoupperdeck: ................................................15.70m
@@ -577,8 +551,7 @@ Number: ........................................................................
 Fixed/Controllablepitch: .....Controllablepitch
 Diesel- drivenalternators
 Number: .........................................................................3
-Enginemake/type: ..........DaihatsuDieselMfg.
-Co.,Ltd /4- cycle,trunkpistontypewith
+Enginemake/type: ..........DaihatsuDieselMfg.Co.,Ltd /4- cycle,trunkpistontypewith
 SCRsystem
 Typeoffuel: .........................................................MGO
 Alternatormake/type: ........TaiyoElectricCo.,Ltd
@@ -673,12 +646,7 @@ IMOnumber: ...........................................9854698
 Totalnumberofsistershipsstillonorder: Nil
 Source: SRPhotography16SIGNIFICANTSHIPSOF2021
 BuiltbyJiangnanShipyardforUnited
-EuropeanCarCarriers,AutoAdvanceisthefirstinaseriesofthree3,600CEUPCTCsalthoughitsmainclaimtofameisbeingtheworld’ sfirstdual-fuelbatteryhybridcarcarrier.Thevessel’ snameisparticularlyaptasthebatteryenergystorageadditionadvancestheowner’ senvironmentalchoicesbeyondbeingthefirsttoadoptdual-fuelenginesin2016withtheAutoEco.
-TheSDARI- designedvesselisbynomeansthelargestforacarcarrierbeing169.1minlengthand28mwide.Itshullformistypicalofitstypeandcargoareaisabout30,600m2over10cardecksincludingtwoelectricallyoperatedhoistabledecks.
-AutoAdvanceispoweredbyaWinGD6RT-flex50DFmainenginewithapoweroutputof8,640kWat124rpmconnectedtoacontrollablepitchpropeller.AtypeCbunkertankwithacapacityof600m3issupplementedbya470m3tankforlow- sulphurMGO.Alongwiththe510kWhbatterysystemsuppliedbyCorvus,andwhichischargedusingashaftgenerator,theLNG-fuelledpowersystemisclaimedtocutemissionsofSOx,NOxandCO2tosignificantlylowlevels.
-Theenergysavingsystemalsopermitsforonlytwoauxiliarygensetsbeingneededinsteadofthenormalthreeforavesselofthissize.Theenergystoragesystemallowsthevesseltomanoeuvreinandoutofportswithoutusingthemainengine.Duringportstaystheshipcanmakeuseofshoreelectricitytoeliminatetheneedforanyenginesrunning.
-AnoptimisedhullformandtheuseofLNGasfuelpermitstheshiptoachieveanEEDIratingof16.661againstarequired18.146.
-TECHNICALPARTICULARS
+EuropeanCarCarriers,AutoAdvanceisthefirstinaseriesofthree3,600CEUPCTCsalthoughitsmainclaimtofameisbeingtheworld’ sfirstdual-fuelbatteryhybridcarcarrier.Thevessel’ snameisparticularlyaptasthebatteryenergystorageadditionadvancestheowner’ senvironmentalchoicesbeyondbeingthefirsttoadoptdual-fuelenginesin2016withtheAutoEco.TheSDARI- designedvesselisbynomeansthelargestforacarcarrierbeing169.1minlengthand28mwide.Itshullformistypicalofitstypeandcargoareaisabout30,600m2over10cardecksincludingtwoelectricallyoperatedhoistabledecks.AutoAdvanceispoweredbyaWinGD6RT-flex50DFmainenginewithapoweroutputof8,640kWat124rpmconnectedtoacontrollablepitchpropeller.AtypeCbunkertankwithacapacityof600m3issupplementedbya470m3tankforlow- sulphurMGO.Alongwiththe510kWhbatterysystemsuppliedbyCorvus,andwhichischargedusingashaftgenerator,theLNG-fuelledpowersystemisclaimedtocutemissionsofSOx,NOxandCO2tosignificantlylowlevels.Theenergysavingsystemalsopermitsforonlytwoauxiliarygensetsbeingneededinsteadofthenormalthreeforavesselofthissize.Theenergystoragesystemallowsthevesseltomanoeuvreinandoutofportswithoutusingthemainengine.Duringportstaystheshipcanmakeuseofshoreelectricitytoeliminatetheneedforanyenginesrunning.AnoptimisedhullformandtheuseofLNGasfuelpermitstheshiptoachieveanEEDIratingof16.661againstarequired18.146.TECHNICALPARTICULARS
 Lengthoa: .......................................................169.10m
 Lengthbp: ......................................................164.50m
 Breadthmoulded: ........................................28.00m
@@ -828,12 +796,7 @@ Totalnumberofsistershipsstillonorder: 218SIGNIFICANTSHIPSOF2021
 Railferriesareararebreedandthosecombiningroadandpassengercapacityevenmoreso.WhichmakesAzerbaijan,deliveredasthefirstoftwosistersbyBaku
 ShipyardtoAzerbaijanCaspianShipping
 Company(ASCO)inMarch2021,particularlysignificant.BothshipshavebeenbuiltforserviceontheCaspianSeaconnectingthe
-AzerbaijanportofBakuwithTurkmenbashiinTurkmenistanandAktauinKazakhstan.
-Hulldimensionsarealoaof154.5m,beamof17.5mandadesigndraughtof4.5m.Theship’ stwofreightdecksfeature905lanemetresfortrucksand730mforrail.Thisequatesto50trucksand56railwagons.Thelowerfrightdeckisfullyenclosed,buttheupperfreightdeckhasanopenareaapproximatelyhalfofthevessel’stotallengthallowingforanyhazardouscargocarriedtobeeasilyaccessiblewhennecessary.
-Accessisoverthesternforalltypesoftrafficandalsobyastarboardsiderampnearthesternthatcanbeusedforrapiddischargeofroadvehicles.Thesternrampisstrengthenedtoallowtwotrackstobeusedsimultaneouslyforrailwagonmovements.
-Thetwoupperforwarddeckscontainaccommodationfor100passengersand30crewalongwithashop,restaurant,internetcafé andmedicalfacilities.Theopenupperdeckhasahelipadtoallowat- sealimitedpersonneltransfers.
-TheshipspowerrequirementsareprovidedbyapairofWärtsilä 8L26minengineseachproducing2,600kWofpowerconnectedthroughWärtsilä gearboxestotwincontrollablepitchpropellers.ThesearecomplementedbyfourRigasDizelisgensetseachratedat1,184kW.Theenginesaresplitequallybetweentwoseparateandredundantengineroomslocatedondifferentsidesofthevessel.
-TECHNICALPARTICULARS
+AzerbaijanportofBakuwithTurkmenbashiinTurkmenistanandAktauinKazakhstan.Hulldimensionsarealoaof154.5m,beamof17.5mandadesigndraughtof4.5m.Theship’ stwofreightdecksfeature905lanemetresfortrucksand730mforrail.Thisequatesto50trucksand56railwagons.Thelowerfrightdeckisfullyenclosed,buttheupperfreightdeckhasanopenareaapproximatelyhalfofthevessel’stotallengthallowingforanyhazardouscargocarriedtobeeasilyaccessiblewhennecessary.Accessisoverthesternforalltypesoftrafficandalsobyastarboardsiderampnearthesternthatcanbeusedforrapiddischargeofroadvehicles.Thesternrampisstrengthenedtoallowtwotrackstobeusedsimultaneouslyforrailwagonmovements.Thetwoupperforwarddeckscontainaccommodationfor100passengersand30crewalongwithashop,restaurant,internetcafé andmedicalfacilities.Theopenupperdeckhasahelipadtoallowat- sealimitedpersonneltransfers.TheshipspowerrequirementsareprovidedbyapairofWärtsilä 8L26minengineseachproducing2,600kWofpowerconnectedthroughWärtsilä gearboxestotwincontrollablepitchpropellers.ThesearecomplementedbyfourRigasDizelisgensetseachratedat1,184kW.Theenginesaresplitequallybetweentwoseparateandredundantengineroomslocatedondifferentsidesofthevessel.TECHNICALPARTICULARS
 Lengthoa: .......................................................154.50m
 Lengthbp: ......................................................148.00m
 Breadthmoulded: ............................................17.50m
@@ -892,8 +855,7 @@ Make: ........................................VethPropulsionB.V
 Number: .........................................................................1
 Output(each): ...............................................350kW
 Sternthruster(s)
-Make: .......................................VethPropulsionB.V.
-Number: .........................................................................1
+Make: .......................................VethPropulsionB.V.Number: .........................................................................1
 Output(each): ...............................................350kW
 Mooringequipment
 Number: ............2winchfore + 2capstansaft
@@ -977,15 +939,10 @@ Flag: ....................................AzerbaijanRepublic
 IMOnumber: ...........................................9843106
 Totalnumberofsistershipsstillonorder: 120SIGNIFICANTSHIPSOF2021
 DeliveredinJune2021byHyundaiSamhotoBankofCommunicationsFinance
-LeasingbasedinChinaalthougheventuallydestinedtobeoperatedbyTrafigura,BellavistaExplorerclaimedthetitleofworld’slargestLPGcarrierthankstoits90,000m3cargocapacity.Inadditiontothis,thevessel,whichhasasistershipunderconstruction,alsohasamainenginecapableofrunningonLPGforwhichthereisaseparate4,200m3fueltank.Thisalonegivesthevesselarangeofover17,000nauticalmilesallowingtworoundtripsfromUStoSouthKorea.
-Thevesselhasalengthof229.98m,abeamof36.6mandadraughtof12.2m.IthasbeenequippedwithfourcargotanksforcarriageofLPGcargoandasingleLPGfueltanklocatedbetweencargotanks3and4.
-TypicallyforaVLGC,thecargotanksarefullyrefrigerated.
-BellavistaExplorerisoneofthefirstvesselstobefittedwithMANEnergySolutionsLPGburningdual-fuelengines.Inthiscaseitisa
+LeasingbasedinChinaalthougheventuallydestinedtobeoperatedbyTrafigura,BellavistaExplorerclaimedthetitleofworld’slargestLPGcarrierthankstoits90,000m3cargocapacity.Inadditiontothis,thevessel,whichhasasistershipunderconstruction,alsohasamainenginecapableofrunningonLPGforwhichthereisaseparate4,200m3fueltank.Thisalonegivesthevesselarangeofover17,000nauticalmilesallowingtworoundtripsfromUStoSouthKorea.Thevesselhasalengthof229.98m,abeamof36.6mandadraughtof12.2m.IthasbeenequippedwithfourcargotanksforcarriageofLPGcargoandasingleLPGfueltanklocatedbetweencargotanks3and4.TypicallyforaVLGC,thecargotanksarefullyrefrigerated.BellavistaExplorerisoneofthefirstvesselstobefittedwithMANEnergySolutionsLPGburningdual-fuelengines.Inthiscaseitisa
 MANB & W6G60ME- C9.5- LGIPwhichhasapoweroutputof15,000kWat93.5rpm.Theengineisdirectlylinkedtoa7.4mdiameterfixedpitchpropellertogiveaservicespeedof16.8knots.WhenrunningonLPG,theenginereducesSOxemissionsby90 %,NOxby50 % andCO2by20 % comparedtowhenrunningonoilfuel.Auxiliaryenginesare
-HiMSENh21/32typeswithonebeinganine- cylinderversionandtheothertwoseven- cylindertypes.
-Theshipalsofeaturesa800m3 /hballastwatertreatmentsystemsuppliedbyErma
-Firstwhichistype- approvedbybothIMOandtheUSCoastGuard.
-TECHNICALPARTICULARS
+HiMSENh21/32typeswithonebeinganine- cylinderversionandtheothertwoseven- cylindertypes.Theshipalsofeaturesa800m3 /hballastwatertreatmentsystemsuppliedbyErma
+Firstwhichistype- approvedbybothIMOandtheUSCoastGuard.TECHNICALPARTICULARS
 Lengthoa: ........................................................229.98m
 Lengthbp: ......................................................224.20m
 Breadthmoulded: ..........................................36.60m
@@ -1131,15 +1088,10 @@ Totalnumberofsistershipsstillonorder: Nil22SIGNIFICANTSHIPSOF2021
 JapaneseownerNissenKaiuntookdeliveryoftheBelleLunefromTsuneishi’ sChineseyardatZhousaninMay2021.Theshipisdistinguishedbybeingthefirstofthe
 TsuneishiTESS42typecompleted,andthefirstofa10- shipseriesorderedbyNissen
 KaiuninJune2019.TheshipsarespreadfiveeachforconstructionatZhousanand
-CebuinthePhilippines.
-Tsuneishi’ sTESS38HandymaxbulkcarrierdesignhasbeenapopularchoiceovertheyearsandthenewTESS42typebuildsonthispopularityaddingextracapacityandimprovedefficiencywithinthesamehullenvelopedimensionsalthoughwithaslightlydeeperdraught.
-Theshipis180minlength,32.2mwideanda10.75msummerloadlinedraught.AtthesamedraughtastheTESS38type,theshiphasadeadweightof40,000tonnesbutthisisincreasedtoadesign42,200dwtwhenloadedtomaximumdraught– althoughBelle
-Lunehasbeenconsignedadeadweightof42,446tonnesbyClassNK.
-BelleLuneanditssistershipshavethetypicalfive- hold,four- craneconfigurationoftheHandymaxtypeandhavebeenlog- fittedforcarriageoflumbercargoesbothunderandondeckaddingtotheflexiblenatureofthevessel.
-TESSisanacronymforTsuneishiEconomic
+CebuinthePhilippines.Tsuneishi’ sTESS38HandymaxbulkcarrierdesignhasbeenapopularchoiceovertheyearsandthenewTESS42typebuildsonthispopularityaddingextracapacityandimprovedefficiencywithinthesamehullenvelopedimensionsalthoughwithaslightlydeeperdraught.Theshipis180minlength,32.2mwideanda10.75msummerloadlinedraught.AtthesamedraughtastheTESS38type,theshiphasadeadweightof40,000tonnesbutthisisincreasedtoadesign42,200dwtwhenloadedtomaximumdraught– althoughBelle
+Lunehasbeenconsignedadeadweightof42,446tonnesbyClassNK.BelleLuneanditssistershipshavethetypicalfive- hold,four- craneconfigurationoftheHandymaxtypeandhavebeenlog- fittedforcarriageoflumbercargoesbothunderandondeckaddingtotheflexiblenatureofthevessel.TESSisanacronymforTsuneishiEconomic
 ShipSeriesandbyoptimisingthe38typedesign,thenewshipshavereducedfuelconsumptionby4 % pertonne/mileandbeengivenanextendedservicerange.TheyarescrubberequippedtomeetSOxrulesandSCRsystemsonmainandauxiliariesallowcompliancewithNOxTierIIIrules.ThemainengineisaMitsui- builtMANB & W
-S50MEtypeoffive- cylinderconfigurationproducing6,410kWpowerat101rpm.
-TECHNICALPARTICULARS
+S50MEtypeoffive- cylinderconfigurationproducing6,410kWpowerat101rpm.TECHNICALPARTICULARS
 Lengthoa: ...........................................180m179.99m
 Breadthmoulded: ..............................................32.2m
 Depthmoulded: ..................................................15.4m
@@ -1198,13 +1150,9 @@ VTGroupandCyprus- basedMarlow
 Navigation.KnownastheParsifaltankers,allofthevesselswillbecharteredbyShelltocarrymineraloilsandchemicalsbetween
 Antwerp,Rotterdam,AmsterdamandalongtheRhinenetwork.BlueMarjanisoneof39vesselsthatwereentrustedtoShipyard
 KladovoinSerbia.TheoneremainingvesselwasbuiltatShipyardDeHoopLobithinthe
-Netherlands.
-BecausethewaterlevelsontheRhineanditstributariescansometimesdroptolowlevels,theseriesofships,whichare110minlengthand11.5mwide,havebeendesignedwithadraughtofjust3.25m.
-Theyareconsideredeco-friendlyvesselsandtheirelectricpropulsionsystemispoweredbyapairofMANRollomarinegeneratorsetsdrivenbyV12E3262LE201gasengines,eachratedat525kWat1,800rpm.FuelsystemsfortheengineshavebeensuppliedbyCryonormandfeature60m3typeCLNGtanks.AMANRollo
-D2676LE328fuelledbyMGOandproducing290kWwilladdback- uppower.ThemainpropulsionmotorsaretwoTF46100- 24WWROswaldswithanoutputof55kWe.
-Theshipshaveeightcargotankswithatotalcargocapacityof3,030m3.Marflex
-MDPD80pumpsareinstalledineachtankforcargohandling.
-TECHNICALPARTICULARS
+Netherlands.BecausethewaterlevelsontheRhineanditstributariescansometimesdroptolowlevels,theseriesofships,whichare110minlengthand11.5mwide,havebeendesignedwithadraughtofjust3.25m.Theyareconsideredeco-friendlyvesselsandtheirelectricpropulsionsystemispoweredbyapairofMANRollomarinegeneratorsetsdrivenbyV12E3262LE201gasengines,eachratedat525kWat1,800rpm.FuelsystemsfortheengineshavebeensuppliedbyCryonormandfeature60m3typeCLNGtanks.AMANRollo
+D2676LE328fuelledbyMGOandproducing290kWwilladdback- uppower.ThemainpropulsionmotorsaretwoTF46100- 24WWROswaldswithanoutputof55kWe.Theshipshaveeightcargotankswithatotalcargocapacityof3,030m3.Marflex
+MDPD80pumpsareinstalledineachtankforcargohandling.TECHNICALPARTICULARS
 Lengthoa: .......................................................110.00m
 Lengthbp: .......................................................106.43m
 Breadthmoulded: ..........................................11.40m
@@ -1226,8 +1174,7 @@ Mainengineonly: ........................................0.18m3 /h
 Classificationsocietyandnotations: .............+ A1
 I.W.WTankerTypeC
 InAssociationwithalistofDefinedCargoes
-L.S.“T”p.v. + 50kPAS.G.1.0 [ +} LMC,LFPF(GF,NG) % high-tensilesteelusedinconstruction: ......23 % approx.
-Propulsion
+L.S.“T”p.v. + 50kPAS.G.1.0 [ +} LMC,LFPF(GF,NG) % high-tensilesteelusedinconstruction: ......23 % approx.Propulsion
 Mainengine(s)
 Design: .......................Generatorengineformainpropulsion
 Model: ........NaturalGasEngineE3262LE262
@@ -1326,14 +1273,9 @@ Totalnumberofsistershipsstillonorder: 3926SIGNIFICANTSHIPSOF2021
 DeliveredinJanuary2021byChengxi
 ShipyardtoGermanbulkcarrieroperator
 OldendorffCarriers,Calypsoisoneoftwohighlyspecialisedself-loadingandunloadingshuttletransloadersdesignedandbuiltspecificallyfortranshippingcoalfrom
-Capesizevesselstoacoal-firedshorepowerstationinVietnam.ThesistershipAnnawasdeliveredsixmonthslater.
-Theshipswerecontractedin2018toservethenewlybuiltcoalpowersysteminNorth
-Vietnam.Allaspectsoftheirdesignhavebeenoptimisedforthespecificprojectforwhicha25yearcontractfortheshiphasbeensigned.
-Withalengthof145mabeamof34mandadraughtof8.5m,Calypsohasbeenoptimisedforoperationinrelativelyshallowwaters.Ithasaverticalbowandthefour- holdshipwithitsforwardmountedsuperstructurewillloadfromtheCapesizevesselusingitsowntwindeckcranesthateachhaveacapacityof30tonnesat36mor36tonnesat30moutreach.ThecranesarelocatedonthestarboardsideofthevesselwhichhasintegratedfendersAftertheshorttriptothepowerstationjetty,theshipwillunloadusingitsgravityfeedconveyorsystemthathasanoutreachof36m.
-CalypsoisdesignedtobehighlymanoeuvrableandprovidesanewreferenceshiptypeforABBAzipodsaspropulsionunits.
-Ithastwo1.9MWCZ980podsthatweredesignedforDPenabledvessels.Inaddition,theshiphasapairofSchotteltunnelthrustersforward.Powerissuppliedbythree
-MAN8L27/38gensetseachproducing2,500kWat720rpm.Servicespeedis10knots.
-TECHNICALPARTICULARS
+Capesizevesselstoacoal-firedshorepowerstationinVietnam.ThesistershipAnnawasdeliveredsixmonthslater.Theshipswerecontractedin2018toservethenewlybuiltcoalpowersysteminNorth
+Vietnam.Allaspectsoftheirdesignhavebeenoptimisedforthespecificprojectforwhicha25yearcontractfortheshiphasbeensigned.Withalengthof145mabeamof34mandadraughtof8.5m,Calypsohasbeenoptimisedforoperationinrelativelyshallowwaters.Ithasaverticalbowandthefour- holdshipwithitsforwardmountedsuperstructurewillloadfromtheCapesizevesselusingitsowntwindeckcranesthateachhaveacapacityof30tonnesat36mor36tonnesat30moutreach.ThecranesarelocatedonthestarboardsideofthevesselwhichhasintegratedfendersAftertheshorttriptothepowerstationjetty,theshipwillunloadusingitsgravityfeedconveyorsystemthathasanoutreachof36m.CalypsoisdesignedtobehighlymanoeuvrableandprovidesanewreferenceshiptypeforABBAzipodsaspropulsionunits.Ithastwo1.9MWCZ980podsthatweredesignedforDPenabledvessels.Inaddition,theshiphasapairofSchotteltunnelthrustersforward.Powerissuppliedbythree
+MAN8L27/38gensetseachproducing2,500kWat720rpm.Servicespeedis10knots.TECHNICALPARTICULARS
 Lengthoa: .............................................................145m
 Lengthbp: ..............................................................141m
 Breadthmoulded: ...............................................34m
@@ -1450,17 +1392,9 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: Nil28SIGNIFICANTSHIPSOF2021
 BuiltasthefirstvesselofanewPost-
 Panamaxbulkcarrierdesign,CapeAcewasdeliveredbyNamuraShipbuildingto
-JapaneseownerKLineinDecember2020.
-Thedeliverywastoolatetobeincludedinthe2020edition,buttheshipissignificantenoughtodeserveentryhere.
-Twofurthervesselsofthesametypehavesincebeendeliveredtootherowners.
-Althoughdescribedas100,000dwtclassshipsallthreehavedeadweightsinexcessof101,000tonnes.InthecaseofCapeAce,thefigureis101,314tonnes.
-CapeAceis249.94mlongwithawidthof43.00manddraughtof12.90mandhasbeendesignedwithawidebeamandshallowdraughtallowingentrytoagreaterrangeofportsthanvesselsofsimilardeadweightbutmoreconventionaldesign.
-WhereasatypicalPanamaxbulkerwouldhavesevenholds,theNamuradesignhasreducedthistosix.Theshipissuitabletocarrybulkcargoessuchascoalandironoreaswellasmanyothertypesofbulksandisgearless.
-Forenvironmentalprotection,thevesselisequippedwithamainengineandgeneratorenginescompliantwiththeIMOTierIIINOxemissionsandaFujiElectricCo.openloop
-SOxscrubberisinstalledallowingoperationonHFO.TheballasttreatmentsystemhasbeensuppliedbySunrui.
-ThemainengineisaMANB & W6S60ME- C8.5two- strokedirectlycoupledtoaNakashimafixedpitchpropellerequippedwithanEco- Capenergysavingdevice.Theengineproduces10,450kWat94.5rpm.TheshipalsofeaturesaNamuraflowControlFinonhersternandaRudderFin,bothNamura
-Shipbuildingin- housetechnologies.
-TECHNICALPARTICULARS
+JapaneseownerKLineinDecember2020.Thedeliverywastoolatetobeincludedinthe2020edition,buttheshipissignificantenoughtodeserveentryhere.Twofurthervesselsofthesametypehavesincebeendeliveredtootherowners.Althoughdescribedas100,000dwtclassshipsallthreehavedeadweightsinexcessof101,000tonnes.InthecaseofCapeAce,thefigureis101,314tonnes.CapeAceis249.94mlongwithawidthof43.00manddraughtof12.90mandhasbeendesignedwithawidebeamandshallowdraughtallowingentrytoagreaterrangeofportsthanvesselsofsimilardeadweightbutmoreconventionaldesign.WhereasatypicalPanamaxbulkerwouldhavesevenholds,theNamuradesignhasreducedthistosix.Theshipissuitabletocarrybulkcargoessuchascoalandironoreaswellasmanyothertypesofbulksandisgearless.Forenvironmentalprotection,thevesselisequippedwithamainengineandgeneratorenginescompliantwiththeIMOTierIIINOxemissionsandaFujiElectricCo.openloop
+SOxscrubberisinstalledallowingoperationonHFO.TheballasttreatmentsystemhasbeensuppliedbySunrui.ThemainengineisaMANB & W6S60ME- C8.5two- strokedirectlycoupledtoaNakashimafixedpitchpropellerequippedwithanEco- Capenergysavingdevice.Theengineproduces10,450kWat94.5rpm.TheshipalsofeaturesaNamuraflowControlFinonhersternandaRudderFin,bothNamura
+Shipbuildingin- housetechnologies.TECHNICALPARTICULARS
 Lengthoa: .....................................................249.94m
 Breadthmoulded: ........................................43.00m
 Draughtscantling: .........................................................12.90m
@@ -1492,8 +1426,7 @@ Fixed/Controllablepitch: ...............................Fixed
 Specialadaptations: .....................WithEco- Cap
 Diesel- drivenalternators
 Number: .........................................................................3
-Enginemake/type: .............DaihatsudieselMfg.
-Co.,Ltd
+Enginemake/type: .............DaihatsudieselMfg.Co.,Ltd
 Typeoffuel: .........HFO(uptoRMG380) /MDO(DMB) /MGO(DMA,DMZ)
 Alternatormake/type: .....................Taiyoelectric
 Co.,Ltd /FE547C- 8
@@ -1578,37 +1511,24 @@ Flag: .............................................................Pamama
 IMOnumber: ............................................9885051
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................232SIGNIFICANTSHIPSOF2021
 CenturyHighwayGreenwasdeliveredin
-MarchbyTadotsuShipyardtoJapaneseoperatorKawasakiKisenKaisha(KLine)astheowner’ sfirstLNG- poweredPCTCtojoinitsfleet.TheClassNK- classedvesselhasanloaof199.98m,abeamof37.2m,adepthof36.51m,agrosstonnageof73,515,andcapacityfor7,080vehiclesover12decks.
-ThehulldimensionshavebeendeterminedbythefactthatmostcarterminalsinJapanhaveamaximum200mlengthforvessels.
-ButinordertotakebestadvantageoftheopportunitiesallowedbytheNewPanama
-Canallock,thetypicaloldPanamamaximumbeamof32.2mhasbeenstretchedby5menhancingcargocapacity.
-PowerforthevesselisprovidedbyaMAN
+MarchbyTadotsuShipyardtoJapaneseoperatorKawasakiKisenKaisha(KLine)astheowner’ sfirstLNG- poweredPCTCtojoinitsfleet.TheClassNK- classedvesselhasanloaof199.98m,abeamof37.2m,adepthof36.51m,agrosstonnageof73,515,andcapacityfor7,080vehiclesover12decks.ThehulldimensionshavebeendeterminedbythefactthatmostcarterminalsinJapanhaveamaximum200mlengthforvessels.ButinordertotakebestadvantageoftheopportunitiesallowedbytheNewPanama
+Canallock,thetypicaloldPanamamaximumbeamof32.2mhasbeenstretchedby5menhancingcargocapacity.PowerforthevesselisprovidedbyaMAN
 B & W8S50ME- C9.6- GIdual-fuelmainengineoutputting9,380kWcoupleddirectlytoasinglefixedpitchpropeller.TheMAN
 B & Wtwo- strokedual-fuelenginesareknownfortheirabilitytokeepmethanesliptoaminimum.NOxemissionsareminimalwhenrunningonLNGandtheengineonthisvesselemploysEGRtoreduceNOxto
-TierIIIrequirementswhenrunningonMGO.
-AnLNGfueltankof2,439m3capacityisinstalledforrunningongas.ThetankisanindependenttypeCallowingforhigherpressurestorageandretentionofboiloffgaswithinthetank.ThefuelgassupplysystemhasbeenprovidedbyTGEMarine
+TierIIIrequirementswhenrunningonMGO.AnLNGfueltankof2,439m3capacityisinstalledforrunningongas.ThetankisanindependenttypeCallowingforhigherpressurestorageandretentionofboiloffgaswithinthetank.ThefuelgassupplysystemhasbeenprovidedbyTGEMarine
 GasEngineering.TheauxiliaryenginesareatrioofDaihatsusix- cylinderDE28DFdual- fueldieselengineswhichconformtoNOx
-TierIIIingasmodeandarefittedwithaselectivecatalyticreductionsystem(SCR)tomeetNOxTierIIIrequirementsindieselmode,offeringflexibilityinthechoiceoffuel.
-Inmostrespectsthevesselisatypicallargecarcarrierbutthereareunseenfeaturesthatmarktheshipoutassignificant.
-ThedecisiontouseLNGispartofKLine’ sgoalstoreduceemissionsacrossitsfleetofmixedvesseltypesby50 % by2030comparedto2008.Thishasbeenevidencedbythechoiceofnameforthevessel.KLinehasusedthenameCenturyHighwayforfourpreviousvesselsanditslatestenvironmentalfocusisreflectedbytheadditionofGreentothename.TheGreenelementisalsoaresponsetoademandfrommajorcustomer
-Toyotaforavesselthatsatisfieditsgreenlogisticsambitions.
-Theaccommodationprovidedissufficientfor50persons,farinexcessofnormalcrewingnumbersbutCenturyHighwayGreenisalsointendedtobeusedasatrainingplatformforofficersandcrewtobecomefamiliarwithLNG- poweredenginesandbunkeringmatters.
-Thisfacilitywillbecomeinvaluableasin
+TierIIIingasmodeandarefittedwithaselectivecatalyticreductionsystem(SCR)tomeetNOxTierIIIrequirementsindieselmode,offeringflexibilityinthechoiceoffuel.Inmostrespectsthevesselisatypicallargecarcarrierbutthereareunseenfeaturesthatmarktheshipoutassignificant.ThedecisiontouseLNGispartofKLine’ sgoalstoreduceemissionsacrossitsfleetofmixedvesseltypesby50 % by2030comparedto2008.Thishasbeenevidencedbythechoiceofnameforthevessel.KLinehasusedthenameCenturyHighwayforfourpreviousvesselsanditslatestenvironmentalfocusisreflectedbytheadditionofGreentothename.TheGreenelementisalsoaresponsetoademandfrommajorcustomer
+Toyotaforavesselthatsatisfieditsgreenlogisticsambitions.Theaccommodationprovidedissufficientfor50persons,farinexcessofnormalcrewingnumbersbutCenturyHighwayGreenisalsointendedtobeusedasatrainingplatformforofficersandcrewtobecomefamiliarwithLNG- poweredenginesandbunkeringmatters.Thisfacilitywillbecomeinvaluableasin
 September2021,KLineannouncedithadplacedordersforeightmoreLNG-fuelled7,000CEUcapacitycarcarriers.ThevesselshavebeenspreadacrossdifferentyardswithconstructiontakingplaceatNihon
 Shipyard,ShinKurushimaDockyard,and
-ChinaMerchantsJinlingShipyard(Nanjing).
-DeliveryofalleightnewbuildingsisscheduledforbetweenFY2023and
+ChinaMerchantsJinlingShipyard(Nanjing).DeliveryofalleightnewbuildingsisscheduledforbetweenFY2023and
 FY2025.FulldetailsofthedesignandwhethertheywillbesistersforCentury
-HighwayGreenwerenotdivulgedatthetimeoftheannouncement.
-CenturyHighwayGreenisalsothefirstshiptobegrantedClassNK’ sRemote
+HighwayGreenwerenotdivulgedatthetimeoftheannouncement.CenturyHighwayGreenisalsothefirstshiptobegrantedClassNK’ sRemote
 Survey(RMSV)notationallowingforregularremotesurveystobedonewithoutasurveyorinattendance.Tothisendthevesselhassignificantlyenhancedcommunicationfacilities.Thisincludesa
-Wi- Finetworkthroughouttheshipthatcanbeusedforremotemonitoringofequipmentaswellastoshareaudio,video,textcommunication,andelectronicfilesusingsmartphonesandsmartglasses.
-TheWi- Ficonnectivityalsoallowswebcamerasinstalledinthecargodeckandtheengineroomtosendreal-timevideofeedstothecrewviatheirmobiledevicesandonboardcomputers.Real -timemonitoringofthesamevideofootagecanalsobedoneremotelybyanoperatoratashorecontrolstation.
-Thelistoffirstsforthevesselalsoincludesthefinancingarrangementsforitsconstruction.Withpressuretoensureships’ environmentaloperationbecomingevermoreimportant,KLinearrangedanoperatingleaseforCenturyHighwayGreenthroughaclimatetransitionloanwith
+Wi- Finetworkthroughouttheshipthatcanbeusedforremotemonitoringofequipmentaswellastoshareaudio,video,textcommunication,andelectronicfilesusingsmartphonesandsmartglasses.TheWi- Ficonnectivityalsoallowswebcamerasinstalledinthecargodeckandtheengineroomtosendreal-timevideofeedstothecrewviatheirmobiledevicesandonboardcomputers.Real -timemonitoringofthesamevideofootagecanalsobedoneremotelybyanoperatoratashorecontrolstation.Thelistoffirstsforthevesselalsoincludesthefinancingarrangementsforitsconstruction.Withpressuretoensureships’ environmentaloperationbecomingevermoreimportant,KLinearrangedanoperatingleaseforCenturyHighwayGreenthroughaclimatetransitionloanwith
 MizuhoBankandSumitomoMitsuiTrust
 Bank.AccordingtoKLine,theloanisrecognisedastheveryfirstClimateTransition
-FinanceinJapan.
-TECHNICALPARTICULARS
+FinanceinJapan.TECHNICALPARTICULARS
 Lengthoa: .............................................abt.199.98m
 Breadthmoulded: ..............................................37.2m
 Depthmoulded................................................15.22mtoupperdeck: ...............................................36.51m
@@ -1661,14 +1581,9 @@ Cherokee,deliveredbyCSSCHuangpu
 WenchongShipbuildinginChinato
 US- basedrailoperatorCGR,ajointventureofGenesee & WyomingInc.(G & W)and
 SEACORHoldingsInc.,isthesecondrailferrytoappearinthisyear’ sSignificant
-Shipsalthoughthisvesselisnotintendedtoalsocarryroadvehiclesandpassengers.
-ThevesseldeliveredinJune2021isthefirstofapairdevelopedbySDARIandisbelievedtobethelargestvesselofitstypeintheworld.AlongwithitssistervesselMayandeliveredinSeptember2021,CherokeewillservicetheroutebetweenMobile,AlabamaandCoatzacoalcosinMexico.
-Cherokeehastwocontinuouscargodecksaccessedthroughthesternwiththeuppermostbeingthemaindeckoftheshipandopentotheelementsapartfromasmallareaforwardundertheship’ saccommodation.Thetwodeckshave2,700moflanelengthallowingforupto136railcarstobeloaded.Alargeballastingsystemisneededtocorrectheelingastherailcarsareloaded.
-Althoughtheshiptypefallsoutsidethe
-EEDIrequirements,Cherokeehasanoptimisedtwinskeghullformbasedonoperationprofiletoachieveenergysavingandreducefuelcost.Theservicespeedis14.4knotsatCSRwith15 % seamarginisalmostdoublethevesselspreviouslyservingtheroute.
-PropulsionisprovidedbyapairofMAN
-B & W6S35ME- B9.5EGRBPtwo- strokeenginesrunningonMGOandeachproducing4,800kWat155rpm.Thepropellersaredirectlylinkedtothemainenginesandare4.4mdiametercontrollablepitchtypesuppliedbyMAN.
-TECHNICALPARTICULARS
+Shipsalthoughthisvesselisnotintendedtoalsocarryroadvehiclesandpassengers.ThevesseldeliveredinJune2021isthefirstofapairdevelopedbySDARIandisbelievedtobethelargestvesselofitstypeintheworld.AlongwithitssistervesselMayandeliveredinSeptember2021,CherokeewillservicetheroutebetweenMobile,AlabamaandCoatzacoalcosinMexico.Cherokeehastwocontinuouscargodecksaccessedthroughthesternwiththeuppermostbeingthemaindeckoftheshipandopentotheelementsapartfromasmallareaforwardundertheship’ saccommodation.Thetwodeckshave2,700moflanelengthallowingforupto136railcarstobeloaded.Alargeballastingsystemisneededtocorrectheelingastherailcarsareloaded.Althoughtheshiptypefallsoutsidethe
+EEDIrequirements,Cherokeehasanoptimisedtwinskeghullformbasedonoperationprofiletoachieveenergysavingandreducefuelcost.Theservicespeedis14.4knotsatCSRwith15 % seamarginisalmostdoublethevesselspreviouslyservingtheroute.PropulsionisprovidedbyapairofMAN
+B & W6S35ME- B9.5EGRBPtwo- strokeenginesrunningonMGOandeachproducing4,800kWat155rpm.Thepropellersaredirectlylinkedtothemainenginesandare4.4mdiametercontrollablepitchtypesuppliedbyMAN.TECHNICALPARTICULARS
 Lengthoa: .........................................................180.0m
 Lengthbp: ..........................................................176.8m
 Breadthmoulded: ............................................38.6m
@@ -1788,12 +1703,7 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 136SIGNIFICANTSHIPSOF2021
 DesignedspecificallyfortheUSfruitandvegetabletradefromLatinAmericaby
 SDARI,DoleMayaisa195mloa32.20mbeamreefercontainervesselandoneofapairorderedbyDole.DoleMayawasdeliveredby
-CSSCChengxiShipyardinJanuaryanditssisterDoleAztecfivemonthslater.
-Thehullformisaconventionaloneforthevesseltypewithabulbousbowandatransomstern.TheyarefullycellularvesselsequippedwiththreeMacGregorhydrauliccranesof45tonneliftcapacityat28m.
-Cargocapacityisnominally2,336TEUalthoughforreefervesselsitismorenormaltodiscussin40ftorFEUcapacity.DoleMayacanaccommodateatotalof1,012FEU– 447underdeckand565abovedeck.Afurther312TEUscanbeaccommodatedondeck.Atahomogenous25tonneboxweight,capacityis988FEU.With919reeferplugsavailable80 % oftheshipstotalcapacityiscovered.Thereefercontainersunderdeckarecooledbyfreshwater,thisgreatlyreducesthenumberofventilationfans,electricpowerload,noiseandCO2emissions.
-ThemainengineisMANB & W7G60ME- C9.5typewithapoweroutputof18,760kWat97rpm.Forpropulsionpurposesitisdirectlylinkedtoa7mdiametercontrollablepitchpropellerforaservicespeedof19.7knotsatdesigndraught.ReefervesselshaveahighpowerdemandforcoolingboxesandtocoverthisthevesselisfittedwithfourgensetsbasedonMAN7L27/38medium- speeddieselseachproducing2,310kWat720rpm.
-TomeetSOxrules,anAndritzhybridscrubberhasbeenfittedtreatingtheexhaustofthemainengineandallfourauxiliaries.
-TECHNICALPARTICULARS
+CSSCChengxiShipyardinJanuaryanditssisterDoleAztecfivemonthslater.Thehullformisaconventionaloneforthevesseltypewithabulbousbowandatransomstern.TheyarefullycellularvesselsequippedwiththreeMacGregorhydrauliccranesof45tonneliftcapacityat28m.Cargocapacityisnominally2,336TEUalthoughforreefervesselsitismorenormaltodiscussin40ftorFEUcapacity.DoleMayacanaccommodateatotalof1,012FEU– 447underdeckand565abovedeck.Afurther312TEUscanbeaccommodatedondeck.Atahomogenous25tonneboxweight,capacityis988FEU.With919reeferplugsavailable80 % oftheshipstotalcapacityiscovered.Thereefercontainersunderdeckarecooledbyfreshwater,thisgreatlyreducesthenumberofventilationfans,electricpowerload,noiseandCO2emissions.ThemainengineisMANB & W7G60ME- C9.5typewithapoweroutputof18,760kWat97rpm.Forpropulsionpurposesitisdirectlylinkedtoa7mdiametercontrollablepitchpropellerforaservicespeedof19.7knotsatdesigndraught.ReefervesselshaveahighpowerdemandforcoolingboxesandtocoverthisthevesselisfittedwithfourgensetsbasedonMAN7L27/38medium- speeddieselseachproducing2,310kWat720rpm.TomeetSOxrules,anAndritzhybridscrubberhasbeenfittedtreatingtheexhaustofthemainengineandallfourauxiliaries.TECHNICALPARTICULARS
 Lengthoa: ........................................................195.00m
 Lengthbp: .......................................................185.00m
 Breadthmoulded: ...........................................32.20m
@@ -1963,21 +1873,12 @@ DesignedbyIncatCrowtherandbuiltby
 SpanishshipyardAstillerosArmonforlocalferryoperatorBaleària,Eleanor
 Rooseveltachievedtwosignificant‘firsts’ whendeliveredinearly2021.Aswellasbeingthelongestfastro- paxferryinoperationatthetimeofdelivery,thevesselwasalsothefirstfastferrywithreciprocatinggas-fuelledengines.Inaddition,Eleanor
 Rooseveltincorporatessmartshiptechnologyforonboardservicesanduses
-BigDatatomonitoritsefficiencyandemissionsinrealtime.
-BaleàriahasapolicyofdevelopingallitsfleettorunonLNGwhetherbywayofconversionornewbuildings,althoughin
-October2021thecompanyswitchedtousingLNGonlyinportduetorocketingLNGprices.Thisisseenasatemporarysetbackasthecompanyisdeterminedtoextenditsgreencredentials.
-Asistobeexpectedforafastferry,Eleanor
-Roosevelthasbeenconstructedfrommarinegradealuminium.The12,262gtvesselwhichisaone- offhascapacityfor1,200passengersandspacefor500linearmetresoftrucksand250cars,oralternatively450cars,onthecardeck.Accesstothetwovehicledecksisbyasternramp.
-Forpassengers,priorityhasbeengiventospaciousnessandtheseparationbetweenseats,andcomfortonboardbymeansofastate- of-the- artstabilisationsystem,whichwillconsiderablyreducemovement.
-MotionshavebeenreducedwiththelatestiterationofIncatCrowther’ sprovencatamaranhullform,coupledwithanoperation- specificcentrebowdesign.AretractablecentreT-foilwillalsobeusedtosmooththeride,whilstanisolatedsuperstructureprovidesultra - quietpassengerspaces.Vibrationsandnoisewillalsobeminimisedthankstoanelasticallyfloatingsuperstructureandtheinstallationofhigh-techinsulation.
-Aswellastheusualrestaurant,shoppingandentertainmentfacilitiesthatarefoundonmostmodernro- paxvessels,Eleanor
-Rooseveltalsohassomenovelfeatures.
-Therearekennelstoallowtravellerstobringtheirpets,withkennelmonitoringviaasmartphoneapp.Inkeepingwiththeshipowner’ senvironmentalvisionandincreasingelectricvehicleownership,theshiphasbeenequippedwithelectricvehiclechargingstations.Theshiphasalsobeendesignedasa‘ smartship’ permittingboardingbywayofQRcodesonpassengers’ mobiledevicesthroughWhatsApp,whilsthigh- speedWi- Fiisavailablethroughoutthevessel.
-OnthepropulsionsidetheshipaddsanewreferenceforWärtsilä’s31DFengineofwhichfour16- cylinderVeeversionsareinstalled.
-Theseproduce8,800kWpowereachat750rpm.Twoenginesareplacedinanin-linepositionineachofthecatamaranhulls.Theenginesineachhullareslightlyoffsetallowingthepowertobetakenthroughtwo
+BigDatatomonitoritsefficiencyandemissionsinrealtime.BaleàriahasapolicyofdevelopingallitsfleettorunonLNGwhetherbywayofconversionornewbuildings,althoughin
+October2021thecompanyswitchedtousingLNGonlyinportduetorocketingLNGprices.Thisisseenasatemporarysetbackasthecompanyisdeterminedtoextenditsgreencredentials.Asistobeexpectedforafastferry,Eleanor
+Roosevelthasbeenconstructedfrommarinegradealuminium.The12,262gtvesselwhichisaone- offhascapacityfor1,200passengersandspacefor500linearmetresoftrucksand250cars,oralternatively450cars,onthecardeck.Accesstothetwovehicledecksisbyasternramp.Forpassengers,priorityhasbeengiventospaciousnessandtheseparationbetweenseats,andcomfortonboardbymeansofastate- of-the- artstabilisationsystem,whichwillconsiderablyreducemovement.MotionshavebeenreducedwiththelatestiterationofIncatCrowther’ sprovencatamaranhullform,coupledwithanoperation- specificcentrebowdesign.AretractablecentreT-foilwillalsobeusedtosmooththeride,whilstanisolatedsuperstructureprovidesultra - quietpassengerspaces.Vibrationsandnoisewillalsobeminimisedthankstoanelasticallyfloatingsuperstructureandtheinstallationofhigh-techinsulation.Aswellastheusualrestaurant,shoppingandentertainmentfacilitiesthatarefoundonmostmodernro- paxvessels,Eleanor
+Rooseveltalsohassomenovelfeatures.Therearekennelstoallowtravellerstobringtheirpets,withkennelmonitoringviaasmartphoneapp.Inkeepingwiththeshipowner’ senvironmentalvisionandincreasingelectricvehicleownership,theshiphasbeenequippedwithelectricvehiclechargingstations.Theshiphasalsobeendesignedasa‘ smartship’ permittingboardingbywayofQRcodesonpassengers’ mobiledevicesthroughWhatsApp,whilsthigh- speedWi- Fiisavailablethroughoutthevessel.OnthepropulsionsidetheshipaddsanewreferenceforWärtsilä’s31DFengineofwhichfour16- cylinderVeeversionsareinstalled.Theseproduce8,800kWpowereachat750rpm.Twoenginesareplacedinanin-linepositionineachofthecatamaranhulls.Theenginesineachhullareslightlyoffsetallowingthepowertobetakenthroughtwo
 Reintjes’ SLVJ850gearboxestoapairof
-Wärtsilä LJX1500SRwaterjets.Givingatotaloffourgearboxesandwaterjetspoweringthevessel.Servicespeedisaround37knots,butmaximumspeedis40knots.
-TECHNICALPARTICULARS
+Wärtsilä LJX1500SRwaterjets.Givingatotaloffourgearboxesandwaterjetspoweringthevessel.Servicespeedisaround37knots,butmaximumspeedis40knots.TECHNICALPARTICULARS
 Lengthoa: ...........................................................123.0m
 Breadthmoulded: .............................................28.0m
 Depthmoulded: .....................................................7.8m
@@ -2023,17 +1924,10 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: .040SIGNIFICANTSHIPSOF2021
 Faustine,deliveredinOctober2021,andsistershipSeraphinescheduledfor
 February2022deliveryareLNG-fuelledfreightro-rosbuiltforBelgianoperator
-CLdNbyHyundaiMipoinSouthKorea.
-Thevesselsare216.47minlengthwithabeamof32.26m.Theyhaveagrosstonnageof50,450andadeadweightof20,200.
-Withtheirbulbousbows,transomsternsandsternrampshaveatypicalfreightro-roprofile.Theyarehowever,themosttechnologicallyadvancedvesselsinthe
-CLdNfleetandhavebeendesignedtorunonLNGorbiogas.Bothvesselswilloperateontheowner’ sZeebruggetoGothenburgservice.
-Faustinehassevencargodecksandatotallanelengthof4,948m.Twoofthedecks(3Aand4A)arehoistablecardecks.Theuppermostdeckisanopendeck.Capacityisfor318freightunitsand822cars.AllinternalrampsandthemainsternrampweresuppliedbyMacGregor.Thetype- CLNGfueltankandgastreatmentroomisinstalledontheNo.3deck.Faustineisequippedwitha
-FLUMEtanksystemforrollreduction.
-Thepropulsionsystemcomprisesa
-HYUNDAI- builtMANB & W7S50ME- C9.5- GIdual-fuelenginewithapoweroutputof12,460kWat117rpmdrivingaKongsbergcontrollablepitchpropeller.Servicespeedis17.6knots.Themainenginealsohasashaftgeneratorandapowertakehomemode.
-AuxiliariesarethreeHiMSEN8H25 /33gensetsandoneHiMSEN6H21/32.
-InFebruary2022,CLdNorderedtwolarger8,000-lane- metershipsfromthesamebuilderwhichwillalsofeaturedual-fuelenginesinahybridconfiguration.
-TECHNICALPARTICULARS
+CLdNbyHyundaiMipoinSouthKorea.Thevesselsare216.47minlengthwithabeamof32.26m.Theyhaveagrosstonnageof50,450andadeadweightof20,200.Withtheirbulbousbows,transomsternsandsternrampshaveatypicalfreightro-roprofile.Theyarehowever,themosttechnologicallyadvancedvesselsinthe
+CLdNfleetandhavebeendesignedtorunonLNGorbiogas.Bothvesselswilloperateontheowner’ sZeebruggetoGothenburgservice.Faustinehassevencargodecksandatotallanelengthof4,948m.Twoofthedecks(3Aand4A)arehoistablecardecks.Theuppermostdeckisanopendeck.Capacityisfor318freightunitsand822cars.AllinternalrampsandthemainsternrampweresuppliedbyMacGregor.Thetype- CLNGfueltankandgastreatmentroomisinstalledontheNo.3deck.Faustineisequippedwitha
+FLUMEtanksystemforrollreduction.Thepropulsionsystemcomprisesa
+HYUNDAI- builtMANB & W7S50ME- C9.5- GIdual-fuelenginewithapoweroutputof12,460kWat117rpmdrivingaKongsbergcontrollablepitchpropeller.Servicespeedis17.6knots.Themainenginealsohasashaftgeneratorandapowertakehomemode.AuxiliariesarethreeHiMSEN8H25 /33gensetsandoneHiMSEN6H21/32.InFebruary2022,CLdNorderedtwolarger8,000-lane- metershipsfromthesamebuilderwhichwillalsofeaturedual-fuelenginesinahybridconfiguration.TECHNICALPARTICULARS
 Lengthoa: .......................................................216.47m
 Lengthbp: .....................................................204.00m
 Breadthmoulded: ...........................................32.26m
@@ -2142,14 +2036,11 @@ Cabins: ............Portablefireextinguisher/Seawater
 Make/Type: .......Fain(Portablefireextinguisher)
 Publicspaces: .............Portablefireextinguisher/Seawater
 Make/Type:....Fain(Portablefireextinguisher)
-LNGbunkerstation: ......DrychemicalpowderSys.
-Make/Type:..............................................................Fain
+LNGbunkerstation: ......DrychemicalpowderSys.Make/Type:..............................................................Fain
 LNGfuelstoragespace: ...LowpressureCO2
-Sys.
-Make/Type:.....Danfoss-semco/LowpressureCO2
+Sys.Make/Type:.....Danfoss-semco/LowpressureCO2
 FuelGasSupplyRoom: .....LowpressureCO2
-Sys.
-Make/Type: ............................Danfoss- semco/LowpressureCO2
+Sys.Make/Type: ............................Danfoss- semco/LowpressureCO2
 Wastedisposalplant
 Incinerator
 Make: ..................................................................HMMCO
@@ -2161,8 +2052,7 @@ RequiredEEDIvalue: ..........................................9.58
 Otherinstalledmonitoringtools: .....Shafthorsepowermeter
 EnergySavingTechnologies: ....................PROMAS
 Hullcoatings: .....HempelAntifoulingGlobic9500
-Type: ....................Premiumhighsolidschemicallyhydrolyzingantifoulingbasedonnanotechnology.
-Contractdate: ........................................10July2019
+Type: ....................Premiumhighsolidschemicallyhydrolyzingantifoulingbasedonnanotechnology.Contractdate: ........................................10July2019
 Launch/float- outdate: ......................27May2021
 Deliverydate: ................................08October2021
 FAUSTINE– Vehiclescarrier
@@ -2181,14 +2071,8 @@ Totalnumberofsistershipsstillonorder: 144SIGNIFICANTSHIPSOF2021
 BuilttoreplaceanoldervesselandtomeetgrowingdemandinJapanforshort- seaferryoperations,FerryKyotowasbuiltbyMitsubishiShipbuildingin
 ShimonosekiforoperatorMeimonTaiyo
 Ferry.The33,390gtro- paxwasdeliveredin
-DecemberandcommencedoperationsontheOsaka- ShinmojiKitakyushuroute.Asistervessel,FerryFukuoka,isduetobedeliveredinMarch2022.
-FerryKyotois195mlong,27.8mwide,and20.3mdeep.ItisthelargestshipeveroperatedbyMeimonTaiyoFerry.Thevesselhas245passengercabinsandcapacityfor675persons.Therearefivecardeckswithentryviasternorbowrampsandvehiclecapacityforapproximately16212mtrucksand140passengercars.TheuppercardeckhasbeenfittedwithtenchargingpointsforEVs.
-ThevesselhasahybridpropulsionsystempoweredbytwoJFEEngineering12PC2- 6Benginesoutputting8,000kWatMCR.ThisisapopularenginechoiceforJapaneseferriesandisadevelopmentoftheSEMTPielstickengine.TheauxiliariesarethreeDaihatsu6DE- 23gensetseachproviding1,400kWe.
-Themainenginesareconnectedthroughagearboxtoa5.8mdiameterCPPandinadditiontherearetwoelectricmotorpoweredazimuthingthrusters.Themainenginesareintendedtoberunusinghighsulphurfuelandtoensurecompliancewith2020SOxregulations,aValmetscrubberhasbeeninstalled.
-EnvironmentalperformanceisenhancedbytheuseoftheMitsubishiAirLubrication
-System(MALS)developedbytheshipbuilder.
-Thisimprovesenergyefficiencyandwhencombinedwiththeoverallimprovedefficiencyofthevesselandsizeincreaseoverexistingships,isclaimedtoreducefuelconsumptionby35 % foreachtruckcarried.
-TECHNICALPARTICULARS
+DecemberandcommencedoperationsontheOsaka- ShinmojiKitakyushuroute.Asistervessel,FerryFukuoka,isduetobedeliveredinMarch2022.FerryKyotois195mlong,27.8mwide,and20.3mdeep.ItisthelargestshipeveroperatedbyMeimonTaiyoFerry.Thevesselhas245passengercabinsandcapacityfor675persons.Therearefivecardeckswithentryviasternorbowrampsandvehiclecapacityforapproximately16212mtrucksand140passengercars.TheuppercardeckhasbeenfittedwithtenchargingpointsforEVs.ThevesselhasahybridpropulsionsystempoweredbytwoJFEEngineering12PC2- 6Benginesoutputting8,000kWatMCR.ThisisapopularenginechoiceforJapaneseferriesandisadevelopmentoftheSEMTPielstickengine.TheauxiliariesarethreeDaihatsu6DE- 23gensetseachproviding1,400kWe.Themainenginesareconnectedthroughagearboxtoa5.8mdiameterCPPandinadditiontherearetwoelectricmotorpoweredazimuthingthrusters.Themainenginesareintendedtoberunusinghighsulphurfuelandtoensurecompliancewith2020SOxregulations,aValmetscrubberhasbeeninstalled.EnvironmentalperformanceisenhancedbytheuseoftheMitsubishiAirLubrication
+System(MALS)developedbytheshipbuilder.Thisimprovesenergyefficiencyandwhencombinedwiththeoverallimprovedefficiencyofthevesselandsizeincreaseoverexistingships,isclaimedtoreducefuelconsumptionby35 % foreachtruckcarried.TECHNICALPARTICULARS
 Lengthoa: ........................................................195.00m
 Lengthbp: .......................................................184.00m
 Breadthmoulded: ...........................................27.80m
@@ -2229,8 +2113,7 @@ Make/type: ...............NishishibaElectricCo.,Ltd
 Output/speedofeachset: ...................1,400kW
 Diesel- drivenalternators
 Number: ..........................................................................3
-Enginemake/type: ...........DaihatsuDieselMFG.
-Co.,Ltd /6DE- 23
+Enginemake/type: ...........DaihatsuDieselMFG.Co.,Ltd /6DE- 23
 Typeoffuel: ..............HFO(LowSulfur)orMDO
 Alternatormake/type: ..........NishishibaElectric
 Co.,Ltd
@@ -2322,16 +2205,10 @@ IMOnumber: ...........................................9890991
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): .............Nil
 Totalnumberofsistershipsstillonorder: 146SIGNIFICANTSHIPSOF2021
 BuiltbyHyundaiHeavyIndustriesfor
-KoreanoperatorKSSLine,GasGabriellaisan84,000m3capacityVLGCthatwasdeliveredinJanuary2021directlyintoalong-termcharterwithSpanishenergytraderVilmaOil.
-Thevesselisthefirstinaseriesofsixships,foursistersweredeliveredlaterin2021– GasAres(February),GasGala(March),GasBarbarossa(AprilandGas
-Ghazi(October).Thefinalvesselintheserieshasn'tyetbeennamedbutisscheduledfordeliveryinJuly2022.theVLGCsegmentisonewhichhasseenrapidvesselsizegrowthoverthelastfewyearswithrecordsforthelargestexpectedtotumbleregularly.GasGabriellaisnotthelargestinthesegmentbysomedistancebutbecauseofits32.25mbeam,canclaimthetitleofbeingthelargestcapacityvesselabletouseboththeoldandnewPanamaCanallocksystems.
-Mostofthevesselsofsimilarcapacityhavebeendesignedonlytousethenewlocksandcan,accordingtoKSS,sufferdelaysasaconsequence.Mostvesselswhichcanusetheoldlockshaveacapacityof75,000m3to80,000m3andthereforethe84,000m3capacityofGasGabrielaallowsfor5 % morecargotobecarried.
-Inmostotherrespects,GasGabriellaistypicalofthetypeandhasalengthof229.98mandascantlingdraughtof12.1m.
-ThemainengineisaMANB & W6G60ME-
+KoreanoperatorKSSLine,GasGabriellaisan84,000m3capacityVLGCthatwasdeliveredinJanuary2021directlyintoalong-termcharterwithSpanishenergytraderVilmaOil.Thevesselisthefirstinaseriesofsixships,foursistersweredeliveredlaterin2021– GasAres(February),GasGala(March),GasBarbarossa(AprilandGas
+Ghazi(October).Thefinalvesselintheserieshasn'tyetbeennamedbutisscheduledfordeliveryinJuly2022.theVLGCsegmentisonewhichhasseenrapidvesselsizegrowthoverthelastfewyearswithrecordsforthelargestexpectedtotumbleregularly.GasGabriellaisnotthelargestinthesegmentbysomedistancebutbecauseofits32.25mbeam,canclaimthetitleofbeingthelargestcapacityvesselabletouseboththeoldandnewPanamaCanallocksystems.Mostofthevesselsofsimilarcapacityhavebeendesignedonlytousethenewlocksandcan,accordingtoKSS,sufferdelaysasaconsequence.Mostvesselswhichcanusetheoldlockshaveacapacityof75,000m3to80,000m3andthereforethe84,000m3capacityofGasGabrielaallowsfor5 % morecargotobecarried.Inmostotherrespects,GasGabriellaistypicalofthetypeandhasalengthof229.98mandascantlingdraughtof12.1m.ThemainengineisaMANB & W6G60ME-
 C9.5- HPSCRoutputting12,253kWanddrivingadirectlycoupled7.2mdiameterpropeller.TheHPSCRsuffixindicatingthevesselhasahighpressureselectivecatalyticreductionsystemforcontrollingNOx.A
-HyundaiopenloopscrubberensurescompliancewithSOxrules.
-ThehighercargocapacityalsopermitsthevesseltocomfortablemeetEEDIrequirementswithanattainedratingof5.72againstarequiredratingof7.02.
-TECHNICALPARTICULARS
+HyundaiopenloopscrubberensurescompliancewithSOxrules.ThehighercargocapacityalsopermitsthevesseltocomfortablemeetEEDIrequirementswithanattainedratingof5.72againstarequiredratingof7.02.TECHNICALPARTICULARS
 Lengthoa: ......................................................229.98m
 Lengthbp: ......................................................223.45m
 Breadthmoulded: .........................................32.25m
@@ -2410,8 +2287,7 @@ Gradesofcargocarried: ........................................2
 Productrange: .........CommercialButane,Pure
 Propane,CommercialPropane,Mixtureof
 PropaneandButaneinanyproportion,Propylene
-Coatedtanks– makeandtypeofcoating: .....
-LowTemperatureSteel
+Coatedtanks– makeandtypeofcoating: .....LowTemperatureSteel
 Structure: .......................LowTemperatureSteel,Piping,ASTMA312Gr304L
 Cargopumps
 Number: ........................................................................8
@@ -2483,15 +2359,9 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 048SIGNIFICANTSHIPSOF2021
 BuiltbyJapanesebulkcarrierspecialist
 OshimaShipbuildingforNYKLine,HachinoheMaruisoneofaseriesofsixwoodchipcarriersandwasdeliveredin
-December2021.Othervesselsofthesametypehavealsobeendeliveredtodifferentownersthroughtheyear.
-ThisnewvariantofwhathasbecomeastandardOshimadesignisclaimedtobesome15 % moreefficientthanprevioustypes.
-Itretainsthe210mlengthand37mwhichisastandardforshipsofthistypeandcapacity.
-WoodchipcarriersareastrongsegmentforJapaneseshipoperatorstraditionallycarryingcargotomeetthedemandsofthe
-Japanesepaperindustry.MorerecentlytheopeningofbiomasspowerplantsinJapanhasseenanewopportunityfortheshiptype.
-Withadeadweightof60,288,thevesselappearssuperficiallysimilartoanUltramaxbulkerbutwoodchipcarriersaredesignedforcarriageofalowerdensitycargoandtendtohavedeeperholdsandinthiscasesixratherthanfivecargoholds.Thecargocapacityis122,517m3andthevesselisequippedwiththreedeckcraneswitha
-SWLof14.7tonnesat27moutreachandaself- unloadingsystemofconveyorbelts.
-Thevesselisaneco- shipthatusesapproximately15 % lessfuelcomparedtoconventionalwood- chipcarriers.Theseadvancementshavebeenmadethroughimprovementstothehullformwhilemaintainingtransportationcapacityandtheuseofalargerpropellerthatimprovespropulsion.Thecarrierisalsoequippedwithladderfinsthatimprovewaterflowgeneratedattheaft- endofthevessel.SOxemissionsfromtheJEC6UEC50LSH- Eco- C2mainengineandthreeDaihatsuauxiliariesarehandledbyaPureteQscrubber.
-TECHNICALPARTICULARS
+December2021.Othervesselsofthesametypehavealsobeendeliveredtodifferentownersthroughtheyear.ThisnewvariantofwhathasbecomeastandardOshimadesignisclaimedtobesome15 % moreefficientthanprevioustypes.Itretainsthe210mlengthand37mwhichisastandardforshipsofthistypeandcapacity.WoodchipcarriersareastrongsegmentforJapaneseshipoperatorstraditionallycarryingcargotomeetthedemandsofthe
+Japanesepaperindustry.MorerecentlytheopeningofbiomasspowerplantsinJapanhasseenanewopportunityfortheshiptype.Withadeadweightof60,288,thevesselappearssuperficiallysimilartoanUltramaxbulkerbutwoodchipcarriersaredesignedforcarriageofalowerdensitycargoandtendtohavedeeperholdsandinthiscasesixratherthanfivecargoholds.Thecargocapacityis122,517m3andthevesselisequippedwiththreedeckcraneswitha
+SWLof14.7tonnesat27moutreachandaself- unloadingsystemofconveyorbelts.Thevesselisaneco- shipthatusesapproximately15 % lessfuelcomparedtoconventionalwood- chipcarriers.Theseadvancementshavebeenmadethroughimprovementstothehullformwhilemaintainingtransportationcapacityandtheuseofalargerpropellerthatimprovespropulsion.Thecarrierisalsoequippedwithladderfinsthatimprovewaterflowgeneratedattheaft- endofthevessel.SOxemissionsfromtheJEC6UEC50LSH- Eco- C2mainengineandthreeDaihatsuauxiliariesarehandledbyaPureteQscrubber.TECHNICALPARTICULARS
 Lengthoa: .....................................................209.96m
 Breadthmoulded: ..................................................37m
 Depthmouldedtomaindeck: ..................................................22.8mtoupperdeck: ................................................22.8m
@@ -2524,14 +2394,12 @@ Number: ........................................................................
 Fixed/Controllablepitch: ...................Fixedpitch
 Diesel- drivenalternators
 Number: .........................................................................3
-Enginemake/type: ............DaihatsuDieselMfg.
-Co.,Ltd
+Enginemake/type: ............DaihatsuDieselMfg.Co.,Ltd
 Typeoffuel: ..........................................................HFO
 Alternatormake/type: ........NishishibaElectric
 Co.,Ltd
 Exhaust- gasscrubbingequipment
-Manufacturer: ......................................PureteQK.K.
-Type: ............................................................Inlinetype
+Manufacturer: ......................................PureteQK.K.Type: ............................................................Inlinetype
 Onmainengines ?: ............1setofmainengineexhaustgasline
 Onauxiliaryengines ?: .................3setsofmaingeneratorengineexhaustgasline
 Boilers
@@ -2616,14 +2484,9 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 052SIGNIFICANTSHIPSOF2021
 Thefirstoftwosister31,408gtro- paxvesselsorderedin2019,HamayuwasdeliveredbyMitsubishiShipbuildingtoShin
 NihonkaiFerryCo.inFebruary2021.SistershipSoleilwasdeliveredinJune2021.ThevesselsarepartofarestructuringthatistakingplaceinJapan’ sferryroutesaimedatshiftingfreightoffroadsandontoshortseaservices.HamayuandSoleiloperateonaservicethatlinksTokyowiththeislandof
-Kyū shū andtakesonaverage20hours.
-Dimensionsofthevesselsareanoveralllengthof225m,beamof25mandascantlingdraughtof7.44m.Vehicularaccessisviaasterncentreramporasternquarterrampdependinguponberthingarrangementsandtherearealsotwosideshelldoors.Theshipshavetwofixedvehicledecksandcanaccommodate154trucksand30cars.Thereare51passengercabinsandroomfor268passengersintotal.
-Theshiphasaverticalbowformthatisdesignedtoincreasetheefficiencyofthevesselcomparedtoolderferriesinuse.
-Consideringtheroutetimeandlength,arelativelyhighservicespeedof28.3knotswasdecidedasessentialandtoachievethistheshipisfittedwithfourWärtsilä 14V31enginesintendedforusewithHFOorMDO.Eachengineproduces8,540kWpowerandareusedinpairsinseparateengineroomsdrivingtwocontrollablepitchpropellersthrough
-Wärtsilä gearboxes.SOxscrubbersareadoptedforthemainenginesandgenerators.
-WhileHamayuistheleadshipofthepair,Soleilhasaddeditsowndistinctionbeingusedtotestautonomousshipoperationin
-Japanesewaters.InJanuary2022thevesselmadeaseven- hourvoyagefullyautonomouslyincludingberthingandunberthingusingturningandreversingmovementsandhigh- speednavigationofupto26knots.
-TECHNICALPARTICULARS
+Kyū shū andtakesonaverage20hours.Dimensionsofthevesselsareanoveralllengthof225m,beamof25mandascantlingdraughtof7.44m.Vehicularaccessisviaasterncentreramporasternquarterrampdependinguponberthingarrangementsandtherearealsotwosideshelldoors.Theshipshavetwofixedvehicledecksandcanaccommodate154trucksand30cars.Thereare51passengercabinsandroomfor268passengersintotal.Theshiphasaverticalbowformthatisdesignedtoincreasetheefficiencyofthevesselcomparedtoolderferriesinuse.Consideringtheroutetimeandlength,arelativelyhighservicespeedof28.3knotswasdecidedasessentialandtoachievethistheshipisfittedwithfourWärtsilä 14V31enginesintendedforusewithHFOorMDO.Eachengineproduces8,540kWpowerandareusedinpairsinseparateengineroomsdrivingtwocontrollablepitchpropellersthrough
+Wärtsilä gearboxes.SOxscrubbersareadoptedforthemainenginesandgenerators.WhileHamayuistheleadshipofthepair,Soleilhasaddeditsowndistinctionbeingusedtotestautonomousshipoperationin
+Japanesewaters.InJanuary2022thevesselmadeaseven- hourvoyagefullyautonomouslyincludingberthingandunberthingusingturningandreversingmovementsandhigh- speednavigationofupto26knots.TECHNICALPARTICULARS
 Lengthoa: .........................................................222.5m
 Lengthbp: .....................................................209.30m
 Breadthmoulded: ........................................25.00m
@@ -2660,8 +2523,7 @@ Fixed/Controllablepitch: .................................CPP
 Diameter: .............................................................5.4m
 Main- enginedrivenalternators
 Number: ........................................................................2
-Make/type: ................NishisibaElectricCo.,Ltd.
-Diesel- drivenalternators
+Make/type: ................NishisibaElectricCo.,Ltd.Diesel- drivenalternators
 Number: .........................................................................3
 Enginemake/type: ................YanmarCo.,Ltd /6EY26LW
 Typeoffuel: .............................................HFD & MDO
@@ -2746,17 +2608,11 @@ IMOnumber: ...........................................9894569
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................1
 Totalnumberofsistershipsstillonorder: 054SIGNIFICANTSHIPSOF2021
 WhenTurkey’ sTersanshipyardsdelivered
-HavilaCapellainOctober2021itwasnotjustasthefirstoffourinnovativenewdesigncoastalferries,butalsotheveryfirstvesselforoperatorHavilaKystruten.TheshipsweredesignedbyHAVShipdesign,asistercompanyoftheoperator.
-HavilaKystrutenwasformedin2017forthepurposeofbiddingforoneofthreelicencesforcoastalferryservicesfromthe
+HavilaCapellainOctober2021itwasnotjustasthefirstoffourinnovativenewdesigncoastalferries,butalsotheveryfirstvesselforoperatorHavilaKystruten.TheshipsweredesignedbyHAVShipdesign,asistercompanyoftheoperator.HavilaKystrutenwasformedin2017forthepurposeofbiddingforoneofthreelicencesforcoastalferryservicesfromthe
 Norwegiangovernmentwhichhaddecidedtoendthemonopolyofthefamous
 Hurtigrutenbrand.Theshipoperatesonthe
-Bergen- Kirkenesservicetakinganaveragesevendaysandcallingatmultipleportsalongtheway.
-InlinewithNorway’ spenchantforgreenvessels,the15,519gtshipispoweredby
-BergenLNGenginesdrivingtwoAzipullthrustersinadieselelectricconfiguration.
-TherearefourC26: 33Lengines,twoofwhicharenine- cylinderunitsandtwosix- cylindergivingatotal8,100kWbetweenthem.Whendeliveredits6,500kWhbatterypackwastheworld’slargest.Itallowsthevesseltosailforfourhoursonbatterypoweralone.
-Thevesselcanbechargedwithcleanhydropoweratthequayandithasawasteenergyrecoverysystemthatwillmakeuseofthe65 % offuelenergythatisnormallylostthroughtheexhaustandcoolingwatersystems.Afurther5 % fuelsavingismadepossiblebytheuseofaWavefoilretractablebowfoildevice.Afuturetransitiontohydrogenpowerisanticipatedwhentechnologypermits.
-Thereiscapacityfor640passengersofwhich468canbeaccommodatedincabinswhile172willbedaypassengers.Thevesselalsohascapacityforninecarsandsomepalletisedcargoes.
-TECHNICALPARTICULARS
+Bergen- Kirkenesservicetakinganaveragesevendaysandcallingatmultipleportsalongtheway.InlinewithNorway’ spenchantforgreenvessels,the15,519gtshipispoweredby
+BergenLNGenginesdrivingtwoAzipullthrustersinadieselelectricconfiguration.TherearefourC26: 33Lengines,twoofwhicharenine- cylinderunitsandtwosix- cylindergivingatotal8,100kWbetweenthem.Whendeliveredits6,500kWhbatterypackwastheworld’slargest.Itallowsthevesseltosailforfourhoursonbatterypoweralone.Thevesselcanbechargedwithcleanhydropoweratthequayandithasawasteenergyrecoverysystemthatwillmakeuseofthe65 % offuelenergythatisnormallylostthroughtheexhaustandcoolingwatersystems.Afurther5 % fuelsavingismadepossiblebytheuseofaWavefoilretractablebowfoildevice.Afuturetransitiontohydrogenpowerisanticipatedwhentechnologypermits.Thereiscapacityfor640passengersofwhich468canbeaccommodatedincabinswhile172willbedaypassengers.Thevesselalsohascapacityforninecarsandsomepalletisedcargoes.TECHNICALPARTICULARS
 Lengthoa: ............................................................12.10m
 Lengthbp: ........................................................115.20m
 Breadthmoulded: ...........................................22.10m
@@ -2839,17 +2695,12 @@ Flag: ................................................................Norway
 IMOnumber: ...........................................9865570
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): .............Nil
 Totalnumberofsistershipsstillonorder: 156SIGNIFICANTSHIPSOF2021
-HLEcoisapioneerofthetrendformorevesseltypestoadoptLNGasamarinefuel.Althoughdual-fuelandgaspoweredsmallvesseltypeshavemorethantwodecadesofhistory,itisonlyrecentlythatlargervesselshaveadoptedtheidea– mostlyasameansofmeetingincreasinglystringentemissionregulations.
-DeliveredbyHyundaiSamhotoSouth
+HLEcoisapioneerofthetrendformorevesseltypestoadoptLNGasamarinefuel.Althoughdual-fuelandgaspoweredsmallvesseltypeshavemorethantwodecadesofhistory,itisonlyrecentlythatlargervesselshaveadoptedtheidea– mostlyasameansofmeetingincreasinglystringentemissionregulations.DeliveredbyHyundaiSamhotoSouth
 KoreanoperatorH- LineinDecember2020,HLEcowastoolatetomakethelasteditionofSignificantShips,butastheworld’ sfirst
 LNG-fuelledNewcastlemaxbulkcarrieritssignificanceshouldnotbeoverlooked.The179,070dwtshipalongwithitssisterHL
-Greenwerebuilt,launchedanddeliveredalmostsimultaneously.Twofurthersisters,HLOceanicandHLSunnyareduefordeliveryinAprilandJuly2022respectively.
-AswellasbeingthefirstlargebulkcarrierstobeLNG-fuelled,theshipscanalsoclaimtobethefirstwhere9 % Nickelsteelhasbeenusedforthecryogenicfueltankconstruction.Theshipsarefittedwithtwo1,600m3tanksforLNGfuelinstalledattheaftofthevesselbehindthesuperstructure.
-Withalengthof292m,abreadthof45m,andadepthof24.8m,theshipsfollowtypicalNewcastlemaxconstructionandhaveanineholdconfigurationwithsiderollinghatches.Holds2,4and8arepartiallyfloodableandhold6fullyfloodablefortrimmingpurposesduringcargooperations.
-ThemainengineisaWinGD6X72DFtypeproducing16,180kWat76.5rpm.Runningon
+Greenwerebuilt,launchedanddeliveredalmostsimultaneously.Twofurthersisters,HLOceanicandHLSunnyareduefordeliveryinAprilandJuly2022respectively.AswellasbeingthefirstlargebulkcarrierstobeLNG-fuelled,theshipscanalsoclaimtobethefirstwhere9 % Nickelsteelhasbeenusedforthecryogenicfueltankconstruction.Theshipsarefittedwithtwo1,600m3tanksforLNGfuelinstalledattheaftofthevesselbehindthesuperstructure.Withalengthof292m,abreadthof45m,andadepthof24.8m,theshipsfollowtypicalNewcastlemaxconstructionandhaveanineholdconfigurationwithsiderollinghatches.Holds2,4and8arepartiallyfloodableandhold6fullyfloodablefortrimmingpurposesduringcargooperations.ThemainengineisaWinGD6X72DFtypeproducing16,180kWat76.5rpm.Runningon
 LNG,theshipsaredesignedtoachievea99 % reductioninemissionsofSOxandparticulatematter,uptoan85 % reductionin
-NOxanda30 % reductioninGHGemissionscomparedtothelevelsofexistingships.
-TECHNICALPARTICULARS
+NOxanda30 % reductioninGHGemissionscomparedtothelevelsofexistingships.TECHNICALPARTICULARS
 Lengthoa: .....................................................291.90m
 Lengthbp: ...................................................286.90m
 Breadthmoulded: .................................................45m
@@ -2972,14 +2823,9 @@ IMOnumber: ...........................................9869332
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................2
 Totalnumberofsistershipsstillonorder: 158SIGNIFICANTSHIPSOF2021
 In2018,SouthKoreanoperatorHMMplacedordersfor20newvessels,12oftheseweretobeshipsoftheHMMAlgecirasclassof24,000TEUshipsandatonepointtheleadshipwasthelargestboxshipinservice.Theotherorderforeightshipswasthusalittleovershadowed,buttheclassof16,000TEUvesselsheadedbyHMMNuriwhichwasdeliveredbyHyundaiHeavy
-IndustriesinMarch2021hasitsownmerits.
-Designedtobeasflexibleaspossible,HMM
-NuriissaidtohavethehighestcargocapacityforanyboxshipthatcanpassthroughthePanamaCanalthusallowingworldwidetradingwithonlyportdimensionsdictatingaccess.
-Theseriesofvesselswereconstructedquiterapidly,withHMMGaonfollowingintoserviceaweekafterHMMNuriandthenremainingsixallenteringservicebetween30Apriland25Juneinthesameyear.
-Theshipsare365.16minlength,51mwideandwithadraughtof16m.Totalcargocapacityofthefullycellularshipsis16,010TEUofwhich6,450areunderdeckand9,560ondeck.At14tonneshomogenousthecapacityis10,462TEUatscantlingdraught.Thecellguideshavebeendesignedandstrengthenedformixedof8’ 6’’ and9’ 6’’ boxes.Thereare1,200reeferpoints.
-Theshipsmainengineisa9G95ME- C10.5witha46,444kWoutputallowingfora22.35knotsservicespeed,andtherearefour
-HiMSENauxiliaries– two9- cylinderandtwo7- cylinderH32/40types.AHPSopenloopscrubberisinstalledtotreatexhaustfromallenginesallowingrunningonhighsulphurHFO.
-TECHNICALPARTICULARS
+IndustriesinMarch2021hasitsownmerits.Designedtobeasflexibleaspossible,HMM
+NuriissaidtohavethehighestcargocapacityforanyboxshipthatcanpassthroughthePanamaCanalthusallowingworldwidetradingwithonlyportdimensionsdictatingaccess.Theseriesofvesselswereconstructedquiterapidly,withHMMGaonfollowingintoserviceaweekafterHMMNuriandthenremainingsixallenteringservicebetween30Apriland25Juneinthesameyear.Theshipsare365.16minlength,51mwideandwithadraughtof16m.Totalcargocapacityofthefullycellularshipsis16,010TEUofwhich6,450areunderdeckand9,560ondeck.At14tonneshomogenousthecapacityis10,462TEUatscantlingdraught.Thecellguideshavebeendesignedandstrengthenedformixedof8’ 6’’ and9’ 6’’ boxes.Thereare1,200reeferpoints.Theshipsmainengineisa9G95ME- C10.5witha46,444kWoutputallowingfora22.35knotsservicespeed,andtherearefour
+HiMSENauxiliaries– two9- cylinderandtwo7- cylinderH32/40types.AHPSopenloopscrubberisinstalledtotreatexhaustfromallenginesallowingrunningonhighsulphurHFO.TECHNICALPARTICULARS
 Lengthoa: .......................................................365.16m
 Lengthbp: ......................................................350.00m
 Breadthmoulded: .........................................51.00m
@@ -3132,17 +2978,11 @@ IMOnumber: ............................................9869162
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................7
 Totalnumberofsistershipsstillonorder: 060SIGNIFICANTSHIPSOF2021
 Deliveredattheendof2020andenteringserviceinJanuary2021,HuiZhiHaiisthefirstofaneight- shipseriesof210,000orderedfromCOSCOShippingHeavy
-Industry(Yangzhou)byChinaCOSCOBulk.
-Theothersevenvesselsintheserieswerealldeliveredinthefirstsixmonthsof2021.
-Withadeadweightof210,918,alengthof299.95,beamof50manddraughtof18.5m,theseriesofNewcastlemaxshipsarethelargesteverbuiltattheyardwhichwasestablishedin2007.Theyarethenewest
+Industry(Yangzhou)byChinaCOSCOBulk.Theothersevenvesselsintheserieswerealldeliveredinthefirstsixmonthsof2021.Withadeadweightof210,918,alengthof299.95,beamof50manddraughtof18.5m,theseriesofNewcastlemaxshipsarethelargesteverbuiltattheyardwhichwasestablishedin2007.Theyarethenewest
 Newcastlemaxshipsintheowner’ sfleetbutwithover400vesselsoperatedbyCOSCO
-BulkincludingVLOC’ supto400,000dwttheyarenotthelargest.
-TheshipsweredesignedbySDARIandaccordingtotheowner,theyard,thedesignerandthetwinclassificationsocietiesofLRand
-CCStoensureasfaraspossiblethatthevesselswere‘ cuttingedge’ withthehighestpossiblecargocapacityforhulldimensionsandlowestpossiblefuelconsumption.
-Thevesselisconstructedasaconventional
-Newcastlemaxshipwithnineholdsandsiderollinghatchcovers.Ithasagraincapacityof226,455m3andisstrengthenedforheavycargoes.Inoperationthevesselispermittedtosailwiththeevennumberholdsempty.Ithasaverticalerectstemandtransomstern.
-PowercomesfromaMANB & W6G70ME- C9.5longstrokeenginedirectlycoupledtoa9.6mdiameterfixedpitchpropeller.Theengineoutputs15,650kWallowingfora14.5knotsservicespeedat90 % MCR.Toachievethistheengineconsumes45.3tonnesoffueldaily.Withnoscrubberinstalledtheshipisobligedtouse2020compliantfuels.
-TECHNICALPARTICULARS
+BulkincludingVLOC’ supto400,000dwttheyarenotthelargest.TheshipsweredesignedbySDARIandaccordingtotheowner,theyard,thedesignerandthetwinclassificationsocietiesofLRand
+CCStoensureasfaraspossiblethatthevesselswere‘ cuttingedge’ withthehighestpossiblecargocapacityforhulldimensionsandlowestpossiblefuelconsumption.Thevesselisconstructedasaconventional
+Newcastlemaxshipwithnineholdsandsiderollinghatchcovers.Ithasagraincapacityof226,455m3andisstrengthenedforheavycargoes.Inoperationthevesselispermittedtosailwiththeevennumberholdsempty.Ithasaverticalerectstemandtransomstern.PowercomesfromaMANB & W6G70ME- C9.5longstrokeenginedirectlycoupledtoa9.6mdiameterfixedpitchpropeller.Theengineoutputs15,650kWallowingfora14.5knotsservicespeedat90 % MCR.Toachievethistheengineconsumes45.3tonnesoffueldaily.Withnoscrubberinstalledtheshipisobligedtouse2020compliantfuels.TECHNICALPARTICULARS
 Lengthoa: ......................................................299.95m
 Lengthbp: ......................................................295.20m
 Breadthmoulded: ..........................................50.00m
@@ -3252,18 +3092,13 @@ In2015,Finnishoilandenergycompany
 Nestecompleteditsdeparturefromshipowningwiththesaleofitsfinaltwovessels.Fouryearslater,itdecidedtore- enterthearenaandorderedapairofice- classedLR2AframaxvesselsfromHyundai
 HeavyIndustries.Jaarliwasdeliveredin
 September2021asthefirstofthepairwith
-Jantulifollowingthreemonthslater.
-Whendeterminingwhatsortofvesselwasbestsuitedtoitsoperations,NesteemployedthehelpofAkerArctic.Afterdecidingagainstadoubleactingshiporonewithanicebreakerbow,thefinalchoicewasaconventionaltankerbaseduponthedesignprincipalsofthe2005- builtStenaArcticabutwithmuchimprovedfeatures.Thedimensionsofthevesselwithits249.84loa,beamof44manddraughtof151mcorrespondalmostexactlytothoseofStenaArctica.
-Cargofacilitiesaretypicalofthetypewithsixpairsofcargotanksfor125,300m3capacityandonepairofsloptanksof1,400m3each.Theshiphasthreecargopumpsof3,000m3 /hcapacitysuppliedby
-HamworthyPumpsmarkingthatcompany’ sreturntothemainstreamafterbeingsoldoffbyWärtsilä in2018.TheshipispoweredbyaMANB & W6G60ME- C9.5mainenginewhichhasanNCRof11,220kWat84.5rpmandanMCRof15,646kWat94.4rpm.
-Intendedserviceareaforthevesselisthe
+Jantulifollowingthreemonthslater.Whendeterminingwhatsortofvesselwasbestsuitedtoitsoperations,NesteemployedthehelpofAkerArctic.Afterdecidingagainstadoubleactingshiporonewithanicebreakerbow,thefinalchoicewasaconventionaltankerbaseduponthedesignprincipalsofthe2005- builtStenaArcticabutwithmuchimprovedfeatures.Thedimensionsofthevesselwithits249.84loa,beamof44manddraughtof151mcorrespondalmostexactlytothoseofStenaArctica.Cargofacilitiesaretypicalofthetypewithsixpairsofcargotanksfor125,300m3capacityandonepairofsloptanksof1,400m3each.Theshiphasthreecargopumpsof3,000m3 /hcapacitysuppliedby
+HamworthyPumpsmarkingthatcompany’ sreturntothemainstreamafterbeingsoldoffbyWärtsilä in2018.TheshipispoweredbyaMANB & W6G60ME- C9.5mainenginewhichhasanNCRof11,220kWat84.5rpmandanMCRof15,646kWat94.4rpm.Intendedserviceareaforthevesselisthe
 BalticSeafromRussia’ sPrimorskandUst-
 LugaterminalstoPorvooandNaantaliin
 Finland.Thustheshiphasbeendesignedforthe1AFinnish- SwedishIceClasswithIce
-Class1AFSnotationandhasicenavigatingcapability.AhighliftrudderforgoodmanoeuvringcharacteristicsandIce- knifearefitted.Thereisarudderbulbtoimprovepropulsionefficiencyandacontrollablepitchpropeller.
-OthermodernfeaturesincludeacybersecuritysystemarrangedinaccordancewiththerequirementsfortheLR’ sCyber
-SecuritynotationandHYUNDAI -ISS(IntegratedSmartshipSolution)tohelpvoyagemonitoring,routeoptimisation,fuel/energyflowmonitoring,performanceanalysisandreporting.
-TECHNICALPARTICULARS
+Class1AFSnotationandhasicenavigatingcapability.AhighliftrudderforgoodmanoeuvringcharacteristicsandIce- knifearefitted.Thereisarudderbulbtoimprovepropulsionefficiencyandacontrollablepitchpropeller.OthermodernfeaturesincludeacybersecuritysystemarrangedinaccordancewiththerequirementsfortheLR’ sCyber
+SecuritynotationandHYUNDAI -ISS(IntegratedSmartshipSolution)tohelpvoyagemonitoring,routeoptimisation,fuel/energyflowmonitoring,performanceanalysisandreporting.TECHNICALPARTICULARS
 Lengthoa: .......................................................249.84m
 Lengthbp: .......................................................238.90m
 Breadthmoulded: ..........................................44.00m
@@ -3340,8 +3175,7 @@ Gradesofcargocarried: .......................3Groups
 Productrange: ..........................................CrudeOil
 Cargopumps
 Number: .........................................................................3
-Type: .............VerticalCentrifugalSingleStage,VariableSpeedElectricMotorDriven.
-Make: ......................HamworthyPump(Wärtsilä)
+Type: .............VerticalCentrifugalSingleStage,VariableSpeedElectricMotorDriven.Make: ......................HamworthyPump(Wärtsilä)
 Capacity(each): .............3,000m3 /hx130mTH
 Cargocontrolsystem
 Make: ......................................................ScanaKorea
@@ -3376,8 +3210,7 @@ Fireextinguishingsystems
 Engineroom: ..............CO2
 FireExtinguishingSys
 Make/Type:.....Fain/CO2
-FireExtinguishingSys.
-Wastedisposalplant
+FireExtinguishingSys.Wastedisposalplant
 Sewageplant
 Make: ...............................................................EvacOy
 Model: .........................................................Ecotreat2
@@ -3406,15 +3239,8 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 064SIGNIFICANTSHIPSOF2021
 OrderedbyCOSCOShippingFerryin2019anddeliveredbyCSSCGuangzhou
 ShipyardinAugust2021,JiLongDaoisa43,195gtro- paxthatisthefirstoftwoandondeliverywasthelargestro- paxvesseloperatedbyitsownerandthesecondlargestinoperationonBohaiBay.AsistervesselXiang
-LongDaowasdeliveredinDecember2021.
-Itsservicespeedof22.5ktalsogivesitanotherclaimtofameasthefastestro- paxvesselcurrentlyoperatinginChina.
-Withanoveralllengthof208mandawidthof28.6m,thevesselcanaccommodate1,375passengersin360cabins.Threevehicledeckswithatotalof2,800lanemetersareavailablefor500vehiclesof5mlength.Thereisastraightsternramp,aquartersternramponthestarboardsideandabowrampforloadingandunloading.
-Theshiphasatwinpropulsionsystemwhichgivesredundancy.ThetwomainenginesareMAN12V48/60CRunitseachwithapoweroutputof14,400kW.Thepowertrainforeachengineincludesa
-RenkRSH-1180gearboxreducingoutputspeedto133.3rpm.Thepropellers,alsosuppliedbyMan,arecontrollablepitchtypesof5.1mdiameter,installedinfrontoftwinflaprudders.
-Passengeraccommodationandserviceareasarelocatedoverfourupperdecks.
-Facilitiesincluderestaurants,VIPlounges,acinemaandchildren’ splayareas.Theownershaveinstalledanintelligentpassengersystemtofacilitaterapidembarkationandaccesstodifferentservices.
-Evacuationsystemscomprisesof120- personlifeboatsand350personverticalchuterapidevacuationsystems.
-TECHNICALPARTICULARS
+LongDaowasdeliveredinDecember2021.Itsservicespeedof22.5ktalsogivesitanotherclaimtofameasthefastestro- paxvesselcurrentlyoperatinginChina.Withanoveralllengthof208mandawidthof28.6m,thevesselcanaccommodate1,375passengersin360cabins.Threevehicledeckswithatotalof2,800lanemetersareavailablefor500vehiclesof5mlength.Thereisastraightsternramp,aquartersternramponthestarboardsideandabowrampforloadingandunloading.Theshiphasatwinpropulsionsystemwhichgivesredundancy.ThetwomainenginesareMAN12V48/60CRunitseachwithapoweroutputof14,400kW.Thepowertrainforeachengineincludesa
+RenkRSH-1180gearboxreducingoutputspeedto133.3rpm.Thepropellers,alsosuppliedbyMan,arecontrollablepitchtypesof5.1mdiameter,installedinfrontoftwinflaprudders.Passengeraccommodationandserviceareasarelocatedoverfourupperdecks.Facilitiesincluderestaurants,VIPlounges,acinemaandchildren’ splayareas.Theownershaveinstalledanintelligentpassengersystemtofacilitaterapidembarkationandaccesstodifferentservices.Evacuationsystemscomprisesof120- personlifeboatsand350personverticalchuterapidevacuationsystems.TECHNICALPARTICULARS
 Lengthoa: .......................................................208.00m
 Lengthbp: ........................................................193.60m
 Breadthmoulded: ..........................................28.60m
@@ -3552,12 +3378,8 @@ IMOnumber: ..........................................9904003
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................0
 Totalnumberofsistershipsstillonorder: 166SIGNIFICANTSHIPSOF2021
 Multi- purposeandheavyliftvesselshavenotbeenmuchindemandinrecentyearssoanyordercanbeconsideredinteresting.The13,230dwtKatoriwithaliftingcapacityof800tonnesisnotthelargestvesselofthetypebyanymeansbutitissignificantinthatitisthefirstvesselofitstypebuiltbyNanjingJinlingShipyardfor
-Japaneseowners– inthiscaseNYKBulker & Projects,asubsidiaryofNYKGroup.ThevesselwasdeliveredinSeptember2021andasistervessel,KifunewashandedoverinJanuary2022.
-Katoriis138minlength,23.6minwidth,12.8mindepthandhasadraughtof8.3m.theshipisaSDARIdesignintendedforserviceinSoutheastAsiaandAfricafortransportinglargeequipmentandbulkyparts.
-Itisclaimedthattheshiphasthelongestholdofanyshipcurrentlyinoperation.The95.25mby17.6mholdhasnobulkheadsorotherobstructions.Theshipcanoperatehatchcoverlessenablingtheloadingoftallandlargecargoandwithaforwardsuperstructurethereisnodisruptiontoforwardvisibilityduringnavigation.Two400tonnecapacitycranesarelocatedontheportsideofthevesselandcanoperateatfullcapacitywithinaradiusof20mreducingto65tonnesatthefulloutreachof35m.Thecranescantandemlift800tonneloadsinanareabetweenthem.
-Theship’sengineroomislocatedaftofthesingleholdandhousesaJapanEngine
-Corporation6UEC35LSE- Eco- B2- SCRenginewitha3,200kWpoweroutputlinkedtoafixedpitchpropeller.Servicespeedis13knots.
-TECHNICALPARTICULARS
+Japaneseowners– inthiscaseNYKBulker & Projects,asubsidiaryofNYKGroup.ThevesselwasdeliveredinSeptember2021andasistervessel,KifunewashandedoverinJanuary2022.Katoriis138minlength,23.6minwidth,12.8mindepthandhasadraughtof8.3m.theshipisaSDARIdesignintendedforserviceinSoutheastAsiaandAfricafortransportinglargeequipmentandbulkyparts.Itisclaimedthattheshiphasthelongestholdofanyshipcurrentlyinoperation.The95.25mby17.6mholdhasnobulkheadsorotherobstructions.Theshipcanoperatehatchcoverlessenablingtheloadingoftallandlargecargoandwithaforwardsuperstructurethereisnodisruptiontoforwardvisibilityduringnavigation.Two400tonnecapacitycranesarelocatedontheportsideofthevesselandcanoperateatfullcapacitywithinaradiusof20mreducingto65tonnesatthefulloutreachof35m.Thecranescantandemlift800tonneloadsinanareabetweenthem.Theship’sengineroomislocatedaftofthesingleholdandhousesaJapanEngine
+Corporation6UEC35LSE- Eco- B2- SCRenginewitha3,200kWpoweroutputlinkedtoafixedpitchpropeller.Servicespeedis13knots.TECHNICALPARTICULARS
 Lengthoa: .........................................................138.0m
 Lengthbp: ..........................................................135.0m
 Breadthmoulded: ............................................23.6m
@@ -3594,8 +3416,7 @@ Diameter: .................................................................4.85
 Speed: ........................................................................123
 Diesel- drivenalternators
 Number: .........................................................................3
-Enginemake/type: ............DaihatsuDieselMfg.
-Co.,Ltd/6DE-18
+Enginemake/type: ............DaihatsuDieselMfg.Co.,Ltd/6DE-18
 Typeoffuel: ..........................................HFO & MGO
 Alternatormake/type: ....Nishishiba/NTAKL- VE
 Output/speedofeachset: ....650kWx900rpm
@@ -3662,11 +3483,8 @@ TulceainRomaniaandcompletedbyVard’ s
 SoviknesyardinNorway.AfterfittingouttherethevesselwasmovedinJuly2020to
 StNazaireinFranceforinstallationofits
 AzipodpropulsionsystembeforereturningtoNorwayforcompletionanddeliveryin
-August2021.
-LeCommandantCharcotis31,283gt,149.9mlong,28.3mwideandcanaccommodate245passengersin123staterooms,inadditiontoacrewof215persons.TheshipisPolarClass2withicebreakingcapabilitiesforwardandaft.Asadoubleactingvessel,itisabletokeepaconstantspeedof2knotsin2.4mthickintacticeandcrossiceridgesofmorethan15m.
-Inadditiontofour14- cylinderandtwo10- cylinderWärtsilä 31DFmainengines,WartsilaalsosuppliedthefuelgassupplysystemoftwomembraneLNGtankswithatotalcapacityof4,500m3.Theengineshaveatotalpoweroutputof37,400kWtoprovideelectricpowerforthetwo17MWABBazipodpropulsionthrusters.Apairof1,600kWbowthrustersprovidemanoeuvringpowerandalsoallowtheshiptohaveastationkeepingabilityincrosswindsupto35knots.ACorvus
-EnergyOrcabatterysystemwithacapacityof4,520kWhprovideszeroemissionpeakshavingandspinningreservefunctionality.
-TECHNICALPARTICULARS
+August2021.LeCommandantCharcotis31,283gt,149.9mlong,28.3mwideandcanaccommodate245passengersin123staterooms,inadditiontoacrewof215persons.TheshipisPolarClass2withicebreakingcapabilitiesforwardandaft.Asadoubleactingvessel,itisabletokeepaconstantspeedof2knotsin2.4mthickintacticeandcrossiceridgesofmorethan15m.Inadditiontofour14- cylinderandtwo10- cylinderWärtsilä 31DFmainengines,WartsilaalsosuppliedthefuelgassupplysystemoftwomembraneLNGtankswithatotalcapacityof4,500m3.Theengineshaveatotalpoweroutputof37,400kWtoprovideelectricpowerforthetwo17MWABBazipodpropulsionthrusters.Apairof1,600kWbowthrustersprovidemanoeuvringpowerandalsoallowtheshiptohaveastationkeepingabilityincrosswindsupto35knots.ACorvus
+EnergyOrcabatterysystemwithacapacityof4,520kWhprovideszeroemissionpeakshavingandspinningreservefunctionality.TECHNICALPARTICULARS
 Lengthoa: .........................................................149.9m
 Lengthbp: .....................................................142.345m
 Breadthmoulded: ............................................28.3m
@@ -3790,8 +3608,7 @@ RequiredEEDIvalue: ......................................18.55
 InstalledFuelMeters.................Massicflowmeter
 EmersonforMDOandNG
 Otherinstalledmonitoringtools: - GreenpilotenergyefficiencymonitoringsystemdevelopedbyMaroka. - InnovatingAdrenaIceroutingsoftware - ContinuousIcemeasurementsystemSIMS - ContinuousThermosalinometer - Meteorologicalrecordingstation
-EnergySavingTechnologies: ...............CorvusESSsystem4.5MWhORCAtype.
-Hullcoatings: ..INERTAabrasionresistantpaint
+EnergySavingTechnologies: ...............CorvusESSsystem4.5MWhORCAtype.Hullcoatings: ..INERTAabrasionresistantpaint
 PerformanceMonitoringRegime: - 2SCRforNOxreductionWärtsilä - 6exhaustgazboilerforheatrecoveryofcentralheatingloop(HVAC,potablehotwater,swimmingpools,laundray,galley,tankheating) - Seawaterexchangerforchilledwaterinpolararea - FancoilforpaxcabinHVAC - HVACAHUwithVFDandenthalpicwheels
 Contractdate: ................................December2017
 Launch/float- outdate: ................February2020
@@ -3809,17 +3626,10 @@ IMOnumber: ...........................................9846249
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................0
 Totalnumberofsistershipsstillonorder: 070SIGNIFICANTSHIPSOF2021
 WhenLegacy,a38,322m3LPGcarrierwasdeliverbyHyundaiMipotoMexicangassupplyspecialistEmpresasNietoon2
-July2021,itmarkedthebeginningofthecompany’sstatusasashipowner.
-UntiltakingdeliveryofLegacy,Empresas
-Nietohadbeeninvolvedinmostpartsofthegassupplychain,fromterminals,pipelines,storage,landtransportaswellasenergytradingbuthadalwaysrelieduponcharteredvesselsforseatransport.
-At179.86minlengthandwitha28.4mbeam,LegacyisconsideredamidsizeLPGcarrier.Inmanyrespectsthevesselistypicalofitstypeandthebasicdesignisastapleof
-HyundaiMipowhichhasbuiltmanyofthetypeandhasseveralmoreonorderfordifferentowners.
-Theshiphassixcargotanksinthreepairsandonedecktank.Twogradesofcargocanbecarriedandtheshipiscertifiedforcarriageof1,3- Butadiene,Butane,Butylene,Propane,Commercialpropane,Propylene,VinylChloridemonomerandMixedC4.
-ThecargopumpsaresixSvanehøjdeepwellcargopumps,DW200/200- 3- K +I,twoboosterpumpsoftypeNMB150candtwoFuelandSamplingpumps,EFP11- 6.
-Themainengineisafurtherreferencefor
-MANB & WLGIPrangeabletorunonLPG.
-Thisengineisbecomingincreasinglypopularsinceitsintroductioninlate2018andatthetimeofitsorderingforLegacyalmost80 % ofallLPGcarriersover2,500m3werestipulatingitsinstallation.TheunitonLegacyisa6G50ME- C9.6- LGIP- HPSCRproducing10,320kWat100rpmandallowinga16knotsspeed.ThelowerCO2emissionsfromLPGallowtheshiptohaveanattainedEEDIof6.65whichiswellbelowtherequiredmaximumof9.32.
-TECHNICALPARTICULARS
+July2021,itmarkedthebeginningofthecompany’sstatusasashipowner.UntiltakingdeliveryofLegacy,Empresas
+Nietohadbeeninvolvedinmostpartsofthegassupplychain,fromterminals,pipelines,storage,landtransportaswellasenergytradingbuthadalwaysrelieduponcharteredvesselsforseatransport.At179.86minlengthandwitha28.4mbeam,LegacyisconsideredamidsizeLPGcarrier.Inmanyrespectsthevesselistypicalofitstypeandthebasicdesignisastapleof
+HyundaiMipowhichhasbuiltmanyofthetypeandhasseveralmoreonorderfordifferentowners.Theshiphassixcargotanksinthreepairsandonedecktank.Twogradesofcargocanbecarriedandtheshipiscertifiedforcarriageof1,3- Butadiene,Butane,Butylene,Propane,Commercialpropane,Propylene,VinylChloridemonomerandMixedC4.ThecargopumpsaresixSvanehøjdeepwellcargopumps,DW200/200- 3- K +I,twoboosterpumpsoftypeNMB150candtwoFuelandSamplingpumps,EFP11- 6.Themainengineisafurtherreferencefor
+MANB & WLGIPrangeabletorunonLPG.Thisengineisbecomingincreasinglypopularsinceitsintroductioninlate2018andatthetimeofitsorderingforLegacyalmost80 % ofallLPGcarriersover2,500m3werestipulatingitsinstallation.TheunitonLegacyisa6G50ME- C9.6- LGIP- HPSCRproducing10,320kWat100rpmandallowinga16knotsspeed.ThelowerCO2emissionsfromLPGallowtheshiptohaveanattainedEEDIof6.65whichiswellbelowtherequiredmaximumof9.32.TECHNICALPARTICULARS
 Lengthoa: .......................................................179.86m
 Lengthbp: .......................................................173.50m
 Breadthmoulded: ........................................28.40m
@@ -3883,8 +3693,7 @@ Tasks: .................Provisionandmachinerypartshandlinginengineroom
 Performance: ..............SWL3.2tons /Outreach2.4 ~ 9.5m
 Mooringequipment
 Number: ........................................................................8
-Make: ...........................................................FlutekLtd.
-Type: ...............................................Electro- hydraulic
+Make: ...........................................................FlutekLtd.Type: ...............................................Electro- hydraulic
 Speciallifesavingequipment
 Numberofeachandcapacity: ................2 /30
 Make: ................JiangyinshiBeihaiLSACo.,Ltd
@@ -3964,13 +3773,8 @@ Flag: .....................................................................Malta
 IMOnumber: ...........................................9893656
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................0
 Totalnumberofsistershipsstillonorder: 072SIGNIFICANTSHIPSOF2021
-MSCSeashoredeliveredinJuly2021anditssisterMSCSeascapeduefordeliveryinJune2023areadevelopmentoftheowner’sSeasideclassappropriatelydubbedastheSeasideEVOclass.BothvesselsaretheproductsofFincantieri’sMonfalconeyard.
-The170,412gtMSCSeashorehashad65 % ofthepublicareascompletelyreimaginedandissignificantlylargerthantheearlierclasswhichhada153,516gtandalengthof323mThevesselisalsodeeperbymorethan2m.Anadditional10,000m2ofopendeckspacegivesitthehighestratioofoutdoorspaceperguestofanyMSCship.
-Passengercapacityis5,877maximumor4,540atdoubleoccupancy.Theadditionalspaceonthenewvesselhasallowedanextra200cabinstobeinstalledbringingthetotalto2,270.
-DuringtheCovidpandemicalotofthoughtwasgiventomakingcruiseshipssaferforguestsandMSCSeashorereflectsthisbybeinggiventheBiosafeShipNotationbyclassificationsocietyRINA.ItisclaimedthevesselisthefirstshipintheworldtointegratetheSafeAirsystemwhichusesUV- Clampstechnologyguaranteeingcleanandsafeairforallguestsandcrew.RINahasalsorewardedtheenvironmentalaspectsoftheshipbygivingitaSustainableShipnotation.
-FourWärtsilä 14V46Fenginesprovideatotalpoweroutputof67.2MWforthedieselelectricpropulsionwhichdrivestwo6.1mcontrollablepitchpropellers.Wärtsilä hasalsosuppliedahybridexhaustgascleaningsystemwhichkeepsemissionsfromallfourenginescompliantwith2020SOxrulesand
-SCRisusedforNOxTierIIIcompliance.TheshiphasanattainedEEDIof8.8againsttherequired10.38.
-TECHNICALPARTICULARS
+MSCSeashoredeliveredinJuly2021anditssisterMSCSeascapeduefordeliveryinJune2023areadevelopmentoftheowner’sSeasideclassappropriatelydubbedastheSeasideEVOclass.BothvesselsaretheproductsofFincantieri’sMonfalconeyard.The170,412gtMSCSeashorehashad65 % ofthepublicareascompletelyreimaginedandissignificantlylargerthantheearlierclasswhichhada153,516gtandalengthof323mThevesselisalsodeeperbymorethan2m.Anadditional10,000m2ofopendeckspacegivesitthehighestratioofoutdoorspaceperguestofanyMSCship.Passengercapacityis5,877maximumor4,540atdoubleoccupancy.Theadditionalspaceonthenewvesselhasallowedanextra200cabinstobeinstalledbringingthetotalto2,270.DuringtheCovidpandemicalotofthoughtwasgiventomakingcruiseshipssaferforguestsandMSCSeashorereflectsthisbybeinggiventheBiosafeShipNotationbyclassificationsocietyRINA.ItisclaimedthevesselisthefirstshipintheworldtointegratetheSafeAirsystemwhichusesUV- Clampstechnologyguaranteeingcleanandsafeairforallguestsandcrew.RINahasalsorewardedtheenvironmentalaspectsoftheshipbygivingitaSustainableShipnotation.FourWärtsilä 14V46Fenginesprovideatotalpoweroutputof67.2MWforthedieselelectricpropulsionwhichdrivestwo6.1mcontrollablepitchpropellers.Wärtsilä hasalsosuppliedahybridexhaustgascleaningsystemwhichkeepsemissionsfromallfourenginescompliantwith2020SOxrulesand
+SCRisusedforNOxTierIIIcompliance.TheshiphasanattainedEEDIof8.8againsttherequired10.38.TECHNICALPARTICULARS
 Lengthoa: .............................................................339m
 Lengthbp: .........................................................311.71m
 Breadthmoulded: ................................................41m
@@ -4099,17 +3903,10 @@ Flag: .....................................................................Malta
 IMOnumber: ...........................................9843792
 Totalnumberofsistershipsstillonorder: 174SIGNIFICANTSHIPSOF2021
 ASDARIdesignedPost- Panamaxbulkcarrierof85,200dwtbuiltbyChengxi
-ShipyardforForemostShipping,NingMayisoneofanewbreedofvesselaimedatbeingamongthemostflexibleandsuitedtomanytrades.
-Theshipwasthefirstofitsdesigntobedeliveredattheveryendof2020buthasbeenjoinedsincebyfoursistershipsincluding
-XiaoMaydeliveredinMarch2021forthesameowner.Theotherdeliveredvesselsandafurther10stillonorderorunderconstructionarefordifferentowner/operators.
-Witha229.9mloathevesselfallsintothe
-KamsarMaxcategoryalthoughat36mbeamandhavingascantlingdraughtof13.68m,itiswiderandhasashallowerdraughtthanmostoftheothershipsinthissizebracket.
-ThesedimensionsallowittomakeuseoftheNewPanamalocksandwouldhavepermittedtheshiptooperatefullyladenatalltimesoverthepasttwoyearswhenlackofrainsandlowwaterlevelsatLakeGatunhavecausedtheCanalAuthoritytorestrictsailingdraughtsthroughtheCanal.
-Theshiphasthetypicalseven- holdconfigurationofthisclassanditswiderbeamallowsfora106,000m3graincapacitywhichishigherthanthevesselswhichmaintainedtheoldPanamaCanalbeamof32.2m.Inkeepingwithmoderntrends,thebowformiserectwithoutabulb.
-ThemainengineisaMANB & W6S60ME- Csuperlongstroketypeproducing9,600kWat84rpmanddrivingasinglepropellertogiveaservicespeedof14.3knots.AfancapandpropellerductaidefficiencyallowingforanattainedEEDIof3.23comfortablybelowtherequiredfigureof3.85.
-ASunRuiballasttreatmentsystemisinstalledandapprovedbybothIMOandUS
-CoastGuard.
-TECHNICALPARTICULARS
+ShipyardforForemostShipping,NingMayisoneofanewbreedofvesselaimedatbeingamongthemostflexibleandsuitedtomanytrades.Theshipwasthefirstofitsdesigntobedeliveredattheveryendof2020buthasbeenjoinedsincebyfoursistershipsincluding
+XiaoMaydeliveredinMarch2021forthesameowner.Theotherdeliveredvesselsandafurther10stillonorderorunderconstructionarefordifferentowner/operators.Witha229.9mloathevesselfallsintothe
+KamsarMaxcategoryalthoughat36mbeamandhavingascantlingdraughtof13.68m,itiswiderandhasashallowerdraughtthanmostoftheothershipsinthissizebracket.ThesedimensionsallowittomakeuseoftheNewPanamalocksandwouldhavepermittedtheshiptooperatefullyladenatalltimesoverthepasttwoyearswhenlackofrainsandlowwaterlevelsatLakeGatunhavecausedtheCanalAuthoritytorestrictsailingdraughtsthroughtheCanal.Theshiphasthetypicalseven- holdconfigurationofthisclassanditswiderbeamallowsfora106,000m3graincapacitywhichishigherthanthevesselswhichmaintainedtheoldPanamaCanalbeamof32.2m.Inkeepingwithmoderntrends,thebowformiserectwithoutabulb.ThemainengineisaMANB & W6S60ME- Csuperlongstroketypeproducing9,600kWat84rpmanddrivingasinglepropellertogiveaservicespeedof14.3knots.AfancapandpropellerductaidefficiencyallowingforanattainedEEDIof3.23comfortablybelowtherequiredfigureof3.85.ASunRuiballasttreatmentsystemisinstalledandapprovedbybothIMOandUS
+CoastGuard.TECHNICALPARTICULARS
 Lengthoa: .......................................................229.90m
 Lengthbp: ......................................................226.40m
 Breadthmoulded: .................................................36m
@@ -4191,21 +3988,13 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 1076SIGNIFICANTSHIPSOF2021
 NordicNuluujaak,claimedbyitsowner
 NordicBulkCarriersasthemostefficientshiptradingintheArctic,wasdeliveredby
-GuangzhouInternationalShipyardinChinainMay2021.Thevesselisthefirstoffour95,758dwticeclassedPostPanamaxvesselswiththeremainingthreehavingbeendeliveredatvarioustimesthroughout2021.
-TheSDARI- designedshipswillbeusedfortransportofironoreunderacontractbetweentheowner’ sparentPanagea
-LogisticsSolutionsandBaffinlandIronMineswhichownsfacilitiesintheCanadianArctic.
-TheNordicNuluujaakhasice- class1Awhichallowsforsailingonlythroughone- year
+GuangzhouInternationalShipyardinChinainMay2021.Thevesselisthefirstoffour95,758dwticeclassedPostPanamaxvesselswiththeremainingthreehavingbeendeliveredatvarioustimesthroughout2021.TheSDARI- designedshipswillbeusedfortransportofironoreunderacontractbetweentheowner’ sparentPanagea
+LogisticsSolutionsandBaffinlandIronMineswhichownsfacilitiesintheCanadianArctic.TheNordicNuluujaakhasice- class1Awhichallowsforsailingonlythroughone- year
 Arcticiceuptoabout30cmthicksoitwillbeobligedtofollowicebreakersonsomevoyagesasitmovescargoesviathe
-NorthernSeaRoutetoChina.
-Theicestrengthenedvesselis229.5minlengthandwitha38mbeamwhilethescantlingdraughtis15m.Cargospacesarethefamiliarsevenholdswithsiderollinghatchcovers.Graincapacityis114,593m3andbale113,400.
-NordicNuluujaak’ spropulsionandsteeringsystemcomprisesaMANB & W6G60ME- C9.5
+NorthernSeaRoutetoChina.Theicestrengthenedvesselis229.5minlengthandwitha38mbeamwhilethescantlingdraughtis15m.Cargospacesarethefamiliarsevenholdswithsiderollinghatchcovers.Graincapacityis114,593m3andbale113,400.NordicNuluujaak’ spropulsionandsteeringsystemcomprisesaMANB & W6G60ME- C9.5
 Mainengineproducing14,000kWat60 %
-MCR.Adesignrequirementwasforanefficientsystemandtheengineconsumes31.7tonnesdailywhenoperatingatservicespeed.A7.8mfixedpitchpropellerwithafancapoperatesinfrontofatwistedflaptyperudder.TherequiredEEDIforthevesselis3.64andtheattainedvalueis3.26.
-TheenginemeetsNOxTierIIrequirementsundernormalconditionsandmakesuseofhighpressureSCRwhenoperatinginECAs.
-ThereisnoscrubbersotheshipmustmakeuseofcompliantfuelstomeetSOxrequirements.
-ATechcross3,000m3 /hballasttreatmentsystemtype- approvedbybothIMOandUS
-CoastGuardisinstalled.
-TECHNICALPARTICULARS
+MCR.Adesignrequirementwasforanefficientsystemandtheengineconsumes31.7tonnesdailywhenoperatingatservicespeed.A7.8mfixedpitchpropellerwithafancapoperatesinfrontofatwistedflaptyperudder.TherequiredEEDIforthevesselis3.64andtheattainedvalueis3.26.TheenginemeetsNOxTierIIrequirementsundernormalconditionsandmakesuseofhighpressureSCRwhenoperatinginECAs.ThereisnoscrubbersotheshipmustmakeuseofcompliantfuelstomeetSOxrequirements.ATechcross3,000m3 /hballasttreatmentsystemtype- approvedbybothIMOandUS
+CoastGuardisinstalled.TECHNICALPARTICULARS
 Lengthoa: ......................................................229.50m
 Lengthbp: ......................................................225.50m
 Breadthmoulded: ..........................................38.00m
@@ -4331,19 +4120,12 @@ IMOnumber: ...........................................9884966
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................3
 Totalnumberofsistershipsstillonorder: 078SIGNIFICANTSHIPSOF2021
 ONEXPeace,anAframaxLRSproducttankerbuiltbyHyundaiSamhoHeavy
-IndustriesanddeliveredtoitsownerUAE- basedONEXDMCCachievedsignificancebybecomingtheworld’ sfirstmerchantshiptoreceiveDNV’ sSILENT- Enotation.
-ONEXPeacewasdeliveredon31MarchandwasfollowedinMaybyONEXPreciousandinSeptemberbythethirdinclassONEX
+IndustriesanddeliveredtoitsownerUAE- basedONEXDMCCachievedsignificancebybecomingtheworld’ sfirstmerchantshiptoreceiveDNV’ sSILENT- Enotation.ONEXPeacewasdeliveredon31MarchandwasfollowedinMaybyONEXPreciousandinSeptemberbythethirdinclassONEX
 Phoenix.Althoughnotthefirstvesselsintheoperator’ sfleet,thetriowerethefirstshipsorderedasnewbuildings.AfterdeliverONEX
-PeacewasplacedintheScorpioLR2Pool.
-At249.99minlengthwithabeamof44mandadeadweightof114,600tonnestheshipsarefairlytypicalofthetypeindimension.Thereare12cargotanksinsixpairsandtwosloptankslocatedbetweentheNo.6cargotanksandpumproomandbunkertanks.
-AHyundai- MANB & W6G60ME- C9.5 _
-HPSCRengineof12,000kWat78.8rpmgivestheshipa14.5knotsservicespeed.
-DNVisthefirstclassificationsocietytoofferanunderwaternoisenotationandindevelopingitDNV,HHIandKoreaResearch
-InstituteofShips & Oceanconductedajointresearchprojectonmeasuringandevaluatingunderwaterradiationnoise.Aspartofthestudy,thepartiescarriedouttheunderwaternoisemeasurementandanalysisoftheONEXPeace.
-SILENT- Enotationensuresshipsdonotexceedtypicalaverage -to - moderate
-UnderwaterRadiationNoise(URN)levels.
-Vesselswiththisnotationcanavoidharmfulimpactonmarinelifeanddocumentnoiseperformanceforauthoritiesorthosedemandingproofofnoiseemissionsfortransitthroughvulnerableareas.Thenoisereductionisassistedbytheuseofapre- swirlductandarudderbulb.
-TECHNICALPARTICULARS
+PeacewasplacedintheScorpioLR2Pool.At249.99minlengthwithabeamof44mandadeadweightof114,600tonnestheshipsarefairlytypicalofthetypeindimension.Thereare12cargotanksinsixpairsandtwosloptankslocatedbetweentheNo.6cargotanksandpumproomandbunkertanks.AHyundai- MANB & W6G60ME- C9.5 _
+HPSCRengineof12,000kWat78.8rpmgivestheshipa14.5knotsservicespeed.DNVisthefirstclassificationsocietytoofferanunderwaternoisenotationandindevelopingitDNV,HHIandKoreaResearch
+InstituteofShips & Oceanconductedajointresearchprojectonmeasuringandevaluatingunderwaterradiationnoise.Aspartofthestudy,thepartiescarriedouttheunderwaternoisemeasurementandanalysisoftheONEXPeace.SILENT- Enotationensuresshipsdonotexceedtypicalaverage -to - moderate
+UnderwaterRadiationNoise(URN)levels.Vesselswiththisnotationcanavoidharmfulimpactonmarinelifeanddocumentnoiseperformanceforauthoritiesorthosedemandingproofofnoiseemissionsfortransitthroughvulnerableareas.Thenoisereductionisassistedbytheuseofapre- swirlductandarudderbulb.TECHNICALPARTICULARS
 Lengthoa: .....................................................249.99m
 Lengthbp: .....................................................245.00m
 Breadthmoulded: ..........................................44.00m
@@ -4479,19 +4261,14 @@ IMOnumber: ...........................................9893204
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................2
 Totalnumberofsistershipsstillonorder: 080SIGNIFICANTSHIPSOF2021
 PacificIneosBelstaffistheworld’ sfirstandlargestverylargeethane/ethylenecarrier(VLEC)withanIMOTypeBtankdesign.DeliveredtoPacificGason28
-December2021,99,000m3capacityvesselhasbeencharteredbytheINEOSGroupforthetransportationofAmericanliquifiedethanetoanethylenecrackerinBelgium.
-TheVLECis230mlong,36.6mwideand22.5mdeepandwasfullydesignedandconstructedbyJiangnanShipyard(Group)
+December2021,99,000m3capacityvesselhasbeencharteredbytheINEOSGroupforthetransportationofAmericanliquifiedethanetoanethylenecrackerinBelgium.TheVLECis230mlong,36.6mwideand22.5mdeepandwasfullydesignedandconstructedbyJiangnanShipyard(Group)
 Co.,Ltd.Itisthefirstinaseriesofseven
-Pandagasshipsbeingbuiltbytheshipyard.
-Oneofthevessel’ smostoutstandingfeaturesistheadoptionoftheTypeBcargocontainmentsystem(CCS),named
-BrilliancE® CCS,whichwasalsodevelopedbyJiangnan.Comparedwithexistingethane/ethylenecarriers,mostofwhichuseGTT’ smembraneCCS,BrilliancE® CCSissaidtobehighinsafety,highinreliability,lowinmaintenancecosts,andfreefromsloshingconcerns.
-PacificIneosBelstaff’ stwodeckcargo/fuelbuffertanksprovideflexibilityforcarryingLPGorethyleneasalternativefuels.ThevesselispoweredbyMAN’ slatestethanedual-fuelGIEenginewithanin-lineshaftgenerator,cuttingtheSOxemissionby99 % andCO2emissionsby18 %,andhasreachedEEDIPhase4inadvancethanksinparttoaJiangnan- developedhullform(VS- BOW®)techniqueandoptimisedpropellerreactionfin- CAPRO®.
-ItsmaidenvoyagewasfromHoustonto
+Pandagasshipsbeingbuiltbytheshipyard.Oneofthevessel’ smostoutstandingfeaturesistheadoptionoftheTypeBcargocontainmentsystem(CCS),named
+BrilliancE® CCS,whichwasalsodevelopedbyJiangnan.Comparedwithexistingethane/ethylenecarriers,mostofwhichuseGTT’ smembraneCCS,BrilliancE® CCSissaidtobehighinsafety,highinreliability,lowinmaintenancecosts,andfreefromsloshingconcerns.PacificIneosBelstaff’ stwodeckcargo/fuelbuffertanksprovideflexibilityforcarryingLPGorethyleneasalternativefuels.ThevesselispoweredbyMAN’ slatestethanedual-fuelGIEenginewithanin-lineshaftgenerator,cuttingtheSOxemissionby99 % andCO2emissionsby18 %,andhasreachedEEDIPhase4inadvancethanksinparttoaJiangnan- developedhullform(VS- BOW®)techniqueandoptimisedpropellerreactionfin- CAPRO®.ItsmaidenvoyagewasfromHoustonto
 Taizhou,ashallow- draughtportinYangtze
 River.Thepartiallyloadedvesselarrivedin
 March2022,withnosloshingproblemsreportedintheTypeBtanks,demonstratingstrongseaworthinessintheharshwinter
-PacificandthebenefitsofitsrefinedhullformwithVS- BOW.
-TECHNICALPARTICULARS
+PacificandthebenefitsofitsrefinedhullformwithVS- BOW.TECHNICALPARTICULARS
 Lengthoa: ..............................................................230m
 Lengthbp: .............................................................226m
 Breadthmoulded: ..............................................36.6m
@@ -4602,17 +4379,12 @@ Flag: ........................................................HongKong
 IMOnumber: ............................................9901398
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................0
 Totalnumberofsistershipsstillonorder: 682SIGNIFICANTSHIPSOF2021
-DeliveredinOctober2021,PrismCourageisthethirdinaseriesof180,000m3LNGcarriersbuiltbyHyundaiHeavyIndustriesforSouthKoreanoperatorSKShipping.
-Shipstothesamedesignhavealsobeendeliveredtootherowners.The299mlongand48mwidevesselwasorderedin2016andalongwithitstwosistersaccountedforalmosthalfoftheLNGcarrierordersthatyearglobally.
-ThetwoearliersisterswerebothdeliveredinMay2019beforethe2020SOxregulationscameintoeffect.PrismCourage,althoughinmostrespectsidenticaltoPrismAgilityand
+DeliveredinOctober2021,PrismCourageisthethirdinaseriesof180,000m3LNGcarriersbuiltbyHyundaiHeavyIndustriesforSouthKoreanoperatorSKShipping.Shipstothesamedesignhavealsobeendeliveredtootherowners.The299mlongand48mwidevesselwasorderedin2016andalongwithitstwosistersaccountedforalmosthalfoftheLNGcarrierordersthatyearglobally.ThetwoearliersisterswerebothdeliveredinMay2019beforethe2020SOxregulationscameintoeffect.PrismCourage,althoughinmostrespectsidenticaltoPrismAgilityand
 PrismBrilliance,reflectssomeofthenecessarychangesmadetocomplywiththe2020rules.Forexample,despitehavingdual- fuelenginesandrunningmostofthetimeonboiloff,thetwoearliervesselshadbunkertanksfor4,390m3ofHFOand1,160m3of
 MDO.PrismCouragebycontrastonlycarries
-MGOasalternativetotheboiloffandhasatankcapacityof5,563m3.ThecargocontainmentsystemisaGTTMarkIIIFlextypecomprisingfourtanks.CargohandlingisbytwoShinkopumpspertanks.
-AswithmanylargeLNGcarriers,theshiphasatwinskegdesign.Likeitsearliersisters,PrismCourageispoweredbyapairofWinGD5X72DFenginesproducing12,949kWat71/5rpm.Thetwin8.7mfixedpitchpropellersallowforaservicespeedof19.65knotsveryslightlyfasterthanthe2019pair.AuxiliaryenginesareHimsen35DFtypes– twoeachofeightandsixcylindervariants.
-PrismCouragefeaturesproprietyHyundai
+MGOasalternativetotheboiloffandhasatankcapacityof5,563m3.ThecargocontainmentsystemisaGTTMarkIIIFlextypecomprisingfourtanks.CargohandlingisbytwoShinkopumpspertanks.AswithmanylargeLNGcarriers,theshiphasatwinskegdesign.Likeitsearliersisters,PrismCourageispoweredbyapairofWinGD5X72DFenginesproducing12,949kWat71/5rpm.Thetwin8.7mfixedpitchpropellersallowforaservicespeedof19.65knotsveryslightlyfasterthanthe2019pair.AuxiliaryenginesareHimsen35DFtypes– twoeachofeightandsixcylindervariants.PrismCouragefeaturesproprietyHyundai
 Hi- RudderTSandHi- Finforimprovingpropulsionefficiency.Hyundai-ISS(Integrated
-SmartshipSolution)isinstalledtohelpvoyagemonitoring,routeoptimisation,fuel/energyflowmonitoring,performanceanalysisandreporting.
-TECHNICALPARTICULARS
+SmartshipSolution)isinstalledtohelpvoyagemonitoring,routeoptimisation,fuel/energyflowmonitoring,performanceanalysisandreporting.TECHNICALPARTICULARS
 Lengthoa: ......................................................298.97m
 Lengthbp: .........................................................293.6m
 Breadthmoulded: ........................................48.00m
@@ -4736,8 +4508,7 @@ Efficiency
 AttainedEEDIvalue: .........................................6.77
 RequiredEEDIvalue: ........................................8.76
 EnergySavingTechnologies*: .......Hi- RudderTS,Hi- Fin
-Hullcoatings: ........................Jotunantifoulingpaint - Flatbottom: SeaquantumProU,205MIC. - Sidebottom: SeaquantumProU,340MIC.
-Contractdate: .......................................01July2019
+Hullcoatings: ........................Jotunantifoulingpaint - Flatbottom: SeaquantumProU,205MIC. - Sidebottom: SeaquantumProU,340MIC.Contractdate: .......................................01July2019
 Launch/float- outdate: ...................09April2021
 Deliverydate: ................................17October2021
 PRISMCOURAGE– LNGcarrier
@@ -4754,15 +4525,8 @@ Flag: ...............................................................Panama
 IMOnumber: ...........................................9888481
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................2
 Totalnumberofsistershipsstillonorder: 184SIGNIFICANTSHIPSOF2021
-Builtasaone- offvesselforKnutsenOASbyHyundaiMipo,RavennaKnutsenwasorderedtoserveasmall- scaleLNGfielddevelopedbyEdisonoffRavenna,Italy.Thevesselisa30,000m3LNGcarrierandhasbeentakenona12yearcharterwithoptiontoextendforfurthereightyears.Theshiphasbeenconstructedwithafatiguelifeof40years.
-RavennaKnutsenis183.03minlength,hasabeamof28.4mandascantlingdraughtof8.4m.Ithasabulbousbowandatransomstern.
-Thecargoarrangementscomprisethreeindependent,self- supportingtypeCtankswithabi-lobeshape.Thecargohandlingsystemhasbeendesignedfortheshiptoloadafullyrefrigeratedcargoin12hoursandtodischargethesameusingallsix
-Svanhojdeepwelltankswithacapacityof335m3 /h.Theshipalsofeaturesareliquefactionunitwhichguaranteesahigherlevelofoperationalflexibilityandareducedenvironmentalimpactwithregardtoboiloff.
-PropulsioncomesfromaWinGD5X52DFmainengineproducing7,450kWat105rpmdrivingacontrollablepitchpropellerthroughaRenkgearbox.Servicespeedis15.4knots.
-TheshipalsohasamainenginedrivengeneratorandthreeWärtsilä 8L20DFauxiliaries.Therudderisaflaptype.
-Withallenginesbeingdualfuel,theshipcanrunonLNGor2020compliantMGO.
-TheLNGwillbeboilofffromthecargoandthereis400m3MGOtank.Theship’ srequiredEEDIis19.4buttheattainedEEDIbasedontheshiprunningonlyonLNGisasignificantlylower7.5.
-TECHNICALPARTICULARS
+Builtasaone- offvesselforKnutsenOASbyHyundaiMipo,RavennaKnutsenwasorderedtoserveasmall- scaleLNGfielddevelopedbyEdisonoffRavenna,Italy.Thevesselisa30,000m3LNGcarrierandhasbeentakenona12yearcharterwithoptiontoextendforfurthereightyears.Theshiphasbeenconstructedwithafatiguelifeof40years.RavennaKnutsenis183.03minlength,hasabeamof28.4mandascantlingdraughtof8.4m.Ithasabulbousbowandatransomstern.Thecargoarrangementscomprisethreeindependent,self- supportingtypeCtankswithabi-lobeshape.Thecargohandlingsystemhasbeendesignedfortheshiptoloadafullyrefrigeratedcargoin12hoursandtodischargethesameusingallsix
+Svanhojdeepwelltankswithacapacityof335m3 /h.Theshipalsofeaturesareliquefactionunitwhichguaranteesahigherlevelofoperationalflexibilityandareducedenvironmentalimpactwithregardtoboiloff.PropulsioncomesfromaWinGD5X52DFmainengineproducing7,450kWat105rpmdrivingacontrollablepitchpropellerthroughaRenkgearbox.Servicespeedis15.4knots.TheshipalsohasamainenginedrivengeneratorandthreeWärtsilä 8L20DFauxiliaries.Therudderisaflaptype.Withallenginesbeingdualfuel,theshipcanrunonLNGor2020compliantMGO.TheLNGwillbeboilofffromthecargoandthereis400m3MGOtank.Theship’ srequiredEEDIis19.4buttheattainedEEDIbasedontheshiprunningonlyonLNGisasignificantlylower7.5.TECHNICALPARTICULARS
 Lengthoa: .......................................................183.03m
 Lengthbp: ........................................................171.20m
 Breadthmoulded: ..........................................28.40m
@@ -4822,8 +4586,7 @@ Othercranes
 Number: .........................................................................1
 Make: .................................................................Oriental
 Type: .............Electro- hydraulicdriven,cylinderluffingtypejibcrane
-Tasks: ...................Provisionandmachineryparthandlinginengineroom.
-Performance: .........SWL3.5t /Workingradius2.7 ~10m
+Tasks: ...................Provisionandmachineryparthandlinginengineroom.Performance: .........SWL3.5t /Workingradius2.7 ~10m
 Mooringequipment
 Number: ........................................................................6
 Make: ..................................................................Fluteck
@@ -4898,12 +4661,8 @@ Totalnumberofsistershipsstillonorder: 186SIGNIFICANTSHIPSOF2021
 InmostaspectsSilverDawn,deliveredby
 Fincantieri’ sAnconayardtoSilversea
 Cruises,isverymuchanidenticalsistertoitstwosisters,SilverMusedeliveredin2017andSilverMoondeliveredin2020.TheshipwasorderedbySilverseainMay2018as
-RoyalCaribbeanGrouptookaUS $1billionstakeinthecompanyandbythetimethevesselwasdeliveredtheSilverseabrandwasentirelyownedbyRoyalCaribbean.
-Silverseahascultivatedanicheasaluxurybrand,smallshipoperatorandat212.9minlengthandwithagrosstonnageof40,855,SilverDawnfallswellintothiscategory.ThemajordifferencebetweenSilverDawnandhersistersisinthedegreeofluxurythatpassengerscanexpect.Accommodatingamaximum596passengersin298cabinsspreadovereightdecksandallbut12withindividualverandas,theownerdescribestheshipasthenaturalevolutionofitsfleetsaying‘ SilverDawninheritsthebestfeaturesofhersistershipsSilverMuseandSilver
-Moonbutisinaclassallofherown.
-Sumptuoussuitespluscutting- edgedesignandtechnology,SilverDawnsetsnewstandardsofluxury’.
-TheshipisatwinscrewdieselelectricvesselpoweredbyfourWärtsilä 9L38engineseachratedat6,525kW.Theship’ senvironmentalfeatureswhichenableittoclaimaGreenStar3designnotationfromclassificationsocietyRINa,includeahighvoltageshoreconnectionthatmanagestheloadtransferoperationbetweenshipandshoretobedonewithjustasingledieselgeneratoronthenetwork.Italsofeaturesanopenloopscrubbersystemtomeetthe2020SOxrequirements.
-TECHNICALPARTICULARS
+RoyalCaribbeanGrouptookaUS $1billionstakeinthecompanyandbythetimethevesselwasdeliveredtheSilverseabrandwasentirelyownedbyRoyalCaribbean.Silverseahascultivatedanicheasaluxurybrand,smallshipoperatorandat212.9minlengthandwithagrosstonnageof40,855,SilverDawnfallswellintothiscategory.ThemajordifferencebetweenSilverDawnandhersistersisinthedegreeofluxurythatpassengerscanexpect.Accommodatingamaximum596passengersin298cabinsspreadovereightdecksandallbut12withindividualverandas,theownerdescribestheshipasthenaturalevolutionofitsfleetsaying‘ SilverDawninheritsthebestfeaturesofhersistershipsSilverMuseandSilver
+Moonbutisinaclassallofherown.Sumptuoussuitespluscutting- edgedesignandtechnology,SilverDawnsetsnewstandardsofluxury’.TheshipisatwinscrewdieselelectricvesselpoweredbyfourWärtsilä 9L38engineseachratedat6,525kW.Theship’ senvironmentalfeatureswhichenableittoclaimaGreenStar3designnotationfromclassificationsocietyRINa,includeahighvoltageshoreconnectionthatmanagestheloadtransferoperationbetweenshipandshoretobedonewithjustasingledieselgeneratoronthenetwork.Italsofeaturesanopenloopscrubbersystemtomeetthe2020SOxrequirements.TECHNICALPARTICULARS
 Lengthoa: .........................................................212.9m
 Lengthbp: .......................................................180.85m
 Breadthmoulded: ..................................................27m
@@ -5016,16 +4775,12 @@ IMOnumber: ............................................9857937
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................2
 Totalnumberofsistershipsstillonorder: 088SIGNIFICANTSHIPSOF2021
 Deliveredon3December2021,by
-KawasakiHeavyIndustriesKobeyard,the7,849gtSuisoFrontierhasclaimedthedistinctionofbeingtheworld’ sfirstliquidhydrogencarrier.Itisverymuchaprototypeasfewofthecargocontrolandstoragesystemshavepreviouslybeenusedatsea.TheshipisinvolvedinshippingexperimentalcargosofliquidhydrogenfromAustraliatoJapan.
-Forseacarriage,hydrogeniscooledto - 253° Ctobeliquefiedanditsvolumeisreducedto1/800ofitsoriginalgas- statevolume.Thecargocontainmentsystemcomprisesadoubleshellvacuuminsulated
+KawasakiHeavyIndustriesKobeyard,the7,849gtSuisoFrontierhasclaimedthedistinctionofbeingtheworld’ sfirstliquidhydrogencarrier.Itisverymuchaprototypeasfewofthecargocontrolandstoragesystemshavepreviouslybeenusedatsea.TheshipisinvolvedinshippingexperimentalcargosofliquidhydrogenfromAustraliatoJapan.Forseacarriage,hydrogeniscooledto - 253° Ctobeliquefiedanditsvolumeisreducedto1/800ofitsoriginalgas- statevolume.Thecargocontainmentsystemcomprisesadoubleshellvacuuminsulated
 IMOTypeCtankof1,250m3capacitytankwhichwasdevelopedbyKawasakiHeavy
 IndustrieswithsupportofNEDO(New
 EnergyandIndustrialTechnology
-DevelopmentOrganization).ThesupportstructureforthetankismadeofhighlydurableGFRPtofurtherensureareductioninheattransfer.
-Becauseliquidhydrogenboilsoffupto10timesfasterthanLNG,acompressor-less,hydrogen- compatiblegascombustionunitsuppliedbyGermanindustrialburnermanufacturerSaackewillensurethatanyboil- offgasiscompletelyandsafelycombustedtoreducetheriskofincreasedpressure.Thecargopumpsareapairof100m3 /hShinkosubmergedelectriccentrifugaltype.
-SuisoFrontierhasaloaof116mandabeamof19m.ThepropulsionsystemcomprisesthreeDaihatsuDE- 231,320kWdieselenginesandtwo1,360kWelectricmotorsconnectedthroughaDaihatsugearboxtoasingle3.2mdiametercontrollablepitchpropellerandgivingamaximumspeedof13knots.Withan880m3fueltankandaconsumptionof16tonnesof
-MDOperdaytheshiphasaround50daysendurance.
-TECHNICALPARTICULARS
+DevelopmentOrganization).ThesupportstructureforthetankismadeofhighlydurableGFRPtofurtherensureareductioninheattransfer.Becauseliquidhydrogenboilsoffupto10timesfasterthanLNG,acompressor-less,hydrogen- compatiblegascombustionunitsuppliedbyGermanindustrialburnermanufacturerSaackewillensurethatanyboil- offgasiscompletelyandsafelycombustedtoreducetheriskofincreasedpressure.Thecargopumpsareapairof100m3 /hShinkosubmergedelectriccentrifugaltype.SuisoFrontierhasaloaof116mandabeamof19m.ThepropulsionsystemcomprisesthreeDaihatsuDE- 231,320kWdieselenginesandtwo1,360kWelectricmotorsconnectedthroughaDaihatsugearboxtoasingle3.2mdiametercontrollablepitchpropellerandgivingamaximumspeedof13knots.Withan880m3fueltankandaconsumptionof16tonnesof
+MDOperdaytheshiphasaround50daysendurance.TECHNICALPARTICULARS
 Lengthoa: .........................................................116.00m
 Lengthbp: .......................................................109.00m
 Breadthmoulded: ...........................................19.00m
@@ -5052,8 +4807,7 @@ Model: .........................................................NTIKE- RC5
 Manufacturer: .........NishishibaElectricCo.,Ltd
 Number: ........................................................................2
 Speedofeachmotor: ......................abt885rpm
-Outputofeachmotor: .........1,360kWatM.C.O.
-Isthisadiesel- electricorhybrid ?: ..................Y
+Outputofeachmotor: .........1,360kWatM.C.O.Isthisadiesel- electricorhybrid ?: ..................Y
 Gearbox(es)
 Make: .....................DaihatsuDieselMfg.Co.,Ltd
 Model: .............................................................RCD- 25J
@@ -5062,15 +4816,13 @@ Outputspeed/power: ...................abt216rpm /2,650kWatMCO
 Propeller(s)
 Material: ...........................KALBC3(Ni- Al- Bronze)
 Designer/Manufacturer: ....Kamomepropeller
-Co.,Ltd.
-Number: .........................................................................1
+Co.,Ltd.Number: .........................................................................1
 Fixed/Controllablepitch: .....Controllablepitch
 Diameter: ...................................................3,200mm
 Speed: .......................................................abt216rpm
 Diesel- drivenalternators
 Number: .........................................................................3
-Enginemake/type: ............DaihatsuDieselMfg.
-Co.,Ltd /6DE- 23
+Enginemake/type: ............DaihatsuDieselMfg.Co.,Ltd /6DE- 23
 Typeoffuel: .......................................MDOorMGO
 Alternatormake/type: ........NishishibaElectric
 Co.,Ltd. /Singlebearingandselflubricationtype
@@ -5097,8 +4849,7 @@ Make: .................KawasakiHeavyIndustries,Ltd
 Type: ..............................................Electro- Hydraulic
 Speciallifesavingequipment
 Numberofeachandcapacity: ....1,25persons
-Make: ............Vikinglife- SavingEquipmentK.K.
-Type: ................................................Freefalllifeboat
+Make: ............Vikinglife- SavingEquipmentK.K.Type: ................................................Freefalllifeboat
 Cargotanks
 Number: ........................................................................1
 Gradesofcargocarried: .......LiquidHydrogen
@@ -5109,8 +4860,7 @@ Type: ..............Electricmotordrivencentrifugalsubmergedtype
 Make: ..................................................ShinkoInd.Ltd
 Capacity(each): .........................................100m3 /h
 Ballastwatertreatmentsystem
-Make: ..........................................TechcrossCo.,Ltd.
-Capacity: ........................................................150m3 /h
+Make: ..........................................TechcrossCo.,Ltd.Capacity: ........................................................150m3 /h
 Complement
 Officers: ........................................................................10
 Crew: .............................................................................13
@@ -5157,15 +4907,9 @@ Totalnumberofsistershipsstillonorder: 090SIGNIFICANTSHIPSOF2021
 BuiltbyChengxiShipyardanddeliveredin
 December,the62,000dwtTaixingisthefirstoffournewvesselstojointhefleetofheavyliftspecialistChipolbrok(Chinese-
 PolishJointStockShippingCompany).Thethreelatervesselshavescheduleddeliverydatesin2022.Powerandpropulsionsystemcomprisesa6G50ME- C9.6
-Thevesselisclaimedtobetheworld’ slargestmultipurposeheavyliftvessel,itmeasures199.9minlengthandhasa32.26mbeamandhasaverticalbowform.
-ThevesselwasdesignedbySDARIandisadoublehullvesselwithfiveholdsthelongestofwhichis40minlengthforspecialprojectcargoes.
-Fouroftheholdsareboxshapedandallhavestrengthenedtanktopsforheavycargoes.Theshiphaspontoontypetweendecksthatcanbeemployedinallfiveholds.
-Totalbalecapacityis73,000m3.Theflushhatchcoversallowforalengthof160mandsome5,000m2ofspacefordeckcargoes.
-Cargohandlingisfacilitatedbyfourdeckcraneswitha38moutreach,andthetwo150tonnecapacitycraneslocatedeitherendofhatch3canworkintandemtolift300tonnes.Theothertwocraneshavesafeworkingloadsof45and60tonnes.
-Theship’ spowerandpropulsionsystemcomprisesasix- cylinderMANB & W
+Thevesselisclaimedtobetheworld’ slargestmultipurposeheavyliftvessel,itmeasures199.9minlengthandhasa32.26mbeamandhasaverticalbowform.ThevesselwasdesignedbySDARIandisadoublehullvesselwithfiveholdsthelongestofwhichis40minlengthforspecialprojectcargoes.Fouroftheholdsareboxshapedandallhavestrengthenedtanktopsforheavycargoes.Theshiphaspontoontypetweendecksthatcanbeemployedinallfiveholds.Totalbalecapacityis73,000m3.Theflushhatchcoversallowforalengthof160mandsome5,000m2ofspacefordeckcargoes.Cargohandlingisfacilitatedbyfourdeckcraneswitha38moutreach,andthetwo150tonnecapacitycraneslocatedeitherendofhatch3canworkintandemtolift300tonnes.Theothertwocraneshavesafeworkingloadsof45and60tonnes.Theship’ spowerandpropulsionsystemcomprisesasix- cylinderMANB & W
 G50ME- C9.6engineproducing8,000kW @ 83rpm.Thisdrivesa6.9mdiameterfixedpitchpropellertogiveaservicespeedof14.5knots.ToachieveTierIIINOxcompliance,theenginemakesuseofhighpressureselectivecatalyticreduction.ABlueOcean
-ShieldballasttreatmentsystemallowsforworldwideoperationhavingtypeapprovalfromIMOandUSCG.
-TECHNICALPARTICULARS
+ShieldballasttreatmentsystemallowsforworldwideoperationhavingtypeapprovalfromIMOandUSCG.TECHNICALPARTICULARS
 Lengthoa: ......................................................199.90m
 Lengthbp: ......................................................196.50m
 Breadthmoulded: .........................................32.26m
@@ -5299,16 +5043,10 @@ Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ...........
 Totalnumberofsistershipsstillonorder: 792SIGNIFICANTSHIPSOF2021
 DesignedbySDARIandbuiltbyChina
 MerchantsHeavyIndustryJiangsu,the35,245gtPCTCTangHongwasdeliveredto
-ChinaMerchantsShenZhenRoRoShippinginMarch2021asthefirstofapair.ThesistershipMaoHongwashandedoverinJuly.
-Withtheirdimensionsof169.1mlength,beamof28manddraughtof8.5mtogetherwithacapacityof4,066ceus,theshipsarenotamongthelargestoftheirkindalthoughtheyareclaimedasbeingthelargestdomesticservicecarcarriersinChina.Tang
-Honghas11cardecksincludingonehoistabledeckandondecksixcanaccommodatevehiclesupto5minheight.
-Cargooperationsfasterthanothershipsofitstypearefacilitatedbywayoftwo50tonneSWLquartersternrampsoneoneachsideofthevessel.Theventilationsystemallowsfor20airchanges/hourduringcargooperationsand10changesperhouratothertimes.
-Inappearance,TangHongistypicalofthe
+ChinaMerchantsShenZhenRoRoShippinginMarch2021asthefirstofapair.ThesistershipMaoHongwashandedoverinJuly.Withtheirdimensionsof169.1mlength,beamof28manddraughtof8.5mtogetherwithacapacityof4,066ceus,theshipsarenotamongthelargestoftheirkindalthoughtheyareclaimedasbeingthelargestdomesticservicecarcarriersinChina.Tang
+Honghas11cardecksincludingonehoistabledeckandondecksixcanaccommodatevehiclesupto5minheight.Cargooperationsfasterthanothershipsofitstypearefacilitatedbywayoftwo50tonneSWLquartersternrampsoneoneachsideofthevessel.Theventilationsystemallowsfor20airchanges/hourduringcargooperationsand10changesperhouratothertimes.Inappearance,TangHongistypicalofthe
 PCTCtypeandtoimproveitsefficiency
-SDARIhasfeaturedsomelowerwindresistanceforthesuperstructure,anS- Bowdesignanda5.6mdiameterfixedpitchpropellerwithbosscapfin.PowerisprovidedbyaMANB & W6S50ME- C8.5mainengineproducing7,550kWat120rpm.
-Inoperation,theshipmakesuseofshorepowerduringportstaysfurtherlimitingemissions.TheattainedEEDIvalueis15.626significantlybelowtherequiredminimumof21.915.
-Theshiphasaballastwatercapacityof4,000m3butbecauseitisintendedforpurelydomesticuseinChinesewaters,noballastwatertreatmentsystemisrequired.
-TECHNICALPARTICULARS
+SDARIhasfeaturedsomelowerwindresistanceforthesuperstructure,anS- Bowdesignanda5.6mdiameterfixedpitchpropellerwithbosscapfin.PowerisprovidedbyaMANB & W6S50ME- C8.5mainengineproducing7,550kWat120rpm.Inoperation,theshipmakesuseofshorepowerduringportstaysfurtherlimitingemissions.TheattainedEEDIvalueis15.626significantlybelowtherequiredminimumof21.915.Theshiphasaballastwatercapacityof4,000m3butbecauseitisintendedforpurelydomesticuseinChinesewaters,noballastwatertreatmentsystemisrequired.TECHNICALPARTICULARS
 Lengthoa: .......................................................169.10m
 Lengthbp: ......................................................164.50m
 Breadthmoulded: ........................................28.00m
@@ -5437,14 +5175,7 @@ Flag: ....................................................................China
 IMOnumber: ...........................................9903205
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................2
 Totalnumberofsistershipsstillonorder: 094SIGNIFICANTSHIPSOF2021
-InJuly,Hudong- ZhonghuaShipbuildingdeliveredTransgasPowertoDynagas,markingthefirsteverlargeFSRUtobebuiltinChina.TheshipisalsosignificantasbeingonlythesecondFSRUbuiltforaGreekowner.Asistervessel,TransgasForce,wasdeliveredinNovember.
-TransgasPowerhasaloaof294.0mandabeamof46.95m.IthasaGTTNO96cargocontainmentsystemwithacapacityof174,000m3.TheshiphasbeenbuiltforadualpurposeroleaseitheraconventionalLNGcarrierorasaFSRUservingasalinkbetweenashoreconnectionandothergascarriers.
-Thevessel’ sregasificationsystemconsistingofthreetrainsinstalledatbothsidesofthefirstLNGcargotankwassuppliedbyWärtsilä.Inaddition,Wärtsilä alsosuppliedrelatedregasificationequipmentcomprisingpumps,heatexchangers,valves,andinstrumentationforinstallationintheengineroom.Theregasificationsystemusesseawaterandsteamasenergysources,andwater/glycolastheenergycarrierinacombinedloop.
-Thethreetrainseachhaveacapacityofapproximately500m3 /h.
-Theship’spowerplantisanunusualchoiceatatimewhenmanygascarriersareutilisingtwo- strokedual-fuelengines.
-TransgasPowerhasbeenequippedwithfourMANmedium- speed51/60DFengines.
-Twoarenine- cylinderunitseachproducing9,000kWandtheotherpairareeight- cylinderversionsratedat8,000kWeach– allenginesrunat514rpm.Theshiphastwin8.2mdiameterfixedpitchpropellersconnectedtotheenginesthroughRenkgearboxes.Thearrangementallowsaservicespeedof19.5knots.
-TECHNICALPARTICULARS
+InJuly,Hudong- ZhonghuaShipbuildingdeliveredTransgasPowertoDynagas,markingthefirsteverlargeFSRUtobebuiltinChina.TheshipisalsosignificantasbeingonlythesecondFSRUbuiltforaGreekowner.Asistervessel,TransgasForce,wasdeliveredinNovember.TransgasPowerhasaloaof294.0mandabeamof46.95m.IthasaGTTNO96cargocontainmentsystemwithacapacityof174,000m3.TheshiphasbeenbuiltforadualpurposeroleaseitheraconventionalLNGcarrierorasaFSRUservingasalinkbetweenashoreconnectionandothergascarriers.Thevessel’ sregasificationsystemconsistingofthreetrainsinstalledatbothsidesofthefirstLNGcargotankwassuppliedbyWärtsilä.Inaddition,Wärtsilä alsosuppliedrelatedregasificationequipmentcomprisingpumps,heatexchangers,valves,andinstrumentationforinstallationintheengineroom.Theregasificationsystemusesseawaterandsteamasenergysources,andwater/glycolastheenergycarrierinacombinedloop.Thethreetrainseachhaveacapacityofapproximately500m3 /h.Theship’spowerplantisanunusualchoiceatatimewhenmanygascarriersareutilisingtwo- strokedual-fuelengines.TransgasPowerhasbeenequippedwithfourMANmedium- speed51/60DFengines.Twoarenine- cylinderunitseachproducing9,000kWandtheotherpairareeight- cylinderversionsratedat8,000kWeach– allenginesrunat514rpm.Theshiphastwin8.2mdiameterfixedpitchpropellersconnectedtotheenginesthroughRenkgearboxes.Thearrangementallowsaservicespeedof19.5knots.TECHNICALPARTICULARS
 Lengthoa: .......................................................294.00m
 Lengthbp: ......................................................288.00m
 Breadthmoulded: ...........................................46.95m
@@ -5461,8 +5192,7 @@ Heavyoil: ....................................................~ 3,800m3
 Dieseloil: ........................................................~ 850m3
 Waterballast(m3): .....................................60,500m3
 Classificationsocietyandnotations: .............ABS +1A1,LiquefiedGasCarrier,(E)(Shiptype2G),LNG(R),SH,SHCM, + ACCU,ENVIRO,UWILD,SH- DLA,CPS,DFD,TCM, + AMS,BWE,NIBS,SFA(40),POT,IHM,RRDA,GCU,SElev,CRC,BWT,RW
-Cargotankworkingpressureshallbebasedonbelowtwomode: 1.WhenactingasLNGC,thecargotankpressureshallbe25kpa; 2.WhenactingasFSRU,thecargotankpressureshallbe70kpa.
-Propulsion
+Cargotankworkingpressureshallbebasedonbelowtwomode: 1.WhenactingasLNGC,thecargotankpressureshallbe25kpa; 2.WhenactingasFSRU,thecargotankpressureshallbe70kpa.Propulsion
 Mainengine(s)
 Design: ......MAN2× 9L51/60DF & 2× 8L51/60DF
 Model: ..................2× 9L51/60DF & 2× 8L51/60DF
@@ -5581,13 +5311,9 @@ Totalnumberofsistershipsstillonorder: 096SIGNIFICANTSHIPSOF2021
 DeliveredinOctober2021,WuTongisthelatestgenerationofsmallsizestainlesssteelchemicaltankerdevelopedbySDARIandbuiltbyWuchangShipbuilding
 IndustryGroupforShanghaiGentco
 Logistics.ThevesselisthefirstofapairwithitssisterMuMianduefordeliveryin
-April2022.
-The111.4mloaand17.6mbeamshiphasadeadweightof7,200tonnes.Ithasbeendesignedtocarryeightgradesofproductsimultaneouslyinsixpairsoftankswith
-No.6tankonportsidedoublingasasloptank.Forchemicalcargoestheshipisrestrictedtotypes2and3.
-EachtankisfittedwithaFramosubmergedhydraulicallydrivencentrifugalpump.Tenofthepumpshaveacapacityof200m3 /hwhiletwoaresmallerandratedat120m3 /h.Thetankheatingsystemsusethermaloilasheattransfermediumallowingcarriageofcargoesnotpermittedtobeheatedbywaterorsteam.Additional
-PVvalvesareprovidedformuchhigherpressuresettingduringrecirculatingtankwashinginharbourwhenusinghighvolatiledetergenttominimiseemissionaswellasreducingtheconsumptionofdetergentandtankwashingtime.
-Thehullformisoptimisedforefficiencyandmanoeuvringwithaverticalbowformwithoutbulb.Powerisprovidedbyasix- cylinderGuangzhouDieselFactoryG32medium- speedengine.Outputoftheengineis2,665kWat600rpm.ThedriveisthroughaCNGpowergearboxtoa4.2mfixedpitchpropellerwithbosscapfinrunningat176rpm.Thedailyfueloilconsumptionis9.95t/dayataservicespeed13knotsand7.1mdraught.
-TECHNICALPARTICULARS
+April2022.The111.4mloaand17.6mbeamshiphasadeadweightof7,200tonnes.Ithasbeendesignedtocarryeightgradesofproductsimultaneouslyinsixpairsoftankswith
+No.6tankonportsidedoublingasasloptank.Forchemicalcargoestheshipisrestrictedtotypes2and3.EachtankisfittedwithaFramosubmergedhydraulicallydrivencentrifugalpump.Tenofthepumpshaveacapacityof200m3 /hwhiletwoaresmallerandratedat120m3 /h.Thetankheatingsystemsusethermaloilasheattransfermediumallowingcarriageofcargoesnotpermittedtobeheatedbywaterorsteam.Additional
+PVvalvesareprovidedformuchhigherpressuresettingduringrecirculatingtankwashinginharbourwhenusinghighvolatiledetergenttominimiseemissionaswellasreducingtheconsumptionofdetergentandtankwashingtime.Thehullformisoptimisedforefficiencyandmanoeuvringwithaverticalbowformwithoutbulb.Powerisprovidedbyasix- cylinderGuangzhouDieselFactoryG32medium- speedengine.Outputoftheengineis2,665kWat600rpm.ThedriveisthroughaCNGpowergearboxtoa4.2mfixedpitchpropellerwithbosscapfinrunningat176rpm.Thedailyfueloilconsumptionis9.95t/dayataservicespeed13knotsand7.1mdraught.TECHNICALPARTICULARS
 Lengthoa: ........................................................111.40m
 Lengthbp: .......................................................107.40m
 Breadthmoulded: ..........................................17.60m
@@ -5715,8 +5441,7 @@ Make: .........................Hansun(Shanghai)Marine
 TechnologyCo.,Ltd
 Model: ............................................................HSINC-18
 Sewageplant
-Make: ................................WuhanZhongzhouEnv.
-ProtectionEquipmentCo.,Ltd
+Make: ................................WuhanZhongzhouEnv.ProtectionEquipmentCo.,Ltd
 Model: ........................................................WCBx- 20C
 Contractdate: ................................November2018
 Launch/float- outdate: ...........................May2021
@@ -5737,15 +5462,8 @@ Flag: ....................................................................China
 IMOnumber: ...........................................9889722
 Totalnumberofsistershipsalreadycom - pleted(excludingshippresented): ................0
 Totalnumberofsistershipsstillonorder: 198SIGNIFICANTSHIPSOF2021
-XiangAnKouisa48,500dwtsemi- submersibleheavyliftvesseltailor- madeforChineseOwnerCOSCO(HK)Investment & DevelopmentanddeliveredinMay2021.
-ThevesselwasbuiltbyCSSCGuangzhou
-Shipyardandalthoughaoneoffisadevelopmentofthreeearliervesselsintheowner’ sX- Class.
-Whilethehulldimensionsof216.7mlengthand43mbeamarethesameastheoldervessels,andallfoursharethesameconfigurationofforwardsuperstructureandaftcasings,XiangAnKoucanbedistinguishedbyitsverticalbowandlackofabulb.Thevesselalsohasadifferentpropulsionsystemandismorepowerfulthanitseldersiblings.
-Itisdesignedasatwinscrew,diesel- electricwithfourMAN8L32/40poweredgensetseachproducing3,860kWat720rpm.TheSCRNOxemissiontreatmentsystemonthefourmainenginesandauxiliarygeneratorsensurecompliancewiththeTierIIIemissionlimit.Theship’ stwinfixedpitchpropellersareeachdrivenatamaximum94.8rpmbySiemens6,000kWelectricmotorthroughreductiongearboxes.
-XiangAnKouhastwobowthrustersandtwosternthrusterswithDP2dynamicpositioningcapability.
-Theopendeckhasalengthof164.8mfromthesuperstructuretothefrontoftheaftcasingsand177.6mfromsuperstructuretothesternbetweenthecasings.Theballastingsystemcomprisesfour6,600m3 /hraircompressors,two1,200m3 /hrpumps,andtwo160m3 /hrpumps.Nolessthan61ballasttanks,includingtoptanks,doublebottomtanks,centretanksandsidetanksenablethevesseltobettercontrolmotionsandaccelerations.Theshipcanballastdowntohave13mofwaterabovethemaindeck.
-XiangAnKoucancarryanon- buoyantcargoof20,000tonneswithaVCGOF23mabovetheship’ smaindeckorabuoyantcargoof30,000tonnesandaVCGof25mabovetheship’ smaindeck.
-TECHNICALPARTICULARS
+XiangAnKouisa48,500dwtsemi- submersibleheavyliftvesseltailor- madeforChineseOwnerCOSCO(HK)Investment & DevelopmentanddeliveredinMay2021.ThevesselwasbuiltbyCSSCGuangzhou
+Shipyardandalthoughaoneoffisadevelopmentofthreeearliervesselsintheowner’ sX- Class.Whilethehulldimensionsof216.7mlengthand43mbeamarethesameastheoldervessels,andallfoursharethesameconfigurationofforwardsuperstructureandaftcasings,XiangAnKoucanbedistinguishedbyitsverticalbowandlackofabulb.Thevesselalsohasadifferentpropulsionsystemandismorepowerfulthanitseldersiblings.Itisdesignedasatwinscrew,diesel- electricwithfourMAN8L32/40poweredgensetseachproducing3,860kWat720rpm.TheSCRNOxemissiontreatmentsystemonthefourmainenginesandauxiliarygeneratorsensurecompliancewiththeTierIIIemissionlimit.Theship’ stwinfixedpitchpropellersareeachdrivenatamaximum94.8rpmbySiemens6,000kWelectricmotorthroughreductiongearboxes.XiangAnKouhastwobowthrustersandtwosternthrusterswithDP2dynamicpositioningcapability.Theopendeckhasalengthof164.8mfromthesuperstructuretothefrontoftheaftcasingsand177.6mfromsuperstructuretothesternbetweenthecasings.Theballastingsystemcomprisesfour6,600m3 /hraircompressors,two1,200m3 /hrpumps,andtwo160m3 /hrpumps.Nolessthan61ballasttanks,includingtoptanks,doublebottomtanks,centretanksandsidetanksenablethevesseltobettercontrolmotionsandaccelerations.Theshipcanballastdowntohave13mofwaterabovethemaindeck.XiangAnKoucancarryanon- buoyantcargoof20,000tonneswithaVCGOF23mabovetheship’ smaindeckorabuoyantcargoof30,000tonnesandaVCGof25mabovetheship’ smaindeck.TECHNICALPARTICULARS
 Lengthoa: .........................................................216.70m
 Lengthbp: .......................................................212.46m
 Breadthmoulded: ..........................................43.00m

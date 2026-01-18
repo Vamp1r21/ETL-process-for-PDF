@@ -19,11 +19,8 @@ Telefax: +44 (0) 20 7245 6959
 E-mail: editorial@rina.org.uk advertising@rina.org.uk
 Significant Small Ships of 2019 1
 © 2020. The Royal Institution of Naval Architects
-This publication is copyright under the Berne Convention. All rights reserved. No part of the publication may be reproduced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown.
-Multiple copying of the contents without permission is always illegal.
-Printed by:
-Stephens and George, Goat Mill Road, Dowlais, Merthyr Tydfil, CF48 3TD, Wales.
-ISBN: 978-1-911649-14-4
+This publication is copyright under the Berne Convention. All rights reserved. No part of the publication may be reproduced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown. Multiple copying of the contents without permission is always illegal. Printed by:
+Stephens and George, Goat Mill Road, Dowlais, Merthyr Tydfil, CF48 3TD, Wales. ISBN: 978-1-911649-14-4
 CONTENTS
 INTRODUCTION 2
 ATLANTIC TITAN: Matching traditional trawler features to modern design and equipment 4
@@ -73,15 +70,8 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order..................................................... 0
 Contract date.................................January 2017
 Delivery date......................................June 2019
-Designed and built to fish for crab and trawl for demersal fish, Atlantic Titan features the ability to completely close the main deck area midships, allowing it to convert to a full factory processing deck for modern fish processing and onboard freezing.
-For crab fishing, the vessel is equipped with a hydraulic hauler which is monitored from an offset helm position at the starboard side of the wheelhouse. The catch is released for sorting and then fed into two large 50,000litre-capacity refrigerated salt water (RSW) tanks.
-Trawling for demersal fish is conducted from the trawl deck, located on shelter deck level behind the forecastle accommodation and wheelhouse. Trawl-related work is monitored from a designated position at the aft end of the wheelhouse, with full-height windows enabling the skipper to keep a constant eye on all fishing gear.
-The Bopp-supplied trawl winches and net drums allow for single-net trawling with the catch being taken aboard aft, up a stern ramp and through a hydraulic cod end hatch into a portable hopper on the processing deck. This deck can be completely closed during trawl operations, with deck pumps keeping the space dry. Once processed and frozen, the catch is stored in the 160m3 freezer hold. The two RSW tanks can also be reconfigured, via the removal of large portable panels, to give an enlarged hold space with a total hold capacity of over 260m3.
-The vessel is fitted with a Yanmar 6EY 17W main engine, rated 749kW at 1,350rpm and coupled to a Reintjes WAF 563 reversing gearbox. This drives a 2,000mm-diameter nozzled, fixed pitch propeller supplied by Kort
-Propulsion. The hullform, along with a high- lift rudder designed by Macduff Ship Design and a bow thruster supplied by Kort Propulsion, also grants Atlantic Titan a high degree of manoeuvrability. The vessel is also fitted with bilge keels for roll reduction.
-The main fish hold, positioned forward, has the ability to either refrigerate or fully freeze catch, depending on the type of fish targeted and the duration of the voyage. Aft of the main hold and roughly amidships are two large 50tonne RSW holds – these hold crab but can also be fully opened, using hinged portable panels, to augment the fish hold capacity. The entire refrigeration system was designed and supplied by Paumier Marine.
-Below the fish hold are two fresh water tanks supplying a total of 23,000litres of water for domestic systems. The vessel also has four main fuel tanks and two service tanks, offering a total fuel capacity of 65,000litres, for extensive range.
-TECHNICAL PARTICULARS
+Designed and built to fish for crab and trawl for demersal fish, Atlantic Titan features the ability to completely close the main deck area midships, allowing it to convert to a full factory processing deck for modern fish processing and onboard freezing. For crab fishing, the vessel is equipped with a hydraulic hauler which is monitored from an offset helm position at the starboard side of the wheelhouse. The catch is released for sorting and then fed into two large 50,000litre-capacity refrigerated salt water (RSW) tanks. Trawling for demersal fish is conducted from the trawl deck, located on shelter deck level behind the forecastle accommodation and wheelhouse. Trawl-related work is monitored from a designated position at the aft end of the wheelhouse, with full-height windows enabling the skipper to keep a constant eye on all fishing gear. The Bopp-supplied trawl winches and net drums allow for single-net trawling with the catch being taken aboard aft, up a stern ramp and through a hydraulic cod end hatch into a portable hopper on the processing deck. This deck can be completely closed during trawl operations, with deck pumps keeping the space dry. Once processed and frozen, the catch is stored in the 160m3 freezer hold. The two RSW tanks can also be reconfigured, via the removal of large portable panels, to give an enlarged hold space with a total hold capacity of over 260m3. The vessel is fitted with a Yanmar 6EY 17W main engine, rated 749kW at 1,350rpm and coupled to a Reintjes WAF 563 reversing gearbox. This drives a 2,000mm-diameter nozzled, fixed pitch propeller supplied by Kort
+Propulsion. The hullform, along with a high- lift rudder designed by Macduff Ship Design and a bow thruster supplied by Kort Propulsion, also grants Atlantic Titan a high degree of manoeuvrability. The vessel is also fitted with bilge keels for roll reduction. The main fish hold, positioned forward, has the ability to either refrigerate or fully freeze catch, depending on the type of fish targeted and the duration of the voyage. Aft of the main hold and roughly amidships are two large 50tonne RSW holds – these hold crab but can also be fully opened, using hinged portable panels, to augment the fish hold capacity. The entire refrigeration system was designed and supplied by Paumier Marine. Below the fish hold are two fresh water tanks supplying a total of 23,000litres of water for domestic systems. The vessel also has four main fuel tanks and two service tanks, offering a total fuel capacity of 65,000litres, for extensive range. TECHNICAL PARTICULARS
 Length, wl................................................ 31.76m
 Length, bp............................................... 26.15m
 Breadth, moulded...................................... 10.3m
@@ -184,14 +174,7 @@ Total number of sister ships still on order...... N/A
 Contract date.............................November 2016
 Delivery date...................................... April 2019
 Bremen is an example of Baltic Workboats’
-Patrol 24 WP class, a 24m patrol vessel designed and built for German Customs needs.
-The boat’s predominant tasks include patrol work and at-sea inspections.
-As a new model in the builder’s wave-piercing series, the Patrol 24 WP was developed to exhibit outstanding performance capabilities in any weather. The wave-piercing technology provides a longer waterline length when compared to a traditional hull vessel. In rough sea conditions, when the bow becomes submerged, the top surface of the bow creates increased downforce, which compensates for the buoyancy of the bow – the wave-piercing bow cuts through the waves and reduces vertical accelerations.
-The bow design reduces pitching motions and provides a smoother ride for the captain and crew at all speeds. This is useful, given that the ships (three in total, including Gelting and Darss) commenced their operations in the most demanding conditions the Baltic and North Seas could throw at them.
-When compared to a traditional hull, a wave- piercing hull design is estimated to provide 40% less vertical acceleration, accompanied by an improvement in fuel economy of up to 30%, Baltic Workboats says.
-The wheelhouse offers nearly 360° visibility, for enhanced safety both inside the cabin and for the crew on deck. The captain has a centre position with uninterrupted views of the deck and boarding areas.
-All three vessels comply with Lloyd’s Register rules. Despite the powerful machinery installed on board, the boats were designed and assembled to enable them to produce extremely low levels of vibration, noise and emissions.
-TECHNICAL PARTICULARS
+Patrol 24 WP class, a 24m patrol vessel designed and built for German Customs needs. The boat’s predominant tasks include patrol work and at-sea inspections. As a new model in the builder’s wave-piercing series, the Patrol 24 WP was developed to exhibit outstanding performance capabilities in any weather. The wave-piercing technology provides a longer waterline length when compared to a traditional hull vessel. In rough sea conditions, when the bow becomes submerged, the top surface of the bow creates increased downforce, which compensates for the buoyancy of the bow – the wave-piercing bow cuts through the waves and reduces vertical accelerations. The bow design reduces pitching motions and provides a smoother ride for the captain and crew at all speeds. This is useful, given that the ships (three in total, including Gelting and Darss) commenced their operations in the most demanding conditions the Baltic and North Seas could throw at them. When compared to a traditional hull, a wave- piercing hull design is estimated to provide 40% less vertical acceleration, accompanied by an improvement in fuel economy of up to 30%, Baltic Workboats says. The wheelhouse offers nearly 360° visibility, for enhanced safety both inside the cabin and for the crew on deck. The captain has a centre position with uninterrupted views of the deck and boarding areas. All three vessels comply with Lloyd’s Register rules. Despite the powerful machinery installed on board, the boats were designed and assembled to enable them to produce extremely low levels of vibration, noise and emissions. TECHNICAL PARTICULARS
 Length, oa............................................... 23.99m
 Breadth, moulded........................................ 6.2m
 Depth, moulded......................................... 2.95m
@@ -245,8 +228,7 @@ Classification society..................Lloyd’s Register
 Notations..................100A1 SSC Patrol, Mono, HSC, G3 MCH UMS
 Other important international regulations complied with................BG Verkehr
 BREMEN: Debut Patrol 24 WP vessel, designed for smooth rides and low noise 10 Significant Small Ships of 2019
-Builder................................ Wight Shipyard Co.
-Designer..................................Chartwell Marine
+Builder................................ Wight Shipyard Co. Designer..................................Chartwell Marine
 Vessel’s name....................................Chasewell
 Owner/operator............................................TBC
 Country........................................................... UK
@@ -256,13 +238,7 @@ Total number of sister ships still on order...... N/A
 Contract date................................................. N/A
 Delivery date.................. Completed June 2019
 Hybrid vessels aren’t just limited to the coastal ferry and short-sea trades; as
-Chasewell demonstrates, this greener, leaner technology can be applied to patrol and pilot boats too, helping port and river authorities, navies and police agencies to meet increasingly strict clean air standards. This can be especially beneficial for boats that spend a lot of time loitering and idling.
-Designed by Andy Page of Chartwell, the first entry in the Chasewell class is described as a flexible hybrid-electric patrol-cum-pilot boat, with future units in the range set to span 9-18m in length. As the group couldn’t achieve the desired level of efficiency with a conventional hull form, which would have required more batteries or bigger engines, the hull was developed with a deep-V forward and an aft featuring reduced surface area for as little transom immersion as possible, for minimal drag.
-Chartwell also focused on shaving weight off the vessel wherever possible, right down to the selection of onboard toilets, Page adds. “There’s not much existing data out there on how low- speed resistance affects craft in the sub-15m range – or even in the sub-24m range, for that matter,” he told Ship & Boat International in late 2018, highlighting the innovative nature of the task in hand.
-The Chasewell is equipped with two electric motors – one per flywheel on the engine – fed by a 20kWh battery arrangement. The vessel’s electric power is replenished by overnight charging, typically using a portside power connection. Page estimates that the 20kWh battery pack would require 10 hours’ worth of charging to operate at 6-8knots for an uninterrupted period of two to three hours. In diesel mode, these engines would also help to top up the batteries.
-The Chasewell class has been developed to be fairly customisable, with a number of interior options to suit end user requirements. It was also deemed important to ensure that all equipment can be easily removed from the vessel, particularly the battery pack, and this consideration required development of an alternative to conventional engine room access hatches.
-As another benefit to boatbuilders, Page says, the Chasewell class can be manufactured and supplied as a CNC-cut structural kit.
-TECHNICAL PARTICULARS
+Chasewell demonstrates, this greener, leaner technology can be applied to patrol and pilot boats too, helping port and river authorities, navies and police agencies to meet increasingly strict clean air standards. This can be especially beneficial for boats that spend a lot of time loitering and idling. Designed by Andy Page of Chartwell, the first entry in the Chasewell class is described as a flexible hybrid-electric patrol-cum-pilot boat, with future units in the range set to span 9-18m in length. As the group couldn’t achieve the desired level of efficiency with a conventional hull form, which would have required more batteries or bigger engines, the hull was developed with a deep-V forward and an aft featuring reduced surface area for as little transom immersion as possible, for minimal drag. Chartwell also focused on shaving weight off the vessel wherever possible, right down to the selection of onboard toilets, Page adds. “There’s not much existing data out there on how low- speed resistance affects craft in the sub-15m range – or even in the sub-24m range, for that matter,” he told Ship & Boat International in late 2018, highlighting the innovative nature of the task in hand. The Chasewell is equipped with two electric motors – one per flywheel on the engine – fed by a 20kWh battery arrangement. The vessel’s electric power is replenished by overnight charging, typically using a portside power connection. Page estimates that the 20kWh battery pack would require 10 hours’ worth of charging to operate at 6-8knots for an uninterrupted period of two to three hours. In diesel mode, these engines would also help to top up the batteries. The Chasewell class has been developed to be fairly customisable, with a number of interior options to suit end user requirements. It was also deemed important to ensure that all equipment can be easily removed from the vessel, particularly the battery pack, and this consideration required development of an alternative to conventional engine room access hatches. As another benefit to boatbuilders, Page says, the Chasewell class can be manufactured and supplied as a CNC-cut structural kit. TECHNICAL PARTICULARS
 Length, oa................................................. 9.64m
 Length, hull.................................................. 8.7m
 Length, waterline......................................... 7.9m
@@ -316,16 +292,10 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order............................12 (a total of 18)
 Contract date....................................... July 2017
 Delivery date............................September 2019
-September 2019 saw the launch of the debut unit in Dockstavarvet’s new Combat Boat 90 (CB 90) HSM class, the first in an 18-strong order for the Swedish Marine Corps.
-This new class builds on the previous and iconic CB 90 H, which first hit the waves in 1989 and has proven a backbone of the Swedish
-Marine Corps since the early 1990s, with 145 units being constructed for this naval force.
-Additionally, the naval architect and builder estimates that it has supplied 80 units to overseas customers, with clients based in Greece, Norway, Malaysia and Mexico, not including CB 90 H models built overseas under licence.
-The new CB 90 HSM model was developed partly to improve the Swedish Marine Corps, capabilities and to modernise the CB90 platform with enhanced capabilities. It was decided to bolster the Swedish Marine Corps in terms of numbers and capabilities, and this strategy prompted two decisions from the Swedish
-Amphibious Corps. The first was to put several existing CB 90 H craft through a lifetime extension programme, including a complete overhaul of their hulls, waterjets, engines, electronics and onboard systems. The second was the development of the CB 90 HSM.
-The HSM designation translates from Swedish as “half platoon, protected, modernised”. This type retains the CB 90 H hull’s 20° deadrise and reinforcements for “forceful landing”, but now combines the latest versions of the Scania V8 engine and the Rolls‑Royce mixed-flow waterjet, which, Dockstavarvet says, results in increased power and propulsive efficiency. The CB 90 HSM is fitted with: Level 2 armour protection; a Saab
-Trackfire remote-controlled weapon station; and bespoke navigation and communication suites.
-Crew comfort and noise reduction were also prioritised for this new class.
-TECHNICAL PARTICULARS
+September 2019 saw the launch of the debut unit in Dockstavarvet’s new Combat Boat 90 (CB 90) HSM class, the first in an 18-strong order for the Swedish Marine Corps. This new class builds on the previous and iconic CB 90 H, which first hit the waves in 1989 and has proven a backbone of the Swedish
+Marine Corps since the early 1990s, with 145 units being constructed for this naval force. Additionally, the naval architect and builder estimates that it has supplied 80 units to overseas customers, with clients based in Greece, Norway, Malaysia and Mexico, not including CB 90 H models built overseas under licence. The new CB 90 HSM model was developed partly to improve the Swedish Marine Corps, capabilities and to modernise the CB90 platform with enhanced capabilities. It was decided to bolster the Swedish Marine Corps in terms of numbers and capabilities, and this strategy prompted two decisions from the Swedish
+Amphibious Corps. The first was to put several existing CB 90 H craft through a lifetime extension programme, including a complete overhaul of their hulls, waterjets, engines, electronics and onboard systems. The second was the development of the CB 90 HSM. The HSM designation translates from Swedish as “half platoon, protected, modernised”. This type retains the CB 90 H hull’s 20° deadrise and reinforcements for “forceful landing”, but now combines the latest versions of the Scania V8 engine and the Rolls‑Royce mixed-flow waterjet, which, Dockstavarvet says, results in increased power and propulsive efficiency. The CB 90 HSM is fitted with: Level 2 armour protection; a Saab
+Trackfire remote-controlled weapon station; and bespoke navigation and communication suites. Crew comfort and noise reduction were also prioritised for this new class. TECHNICAL PARTICULARS
 Length, oa................................................. 16.3m
 Length, bp................................................. 13.1m
 Breadth, moulded........................................ 3.8m
@@ -378,17 +348,11 @@ Contract date..........................................Q3 2016
 Delivery date..........................................Q1 2019
 February 2019 saw shipbuilder Japan Marine
 United (JMU) complete a new GustoMSC- designed jack-up, CP-8001, intended to boost
-Japan’s ambitions in growing its domestic offshore wind energy sector.
-With 30,000km of coastline at its disposal, Japan would appear to be an ideal territory for offshore wind farm development. Indeed, according to some analysts, the country could reap a potential 1,600GW of offshore wind farm power in total. In November 2018, the country’s government passed a bill permitting wind farms to operate in Japanese waters for up to 30 years and energy majors such as Tokyo Electric Power
-Company and E.ON have not been slow in sizing up this Asian market. This progress ties in well with the Japanese Government’s stated aim of decarbonising its economy by 2050.
-Hailed as the first and largest DP2-rated jack-up built in Japan for offshore wind-related projects, the self-propelled CP-8001, which incorporates
+Japan’s ambitions in growing its domestic offshore wind energy sector. With 30,000km of coastline at its disposal, Japan would appear to be an ideal territory for offshore wind farm development. Indeed, according to some analysts, the country could reap a potential 1,600GW of offshore wind farm power in total. In November 2018, the country’s government passed a bill permitting wind farms to operate in Japanese waters for up to 30 years and energy majors such as Tokyo Electric Power
+Company and E.ON have not been slow in sizing up this Asian market. This progress ties in well with the Japanese Government’s stated aim of decarbonising its economy by 2050. Hailed as the first and largest DP2-rated jack-up built in Japan for offshore wind-related projects, the self-propelled CP-8001, which incorporates
 GustoMSC’s four-legged GJ-3750C design, was tailored specifically for the requirements of its operator, Tokyo-based civil construction company
-Penta-Ocean Construction. The vessel’s construction was supervised by Japanese class society ClassNK and is reportedly the largest dynamic positioning (DP)-enhanced jack-up registered by ClassNK to date.
-The unit has been designed to install large-scale wind farm structures – for instance, 10MW-rated turbines – in water depths of up to 30m, with leg lengths of 66.7m. However, deeper waters are possible: CP-8001 can handle installations in depths of up to 50m, with leg lengths of 86m.
-GustoMSC adds: “The four legs and diagonal preloading capability allow for easy, fast and secure jacking and preloading operations, without tug assistance. From the start, especially severe earthquakes on the coast of Japan were significant for the design of the unit.”
-Following a round of sea trials and jacking trials in Japanese waters shortly after its completion, the rig was shown to be capable of a top speed of 10.3knots.
-The vessel’s onboard living quarters provide room for up to 120 persons. The GJ-3750C class also incorporates a helideck into its design, to facilitate crew changes and for emergency response.
-The rig certifies Class NK DPS-B, a DP2-rated system supported by four thrusters, to enable optimal station-keeping even in rough weather conditions. According to Jan-Mark Meeuwisse, GustoMSC commercial director: “CP-8001’s unique features allow highly efficient operations in Japanese ocean side areas with harsh wave and weather conditions, while not giving in on the welfare of the crew. The proven technology makes it most suitable for various installation works from a safe and stable self-elevating platform.”
+Penta-Ocean Construction. The vessel’s construction was supervised by Japanese class society ClassNK and is reportedly the largest dynamic positioning (DP)-enhanced jack-up registered by ClassNK to date. The unit has been designed to install large-scale wind farm structures – for instance, 10MW-rated turbines – in water depths of up to 30m, with leg lengths of 66.7m. However, deeper waters are possible: CP-8001 can handle installations in depths of up to 50m, with leg lengths of 86m. GustoMSC adds: “The four legs and diagonal preloading capability allow for easy, fast and secure jacking and preloading operations, without tug assistance. From the start, especially severe earthquakes on the coast of Japan were significant for the design of the unit.”
+Following a round of sea trials and jacking trials in Japanese waters shortly after its completion, the rig was shown to be capable of a top speed of 10.3knots. The vessel’s onboard living quarters provide room for up to 120 persons. The GJ-3750C class also incorporates a helideck into its design, to facilitate crew changes and for emergency response. The rig certifies Class NK DPS-B, a DP2-rated system supported by four thrusters, to enable optimal station-keeping even in rough weather conditions. According to Jan-Mark Meeuwisse, GustoMSC commercial director: “CP-8001’s unique features allow highly efficient operations in Japanese ocean side areas with harsh wave and weather conditions, while not giving in on the welfare of the crew. The proven technology makes it most suitable for various installation works from a safe and stable self-elevating platform.”
 TECHNICAL PARTICULARS
 Length, hull................................................... 73m
 Breadth, moulded......................................... 40m
@@ -436,17 +400,9 @@ Total number of sister ships still on order.......... 0
 Contract date.............................November 2018
 Delivery date......................................June 2019
 Christened The “Dan McGrew”, this shallow- draught, steel-hulled tug primarily commanded attention in 2019 for its lightweight and modular design. Designed by Capilano
-Maritime of North Vancouver, the 14.99gt tug was actually shipped from Washington, US-based aluminium specialist Rozema to the Yukon River, northern Canada in four module sections.
-The “Dan McGrew” is intended to work as a pusher tug and barge handler in very shallow water, with a maximum draught of just 0.86m.
-Power comes from four John Deere main engines, running through ZF gears rated for continuous duty of 232kW@2,300rpm. Four Aquamet 22 shafts, supplied by V.M. Dafoe of Vancouver, turn 660mm-diameter × 927mm-pitch five-bladed props built by Osborne Propeller Ltd. The four prop Nautican nozzles have three rudders each, with steering gear and controls supplied by
-Jastram Technologies in North Vancouver.
-Additional equipment includes a 16kW genset from Northern Lights, R.W. Fernstrum copper- nickel Gridcoolers, and aluminium doors and windows built by AJR Marine Windows in Port
-Coquitlam. Two Wintech 25H-9-12 manual winches are placed on the forward deck of the vessel, to provide a solid connection between the tug and the barges.
-The steel hull is divided into two symmetrical watertight components joined by bolting flanges running down a centreline, non- watertight void of the vessel that enable it to be disassembled into two transportable pieces.
-The aluminium deckhouse contains a settee/ galley, head and two cabins for three crew members. The head is outfitted with a sink and an electric incinerating toilet, which removed the requirement for a black water system. The deckhouse, meanwhile, is bolted to the deck on raised isolation pedestals and can be readily lifted off. The aluminium wheelhouse is positioned on the deckhouse to give the operator an unobstructed view of the forward tug deck and a high line of sight, unimpeded by the barges’ cargo during operations. The wheelhouse detaches as a separate module for transport; in total, the vessel comprises six truckable modules (two hull modules, a deckhouse module, a wheelhouse module and two exhaust modules). All hull and superstructure modules are fitted with lifting lugs to accommodate loading and unloading of the vessel modules for transportation to a desired work site.
-The vessel is designed to be fully assembled at a remote site on two flatbed trailers with limited resources and cranage in less then 36 hours.
-Once assembled, the vessel can be launched directly off the flatbed trailers with the use of a rudimentary boat launch.
-TECHNICAL PARTICULARS
+Maritime of North Vancouver, the 14.99gt tug was actually shipped from Washington, US-based aluminium specialist Rozema to the Yukon River, northern Canada in four module sections. The “Dan McGrew” is intended to work as a pusher tug and barge handler in very shallow water, with a maximum draught of just 0.86m. Power comes from four John Deere main engines, running through ZF gears rated for continuous duty of 232kW@2,300rpm. Four Aquamet 22 shafts, supplied by V.M. Dafoe of Vancouver, turn 660mm-diameter × 927mm-pitch five-bladed props built by Osborne Propeller Ltd. The four prop Nautican nozzles have three rudders each, with steering gear and controls supplied by
+Jastram Technologies in North Vancouver. Additional equipment includes a 16kW genset from Northern Lights, R.W. Fernstrum copper- nickel Gridcoolers, and aluminium doors and windows built by AJR Marine Windows in Port
+Coquitlam. Two Wintech 25H-9-12 manual winches are placed on the forward deck of the vessel, to provide a solid connection between the tug and the barges. The steel hull is divided into two symmetrical watertight components joined by bolting flanges running down a centreline, non- watertight void of the vessel that enable it to be disassembled into two transportable pieces. The aluminium deckhouse contains a settee/ galley, head and two cabins for three crew members. The head is outfitted with a sink and an electric incinerating toilet, which removed the requirement for a black water system. The deckhouse, meanwhile, is bolted to the deck on raised isolation pedestals and can be readily lifted off. The aluminium wheelhouse is positioned on the deckhouse to give the operator an unobstructed view of the forward tug deck and a high line of sight, unimpeded by the barges’ cargo during operations. The wheelhouse detaches as a separate module for transport; in total, the vessel comprises six truckable modules (two hull modules, a deckhouse module, a wheelhouse module and two exhaust modules). All hull and superstructure modules are fitted with lifting lugs to accommodate loading and unloading of the vessel modules for transportation to a desired work site. The vessel is designed to be fully assembled at a remote site on two flatbed trailers with limited resources and cranage in less then 36 hours. Once assembled, the vessel can be launched directly off the flatbed trailers with the use of a rudimentary boat launch. TECHNICAL PARTICULARS
 Length, oa............................................... 11.99m
 Length, bp............................................... 11.99m
 Breadth, moulded...................................... 8.48m
@@ -511,13 +467,7 @@ Total number of sister ships still on order.....................................
 Contract date......................................June 2015
 Delivery date....................................... July 2019
 Funded by the EU Horizon 2020 project, the ‘E-ferry’ Ellen constitutes the prototype of a next-generation, pure-electric passenger and vehicle ferry. In operation since August 2019, transporting passengers between the island of Ærø, in the south of Denmark, and mainland
-Denmark, calling at the ports of Søby and Fynshav.
-As with most standard car/passenger ferries of her type in the area, Ellen can carry 31 cars or five trucks, and between 146-199 passengers.
-Her most significant feature, however, is the fact that she is fully electric and can cover a range of 22nm between charges. To accomplish this feat, Ellen was designed to be extremely energy- efficient; at a speed of around 13knots, she uses around 1,700kWh to cover this 22nm route, naval architect Jens Kristensen explains.
-To accommodate a battery capacity of 4.3MWh, weighing in at around 60tonnes, weight-saving measures were implemented wherever possible, in terms of design and with respect to the various components and systems themselves. The two main engines, for instance, are electrical permanent magnet motors with an output of 700- 750kW apiece, each weighing 950kg. Similarly, the charging system, which delivers up to 4.4MW of power, is DC-based, with heavy transformers converting the shore AC power to DC on land, rather than aboard the ship.
-Everything aboard Ellen is electric, including the lifting arrangements for the bow visor and winches, as well as the generation of emergency power. The E-ferry incorporates a fully redundant power management system, with the ship virtually split into two independent sides. This consists of two independent battery rooms, each supplying one main engine.
-On shore, the charging system is also a first of its kind. Charging is conducted using a large male plug, connecting four independent charging lines to the ship’s female plug, each line supplying the ship with 1MW. The charging arm is placed on the vessel’s ramp, to accommodate changes in conditions caused by loading/offloading or tides.
-TECHNICAL PARTICULARS
+Denmark, calling at the ports of Søby and Fynshav. As with most standard car/passenger ferries of her type in the area, Ellen can carry 31 cars or five trucks, and between 146-199 passengers. Her most significant feature, however, is the fact that she is fully electric and can cover a range of 22nm between charges. To accomplish this feat, Ellen was designed to be extremely energy- efficient; at a speed of around 13knots, she uses around 1,700kWh to cover this 22nm route, naval architect Jens Kristensen explains. To accommodate a battery capacity of 4.3MWh, weighing in at around 60tonnes, weight-saving measures were implemented wherever possible, in terms of design and with respect to the various components and systems themselves. The two main engines, for instance, are electrical permanent magnet motors with an output of 700- 750kW apiece, each weighing 950kg. Similarly, the charging system, which delivers up to 4.4MW of power, is DC-based, with heavy transformers converting the shore AC power to DC on land, rather than aboard the ship. Everything aboard Ellen is electric, including the lifting arrangements for the bow visor and winches, as well as the generation of emergency power. The E-ferry incorporates a fully redundant power management system, with the ship virtually split into two independent sides. This consists of two independent battery rooms, each supplying one main engine. On shore, the charging system is also a first of its kind. Charging is conducted using a large male plug, connecting four independent charging lines to the ship’s female plug, each line supplying the ship with 1MW. The charging arm is placed on the vessel’s ramp, to accommodate changes in conditions caused by loading/offloading or tides. TECHNICAL PARTICULARS
 Length, oa................................................. 59.4m
 Length, bp.................................................... 57m
 Breadth, moulded...................................... 12.8m
@@ -594,29 +544,19 @@ Notations..........1A1 Car ferry B, Battery(Power), E0, Ice(C), PWDK R3
 Other important international regulations complied with.... DMA Notice D, RO
 Directive 2009/15/EC, RO Regulation (EC) 391/2009, SOLAS Chapter II-2, IMO MSC.1/Circ. 1455
 ELLEN: Prototype E-ferry, developed for 100% electric operations 26 Significant Small Ships of 2019
-Builder.......................Oshima Shipbuilding Co.
-Designer....................Oshima Shipbuilding Co.
-Vessel’s name.....................................e-Oshima
+Builder.......................Oshima Shipbuilding Co. Designer....................Oshima Shipbuilding Co. Vessel’s name.....................................e-Oshima
 Owner/operator........................Oshima Sougou
-Service Co.
-Country......................................................Japan
+Service Co. Country......................................................Japan
 Flag...........................................................Japan
 Total number of sister ships already completed........................................... 0
 Total number of sister ships still on order.......... 0
 Contract date.................................Not specified
 Delivery date......................................June 2019
-The title of ‘Japan’s first all-battery-powered vessel’ may have been snapped up by e-Oshima, a double-ended ro-pax ferry completed by Oshima Shipbuilding in Nagasaki – a builder that typically specialises in the construction of bulk carriers and steel marine/offshore structures.
-The 35m × 10m ferry has the capacity for 50 passengers and eight passenger cars, or four passenger cars and a bus. She has a depth of 3.8m, draws approximately 2m and will be used primarily to transport visitors to and from
-Oshima’s yard and the opposite shore. e-Oshima has been fitted with a 590.5kWh lithium-ion battery pack, supplied by Japanese manufacturer GS Yuasa Corporation. As well as fuelling the ferry’s propulsion, this battery energy will basically power everything on board, including all wireless, navcoms, lighting and HVAC systems.
-GS Yuasa would appear to have good pedigree in this regard: the company’s battery applications have previously been incorporated aboard deep-seagoing submarines, the Boeing 787 Dreamliner and even the International
+The title of ‘Japan’s first all-battery-powered vessel’ may have been snapped up by e-Oshima, a double-ended ro-pax ferry completed by Oshima Shipbuilding in Nagasaki – a builder that typically specialises in the construction of bulk carriers and steel marine/offshore structures. The 35m × 10m ferry has the capacity for 50 passengers and eight passenger cars, or four passenger cars and a bus. She has a depth of 3.8m, draws approximately 2m and will be used primarily to transport visitors to and from
+Oshima’s yard and the opposite shore. e-Oshima has been fitted with a 590.5kWh lithium-ion battery pack, supplied by Japanese manufacturer GS Yuasa Corporation. As well as fuelling the ferry’s propulsion, this battery energy will basically power everything on board, including all wireless, navcoms, lighting and HVAC systems. GS Yuasa would appear to have good pedigree in this regard: the company’s battery applications have previously been incorporated aboard deep-seagoing submarines, the Boeing 787 Dreamliner and even the International
 Space Station. The batteries deployed aboard the ferry are drawn from the company’s
-LIM50EN-12 range, which are specially formulated for high-energy industrial systems, and comprise 3,360 battery cells in total.
-The manufacturer adds: “e-Oshima can be charged in around 2.5 hours, and the battery system includes management equipment that provides multiple layers of redundant protection for the batteries.” This arrangement grants the ferry a top speed of 10knots.
-Oshima also worked with MHI Marine
-Engineering to develop the ferry’s automatic navigation system, which can grant her crew a break while keeping ‘human-free’ tabs on course-keeping and speed control. The system is also designed to ‘watch out’ for collisions and groundings.
-The main propulsion system includes two sets of azimuth thrusters driven by electric motors adopted for propulsion, berthing and unberthing.
-Electric power is enough for several crossings and all power demands of the ferry.
-TECHNICAL PARTICULARS
+LIM50EN-12 range, which are specially formulated for high-energy industrial systems, and comprise 3,360 battery cells in total. The manufacturer adds: “e-Oshima can be charged in around 2.5 hours, and the battery system includes management equipment that provides multiple layers of redundant protection for the batteries.” This arrangement grants the ferry a top speed of 10knots. Oshima also worked with MHI Marine
+Engineering to develop the ferry’s automatic navigation system, which can grant her crew a break while keeping ‘human-free’ tabs on course-keeping and speed control. The system is also designed to ‘watch out’ for collisions and groundings. The main propulsion system includes two sets of azimuth thrusters driven by electric motors adopted for propulsion, berthing and unberthing. Electric power is enough for several crossings and all power demands of the ferry. TECHNICAL PARTICULARS
 Length, oa.....................................35m (approx.)
 Length, bp.................................................... 29m
 Breadth, moulded........................................ 9.6m
@@ -637,13 +577,11 @@ Fixed/controllable pitch...........................Fixed
 Open/nozzled..................................... Nozzled
 Winches
 Number of winches....................................... 2
-Make...................................Kyoritsu Kikai Co.
-Model........................................... WN-151056
+Make...................................Kyoritsu Kikai Co. Model........................................... WN-151056
 Capacities......................2.5tonnes × 14m/min
 Capstans
 Number of capstans...................................... 4
-Make................................ Nippon Pusnes Co.
-Capacities....................24.5tonnes × 15m/min
+Make................................ Nippon Pusnes Co. Capacities....................24.5tonnes × 15m/min
 Bridge electronics
 Radar(s)...............................................Furuno
 Autopilot........................................Tokyo Keiki
@@ -669,27 +607,17 @@ DC grid system;
 Automatic ship navigation system
 Classification...................Japanese Government
 E-OSHIMA: Japan’s first all-battery- powered vessel 30 Significant Small Ships of 2019
-Builder..................... Hongawara Ship Yard Co.
-Designer.................. Hongawara Ship Yard Co.
-Vessel’s name..................... Etsuzan Maru No.8
-Owner/operator.............Yamane Shipping Co. / Y.S. Marine Co.
-Country......................................................Japan
+Builder..................... Hongawara Ship Yard Co. Designer.................. Hongawara Ship Yard Co. Vessel’s name..................... Etsuzan Maru No.8
+Owner/operator.............Yamane Shipping Co. / Y.S. Marine Co. Country......................................................Japan
 Flag...........................................................Japan
 Total number of sister ships already completed........................................... 0
 Total number of sister ships still on order.......... 0
 Contract date...............................February 2018
 Delivery date....................................... May 2019
 It’s rare we feature chemical tankers in
-Significant Small Ships, but at a relatively modest 65m in length, Etsuzan Maru No. 8 makes it in by virtue of being the first vessel to adapt a new design patented as a suitable structure for tankers carrying heavy liquids with high specific gravity.
-The ship was planned as a substitute for
-Etsuzan Maru No. 7, the intention being to build a more robust ship capable of handling stormy weather in the Sea of Japan. Initially, it was determined that, in order to meet the stability standard, larger tonnage than conventional chemical tankers, or smaller loads, would be required. Hongawara Ship Yard therefore attempted to mitigate ‘swaying’ of the liquid cargo by reducing the free surface of the liquid, since it found the larger free surface of the liquid with high specific gravity resulted in worse stability.
-With a conventional rectangular tank shape, even when 95% liquid cargo was loaded, the area of the free surface remained large and the centre of gravity rose. However, a sloped topside tank installed above the cargo tank in the cross-section of the proposed tanker type suppressed the rise of gravity of the liquid cargo, and free surface area was minimised when 95% cargo was loaded, for greatly improved stability. By doing this, the chemical tanker met the stability standard without changing the principal dimensions, tonnage, loading capacity, etc. In addition, Hongawara
-Ship Yard also expects reduced damage to the tank’s inner wall due to suppression of the liquid’s swaying motions.
-The operability and safety of the mooring ship have also been improved by the variable pitch-type bow thruster device and rudder, which enable parallel departure and arrival.
-Propulsion efficiency was improved by adopting Nakashima Propeller Co’s energy- saving promotion system, NIPS.
-Furthermore, the amount of power consumption inside the ship was reduced by adopting LED lights for all lighting in residential areas, aisles and engine rooms.
-Onboard LAN and WiFi, meanwhile, grant the crew easy access to the internet.
-TECHNICAL PARTICULARS
+Significant Small Ships, but at a relatively modest 65m in length, Etsuzan Maru No. 8 makes it in by virtue of being the first vessel to adapt a new design patented as a suitable structure for tankers carrying heavy liquids with high specific gravity. The ship was planned as a substitute for
+Etsuzan Maru No. 7, the intention being to build a more robust ship capable of handling stormy weather in the Sea of Japan. Initially, it was determined that, in order to meet the stability standard, larger tonnage than conventional chemical tankers, or smaller loads, would be required. Hongawara Ship Yard therefore attempted to mitigate ‘swaying’ of the liquid cargo by reducing the free surface of the liquid, since it found the larger free surface of the liquid with high specific gravity resulted in worse stability. With a conventional rectangular tank shape, even when 95% liquid cargo was loaded, the area of the free surface remained large and the centre of gravity rose. However, a sloped topside tank installed above the cargo tank in the cross-section of the proposed tanker type suppressed the rise of gravity of the liquid cargo, and free surface area was minimised when 95% cargo was loaded, for greatly improved stability. By doing this, the chemical tanker met the stability standard without changing the principal dimensions, tonnage, loading capacity, etc. In addition, Hongawara
+Ship Yard also expects reduced damage to the tank’s inner wall due to suppression of the liquid’s swaying motions. The operability and safety of the mooring ship have also been improved by the variable pitch-type bow thruster device and rudder, which enable parallel departure and arrival. Propulsion efficiency was improved by adopting Nakashima Propeller Co’s energy- saving promotion system, NIPS. Furthermore, the amount of power consumption inside the ship was reduced by adopting LED lights for all lighting in residential areas, aisles and engine rooms. Onboard LAN and WiFi, meanwhile, grant the crew easy access to the internet. TECHNICAL PARTICULARS
 Length, oa............................................... 64.97m
 Length, bp.................................................... 61m
 Breadth, moulded.................................... 10.95m
@@ -715,8 +643,7 @@ Model................................................ YX-1000
 Output speed......................................241min-1
 Propeller(s)
 Number of propellers..................................... 1
-Make....................... Nakashima Propeller Co.
-Model...................................................NHV55
+Make....................... Nakashima Propeller Co. Model...................................................NHV55
 Diameter........................................... 2,400mm
 Material................................................. NiAlBr
 Number of blades.......................................... 4
@@ -724,8 +651,7 @@ Fixed/controllable pitch...........................Fixed
 Open/nozzled..........................................Open
 Winch(es)
 Number of winches................................2 sets
-Make........................... Masada Ironworks Co.
-Model.......................MOW-F Type (windlass);
+Make........................... Masada Ironworks Co. Model.......................MOW-F Type (windlass);
 MOK-H3 Type (winch)
 Capacities........................5tonnes × 12m/min, 2.5tonnes × 24m/min (windlass); 3tonnes × 15m/min, 1.5tonnes × 30m/min (winch)
 Other deck machinery/equipment
@@ -733,8 +659,7 @@ Thruster.......................Kamome Propeller Co. (TCB-35MA)
 Cargo pump............... Sanko Engineering Co. (NPH-200SL304)
 Bridge electronics
 Radar(s)...............................................Furuno
-Autopilot.................................Tokyo Keiki Inc.
-GMDSS................................................Furuno
+Autopilot.................................Tokyo Keiki Inc. GMDSS................................................Furuno
 GPS......................................................Furuno
 Engine monitoring system...................Yanmar
 Fire detection system..................Nohmi Bosai
@@ -765,12 +690,10 @@ Total number of sister ships still on order.....................................
 Contract date............................................... 2018
 Delivery date....................................March 2019
 E-TWO was built to the specs of Damen’s ASD
-Tug 2811, the next-generation version of the company’s ASD Tug 2810 design. Based on that format, the ASD Tug 2811 features enhanced power and manoeuvrability, suiting it to high- power applications, such as assisting with the berthing and unberthing of large vessels in major ports and/or restricted waterways.
-The ASD Tug 2811 has also been brought up to the latest standards: for instance, E-TWO is laid out to comply with the new stability regulations, initiated as Harmonised Class rules and enforced by IMO for adaptation in January 2020. These ensure that the potentially opposing trends of increased power and compactness in modern ship-handling tugs are reconciled to ensure maximum safety in operations. This tug class also incorporates a modular marine NOx reduction system and the Damen Digital Platform, the latter of which is designed to share operational data in real time with shore support, enabling fleet managers to anticipate and deal with everyday challenges in planning and maintenance. Damen explains: “This has direct benefits in increasing the effectiveness of the vessels through delivering peak efficiency and minimal downtime.”
+Tug 2811, the next-generation version of the company’s ASD Tug 2810 design. Based on that format, the ASD Tug 2811 features enhanced power and manoeuvrability, suiting it to high- power applications, such as assisting with the berthing and unberthing of large vessels in major ports and/or restricted waterways. The ASD Tug 2811 has also been brought up to the latest standards: for instance, E-TWO is laid out to comply with the new stability regulations, initiated as Harmonised Class rules and enforced by IMO for adaptation in January 2020. These ensure that the potentially opposing trends of increased power and compactness in modern ship-handling tugs are reconciled to ensure maximum safety in operations. This tug class also incorporates a modular marine NOx reduction system and the Damen Digital Platform, the latter of which is designed to share operational data in real time with shore support, enabling fleet managers to anticipate and deal with everyday challenges in planning and maintenance. Damen explains: “This has direct benefits in increasing the effectiveness of the vessels through delivering peak efficiency and minimal downtime.”
 E-TWO was delivered to EMAR Offshore
 Services of the Netherlands in March 2019, and comes fitted with an additional firefighting system, aft winch and hydraulic crane. These features are expected to assist EMAR in extending its presence in Africa, by enabling the vessel to take on a wide variety of roles. Her first project saw her head for
-China, where she towed a new 75m × 25m flat-top barge to the Middle East, for use on marine construction projects.
-TECHNICAL PARTICULARS
+China, where she towed a new 75m × 25m flat-top barge to the Middle East, for use on marine construction projects. TECHNICAL PARTICULARS
 Length, oa............................................... 28.58m
 Breadth, oa.............................................. 11.43m
 Depth at sides............................................. 4.6m
@@ -860,15 +783,9 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order.......... 0
 Contract date............................................... 2018
 Delivery date.................................January 2019
-Albatross Marine Design’s (AMD’s) F180EC1 design was produced by Sakun C.
-Innovation, a Thai company perhaps better known for its work in the automotive industry, and was primarily designed to function as a river shuttle on Bangkok’s famous Chao Phraya
+Albatross Marine Design’s (AMD’s) F180EC1 design was produced by Sakun C. Innovation, a Thai company perhaps better known for its work in the automotive industry, and was primarily designed to function as a river shuttle on Bangkok’s famous Chao Phraya
 River, taking in a journey between the northern
-Phra Pinklao pier in the historic Khao San district all the way down to the southern transport hub of Sathorn Pier.
-Quick construction turnaround times were the goal here; as AMD explains: “Due to special extrusions and pressed panels designed for this project, the boat can be built in short times, taking less than one month to construct the hull.” The rise of robotics as a time-saving welding methodology has also played a key role in reducing turnaround times.
-As AMD recounts: “One challenging task for the design of this boat was related to transportation – the boats should be transportable by road, including transport under pedestrian bridges, as the production facility is ‘off water’.” As a result, vessel length, breadth and height had to be limited. One crucial limitation was related to vessel air draight, requiring a clearance of 4.5m to guarantee safe passage under bridges.
-The engine rooms are located in the demihulls, accessible via flush hatches from the passenger saloon and the aft deck. Installation hatches bolted to the deck have been provided to facilitate engine maintenance and/or removal. The demihulls are of semi-planing catamaran type, with canoe sterns and platforms, optimised for a cruising speed of 10-15knots with a relatively high payload.
-The pilothouse was bolted on top of the roof, and all railings and benches on the upper deck were designed to be easily removable. From a design point of view, AMD also used its extensive experience in catamaran design and followed international safety standards such as the IMO HSC Code. “Water transport safety is not well established in Thailand, but these boats are probably the safest passenger transport on the river,” AMD says. Special attention was also paid to ensuring that the vessels in this series are safeguarded against passenger overloading, which has become a standard feature for AMD newbuilds created for Asian operations.
-TECHNICAL PARTICULARS
+Phra Pinklao pier in the historic Khao San district all the way down to the southern transport hub of Sathorn Pier. Quick construction turnaround times were the goal here; as AMD explains: “Due to special extrusions and pressed panels designed for this project, the boat can be built in short times, taking less than one month to construct the hull.” The rise of robotics as a time-saving welding methodology has also played a key role in reducing turnaround times. As AMD recounts: “One challenging task for the design of this boat was related to transportation – the boats should be transportable by road, including transport under pedestrian bridges, as the production facility is ‘off water’.” As a result, vessel length, breadth and height had to be limited. One crucial limitation was related to vessel air draight, requiring a clearance of 4.5m to guarantee safe passage under bridges. The engine rooms are located in the demihulls, accessible via flush hatches from the passenger saloon and the aft deck. Installation hatches bolted to the deck have been provided to facilitate engine maintenance and/or removal. The demihulls are of semi-planing catamaran type, with canoe sterns and platforms, optimised for a cruising speed of 10-15knots with a relatively high payload. The pilothouse was bolted on top of the roof, and all railings and benches on the upper deck were designed to be easily removable. From a design point of view, AMD also used its extensive experience in catamaran design and followed international safety standards such as the IMO HSC Code. “Water transport safety is not well established in Thailand, but these boats are probably the safest passenger transport on the river,” AMD says. Special attention was also paid to ensuring that the vessels in this series are safeguarded against passenger overloading, which has become a standard feature for AMD newbuilds created for Asian operations. TECHNICAL PARTICULARS
 Length, oa............................................... 18.15m
 Length, bp.................................................... 18m
 Breadth, moulded...................................... 6.38m
@@ -918,18 +835,10 @@ Flag..........................................................Turkey
 Total number of sister ships already completed........................................... 0
 Total number of sister ships still on order.......... 4
 Contract date....................................March 2018
-Delivery date.................................October 2019 2019 saw Turkey launch what has been billed as the world’s first all-electric tug, reliant solely on battery power for bollard pull.
-The Navtek-designed Zero Emissions Electric
-Tug (ZeeTug) deploys a fully electric, battery- powered propulsion system, and is designed for operations in tight spaces and restricted waters.
-The completed ZeeTug will mainly operate inside the Port of Istanbul, under the operation of GİSAŞ Shipbuilding Industry Co, which provides port services within this zone. The newbuild will also be able to conduct emissions- free tasks in the Marmara Sea. GİSAŞ intends to replace four of its existing tugs with eco-friendly, all-electric alternatives as part of a wider commitment to reducing emissions in Tuzla’s shipbuilding/ports zone.
-As well as slashing emissions, Navtek estimates that oscillations at low loads can be eliminated by up to 50%.
-As part of the ZeeTug’s R&D, power requirement data for 21 different manoeuvring options was collected from real tugs, and net power measurements were made on the shaft. Corvus
-Energy supplied the vessel with two battery packs and a Corvus Orca energy storage system (ESS), the latter featuring a total energy storage capacity of 1,484kWh. This feeds two 968kWe Siemens propulsion motors turning fixed-pitch propellers.
-ABB provided the DC/DC inverter/converters and drive system.
-For back-up, the ZeeTug relies on a 100kW genset, providing sufficient power for the tug to return to shore in the event of an electrical system failure, or should the vessel need to undertake firefighting operations. The batteries can typically be recharged overnight: one charging per day, via a shore-side connection or the specially developed
-Quick Charge Station (QCS), will meet the tug’s operational needs. “The ZeeTug’s batteries can be fully charged in an hour and 15 minutes through the QCS, but can also be charged through the shore connection and/or genset, though this will take longer,” says Navtek.
-The ZeeTug isn’t just good for the environment: it could also benefit the bottom line. Navtek claims that an electric tugboat incurs just 15% of the operating cost associated with a diesel tug of this size. Consequently, GİSAŞ hopes to anticipate savings of US$350,000 per tug if it goes ahead with its plans to replace the diesel-powered models in its fleet.
-TECHNICAL PARTICULARS
+Delivery date.................................October 2019 2019 saw Turkey launch what has been billed as the world’s first all-electric tug, reliant solely on battery power for bollard pull. The Navtek-designed Zero Emissions Electric
+Tug (ZeeTug) deploys a fully electric, battery- powered propulsion system, and is designed for operations in tight spaces and restricted waters. The completed ZeeTug will mainly operate inside the Port of Istanbul, under the operation of GİSAŞ Shipbuilding Industry Co, which provides port services within this zone. The newbuild will also be able to conduct emissions- free tasks in the Marmara Sea. GİSAŞ intends to replace four of its existing tugs with eco-friendly, all-electric alternatives as part of a wider commitment to reducing emissions in Tuzla’s shipbuilding/ports zone. As well as slashing emissions, Navtek estimates that oscillations at low loads can be eliminated by up to 50%. As part of the ZeeTug’s R&D, power requirement data for 21 different manoeuvring options was collected from real tugs, and net power measurements were made on the shaft. Corvus
+Energy supplied the vessel with two battery packs and a Corvus Orca energy storage system (ESS), the latter featuring a total energy storage capacity of 1,484kWh. This feeds two 968kWe Siemens propulsion motors turning fixed-pitch propellers. ABB provided the DC/DC inverter/converters and drive system. For back-up, the ZeeTug relies on a 100kW genset, providing sufficient power for the tug to return to shore in the event of an electrical system failure, or should the vessel need to undertake firefighting operations. The batteries can typically be recharged overnight: one charging per day, via a shore-side connection or the specially developed
+Quick Charge Station (QCS), will meet the tug’s operational needs. “The ZeeTug’s batteries can be fully charged in an hour and 15 minutes through the QCS, but can also be charged through the shore connection and/or genset, though this will take longer,” says Navtek. The ZeeTug isn’t just good for the environment: it could also benefit the bottom line. Navtek claims that an electric tugboat incurs just 15% of the operating cost associated with a diesel tug of this size. Consequently, GİSAŞ hopes to anticipate savings of US$350,000 per tug if it goes ahead with its plans to replace the diesel-powered models in its fleet. TECHNICAL PARTICULARS
 Length, oa................................................. 18.7m
 Length, bp................................................. 16.7m
 Breadth, moulded........................................ 6.7m
@@ -984,8 +893,7 @@ Number of cabins.......................................... 2
 Classification society......................... Türk Loydu
 Notations................X1A5 K50 TugXM Li-Battery
 GİSAŞ POWER: All-electric tug makes a compelling case for reduced op-ex 40 Significant Small Ships of 2019
-Builder...............................................CRIST S.A.
-Designer............................CRIST S.A. / StoGda
+Builder...............................................CRIST S.A. Designer............................CRIST S.A. / StoGda
 Vessel’s name...................................... Herjólfur
 Owner/operator................................Vegagerðin
 Country....................................................Iceland
@@ -997,11 +905,8 @@ Delivery date......................................June 2019
 Herjólfur is a passenger-car ferry featuring a hybrid propulsion system, delivered in
 June 2019 to Vegagerðin – also known as the
 Icelandic Road Transport Authority. The vessel is tasked with handling demanding courses between the islands of the Westman archipelago in Iceland, 9km from the coast of southern
-Iceland – specifically, serving the route between Landeyjahöfn and Vestmannaeyjar.
-The travel time on this route will be only 20 minutes, a sail made possible by the ferry’s high levels of manoeuvrability and its efficient drive system, says CRIST. “[Its] modern design… allows it to operate in very difficult marine conditions – the southern waters of Iceland are dominated by long ocean waves and short local waves caused by the wind,” the builder and designer continues. “In winter, weather conditions include low temperatures and heavy rains; however, they do not pose a challenge for the ferry.”
-Herjólfur has been designed for operation by a crew of 10, and can accommodate up to 390 passengers in winter and up to 540 passengers during summer sailings, this difference being accredited to passenger access to the vessel’s main outside terrace. Onboard facilities include a cafeteria, a children’s play area, a galley and provision rooms. An open deck with benches and tables is arranged on decks 4 and 5.
-The ferry has been arranged with one main engine room, a single electric drive room, a single pump room and a separate main thruster room. The engine arrangement comprises a trio of non-reversible, 4-stroke single-acting turbocharged inter-cooled high-speed MTU models. The vessel’s cargo spaces were arranged in the port side, while the ro-ro cargo area has been divided vertically, into two sections; the first, a portside fixed deck for trucks, buses and cars; and two decks (one fixed, one a hoistable mezzanine deck) for cars, located starboard.
-TECHNICAL PARTICULARS
+Iceland – specifically, serving the route between Landeyjahöfn and Vestmannaeyjar. The travel time on this route will be only 20 minutes, a sail made possible by the ferry’s high levels of manoeuvrability and its efficient drive system, says CRIST. “[Its] modern design… allows it to operate in very difficult marine conditions – the southern waters of Iceland are dominated by long ocean waves and short local waves caused by the wind,” the builder and designer continues. “In winter, weather conditions include low temperatures and heavy rains; however, they do not pose a challenge for the ferry.”
+Herjólfur has been designed for operation by a crew of 10, and can accommodate up to 390 passengers in winter and up to 540 passengers during summer sailings, this difference being accredited to passenger access to the vessel’s main outside terrace. Onboard facilities include a cafeteria, a children’s play area, a galley and provision rooms. An open deck with benches and tables is arranged on decks 4 and 5. The ferry has been arranged with one main engine room, a single electric drive room, a single pump room and a separate main thruster room. The engine arrangement comprises a trio of non-reversible, 4-stroke single-acting turbocharged inter-cooled high-speed MTU models. The vessel’s cargo spaces were arranged in the port side, while the ro-ro cargo area has been divided vertically, into two sections; the first, a portside fixed deck for trucks, buses and cars; and two decks (one fixed, one a hoistable mezzanine deck) for cars, located starboard. TECHNICAL PARTICULARS
 Length, oa............................................... 71.78m
 Length, bp................................................. 65.6m
 Breadth, moulded...................................... 15.1m
@@ -1041,8 +946,7 @@ Complement
 Number of crew........................................... 10
 Number of passengers....................... 540/390
 Number of cabins.......................................... 8
-Vehicles...............................................................
-Number of vehicle decks............................... 1
+Vehicles............................................................... Number of vehicle decks............................... 1
 Total lane length.................................. 339.8m
 Classification society..............................DNV GL
 Notations............................DNV 1A1 Car Ferry
@@ -1058,16 +962,9 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order.......... 0
 Contract date............................................... 2016
 Delivery date...................................... April 2019
-Incat Crowther’s new Shadow Cat series of customisable twin-hulled, aluminium yachts would appear to be an ideal fit for owners with an abundance of tenders and toys. Featuring a hullform largely inspired by those of Incat’s previous Seacor CrewZer and Fast Crew Boat (FCB) lines, this new class has been developed to offer “incredible amounts of deck and storage space”, the designer states.
-While her interior spaces are intended to offer the levels of comfort you’d expect from a private yacht, there’s a utilitarian streak to this class, whose design appears to be a hybrid of the recreational and commercial – and perhaps reminiscent of some of the larger OSVs, albeit swapping turbine- and platform-related cargoes for tenders, daughter craft and mini-land vehicles.
-The catamaran hullform was selected for two key reasons: the first being its ability to offer a high degree of “inherent stability”, thus reducing the need to purchase and fit additional gyro or roll stabilisers. Secondly, the designer says, the catamaran platform can lead to fuel savings in the region of 40%, effectively enabling the vessel to operate at her full range with 160,000litres of diesel fuel.
-The first-in-class HODOR offers roughly 325m2 of space on the main deck and 250m2 of space on the upper deck. Her deck area can accommodate five tenders of varying lengths, ranging from 7m to 17m, as well as jet skis and quad bikes, a dedicated submarine garage, a helipad (strengthened to handle 6tonnes) and crew support equipment. However, for future
-Shadow Cats, each vessel’s deck layout can be tailored to the owner’s requirements.
-The tenders and submarine can be launched from the upper and main decks. To support these launches, the upper deck features two knuckle boom cranes, while the main deck has a pair of beam cranes. A lifting platform is incorporated into the aft, enabling the launch of a 17m chase boat, while a portable davit on the fore deck can be used for additional jet ski storage, or to launch the vessel’s ROV. Two stern platforms provide an additional means of water access.
-HODOR’s interior features include a hospital/ treatment zone and dedicated spaces for fresh and frozen food storage. The vessel is also equipped with a twin anchoring system, specified with the aim of further reducing motions when she is at anchor. Vessel pitching motions are reduced by twin Humphree active interceptors on the stern.
-The cat is powered by two MTU engines fitted with selective catalytic reduction (SCR) technology, making them compliant with IMO
-Tier III and EPA Tier 4 emission requirements.
-TECHNICAL PARTICULARS
+Incat Crowther’s new Shadow Cat series of customisable twin-hulled, aluminium yachts would appear to be an ideal fit for owners with an abundance of tenders and toys. Featuring a hullform largely inspired by those of Incat’s previous Seacor CrewZer and Fast Crew Boat (FCB) lines, this new class has been developed to offer “incredible amounts of deck and storage space”, the designer states. While her interior spaces are intended to offer the levels of comfort you’d expect from a private yacht, there’s a utilitarian streak to this class, whose design appears to be a hybrid of the recreational and commercial – and perhaps reminiscent of some of the larger OSVs, albeit swapping turbine- and platform-related cargoes for tenders, daughter craft and mini-land vehicles. The catamaran hullform was selected for two key reasons: the first being its ability to offer a high degree of “inherent stability”, thus reducing the need to purchase and fit additional gyro or roll stabilisers. Secondly, the designer says, the catamaran platform can lead to fuel savings in the region of 40%, effectively enabling the vessel to operate at her full range with 160,000litres of diesel fuel. The first-in-class HODOR offers roughly 325m2 of space on the main deck and 250m2 of space on the upper deck. Her deck area can accommodate five tenders of varying lengths, ranging from 7m to 17m, as well as jet skis and quad bikes, a dedicated submarine garage, a helipad (strengthened to handle 6tonnes) and crew support equipment. However, for future
+Shadow Cats, each vessel’s deck layout can be tailored to the owner’s requirements. The tenders and submarine can be launched from the upper and main decks. To support these launches, the upper deck features two knuckle boom cranes, while the main deck has a pair of beam cranes. A lifting platform is incorporated into the aft, enabling the launch of a 17m chase boat, while a portable davit on the fore deck can be used for additional jet ski storage, or to launch the vessel’s ROV. Two stern platforms provide an additional means of water access. HODOR’s interior features include a hospital/ treatment zone and dedicated spaces for fresh and frozen food storage. The vessel is also equipped with a twin anchoring system, specified with the aim of further reducing motions when she is at anchor. Vessel pitching motions are reduced by twin Humphree active interceptors on the stern. The cat is powered by two MTU engines fitted with selective catalytic reduction (SCR) technology, making them compliant with IMO
+Tier III and EPA Tier 4 emission requirements. TECHNICAL PARTICULARS
 Length, oa................................................. 66.2m
 Length, bp................................................. 64.8m
 Breadth, moulded......................................... 14m
@@ -1124,9 +1021,7 @@ Classification society..................Lloyd’s Register
 Notations.........X100AI SSC Support Catamaran
 HSC G6, XLMC, Helicopter Landing Area, UMS
 HODOR: A modern catamaran with ample room for tenders and toys 46 Significant Small Ships of 2019
-Builder....................... Kanagawa Dockyard Co.
-Designer.................... Kanagawa Dockyard Co.
-Vessel’s name.............................................Ishin
+Builder....................... Kanagawa Dockyard Co. Designer.................... Kanagawa Dockyard Co. Vessel’s name.............................................Ishin
 Owner/operator....... Mitsui O.S.K. Lines (MOL)
 Country......................................................Japan
 Flag...........................................................Japan
@@ -1140,16 +1035,8 @@ Dockyard, the vessel incorporates dual-fuel
 Yanmar engines and runs on LNG supplied by
 Osaka Gas. Named Ishin, the vessel is Japan’s first tugboat built to conform to the International
 Code of Safety for Ships Using Gases or Other
-Low-flashpoint Fuels (IGF Code).
-The tugboat’s role is to support large-size vessels in port and escort ships in Osaka Bay and the
-Setonaikai Inland Sea. So Ishin not only had to deliver optimum performance in port, but also high-speed operation for those escort duties. The vessel has a top speed of 16knots, a notably high speed for typical tugs in this class. “Generally, ship manoeuvrability and high-speed sailing tend to contradict each other, but this ship reconciles both needs,” comments MOL.
-Ishin is also equipped with not one but two azimuth thrusters, each of which is driven directly by an engine. The vessel can be freely moved forward and backward, port and starboard, by changing the engine rpm and the direction of the 360° rotating propellers. By making full use of this feature, it was expected that Ishin could more effectively assist large- size vessels in berthing/unberthing.
-Her LNG fuel tank is positioned on the rear deck and is a removable structure. Normally, the tank is not removed, but it can be: for example, when Ishin is docked for regular maintenance.
-To achieve this configuration, the LNG fuel-gas supply system is integrated with the tank to create a very compact structure. As a result, the risk of a liquid spill is significantly reduced because the design minimises the area where onboard leaks might occur during operation.
-Additionally, the piping from the intake port to the tank has been shortened, to minimise the effect of heat load on the piping when bunkering the vessel from an external source.
-The LNG fuel tank has a vacuum-insulated, double-hull structure, which MOL likens to a “large thermos bottle”. It can maintain the temperature inside the tank longer than general ocean-going LNG carriers because the heat load is small and pressure can be contained inside the tank.
-Ishin has adopted dual-fuel engines, which can be operated in both ‘Gas Mode’ (running on LNG) and ‘Diesel Mode’ (running on heavy fuel oil A). The LNG is gasified using exhaust heat from the engine, and supplied to the engine. The gas is mixed with air and ignited with an extremely small amount of heavy fuel oil A to create the combustion that produces power in the cylinders.
-TECHNICAL PARTICULARS
+Low-flashpoint Fuels (IGF Code). The tugboat’s role is to support large-size vessels in port and escort ships in Osaka Bay and the
+Setonaikai Inland Sea. So Ishin not only had to deliver optimum performance in port, but also high-speed operation for those escort duties. The vessel has a top speed of 16knots, a notably high speed for typical tugs in this class. “Generally, ship manoeuvrability and high-speed sailing tend to contradict each other, but this ship reconciles both needs,” comments MOL. Ishin is also equipped with not one but two azimuth thrusters, each of which is driven directly by an engine. The vessel can be freely moved forward and backward, port and starboard, by changing the engine rpm and the direction of the 360° rotating propellers. By making full use of this feature, it was expected that Ishin could more effectively assist large- size vessels in berthing/unberthing. Her LNG fuel tank is positioned on the rear deck and is a removable structure. Normally, the tank is not removed, but it can be: for example, when Ishin is docked for regular maintenance. To achieve this configuration, the LNG fuel-gas supply system is integrated with the tank to create a very compact structure. As a result, the risk of a liquid spill is significantly reduced because the design minimises the area where onboard leaks might occur during operation. Additionally, the piping from the intake port to the tank has been shortened, to minimise the effect of heat load on the piping when bunkering the vessel from an external source. The LNG fuel tank has a vacuum-insulated, double-hull structure, which MOL likens to a “large thermos bottle”. It can maintain the temperature inside the tank longer than general ocean-going LNG carriers because the heat load is small and pressure can be contained inside the tank. Ishin has adopted dual-fuel engines, which can be operated in both ‘Gas Mode’ (running on LNG) and ‘Diesel Mode’ (running on heavy fuel oil A). The LNG is gasified using exhaust heat from the engine, and supplied to the engine. The gas is mixed with air and ignited with an extremely small amount of heavy fuel oil A to create the combustion that produces power in the cylinders. TECHNICAL PARTICULARS
 Length, oa................................................. 43.6m
 Length, bp............................................... 38.75m
 Breadth, moulded........................................ 9.2m
@@ -1175,15 +1062,13 @@ Speed.................................................. 274rpm
 Open/nozzled........................... Nozzled (Kort)
 Winch
 Number of winches....................................... 1
-Make........................... Masada Ironworks Co.
-Model..............................................MOW-T80
+Make........................... Masada Ironworks Co. Model..............................................MOW-T80
 Capacities............................... Gypsy capacity 29.4/13.7(kN) × 14/34(m/min)
 Other deck machinery/ equipment............................... LNG fuel tank;
 Fuel gas supply system
 Bridge electronics
 Radar(s).............................Furuno FAR-2117, FR-8065
-Autopilot ........................Unikas Industrial Inc.
-GMDSS................................................Furuno
+Autopilot ........................Unikas Industrial Inc. GMDSS................................................Furuno
 GPS...........................................Furuno GP-33
 Gyro..........................................Furuno SC-70
 Engine monitoring system...................Yanmar
@@ -1213,15 +1098,11 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order.......... 0
 Contract date.................................Not specified
 Delivery date............................September 2019
-Billed as a versatile “bring-to-work” and high- speed cargo-carrying solution, MO5 is a semi-small waterplane area twin hull (SWATH) crew transfer vessel developed to bring more flexibility to the offshore wind farm sector.
-One of its notable features is its ability to conduct transfers in conditions with wave heights exceeding 2m Hs. The vessel is also capable of carrying a payload of 70tonnes, partly thanks to a spacious aft deck, and can be used to undertake survey or ROV operations, thus widening her operational window.
-In addition to the above, MO5 can conduct dive support operations, courtesy of a four-point anchoring system and a full dive suite. According to her operator, Mainprize Offshore: “The combination of unsurpassed seagoing, together with the ability to operate impressively in wave heights of over 2m, means that the vessel is also ideally suited to fast ferry, survey, pilotage and search and rescue duties.”
+Billed as a versatile “bring-to-work” and high- speed cargo-carrying solution, MO5 is a semi-small waterplane area twin hull (SWATH) crew transfer vessel developed to bring more flexibility to the offshore wind farm sector. One of its notable features is its ability to conduct transfers in conditions with wave heights exceeding 2m Hs. The vessel is also capable of carrying a payload of 70tonnes, partly thanks to a spacious aft deck, and can be used to undertake survey or ROV operations, thus widening her operational window. In addition to the above, MO5 can conduct dive support operations, courtesy of a four-point anchoring system and a full dive suite. According to her operator, Mainprize Offshore: “The combination of unsurpassed seagoing, together with the ability to operate impressively in wave heights of over 2m, means that the vessel is also ideally suited to fast ferry, survey, pilotage and search and rescue duties.”
 The 25.4m × 11m vessel was developed by Bob
 Mainprize, managing director of Mainprize
 Offshore, in conjunction with James Walker of
-Southampton, UK-based Walker Marine Design.
-The two had previously collaborated on the designs of Mainprize Offshore’s former deliveries, MO3 and MO4 (see Significant Small Ships of 2017). MO5 was ordered on speculation and constructed in a 12-month timeframe, following a period of extensive tank testing, and at a cost of more than £3.5 million (US$4.6 million).
-TECHNICAL PARTICULARS
+Southampton, UK-based Walker Marine Design. The two had previously collaborated on the designs of Mainprize Offshore’s former deliveries, MO3 and MO4 (see Significant Small Ships of 2017). MO5 was ordered on speculation and constructed in a 12-month timeframe, following a period of extensive tank testing, and at a cost of more than £3.5 million (US$4.6 million). TECHNICAL PARTICULARS
 Length, oa............................................... 25.43m
 Length, bp............................................... 23.88m
 Breadth, moulded......................................... 11m
@@ -1299,13 +1180,8 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order.......... 0
 Contract date..........................................Q2 2018
 Delivery date...................................... April 2019
-Nora B comprises what’s been described as an “advanced version” of Neptune Marine’s shallow-draught EuroTug 3515 design, specially customised for Basque-based offshore service provider Zumaia Offshore and intended for a wide range of offshore and nearshore duties.
-The vessel was designed with close input from
-Zumaia Offshore, to ensure that she could meet the needs of the current market.
-One of Nora B’s key features is her spacious aft deck, spanning some 250m2 in total. This area is sheathed in wood and can be utilised as a platform for ROV and diving support operations, as well as geotechnical surveys, cable-laying and recovery operations and mass flow excavation, for example. The deck is equipped with anchor- handling, towing and tugger winches, plus pins and shark-jaws, and also features a built-in open stern with roller.
-On the deck, one also finds features such as a moon pool and a heavy-duty knuckle boom crane with integrated winch and hydraulically abatable A-frame. The vessel also deploys a DP system and a four-point mooring system as back-up, should her work take her a significant distance offshore.
-As has become increasingly common with craft of this size, Nora B makes use of a diesel- electric hybrid propulsion system, consisting of twin 192kW electric drives operating in conjunction with a pair of 970kW diesels. This set-up should permit minimal fuel consumption when the vessel is in DP mode, or provide extra kick and increased bollard pull when in towing mode.
-Neptune Marine explains: “A user-configurable power management system offers different work modes – such as diesel, hybrid or full-electric – in DP1 or DP2 to match client requirements with the weather and sea state, at an optimum combination of performance and fuel consumption…as an added bonus, the e-drives can also work as shaft generators for the ship’s systems when it is free sailing, or while mobilising.”
+Nora B comprises what’s been described as an “advanced version” of Neptune Marine’s shallow-draught EuroTug 3515 design, specially customised for Basque-based offshore service provider Zumaia Offshore and intended for a wide range of offshore and nearshore duties. The vessel was designed with close input from
+Zumaia Offshore, to ensure that she could meet the needs of the current market. One of Nora B’s key features is her spacious aft deck, spanning some 250m2 in total. This area is sheathed in wood and can be utilised as a platform for ROV and diving support operations, as well as geotechnical surveys, cable-laying and recovery operations and mass flow excavation, for example. The deck is equipped with anchor- handling, towing and tugger winches, plus pins and shark-jaws, and also features a built-in open stern with roller. On the deck, one also finds features such as a moon pool and a heavy-duty knuckle boom crane with integrated winch and hydraulically abatable A-frame. The vessel also deploys a DP system and a four-point mooring system as back-up, should her work take her a significant distance offshore. As has become increasingly common with craft of this size, Nora B makes use of a diesel- electric hybrid propulsion system, consisting of twin 192kW electric drives operating in conjunction with a pair of 970kW diesels. This set-up should permit minimal fuel consumption when the vessel is in DP mode, or provide extra kick and increased bollard pull when in towing mode. Neptune Marine explains: “A user-configurable power management system offers different work modes – such as diesel, hybrid or full-electric – in DP1 or DP2 to match client requirements with the weather and sea state, at an optimum combination of performance and fuel consumption…as an added bonus, the e-drives can also work as shaft generators for the ship’s systems when it is free sailing, or while mobilising.”
 TECHNICAL PARTICULARS
 Length, oa.................................................... 36m
 Length, bp................................................. 31.1m
@@ -1380,13 +1256,7 @@ Total number of sister ships still on order.......... 0
 Contract date............................................... 2018
 Delivery date....................................March 2019
 The 15.8m loa PILOT-1 is the first entry in a series of pilot boat designs produced by
-UK-based Camarc Ltd to provide fast and efficient running at transit speeds, combined with excellent seakeeping. As priorities, attention was continually paid to weight control and detailed design, resulting in a robust and sea-kindly craft fit for the demanding role of a pilot boat.
-In view of the operational requirements, weight refinement was not taken to the minimum limits allowed by classification rules, but was carefully considered to combine robust construction with efficient operation. The vessel is designed to be user-friendly and easy to maintain, and has a life cycle of around 18 to 20 years.
-The double-chine hull was developed to grant the crew enhanced all-round seakeeping. The vessel is class-approved with a steel hull and deck and an aluminium superstructure.
-Propulsion is provided by two high-speed, electrically controlled diesel main engines, coupled to suitable reverse/reduction gear boxes. These turn a pair of fixed-pitch propellers, each with five blades, via stainless steel shafts, to provide a speed in the region of 20-22knots.
-This particular pilot boat was built by Sanmar for Mersin International Port (MIP) in southern Turkey, and delivered in March 2019.
-As an additional concession to crew welfare, Sanmar arranged for the vessel to feature a high standard of interior finish, with special attention paid to noise and vibration reduction.
-TECHNICAL PARTICULARS
+UK-based Camarc Ltd to provide fast and efficient running at transit speeds, combined with excellent seakeeping. As priorities, attention was continually paid to weight control and detailed design, resulting in a robust and sea-kindly craft fit for the demanding role of a pilot boat. In view of the operational requirements, weight refinement was not taken to the minimum limits allowed by classification rules, but was carefully considered to combine robust construction with efficient operation. The vessel is designed to be user-friendly and easy to maintain, and has a life cycle of around 18 to 20 years. The double-chine hull was developed to grant the crew enhanced all-round seakeeping. The vessel is class-approved with a steel hull and deck and an aluminium superstructure. Propulsion is provided by two high-speed, electrically controlled diesel main engines, coupled to suitable reverse/reduction gear boxes. These turn a pair of fixed-pitch propellers, each with five blades, via stainless steel shafts, to provide a speed in the region of 20-22knots. This particular pilot boat was built by Sanmar for Mersin International Port (MIP) in southern Turkey, and delivered in March 2019. As an additional concession to crew welfare, Sanmar arranged for the vessel to feature a high standard of interior finish, with special attention paid to noise and vibration reduction. TECHNICAL PARTICULARS
 Length, oa................................................. 15.8m
 Length, bp............................................... 14.95m
 Breadth, moulded........................................ 5.2m
@@ -1439,17 +1309,8 @@ Contract date.................................Not specified
 Delivery date..................................August 2019
 Integrated to deal with various emergency scenarios, Red Dolphin was jointly developed by
 UK-headquartered naval architect BMT
-Specialised Ship Design (formally BMT Nigel Gee) and Singaporean boatbuilder and aluminium specialist Penguin Shipyard International.
-This 35m marine rescue vessel (MRV) concept offers what BMT describes as “an advanced, external firefighting capability that goes above and beyond standard FiFi Class 1 requirements”, enabling her crew to not only tackle blazes at sea but also rescue a significant number of casualties from the water and respond to major incidents in potentially contaminated areas.
-For instance, the MRV’s firefighting system is designed to be fully redundant with three monitors and three pumps independently connected with a total flow rate of 4,800m3/hr. This latter feature means that the MRV could also assist larger-scale landside firefighting operations.
-The vessel also has the capability to throw foam with a total stored capacity of 6,000litres. The ship is built upon an aluminium structure with comprehensive self-spray protection capabilities.
-Another unique feature of the MRV design is a superstructure designed as a citadel to protect those within from the potential dangers of a chemical, biological and/or radiological (CBR) release in the outside environment. The CBR system is provided with 100% redundancy on filtration and air-conditioning equipment.
-In addition to the CBR system, Red Dolphin is fitted with a decontamination room, with a fully automatic decontamination system and two airlocks providing access to the citadel.
-The citadel area can accommodate the vessel’s four-man crew, plus up to eight firefighters and 30 survivors.
-Although Red Dolphin possesses such large integrated systems for her operations, she can achieve speeds of up to 31knots. This high- speed capability allows the vessel to enter disaster areas faster than many craft fit with the same (or less) equipment on board.
-Other key points of interest include a 5.4m high-speed rescue boat onboard, supplied by
-Palfinger and with man riding launching, plus significant storage capacity for firefighting equipment and a first aid room.
-TECHNICAL PARTICULARS
+Specialised Ship Design (formally BMT Nigel Gee) and Singaporean boatbuilder and aluminium specialist Penguin Shipyard International. This 35m marine rescue vessel (MRV) concept offers what BMT describes as “an advanced, external firefighting capability that goes above and beyond standard FiFi Class 1 requirements”, enabling her crew to not only tackle blazes at sea but also rescue a significant number of casualties from the water and respond to major incidents in potentially contaminated areas. For instance, the MRV’s firefighting system is designed to be fully redundant with three monitors and three pumps independently connected with a total flow rate of 4,800m3/hr. This latter feature means that the MRV could also assist larger-scale landside firefighting operations. The vessel also has the capability to throw foam with a total stored capacity of 6,000litres. The ship is built upon an aluminium structure with comprehensive self-spray protection capabilities. Another unique feature of the MRV design is a superstructure designed as a citadel to protect those within from the potential dangers of a chemical, biological and/or radiological (CBR) release in the outside environment. The CBR system is provided with 100% redundancy on filtration and air-conditioning equipment. In addition to the CBR system, Red Dolphin is fitted with a decontamination room, with a fully automatic decontamination system and two airlocks providing access to the citadel. The citadel area can accommodate the vessel’s four-man crew, plus up to eight firefighters and 30 survivors. Although Red Dolphin possesses such large integrated systems for her operations, she can achieve speeds of up to 31knots. This high- speed capability allows the vessel to enter disaster areas faster than many craft fit with the same (or less) equipment on board. Other key points of interest include a 5.4m high-speed rescue boat onboard, supplied by
+Palfinger and with man riding launching, plus significant storage capacity for firefighting equipment and a first aid room. TECHNICAL PARTICULARS
 Length, oa.................................................... 35m
 Breadth, moulded........................................... 8m
 Depth, moulded.............................................. 4m
@@ -1510,10 +1371,7 @@ Delivery date...................................... April 2019
 At the time of Red Kestrel’s launch, conducted in April 2019, Tony Graham, Cammell
 Laird chief operating officer, commented: “Shipbuilding is back in a serious way on the
 Mersey…it is tremendous to see more shipowners and ferry operators choosing to build in the UK.” Spearheading this optimism, Red Kestrel is a dedicated ro-ro freight ferry for
-Isle of Wight (IoW) operator Red Funnel, tasked with providing a link between East Cowes on the IoW and Southampton on the UK mainland – a trip with a typical crossing time of an hour, or just under.
-Red Kestrel has a length of 74.3m and 265 lane metres of ro-ro freight capacity – the latter capable of accommodating up to 12 HGVs, Red Funnel says. As a freight vessel, she is restricted to 12 passengers and will operate with a crew of six or seven. She is powered by dual IMO Tier III- compliant Cummins QSK38 diesel engines, feeding a pair of Rolls-Royce US 155FP azimuth thrusters, and can achieve a speed of 12.5knots at 85% MCR. When travelling at this speed, the vessel enjoys a range of just over 970nm. Cummins also supplied Red Kestrel’s twin 6B-CP gensets, rated 80kW apiece.
-Onboard capacities include 38.6tonnes of fuel and 9tonnes of water. Cammell Laird estimates that the £10 million (US$13.1 million) vessel generated 3,000 man-hours of work for its in-house team of apprentices and created work for about 410 people, including apprentices and subcontractors.
-TECHNICAL PARTICULARS
+Isle of Wight (IoW) operator Red Funnel, tasked with providing a link between East Cowes on the IoW and Southampton on the UK mainland – a trip with a typical crossing time of an hour, or just under. Red Kestrel has a length of 74.3m and 265 lane metres of ro-ro freight capacity – the latter capable of accommodating up to 12 HGVs, Red Funnel says. As a freight vessel, she is restricted to 12 passengers and will operate with a crew of six or seven. She is powered by dual IMO Tier III- compliant Cummins QSK38 diesel engines, feeding a pair of Rolls-Royce US 155FP azimuth thrusters, and can achieve a speed of 12.5knots at 85% MCR. When travelling at this speed, the vessel enjoys a range of just over 970nm. Cummins also supplied Red Kestrel’s twin 6B-CP gensets, rated 80kW apiece. Onboard capacities include 38.6tonnes of fuel and 9tonnes of water. Cammell Laird estimates that the £10 million (US$13.1 million) vessel generated 3,000 man-hours of work for its in-house team of apprentices and created work for about 410 people, including apprentices and subcontractors. TECHNICAL PARTICULARS
 Length, oa.................78.02m (including linkspan interfaces; 74.25m without)
 Length, bp................................................. 73.2m
 Breadth, moulded.................................... 17.01m
@@ -1590,16 +1448,11 @@ Contract date...............................February 2017
 Delivery date....................................... May 2019
 May 2019 saw the Italian company deliver the tug C.871 РИМ-MОСКВА (Rome-Moscow) to the Russian Federation Navy. The tug is set to dismantle decommissioned nuclear submarines in the Barents Sea as part of the Aspect Konversia
 Project. The €8 million vessel was commissioned in 2016 by the Italian Ministry of Economic
-Development (MISE) as part of a collaboration between the Italian and Russian governments, related to the safe disposal of radioactive waste.
-For the Adria-based shipyard, Rome-Moscow represents the second delivery of an ASD (azimuth stern drive) tug – the first being
+Development (MISE) as part of a collaboration between the Italian and Russian governments, related to the safe disposal of radioactive waste. For the Adria-based shipyard, Rome-Moscow represents the second delivery of an ASD (azimuth stern drive) tug – the first being
 Cap de Fer, which was delivered to the Harbour
 Authority in Skikda, in Algeria (see Significant
-Small Ships of 2018). Rome-Moscow has been designed and built to work at temperatures of -10°C, and to ensure heating within the crew accommodation areas in temperatures as low as -34°C, while moored in harbour over winter.
-The tug has been built and checked in accordance with the regulations of the Russian
-Maritime Register of Shipping (RS). It also meets regulations for onboard living and bathroom conditions for boats flying the Russian Federation flag, and has been classified ICE2.
-The tug has a bollard pull capacity of 65tonnes and a dynamic pull of 54tonnes, and can reach a speed of 12.5knots care of the fast diesel engines linked to twin azimuth drives with variable- pitch propellers. The tug is designed to undertake technical services such as towing, pushing and escorting in ports or open sea, as well as guiding third parties during docking manoeuvres and assisting with vessel recovery in the event of failure.
-The shape of the hull was designed for optimal flow of water to the propellers, for enhanced speed, towing stability and course-keeping, Vittoria adds. “With its compact structure, which includes two orders of superstructures and a single deck, this tugboat is designed to perform at its best the most complex technical and recovery operations, even in extreme weather conditions,” the builder states.
-TECHNICAL PARTICULARS
+Small Ships of 2018). Rome-Moscow has been designed and built to work at temperatures of -10°C, and to ensure heating within the crew accommodation areas in temperatures as low as -34°C, while moored in harbour over winter. The tug has been built and checked in accordance with the regulations of the Russian
+Maritime Register of Shipping (RS). It also meets regulations for onboard living and bathroom conditions for boats flying the Russian Federation flag, and has been classified ICE2. The tug has a bollard pull capacity of 65tonnes and a dynamic pull of 54tonnes, and can reach a speed of 12.5knots care of the fast diesel engines linked to twin azimuth drives with variable- pitch propellers. The tug is designed to undertake technical services such as towing, pushing and escorting in ports or open sea, as well as guiding third parties during docking manoeuvres and assisting with vessel recovery in the event of failure. The shape of the hull was designed for optimal flow of water to the propellers, for enhanced speed, towing stability and course-keeping, Vittoria adds. “With its compact structure, which includes two orders of superstructures and a single deck, this tugboat is designed to perform at its best the most complex technical and recovery operations, even in extreme weather conditions,” the builder states. TECHNICAL PARTICULARS
 Length, oa.................................................... 32m
 Length, bp................................................. 29.3m
 Breadth, moulded......................................... 10m
@@ -1670,13 +1523,7 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order...... N/A
 Contract date.................................Not specified
 Delivery date.............................December 2019
-Sabah is a 42m × 12m fisheries surveillance patrol vessel intended to provide support to the Marine Surveillance Department of Kuwait.
-Her main duties include patrolling the local sea to spot illegal fishery activity, giving support to other small patrol boats and carrying out search and rescue missions.
-The boat is capable of sailing at speeds in excess of 30knots, courtesy of a pair of 2,880kW engines and fixed-pitch propellers. Seakeeping capabilities are expected to be enhanced via the adoption of a double-chine hull design. She will accommodate 16 crew members and a 7m RIB, the latter located aft.
-The RIB was manufactured by Narwhal Boats and is able to accommodate four persons and to reach a speed of approximately 30knots. It is equipped with a 220hp (164kW) Volvo inboard diesel engine and MJP Ultrajet propulsion, and its 200litre-capacity, under-deck fuel tank allows for a wide navigation range, depending upon sea conditions. The RIB’s deep-V hull allows smooth sailing and enhanced manoeuvrability, whilst its reinforced structure offers endurance and durability. Its non-slip deck is made of fibreglass- reinforced marine plywood.
-Sabah’s hull has been built in light high-tensile steel, and the superstructure module is constructed in extruded aluminum panels joined together by stir friction welding. This particular configuration provides very low weight and allows for unrestricted navigation while sailing at up to 30knots at 100% MCR.
-The patrol vessel is fitted with a gyrostabiliser which operates at any speed, including active roll dumping at zero speed when the vessel is at anchor.
-TECHNICAL PARTICULARS
+Sabah is a 42m × 12m fisheries surveillance patrol vessel intended to provide support to the Marine Surveillance Department of Kuwait. Her main duties include patrolling the local sea to spot illegal fishery activity, giving support to other small patrol boats and carrying out search and rescue missions. The boat is capable of sailing at speeds in excess of 30knots, courtesy of a pair of 2,880kW engines and fixed-pitch propellers. Seakeeping capabilities are expected to be enhanced via the adoption of a double-chine hull design. She will accommodate 16 crew members and a 7m RIB, the latter located aft. The RIB was manufactured by Narwhal Boats and is able to accommodate four persons and to reach a speed of approximately 30knots. It is equipped with a 220hp (164kW) Volvo inboard diesel engine and MJP Ultrajet propulsion, and its 200litre-capacity, under-deck fuel tank allows for a wide navigation range, depending upon sea conditions. The RIB’s deep-V hull allows smooth sailing and enhanced manoeuvrability, whilst its reinforced structure offers endurance and durability. Its non-slip deck is made of fibreglass- reinforced marine plywood. Sabah’s hull has been built in light high-tensile steel, and the superstructure module is constructed in extruded aluminum panels joined together by stir friction welding. This particular configuration provides very low weight and allows for unrestricted navigation while sailing at up to 30knots at 100% MCR. The patrol vessel is fitted with a gyrostabiliser which operates at any speed, including active roll dumping at zero speed when the vessel is at anchor. TECHNICAL PARTICULARS
 Length, oa.................................................... 42m
 Length, bp................................................. 41.6m
 Breadth, moulded........................................ 7.7m
@@ -1760,17 +1607,11 @@ Contract date.................................January 2018
 Delivery date.................................January 2019
 SeaCat Ships launched the 29m high-speed ferry
 Sea Express II at Ocean Marina Yacht Club in
-Pattaya and delivered the vessel to its owner/ operator, Aquatic Rentals, in January 2019.
-The sleek aluminium catamaran achieved over 30knots during sea trials, and will operate in and around the US and British-flagged islands in the Caribbean. It is reportedly the first ferry of its type built in Thailand for US operations. “The islands the ferry is servicing were severely hit by Hurricane Irma in 2017, and with the rebuilding of the island comes the rebuilding and reinvention of the tourist industry…this vessel will allow its patrons fast and cost effective ferry service between the islands,” SeaCat Ships explains.
-Built in accordance with Lloyd’s Register SSC
+Pattaya and delivered the vessel to its owner/ operator, Aquatic Rentals, in January 2019. The sleek aluminium catamaran achieved over 30knots during sea trials, and will operate in and around the US and British-flagged islands in the Caribbean. It is reportedly the first ferry of its type built in Thailand for US operations. “The islands the ferry is servicing were severely hit by Hurricane Irma in 2017, and with the rebuilding of the island comes the rebuilding and reinvention of the tourist industry…this vessel will allow its patrons fast and cost effective ferry service between the islands,” SeaCat Ships explains. Built in accordance with Lloyd’s Register SSC
 Code for hull and also USCG Subchapter K requirements, she is suitable for 149 passengers internationally and up to 300 passengers for domestic coastal services. Twin 1,230kW
-Baudouin V12 engines enable the vessel to achieve speeds in excess of 30knots. The newly developed deep-V hull includes a double bottom to meet IMO High-Speed Craft (HSC) raking damage criteria.
-Sea Express II’s engine and exhaust systems have been produced to comply with IMO Tier 3 standard and US EPA 4. The exhaust is fitted with an SCR system to ensure exhaust emissions are as low as possible. This is reportedly the first vessel fitted with this exhaust scrubber system for these particular engines. Propulsion is via conventional prop/shaft, fixed-pitch propellers and mini keels, which protect the props.
-The lower deck has 195 economy-style seats from Seaborn, plus sunken lounge seating in the foredeck area. The upper deck has 36 leather VIP business-class seats inside and 58 all-weather seats outside. The main cabin also includes a small servery. The cabins are fully air-conditioned with built in redundancy, to ensure operation even if there is a unit failure. Sea Express II has four toilets, three of which are on the lower deck (including one larger, wheelchair-accessible toilet) and one located on the upper deck.
-The helm features 360° vision for the captain and three additional control stations for docking purposes (port, starboard and aft). The main control station features the latest touchscreen electronic navigation systems as well as monitoring and control systems, CCTV, music/ TV, WiFi and intercom systems. The navigation system used on board is primarily based around a
+Baudouin V12 engines enable the vessel to achieve speeds in excess of 30knots. The newly developed deep-V hull includes a double bottom to meet IMO High-Speed Craft (HSC) raking damage criteria. Sea Express II’s engine and exhaust systems have been produced to comply with IMO Tier 3 standard and US EPA 4. The exhaust is fitted with an SCR system to ensure exhaust emissions are as low as possible. This is reportedly the first vessel fitted with this exhaust scrubber system for these particular engines. Propulsion is via conventional prop/shaft, fixed-pitch propellers and mini keels, which protect the props. The lower deck has 195 economy-style seats from Seaborn, plus sunken lounge seating in the foredeck area. The upper deck has 36 leather VIP business-class seats inside and 58 all-weather seats outside. The main cabin also includes a small servery. The cabins are fully air-conditioned with built in redundancy, to ensure operation even if there is a unit failure. Sea Express II has four toilets, three of which are on the lower deck (including one larger, wheelchair-accessible toilet) and one located on the upper deck. The helm features 360° vision for the captain and three additional control stations for docking purposes (port, starboard and aft). The main control station features the latest touchscreen electronic navigation systems as well as monitoring and control systems, CCTV, music/ TV, WiFi and intercom systems. The navigation system used on board is primarily based around a
 Simrad NSO system and incorporates the new
-Halo radar with Velocity Track Doppler radar software, which changes the colour of approaching and diverging radar targets.
-TECHNICAL PARTICULARS
+Halo radar with Velocity Track Doppler radar software, which changes the colour of approaching and diverging radar targets. TECHNICAL PARTICULARS
 Length, oa............................................... 28.89m
 Length, bp............................................... 28.49m
 Breadth, moulded...................................... 9.18m
@@ -1840,10 +1681,7 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order................................................. N/A
 Contract date............................................... 2019
 Delivery date....................................... May 2019
-The Claasen-built, 23m chase boat Stargazer was developed to serve as a tender for a superyacht, and represents the 27th newbuild project on which Claasen and Hoek Design have jointly collaborated. Hoek Design handled all of the vessel’s naval architecture, structural engineering and exterior/interior design.
-As well as providing a means of getting the yacht’s owner and guests from shore to the yacht in a comfortable manner, Stargazer was designed to fulfil several other roles. She can be utilised as a diving platform, capable of entering small lagoons and shallow waters, for instance: a large swim platform built into the stern forms steps that plunge underwater when deployed, enabling guests to enter and exit the water in a straightforward manner. The tender can also be used to accommodate extra stores, and/or extra crew members or guests, complementing the yacht’s three cabins.
-Claasen recalls: “The owner wanted the boat to have a Pacific range, meaning she is able to be powered by engines underway for 900 miles at cruising speed.” As such, Stargazer incorporates two Scania engines driving fixed propellers for a cruising speed of 16knots and a top speed of 24knots.
-The lightweight aluminium hull was built in the
+The Claasen-built, 23m chase boat Stargazer was developed to serve as a tender for a superyacht, and represents the 27th newbuild project on which Claasen and Hoek Design have jointly collaborated. Hoek Design handled all of the vessel’s naval architecture, structural engineering and exterior/interior design. As well as providing a means of getting the yacht’s owner and guests from shore to the yacht in a comfortable manner, Stargazer was designed to fulfil several other roles. She can be utilised as a diving platform, capable of entering small lagoons and shallow waters, for instance: a large swim platform built into the stern forms steps that plunge underwater when deployed, enabling guests to enter and exit the water in a straightforward manner. The tender can also be used to accommodate extra stores, and/or extra crew members or guests, complementing the yacht’s three cabins. Claasen recalls: “The owner wanted the boat to have a Pacific range, meaning she is able to be powered by engines underway for 900 miles at cruising speed.” As such, Stargazer incorporates two Scania engines driving fixed propellers for a cruising speed of 16knots and a top speed of 24knots. The lightweight aluminium hull was built in the
 Netherlands and all technical installations and joinery work were executed by Claasen and its sister company
 Vitters. According to Claasen: “This was the first time we built a new yacht together with Vitters.”
 TECHNICAL PARTICULARS
@@ -1931,11 +1769,7 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order.......... 0
 Contract date.................................January 2017
 Delivery date....................................... July 2019
-Hailed as one of the world’s “most modern research vessels” at the time of her delivery, SVEA was designed to generate as little radiated noise as possible, for the benefit of marine wildlife and fauna and for the comfort of her onboard complement. This has been achieved via a low- noise propeller, double elastically mounted prime electrical movers and gensets, and floating floors.
-The vessel was also designed to produce “minimal bubble formation”, thanks partly to the specially designed shape of her bow. This is intended to make the vessel ideal for research assignments involving exploratory fishing and hydroacoustic surveys. SVEA comes fully equipped for fishing, bottom sampling and oceanographic studies, and can carry, deploy and retrieve a broad array of specialised scientific equipment: for instance, the vessel has sampling equipment for plankton, fish egg/larvae and sediments, plus a hydroacoustic current meter (ADCP) that continuously measures the speed and direction of the ocean currents, from the surface to the bottom.
-The ship has been fitted with customised labs for fish-handling, water analysis and data management, and an advanced weather station. There are also provisions for ROVs and removable containers.
-For environmental sustainability, SVEA is powered by hydrogenated vegetable oils (HVOs) and comes fitted with particulate filters to prevent harmful emissions.
-TECHNICAL PARTICULARS
+Hailed as one of the world’s “most modern research vessels” at the time of her delivery, SVEA was designed to generate as little radiated noise as possible, for the benefit of marine wildlife and fauna and for the comfort of her onboard complement. This has been achieved via a low- noise propeller, double elastically mounted prime electrical movers and gensets, and floating floors. The vessel was also designed to produce “minimal bubble formation”, thanks partly to the specially designed shape of her bow. This is intended to make the vessel ideal for research assignments involving exploratory fishing and hydroacoustic surveys. SVEA comes fully equipped for fishing, bottom sampling and oceanographic studies, and can carry, deploy and retrieve a broad array of specialised scientific equipment: for instance, the vessel has sampling equipment for plankton, fish egg/larvae and sediments, plus a hydroacoustic current meter (ADCP) that continuously measures the speed and direction of the ocean currents, from the surface to the bottom. The ship has been fitted with customised labs for fish-handling, water analysis and data management, and an advanced weather station. There are also provisions for ROVs and removable containers. For environmental sustainability, SVEA is powered by hydrogenated vegetable oils (HVOs) and comes fitted with particulate filters to prevent harmful emissions. TECHNICAL PARTICULARS
 Length, oa................................................. 69.5m
 Length, bp................................................. 64.2m
 Breadth, moulded...................................... 15.8m
@@ -2038,18 +1872,12 @@ Contract date.................................October 2014
 Delivery date...................................... April 2019
 M/V Tazlina is one of two Alaska-class ferries, alongside Hubbard, operated by Alaska
 Marine Highway System (AMHS). Tazlina operates in the waters of Lynn Canal between the
-Alaskan cities of Juneau, Haines and Skagway, providing daily ferry service to these communities.
-The vessels were designed by Elliott Bay Design
+Alaskan cities of Juneau, Haines and Skagway, providing daily ferry service to these communities. The vessels were designed by Elliott Bay Design
 Group of Seattle, Washington and built by Vigor
-Shipyard in Ketchikan, Alaska.
-The Alaska class is intended to be a prototype for the next generation of ferries for AMHS, ultimately replacing its aging fleet. Tazlina features twin side casings with walk-on passenger access and drive- through vehicle loading and unloading. Vessel propulsion is a twin-screw arrangement powered by two EMD 12-710 engines, enabling the vessels to have a service speed of 16knots at 85% of MCR.
-The vessel is equipped with controllable-pitch propellers and bow thrusters for enhanced manoeuvrability through the pristine Southeast
-Alaskan waterways.
-The vessel has the capacity for 300 passengers and 53 standard vehicles. Onboard amenities include an observation lounge, covered and heated solarium, cafeteria-style restaurant, children's play area and a quiet room. The vessel derives her name from the
-Tazlina Glacier located 43 miles north of Valdez.
-The vessel design for the Alaska Class Ferries had to overcome the challenges of Alaska’s heavy seas, high winds and freezing spray. Testing was performed on the hullform in a wave tank at Force
-Technology Denmark, enabling the designer to optimise performance in heavy seas and improve passenger comfort. Advanced computer analysis was also performed at the design stage to optimise hull shape and efficiency.
-TECHNICAL PARTICULARS
+Shipyard in Ketchikan, Alaska. The Alaska class is intended to be a prototype for the next generation of ferries for AMHS, ultimately replacing its aging fleet. Tazlina features twin side casings with walk-on passenger access and drive- through vehicle loading and unloading. Vessel propulsion is a twin-screw arrangement powered by two EMD 12-710 engines, enabling the vessels to have a service speed of 16knots at 85% of MCR. The vessel is equipped with controllable-pitch propellers and bow thrusters for enhanced manoeuvrability through the pristine Southeast
+Alaskan waterways. The vessel has the capacity for 300 passengers and 53 standard vehicles. Onboard amenities include an observation lounge, covered and heated solarium, cafeteria-style restaurant, children's play area and a quiet room. The vessel derives her name from the
+Tazlina Glacier located 43 miles north of Valdez. The vessel design for the Alaska Class Ferries had to overcome the challenges of Alaska’s heavy seas, high winds and freezing spray. Testing was performed on the hullform in a wave tank at Force
+Technology Denmark, enabling the designer to optimise performance in heavy seas and improve passenger comfort. Advanced computer analysis was also performed at the design stage to optimise hull shape and efficiency. TECHNICAL PARTICULARS
 Length, oa............................................... 85.34m
 Length, bp................................................. 76.2m
 Breadth, moulded.................................... 20.42m
@@ -2112,27 +1940,20 @@ Credit: Vigor 76 Significant Small Ships of 2019
 Builder......................................Uzmar Shipyard
 Designer.................................. Robert Allan Ltd
 Vessel’s name..............SST Tsimshian Warrior
-Owner/operator..........SAAM SMIT Canada Inc.
-Country................................................... Canada
+Owner/operator..........SAAM SMIT Canada Inc. Country................................................... Canada
 Flag........................................................ Canada
 Total number of sister ships already completed........................................... 0
 Total number of sister ships still on order.........................2 (on speculation)
 Contract date............................................... 2018
 Delivery date...............................February 2019
-As the first IMO Tier III exhaust standard- compliant tug in Canada, Tsimshian Warrior has captured attention in terms of both performance and environmental stewardship.
-The Robert Allan-designed, Turkey-built tug was designed to primarily serve AltaGas’ new Ridley
+As the first IMO Tier III exhaust standard- compliant tug in Canada, Tsimshian Warrior has captured attention in terms of both performance and environmental stewardship. The Robert Allan-designed, Turkey-built tug was designed to primarily serve AltaGas’ new Ridley
 Island Propane Export Terminal in Prince
 Rupert, BC, Canada, with capabilities carefully identified and verified by multiple real-time full mission bridge simulations in collaboration with
 British Columbia Coast Pilots, Pacific Maritime
 Institute, Towing Solutions Inc, Lantec Marine
-Inc and SST Canada.
-Tsimshian Warrior is fully capable of safely escorting project gas carriers in ocean conditions, assisting them into and out of the terminal berth, as well as firefighting and rescue towing.
-Additionally, the tug has several unique features that were integrated into the design to elevate safety when operating alongside the terminal and project gas carriers, most notably: a fixed gas detection and alarm system; explosion-proof deck machinery; remotely operable ventilation louvres; and automatic shut-down functionality for non-essential equipment.
-The active bow escort winch was specifically tailored to meet the requirements of escorting in seas outside of the harbour and out to the pilot station. These powering requirements were analysed and established via simulation tools to ensure that the winch has adequate power and haul-in/pay-out speeds for the tug to maintain its maximum escort forces of up to 120tonnes at 10knots, even in dynamic seas.
-Robert Allan Ltd explains: “This active haul-in/ pay-out capability dampens snatch loads and normalises towline tension, thus reducing the potential for towline breakage as the tug responds to waves.”
+Inc and SST Canada. Tsimshian Warrior is fully capable of safely escorting project gas carriers in ocean conditions, assisting them into and out of the terminal berth, as well as firefighting and rescue towing. Additionally, the tug has several unique features that were integrated into the design to elevate safety when operating alongside the terminal and project gas carriers, most notably: a fixed gas detection and alarm system; explosion-proof deck machinery; remotely operable ventilation louvres; and automatic shut-down functionality for non-essential equipment. The active bow escort winch was specifically tailored to meet the requirements of escorting in seas outside of the harbour and out to the pilot station. These powering requirements were analysed and established via simulation tools to ensure that the winch has adequate power and haul-in/pay-out speeds for the tug to maintain its maximum escort forces of up to 120tonnes at 10knots, even in dynamic seas. Robert Allan Ltd explains: “This active haul-in/ pay-out capability dampens snatch loads and normalises towline tension, thus reducing the potential for towline breakage as the tug responds to waves.”
 Crew members have been given comfortable single cabins, all with ensuite wet units, and
-Uzmar’s mission included reducing noise across the vessel, especially in the accommodation area.
-TECHNICAL PARTICULARS
+Uzmar’s mission included reducing noise across the vessel, especially in the accommodation area. TECHNICAL PARTICULARS
 Length, oa.................................................... 32m
 Length, bp................................................. 28.3m
 Breadth, moulded...................................... 13.2m
@@ -2147,8 +1968,7 @@ Deck capacity.................................... 3tonnes/m²
 Service speed...........10knots (in tethered escort)
 Max speed............................................14.3knots
 Bollard pull...............................83.5tonnes ahead 79.9tonnes astern
-Range....................................... 4,500nm approx.
-Main engines
+Range....................................... 4,500nm approx. Main engines
 Number of engines........................................ 2
 Make...............................................Caterpillar
 Model....................................................3516E
@@ -2164,8 +1984,7 @@ Speed.................................................. 226rpm
 Fixed/controllable pitch................ Controllable
 Open/nozzled..................................... Nozzled
 Deck machinery
-Winch(es)............................................................
-Number.................... 1 × hawser winch (bow); 1 × stern towing winch
+Winch(es)............................................................ Number.................... 1 × hawser winch (bow); 1 × stern towing winch
 Make........................................................DMT
 Model....................ETW-011-H1500kN (bow);
 TW-011-H300kN (stern)
@@ -2213,13 +2032,7 @@ Total number of sister ships still on order.......... 0
 Contract date............................................... 2017
 Delivery date......................................June 2019
 Designed to meet the challenges of handling and escorting large merchant ships in the Port of Luleå, the 36m tug Vilja was developed by
-Vancouver-based Robert Allan Ltd (RAL) and is distinguished by its combination of diesel main engines, shaft motor/generators and battery bank.
-Using diesel engines alone, Vilja’s ahead bollard pull (bp) capacity is 85tonnes, but this can be boosted to nearly 100tonnes by engaging electrical boost power. This has won the vessel the plaudit of being the most powerful icebreaking escort tug to incorporate hybrid propulsion to date.
-The vessel runs on two 8-cylinder Wärtsilä L26- series diesel engines, each driving a Kongsberg (formerly Rolls-Royce) US355 controllable-pitch, azimuthing thruster, capable of absorbing 3,100kW of power. Twin 1,000kW, in-line shaft generators-cum-electric motors and batteries provide extra boost. The configuration means the tug can run on batteries alone, or utilise a single main engine in hybrid diesel-electric mode, or use both engines in diesel-mechanical drive with the option of boost power.
-The ‘green mode’ capability draws solely on the batteries for power, and results in zero emissions and reduced noise. The system’s characteristics also feature a ‘smokeless’ phase, where no smoke is produced during start-up of the main engines.
-Vilja has been accredited with Lloyd’s Register’s 1A Super ice class notation, and can break 1m-thick ice while maintaining a speed of 3knots.
-A 300kW Brunvoll rim-driven tunnel thruster is installed in the forward part of the skeg for enhanced manoeuvrability, while Navis supplied the vessel’s dynamic positioning (DP) control system. An Ibercisa forward escort winch and conventional winch on the aft deck, fitted with tow pins and roller aft, are used for towing.
-TECHNICAL PARTICULARS
+Vancouver-based Robert Allan Ltd (RAL) and is distinguished by its combination of diesel main engines, shaft motor/generators and battery bank. Using diesel engines alone, Vilja’s ahead bollard pull (bp) capacity is 85tonnes, but this can be boosted to nearly 100tonnes by engaging electrical boost power. This has won the vessel the plaudit of being the most powerful icebreaking escort tug to incorporate hybrid propulsion to date. The vessel runs on two 8-cylinder Wärtsilä L26- series diesel engines, each driving a Kongsberg (formerly Rolls-Royce) US355 controllable-pitch, azimuthing thruster, capable of absorbing 3,100kW of power. Twin 1,000kW, in-line shaft generators-cum-electric motors and batteries provide extra boost. The configuration means the tug can run on batteries alone, or utilise a single main engine in hybrid diesel-electric mode, or use both engines in diesel-mechanical drive with the option of boost power. The ‘green mode’ capability draws solely on the batteries for power, and results in zero emissions and reduced noise. The system’s characteristics also feature a ‘smokeless’ phase, where no smoke is produced during start-up of the main engines. Vilja has been accredited with Lloyd’s Register’s 1A Super ice class notation, and can break 1m-thick ice while maintaining a speed of 3knots. A 300kW Brunvoll rim-driven tunnel thruster is installed in the forward part of the skeg for enhanced manoeuvrability, while Navis supplied the vessel’s dynamic positioning (DP) control system. An Ibercisa forward escort winch and conventional winch on the aft deck, fitted with tow pins and roller aft, are used for towing. TECHNICAL PARTICULARS
 Length, oa.................................................... 36m
 Length, bp.................................................... 34m
 Breadth, moulded......................................... 13m
@@ -2269,9 +2082,7 @@ Number of winches....................................... 2
 Make........................Ibercisa Deck Machinery
 Model.............................. MR-E/270/2x200-64 (forward escort split drum);
 MR-E/110/400-56 (aft towing)
-Capacities.......Dyneema 2 × 200m – 64mm dia.
-Dyneema 400m – 56mm dia.
-Roller(s)
+Capacities.......Dyneema 2 × 200m – 64mm dia. Dyneema 400m – 56mm dia. Roller(s)
 Number of rollers/tow pins................Tow pins with roller (3 pin configuration, hydraulically actuated, integrated roller)
 Make........................Ibercisa Deck Machinery
 Model...............................................TR-0-100
@@ -2321,18 +2132,10 @@ Delivery date....................................... May 2019
 Vittoriosa, the first RAstar 3000-W class
 LNG terminal escort tug, was delivered to
 Tug Malta, a subsidiary of the Rimorchiatori
-Riuniti Group, Italy. The vessel, which was constructed by Turkey’s Med Marine Shipyards, has since been deployed at the Delimara LNG terminal in Malta.
-The RAstar-series tugs are designed with sponsoned hullforms, for enhanced escort towing and seakeeping performance. Roll motions and accelerations are reportedly less than half those of comparably sized ‘standard’ tug hulls, says RAL.
-The RAstar 3000-W design for Tug Malta boasts numerous other features for LNG terminal support. For instance, the bow fendering system is designed for a low contact pressure requirement of 20tonnes per m². A gas detection system has been fitted to warn the crew of potential hazardous atmospheres, and the vessel features ventilation dampers that can be remotely closed. All essential electrical equipment on deck is certified for use in a
-Zone 2 LNG environment, while all non- essential electrical equipment can be electrically isolated. FiFi 1 capability with water spray is also provided, along with a large firefighting foam capacity.
-The RAstar 3000-W was designed with a low profile for operation under the flare of assisted ships. The wheelhouse provides 360° visibility from the operator’s position and unhindered lines of sight to the fore and aft working decks.
-These decks can be fitted with various machinery options. Tug Malta elected to use a
-Rolls-Royce double drum winch with dual aperture escort staple on the fore deck, and a towing hook on the aft deck, with a future option for an aft towing winch. The bow winch is driven by two high-pressure hydraulic PTO pump units off the front of the main engines.
-First-layer pull on low speed is 102tonnes at 9m/min, and high-speed pull is 12tonnes at 57m/min. Rendering is 145tonnes at 14m/ min (low speed) and 24tonnes at 51m/min (high speed).
-Vittoriosa’s accommodations are outfitted to
-MLC-compliant standards, with private en suite washrooms, for up to eight persons. The master and chief engineer cabins are located on the main deck, with three double crew cabins located in the lower accommodations.
-On trials, Vittoriosa demonstrated nearly equal ahead and astern performance: bollard pulls of 81.5tonnes ahead and 81tonnes astern were recorded, as were free running speeds of 13.8knots ahead and 13.7knots astern.
-TECHNICAL PARTICULARS
+Riuniti Group, Italy. The vessel, which was constructed by Turkey’s Med Marine Shipyards, has since been deployed at the Delimara LNG terminal in Malta. The RAstar-series tugs are designed with sponsoned hullforms, for enhanced escort towing and seakeeping performance. Roll motions and accelerations are reportedly less than half those of comparably sized ‘standard’ tug hulls, says RAL. The RAstar 3000-W design for Tug Malta boasts numerous other features for LNG terminal support. For instance, the bow fendering system is designed for a low contact pressure requirement of 20tonnes per m². A gas detection system has been fitted to warn the crew of potential hazardous atmospheres, and the vessel features ventilation dampers that can be remotely closed. All essential electrical equipment on deck is certified for use in a
+Zone 2 LNG environment, while all non- essential electrical equipment can be electrically isolated. FiFi 1 capability with water spray is also provided, along with a large firefighting foam capacity. The RAstar 3000-W was designed with a low profile for operation under the flare of assisted ships. The wheelhouse provides 360° visibility from the operator’s position and unhindered lines of sight to the fore and aft working decks. These decks can be fitted with various machinery options. Tug Malta elected to use a
+Rolls-Royce double drum winch with dual aperture escort staple on the fore deck, and a towing hook on the aft deck, with a future option for an aft towing winch. The bow winch is driven by two high-pressure hydraulic PTO pump units off the front of the main engines. First-layer pull on low speed is 102tonnes at 9m/min, and high-speed pull is 12tonnes at 57m/min. Rendering is 145tonnes at 14m/ min (low speed) and 24tonnes at 51m/min (high speed). Vittoriosa’s accommodations are outfitted to
+MLC-compliant standards, with private en suite washrooms, for up to eight persons. The master and chief engineer cabins are located on the main deck, with three double crew cabins located in the lower accommodations. On trials, Vittoriosa demonstrated nearly equal ahead and astern performance: bollard pulls of 81.5tonnes ahead and 81tonnes astern were recorded, as were free running speeds of 13.8knots ahead and 13.7knots astern. TECHNICAL PARTICULARS
 Length, oa................................................. 29.7m
 Length, bp................................................. 27.5m
 Breadth, moulded...................................... 13.3m
@@ -2374,10 +2177,8 @@ Model...........................................PK 18500 M
 Capacities/SWL...................... 18tonne metres
 Winches
 Number of winches....................................... 1
-Type........................Double drum escort-rated bow winch driven by two high-pressure hydraulic PTO pump units off the front of the main engines.
-Make....................... Rolls-Royce (Kongsberg)
-Model.................................ETWH 2500/1000.
-Capacities....... First-layer pull on low speed is 102tonnes@9m/min and high-speed pull is 12tonnes@57m/min. Rendering is 145tonnes@14m/min low speed and 24tonnes@51m/min high speed
+Type........................Double drum escort-rated bow winch driven by two high-pressure hydraulic PTO pump units off the front of the main engines. Make....................... Rolls-Royce (Kongsberg)
+Model.................................ETWH 2500/1000. Capacities....... First-layer pull on low speed is 102tonnes@9m/min and high-speed pull is 12tonnes@57m/min. Rendering is 145tonnes@14m/min low speed and 24tonnes@51m/min high speed
 Other deck machinery/equipment
 Tow hook
 Make/model............ Data Hidrolik DTH 90-135
@@ -2424,18 +2225,12 @@ Contract date...................................... April 2018
 Delivery date.............................November 2019
 Along with her sister, Zanzibar 1 should fulfil some speedy crossings if her sea trial results are anything to go by; according to designer
 CoCo Yachts, her official speed was clocked at more than 37knots when travelling with a trial load of 45tonnes. The designer partly credits this capability to an extensive round of high- performance computing analysis when designing the ferry’s hull, citing the use of NUMECA
-FINE/Marine CFD software.
-The aluminium ferry (known as the Coastal
+FINE/Marine CFD software. The aluminium ferry (known as the Coastal
 Cruiser 448 class) was designed and built for new
 Tanzanian operator Zan Fast Ferries in accordance with Bureau Veritas’ classification requirements and the terms of IMO High Speed
-Craft Code 2000. Features include “fresh and light” interior design, with big side windows specified to result in decent outside views.
-Zanzibar 1 is also furnished with West Mekan seats with leather upholstery; passengers in gold or platinum class can also take advantage of reclining seats with built-in USB charge points.
-Additional outdoor seating is arranged on the upper aft deck and main deck fore.
-Vessel access is enabled by six electrical winch- operated ramps: four for passengers and two dedicated to luggage trolleys. The ferry has an independent luggage space which can fit 12 luggage trolleys.
-Zanzibar 1 is equipped with an automatic ride control system, supplied by Humphree, which was specified to keep the trim at the optimum point, for reduced fuel consumption. This system is also intended to reduce motions in harsh wave conditions. CoCo Yachts elaborates: “Trials in waves up to 3m confirmed the presence of the
+Craft Code 2000. Features include “fresh and light” interior design, with big side windows specified to result in decent outside views. Zanzibar 1 is also furnished with West Mekan seats with leather upholstery; passengers in gold or platinum class can also take advantage of reclining seats with built-in USB charge points. Additional outdoor seating is arranged on the upper aft deck and main deck fore. Vessel access is enabled by six electrical winch- operated ramps: four for passengers and two dedicated to luggage trolleys. The ferry has an independent luggage space which can fit 12 luggage trolleys. Zanzibar 1 is equipped with an automatic ride control system, supplied by Humphree, which was specified to keep the trim at the optimum point, for reduced fuel consumption. This system is also intended to reduce motions in harsh wave conditions. CoCo Yachts elaborates: “Trials in waves up to 3m confirmed the presence of the
 Humphree system in combination with the hull, where accelerations were less than expected [<1g] and the speed maintained at 35+knots, sailing against the waves.”
-Her sister, Zanzibar 2, is scheduled to enter service in Q1 2020.
-TECHNICAL PARTICULARS
+Her sister, Zanzibar 2, is scheduled to enter service in Q1 2020. TECHNICAL PARTICULARS
 Length, oa............................................... 49.72m
 Length, bp............................................... 47.07m
 Breadth, moulded...................................... 10.9m

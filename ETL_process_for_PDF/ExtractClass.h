@@ -12,7 +12,8 @@ class ExtractClass
         bool isTextMeaningful(const std::string& content);
         bool runOCR(const std::string& pdf, const std::string& txt);
         std::string trim(const std::string& s);
-        void convertTextToCSV(const std::string& text, const std::string& csvFile);
+        void convertTextToCSV(const std::string& text, const std::string& csvFile, std::string baseName);
+        void WriteToFile(std::ofstream& out, std::string nameFile, std::map<std::string, std::string> record);
 	public:
 		void processFile(const std::string& pdf);
 };
