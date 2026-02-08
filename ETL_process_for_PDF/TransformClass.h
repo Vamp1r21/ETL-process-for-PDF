@@ -23,8 +23,7 @@ class TransformClass
 		//ѕреобразование водоизмещени€ судна
 		double TransformationToKg(double number, const std::string& type);
 		std::string NormalizeDisplacement(const std::string& line);
-		void TransformCSVFile(std::string path);
 	public:
-		void TransformationCSVFiles();
+		void TransformCSVFile();
 };
 

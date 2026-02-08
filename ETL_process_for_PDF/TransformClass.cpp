@@ -37,9 +37,16 @@ std::string TransformClass::Trim(const std::string& line)
 
 std::string TransformClass::ReplacementDotToComma(const std::string& line)
 {
-    std::string r = line;
-    std::replace(r.begin(), r.end(), '.', ',');
-    return r;
+    // Проверяем, является ли значение датой (формат DD.MM.YYYY)
+    // Простая проверка по формату
+    if (line.length() == 10 && line[2] == '.' && line[5] == '.') {
+        return line; // Возвращаем дату без изменений
+    }
+
+    // Для чисел: меняем точку на запятую
+    std::string result = line;
+    replace(result.begin(), result.end(), '.', ',');
+    return result;
 }
 
 //Преобразование даты доставки(выпуска) судна
@@ -173,9 +180,9 @@ std::string TransformClass::NormalizeDisplacement(const std::string& line)
     return line;
 }
 
-void TransformClass::TransformCSVFile(std::string path)
+void TransformClass::TransformCSVFile()
 {
-    std::string filename = path;
+    std::string filename = "CSVFiles/allShip.csv";;
     std::ifstream in(filename);
 
     std::vector<std::vector<std::string>> сharacteristics;
@@ -198,11 +205,11 @@ void TransformClass::TransformCSVFile(std::string path)
         setNA("OwnerOperator");
         setNA("Country");
 
-        if (col.count("Deliverydate")) row[col["Deliverydate"]] = NormalizeDate(row[col["Deliverydate"]]);
-        if (col.count("Length")) row[col["Length"]] = NormalizeLength(row[col["Length"]]);
-        if (col.count("MaxSpeed")) row[col["MaxSpeed"]] = NormalizeSpeed(row[col["MaxSpeed"]]);
+        if (col.count("DeliveryDate")) row[col["DeliveryDate"]] = NormalizeDate(row[col["DeliveryDate"]]);
+        if (col.count("Length(m)")) row[col["Length(m)"]] = NormalizeLength(row[col["Length(m)"]]);
+        if (col.count("MaxSpeed(knots)")) row[col["MaxSpeed(knots)"]] = NormalizeSpeed(row[col["MaxSpeed(knots)"]]);
         if (col.count("Gross")) row[col["Gross"]] = NormalizeGross(row[col["Gross"]]);
-        if (col.count("Displacement")) row[col["Displacement"]] = NormalizeDisplacement(row[col["Displacement"]]);
+        if (col.count("Displacement(kg)")) row[col["Displacement(kg)"]] = NormalizeDisplacement(row[col["Displacement(kg)"]]);
     }
 
     std::ofstream out(filename);
@@ -222,21 +229,4 @@ void TransformClass::TransformCSVFile(std::string path)
     }
 
     out.close();
-}
-
-void TransformClass::TransformationCSVFiles()
-{
-    // Проход по всем файлам в папке
-    for (const auto& entry : std::filesystem::directory_iterator("CSVFiles")) {
-        if (entry.is_regular_file()) {
-            std::string fileName = entry.path().filename().string();
-
-            std::string filePath = entry.path().string();
-
-            // Проверка расширения файла
-            if (entry.path().extension() == ".csv") {
-                TransformCSVFile(filePath);
-            }
-        }
-    }
 }

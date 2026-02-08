@@ -120,7 +120,7 @@ int main()
 
     std::cout << "Извлечение выполнено!"<<"\n";
 
-    transformClass.TransformationCSVFiles();
+    transformClass.TransformCSVFile();
 
     std::cout << "Преобразование CSV файлов выполнено";
     return 0;
