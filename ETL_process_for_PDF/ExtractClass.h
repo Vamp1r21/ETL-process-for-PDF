@@ -2,18 +2,22 @@
 #include <string>
 #include <map>
 #include <set>
+#include <vector>
 
 class ExtractClass
 {
 	private:
-        std::string removeSpacesBetweenChars(const std::string& input);
-        std::string removeIndents(const std::string& content);
-        bool needsSpaceRemoval(const std::string& content);
-        bool isTextMeaningful(const std::string& content);
-        bool runOCR(const std::string& pdf, const std::string& txt);
-        std::string trim(const std::string& s);
-        void convertTextToCSV(const std::string& text, const std::string& csvFile, std::string baseName);
+        //PDFToTXT
+        std::string RemoveSpacesBetweenChars(const std::string& input);
+        std::string RemoveIndents(const std::string& content);
+        bool NeedsSpaceRemoval(const std::string& content);
+        //OCR
+        bool IsTextMeaningful(const std::string& content);
+        bool RunOCR(const std::string& pdf, const std::string& txt);
+        //CSV
+        std::string Trim(const std::string& s);
+        void ConvertTextToCSV(const std::string& text, const std::string& csvFile, std::string baseName);
         void WriteToFile(std::ofstream& out, std::string nameFile, std::map<std::string, std::string> record);
 	public:
-		void processFile(const std::string& pdf);
+		void ProcessFile(const std::string& pdf);
 };

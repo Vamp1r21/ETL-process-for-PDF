@@ -130,16 +130,65 @@
   <ItemGroup>
     <ClCompile Include="ExtractClass.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="TransformClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ExtractClass.h" />
+    <ClInclude Include="TransformClass.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="TXTFiles\SS 1998.txt" />
+    <Text Include="TXTFiles\SS 1999.txt" />
+    <Text Include="TXTFiles\SS 2000.txt" />
+    <Text Include="TXTFiles\SS 2001.txt" />
+    <Text Include="TXTFiles\SS 2002.txt" />
+    <Text Include="TXTFiles\SS 2003.txt" />
     <Text Include="TXTFiles\SS 2004.txt" />
+    <Text Include="TXTFiles\SS 2006.txt" />
+    <Text Include="TXTFiles\SS 2007.txt" />
+    <Text Include="TXTFiles\SS 2008.txt" />
+    <Text Include="TXTFiles\SS 2009.txt" />
+    <Text Include="TXTFiles\SS 2010.txt" />
+    <Text Include="TXTFiles\SS 2012.txt" />
+    <Text Include="TXTFiles\SS 2013.txt" />
+    <Text Include="TXTFiles\SS 2014.txt" />
+    <Text Include="TXTFiles\SS 2015.txt" />
+    <Text Include="TXTFiles\SS 2016.txt" />
+    <Text Include="TXTFiles\SS 2018.txt" />
+    <Text Include="TXTFiles\SS 2019.txt" />
+    <Text Include="TXTFiles\SS 2020.txt" />
+    <Text Include="TXTFiles\SS 2021.txt" />
+    <Text Include="TXTFiles\SS 2022.txt" />
+    <Text Include="TXTFiles\SSS 1998.txt" />
+    <Text Include="TXTFiles\SSS 1999.txt" />
+    <Text Include="TXTFiles\SSS 2000.txt" />
+    <Text Include="TXTFiles\SSS 2001.txt" />
+    <Text Include="TXTFiles\SSS 2002.txt" />
+    <Text Include="TXTFiles\SSS 2003.txt" />
+    <Text Include="TXTFiles\SSS 2004.txt" />
+    <Text Include="TXTFiles\SSS 2005.txt" />
+    <Text Include="TXTFiles\SSS 2006.txt" />
+    <Text Include="TXTFiles\SSS 2007.txt" />
+    <Text Include="TXTFiles\SSS 2008.txt" />
+    <Text Include="TXTFiles\SSS 2009.txt" />
+    <Text Include="TXTFiles\SSS 2010.txt" />
+    <Text Include="TXTFiles\SSS 2011.txt" />
+    <Text Include="TXTFiles\SSS 2012.txt" />
+    <Text Include="TXTFiles\SSS 2013.txt" />
+    <Text Include="TXTFiles\SSS 2014.txt" />
+    <Text Include="TXTFiles\SSS 2015.txt" />
+    <Text Include="TXTFiles\SSS 2016.txt" />
+    <Text Include="TXTFiles\SSS 2017.txt" />
+    <Text Include="TXTFiles\SSS 2018.txt" />
+    <Text Include="TXTFiles\SSS 2019.txt" />
+    <Text Include="TXTFiles\SSS 2020.txt" />
+    <Text Include="TXTFiles\SSS 2022.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CSVFiles\allShip.csv" />
+    <None Include="CSVFiles\SS 2002.csv" />
+    <None Include="CSVFiles\SS 2008.csv" />
+    <None Include="CSVFiles\SS 2009.csv" />
     <None Include="CSVFiles\SS 2010.csv" />
     <None Include="CSVFiles\SS 2012.csv" />
     <None Include="CSVFiles\SS 2013.csv" />
@@ -161,6 +210,7 @@
     <None Include="CSVFiles\SSS 2006.csv" />
     <None Include="CSVFiles\SSS 2007.csv" />
     <None Include="CSVFiles\SSS 2008.csv" />
+    <None Include="CSVFiles\SSS 2009.csv" />
     <None Include="CSVFiles\SSS 2010.csv" />
     <None Include="CSVFiles\SSS 2011.csv" />
     <None Include="CSVFiles\SSS 2012.csv" />

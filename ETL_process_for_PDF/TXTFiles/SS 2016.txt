@@ -23,8 +23,12 @@ Telefax: +44 (0) 20 7245 6959
 E-mail: editorial@rina.org.uk advertising@rina.org.uk
 Significant Ships of 2016 1
 © 2017 The Royal Institution of Naval Architects
-This publication is copyright under the Berne Convention. All rights reserved. No part of the publication may be repro- duced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown. Multiple copying of the contents without permission is always illegal. Printed by:
-Stephens and George, Goat Mill Road, Dowlais, Merthyr Tydfil, CF48 3TD, Wales. ISBN: 978-1-909024-61-8
+This publication is copyright under the Berne Convention.
+All rights reserved. No part of the publication may be repro- duced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown.
+Multiple copying of the contents without permission is always illegal.
+Printed by:
+Stephens and George, Goat Mill Road, Dowlais, Merthyr Tydfil, CF48 3TD, Wales.
+ISBN: 978-1-909024-61-8
 CONTENTS
 INTRODUCTION 3
 AIDAprima: Cruiseship with air lubrication 4
@@ -85,8 +89,14 @@ IMO number: ........................................ 9636955
 Total number of sister ships already completed (excluding ship presented): ........................................... 0
 Total number of sister ships still on order: ....... 1
 On 14 March 2016, AIDA Cruises took delivery of the 11th ship in the AIDA fleet from Mitsubishi
-Heavy Industries Ltd. (MHI), Nagasaki, Japan. AIDAprima is the first of a new generation of cruiseships raising environmental protection standards. The newbuilds have an extensive filter system for reducing emissions, with an exhaust treatment technology that filters all three emission types – soot particles, nitrogen oxide, and sulphur oxide. A revolutionary hull design significantly enhances energy efficiency, while an additional first in the cruise industry is the use of the Mitsubishi Air Lubrication
-System (MALS). This modern technology enables the ship to glide on a cushion of air, thus further reducing fuel consumption. The vessel’s state-of-the-art pod drives also significantly lower fuel consumption. In addition, the new generation AIDA ships are the world's first cruiseships to feature dual-fuel engines, which, depending on availability at port, can also be operated with virtually zero-emission liquefied natural gas. Ultramodern resource-saving technologies are also used in the hotel and restaurant area, i.e., from light management and using heat recovery to operate air conditioning systems, to laundry facilities with highly efficient tunnel washers that use even less electricity and water than cutting-edge household washing machines. TECHNICAL PARTICULARS
+Heavy Industries Ltd. (MHI), Nagasaki, Japan.
+AIDAprima is the first of a new generation of cruiseships raising environmental protection standards.
+The newbuilds have an extensive filter system for reducing emissions, with an exhaust treatment technology that filters all three emission types – soot particles, nitrogen oxide, and sulphur oxide.
+A revolutionary hull design significantly enhances energy efficiency, while an additional first in the cruise industry is the use of the Mitsubishi Air Lubrication
+System (MALS). This modern technology enables the ship to glide on a cushion of air, thus further reducing fuel consumption. The vessel’s state-of-the-art pod drives also significantly lower fuel consumption.
+In addition, the new generation AIDA ships are the world's first cruiseships to feature dual-fuel engines, which, depending on availability at port, can also be operated with virtually zero-emission liquefied natural gas.
+Ultramodern resource-saving technologies are also used in the hotel and restaurant area, i.e., from light management and using heat recovery to operate air conditioning systems, to laundry facilities with highly efficient tunnel washers that use even less electricity and water than cutting-edge household washing machines.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 299.95m
 Length bp:............................................ 290.90m
 Breadth moulded: ................................... 37.60m
@@ -131,7 +141,8 @@ Alternator make/type: .................... ABB, AMG 1600QM12LSE x 3, AMG 1600LK1
 Output/speed of each set: ................ 13,000kVA/ 500rpm x 3, 11,700kVA/500rpm x 1
 Exhaust-gas scrubbing equipment
 Manufacturer: ................................. Ecospray
-Technologies, S.r.l. Type: ...............................ECO-SOx Scrubber
+Technologies, S.r.l.
+Type: ...............................ECO-SOx Scrubber
 On main engines? .....Yes, two 12V43MC engines
 On auxiliary engines? .................................No
 Boilers
@@ -196,7 +207,8 @@ Launch/float-out date: ..................... 3 May 2014
 Delivery date: ............................. 14 March 2016
 AIDAprima: Cruiseship with air lubrication 8 Significant Ships of 2016
 Shipbuilder: .......................Jiangsu Hongqiang
-Marine Heavy Industry Co., Ltd. Vessel’s name:............................. BBC BIRTE H
+Marine Heavy Industry Co., Ltd.
+Vessel’s name:............................. BBC BIRTE H
 Hull No: ....................................................HQ088
 Owner/Operator: ..........Krey Schiffahrts GmbH & Co. MS "Graf Johann" KG Leer
 Country: ...............................................Germany
@@ -210,8 +222,14 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order: ........ 1
 BBC BIRTE H is the first vessel of a new generation of multi-purpose vessels for Krey Schiffahrts designed by
 SDARI. The vessel was built by Jiangsu Hongqiang Marine
-Heavy Industry and delivered in May 2016. The second vessel of the series was built by Huanghai Shipbuilding and delivered to Nordic Hamburg Shipping in July 2016. Another 15 vessels in the series are under construction for the above two owners and for German Briese Schiffahrts and Zeaborn. The new ECO multi-purpose vessel is designed with future market requirements in mind, notably energy efficiency, flexibility and sustainability. To cut consumption of fuel oil and emissions of harmful exhaust gases, the ship has the GL class notation Environmental Passport EP-D, including the IHM, EEDI (phase 3) and a ballast water treatment plant. Heavy-lift cargo cranes, the cargo hold and weather deck area will be used to carry long objects, heavy cargoes, containers, dry bulk and grain cargoes, as well as dangerous goods. The two stroke electronic controlled fuel injection G type main engine, tunnel gearbox, shaft generator and fixed pitch propeller comprise the main propulsion system to ensure outstanding fuel consumption performance. The vessel’s hull lines have been optimised using advanced
-CFD and verified by model tank tests at FORCE. To improve the performance of fuel oil consumption under service conditions, the hull line optimisation was based on the operational profile of the vessel. The vessel’s cargo holds have been constructed with a double skin and a double bottom and side tanks. The cargo hold area is divided into two holds. Cargo hold 2 is a large box-shaped hold (76.5m x 17.6m) and can carry all kinds of heavy goods as well as containers. The surface loads of hatch covers are 8tonnes/m2, and tweendeck hatch covers 4tonnes/ m2. The inner bottom has a surface load of 18tonnes/m2,a block load of 25tonnes/m2 and is strengthened for discharge by grabs. The tweendeck hatch covers can also be used as grain transverse bulkheads in hold 2. Two wire luffing heavy lift cargo cranes each of SWL 250tonne capacity are installed on the port side. Combined lifting capacity will be 500tonnes using the lifting beam. No stabilising pontoon is needed as the lifting operation will be carried out using an anti-heeling ballast system. The propulsion plant consists of a MAN B&W two- stroke marine diesel engine type 5G45. Rating power is 4,800kW at 94rpm, complying with IMO Tier II exhaust gas emission requirements. To decrease the fuel oil consumption, a shaft generator with tunnel gearbox and a fixed pitch propeller was fitted. TECHNICAL PARTICULARS
+Heavy Industry and delivered in May 2016. The second vessel of the series was built by Huanghai Shipbuilding and delivered to Nordic Hamburg Shipping in July 2016. Another 15 vessels in the series are under construction for the above two owners and for German Briese Schiffahrts and Zeaborn.
+The new ECO multi-purpose vessel is designed with future market requirements in mind, notably energy efficiency, flexibility and sustainability. To cut consumption of fuel oil and emissions of harmful exhaust gases, the ship has the GL class notation Environmental Passport EP-D, including the IHM, EEDI (phase 3) and a ballast water treatment plant. Heavy-lift cargo cranes, the cargo hold and weather deck area will be used to carry long objects, heavy cargoes, containers, dry bulk and grain cargoes, as well as dangerous goods. The two stroke electronic controlled fuel injection G type main engine, tunnel gearbox, shaft generator and fixed pitch propeller comprise the main propulsion system to ensure outstanding fuel consumption performance.
+The vessel’s hull lines have been optimised using advanced
+CFD and verified by model tank tests at FORCE. To improve the performance of fuel oil consumption under service conditions, the hull line optimisation was based on the operational profile of the vessel.
+The vessel’s cargo holds have been constructed with a double skin and a double bottom and side tanks. The cargo hold area is divided into two holds. Cargo hold 2 is a large box-shaped hold (76.5m x 17.6m) and can carry all kinds of heavy goods as well as containers. The surface loads of hatch covers are 8tonnes/m2, and tweendeck hatch covers 4tonnes/ m2. The inner bottom has a surface load of 18tonnes/m2,a block load of 25tonnes/m2 and is strengthened for discharge by grabs. The tweendeck hatch covers can also be used as grain transverse bulkheads in hold 2.
+Two wire luffing heavy lift cargo cranes each of SWL 250tonne capacity are installed on the port side. Combined lifting capacity will be 500tonnes using the lifting beam. No stabilising pontoon is needed as the lifting operation will be carried out using an anti-heeling ballast system.
+The propulsion plant consists of a MAN B&W two- stroke marine diesel engine type 5G45. Rating power is 4,800kW at 94rpm, complying with IMO Tier II exhaust gas emission requirements. To decrease the fuel oil consumption, a shaft generator with tunnel gearbox and a fixed pitch propeller was fitted.
+TECHNICAL PARTICULARS
 Length oa: .................................................................... 147m
 Length bp: .................................................................... 140m
 Breadth moulded: ...................................................... 22.80m
@@ -255,7 +273,8 @@ Output speed: ................................................. 1,500r/min
 Propeller(s)
 Material: ......................................................................Cu 3
 Designer/Manufacturer: ......................................Wärtsilä‐
-CME Zhenjiang Propeller Co., Ltd. Number:......................................................................... 1
+CME Zhenjiang Propeller Co., Ltd.
+Number:......................................................................... 1
 Fixed/Controllable pitch:.......................................... Fixed
 Diameter:................................................................ 5.70m
 Speed: ....................................................................89rpm
@@ -284,7 +303,8 @@ Performance: ........................ Main hook 250tonnes/18m, 125tonnes/33m; Au
 Other cranes
 Number: ......................................................................... 1
 Make: ..........................................Zhenjiang NMF-Mariner
-Ship's Equipment Co. Ltd. Type: ..................................................... Electro-hydraulic
+Ship's Equipment Co. Ltd.
+Type: ..................................................... Electro-hydraulic
 Tasks: ........................................... Provisions and lifeboat
 Performance:........................... SWL 6.5tonnes, 3m~14m
 Mooring equipment
@@ -293,7 +313,8 @@ Make: ................................................................HATLAPA
 Type: .................................................................... Electric
 Special lifesaving equipment
 Number of each and capacity: ..........................1 free-fall lifeboat x 24 persons
-Make: ........ Jiangyin Neptune Marine Appliance Co. Ltd. Type: ...........................................................NPT59FC-28
+Make: ........ Jiangyin Neptune Marine Appliance Co. Ltd.
+Type: ...........................................................NPT59FC-28
 Hatch covers
 Design: .......................................................... TTS HuaHai
 Manufacturer:................................................ TTS HuaHai
@@ -362,8 +383,16 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order: ........ 3
 BRITISH NIMBUS is the second in a series of five product/chemical tankers for owner ICBC
 Leasing and operator BP that was delivered in
-December 2016 from Hyundai Mipo Dockyard (HMD). The vessel was designed by HMD and registered under the Isle of Man flag with LR class. Unlike the first vessel in series, British Nimbus and the third vessel in series have scrubber systems fitted. The vessel is an ocean going product/chemical tanker for worldwide service with bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single semi-balanced rudder and single screw propeller driven by a slow speed diesel engine. There are six pairs of cargo oil tanks, a pair of slop tanks with one residual oil tank and six pairs of water ballast tanks. There is also a fore peak tank with two access trunks from the upper deck and an aft peak tank. Four heavy fuel oil storage tanks are arranged between the cargo space and engine room and in the engine room with a double hull structure. Two of those are used for marine gas oil storage. Technical fresh water tanks are arranged between the side shell and heavy fuel oil storage tanks. The strengthened hull, shaft and propeller are designed according to ice class 1B. An IMO-approved type ballast water treatment system based on electro chlorination is installed. One exhaust gas scrubber system is installed for
-SOx reduction. TECHNICAL PARTICULARS
+December 2016 from Hyundai Mipo Dockyard (HMD). The vessel was designed by HMD and registered under the Isle of Man flag with LR class.
+Unlike the first vessel in series, British Nimbus and the third vessel in series have scrubber systems fitted.
+The vessel is an ocean going product/chemical tanker for worldwide service with bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single semi-balanced rudder and single screw propeller driven by a slow speed diesel engine.
+There are six pairs of cargo oil tanks, a pair of slop tanks with one residual oil tank and six pairs of water ballast tanks. There is also a fore peak tank with two access trunks from the upper deck and an aft peak tank.
+Four heavy fuel oil storage tanks are arranged between the cargo space and engine room and in the engine room with a double hull structure. Two of those are used for marine gas oil storage.
+Technical fresh water tanks are arranged between the side shell and heavy fuel oil storage tanks. The strengthened hull, shaft and propeller are designed according to ice class 1B.
+An IMO-approved type ballast water treatment system based on electro chlorination is installed.
+One exhaust gas scrubber system is installed for
+SOx reduction.
+TECHNICAL PARTICULARS
 Length oa: ..........................................Abt, 183m
 Length bp: ................................................. 174m
 Breadth moulded: ..................................... 32.2m
@@ -455,7 +484,8 @@ Cargo pumps
 Number: ..................................................... 14
 Type: ........................Submerged, Centrifugal
 Make: ................................................... Framo
-Stainless steel: ............................................... Capacity (each): ........ 500m3/h x 10,300m3/h, 200m3/h x 2
+Stainless steel: ...............................................
+Capacity (each): ........ 500m3/h x 10,300m3/h, 200m3/h x 2
 Cargo control system
 Make: ................................................... Framo
 Type: ................................remotely controlled
@@ -500,18 +530,25 @@ Contract date: ...................... 12 December 2013
 Launch/float-out date: ........ 23 September 2016
 Delivery date: ...................... 29 December 2016
 BRITISH NIMBUS: 39,999dwt product/chemical tanker 12 Significant Ships of 2016
-Shipbuilder: ................................. STX Offshore & Shipbuilding Co. Ltd. Vessel’s name: ....................BRITISH RESPECT
+Shipbuilder: ................................. STX Offshore & Shipbuilding Co. Ltd.
+Vessel’s name: ....................BRITISH RESPECT
 Hull No: .....................................................S1611
 Owner/Operator: .............. BP Shipping Limited
 Country: ...................................United Kingdom
-Designer: ..................................... STX Offshore & Shipbuilding Co. Ltd. Country: ................................Republic of Korea
+Designer: ..................................... STX Offshore & Shipbuilding Co. Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ............... SSPA
 Flag: ..................................................Isle of Man
 IMO number: ........................................ 9683001
 Total number of sister ships already completed (excluding ship presented):............................................ 8
 STX Offshore & Shipbuilding constructed the 110,000dwt crude/dirty product oil tanker
 British Respect at Jinhae Shipyard. The vessel is 249.85m in length, 44m wide and 21.30m high. Its service speed at design draught is 14.5knots at 75%
-MCR power of the main engine without sea margin, and the maximum deadweight is 109,584 metric tonnes on the summer draught of 15m. The cargo area has three longitudinal bulkheads with double bottom and double hull, and consists of six pairs of cargo oil tanks, one pair of slop tanks, and seven pairs of segregated water ballast tanks. The aft body with transom stern is used for the steering gear compartment, distilled water tanks and aft peak tank. A mewis duct has been installed on the ship with an expected power saving of about 3% compared with vessels of a similar size without a mewis duct. The propulsion machinery consists of one two- stroke STX MAN 6G60ME-C9.2 engine, and the electric generating plant consists of three sets of main diesel generator engines and one emergency diesel generator engine. TECHNICAL PARTICULARS
+MCR power of the main engine without sea margin, and the maximum deadweight is 109,584 metric tonnes on the summer draught of 15m.
+The cargo area has three longitudinal bulkheads with double bottom and double hull, and consists of six pairs of cargo oil tanks, one pair of slop tanks, and seven pairs of segregated water ballast tanks.
+The aft body with transom stern is used for the steering gear compartment, distilled water tanks and aft peak tank.
+A mewis duct has been installed on the ship with an expected power saving of about 3% compared with vessels of a similar size without a mewis duct.
+The propulsion machinery consists of one two- stroke STX MAN 6G60ME-C9.2 engine, and the electric generating plant consists of three sets of main diesel generator engines and one emergency diesel generator engine.
+TECHNICAL PARTICULARS
 Length oa: ................................Approx 249.85m
 Length bp: ................................................. 239m
 Breadth moulded: ........................................ 44m
@@ -545,7 +582,8 @@ Tensile Steel, ShipRight(BWMP(T), MCM, MPMS, SCM, SERS)” % high-tensile steel 
 Main engine(s)
 Design: ...........................MAN Diesel & Turbo
 Model: ............STX-MAN B&W 6G60ME-C9.2
-Manufacturer: ........................ STX HI Co. Ltd. Number: .................................................. One
+Manufacturer: ........................ STX HI Co. Ltd.
+Number: .................................................. One
 Type of fuel: .................................. HFO, MGO
 Output of each engine: ..................11,890kW, 78rpm (MCR)
 Propeller(s)
@@ -635,17 +673,24 @@ Contract date: ...................... 20 December 2012
 Launch/float-out date: ...............13 August 2015
 Delivery date: ...........................5 February 2016
 BRITISH RESPECT: 110,000dwt crude/ dirty product oil tanker *Please note the vessel pictured is a sister ship 16 Significant Ships of 2016
-Shipbuilder: ...................Hanjin Heavy Industry & Construction Co., Ltd. Vessel’s name: .............................. Cape Akritas
+Shipbuilder: ...................Hanjin Heavy Industry & Construction Co., Ltd.
+Vessel’s name: .............................. Cape Akritas
 Hull No: ................................................NCP0113
-Owner/Operator: ....................... Costamare Inc. Country: ..................................................Greece
-Designer: .......................Hanjin Heavy Industry & Construction Co., Ltd. Country: ................................Republic of Korea
+Owner/Operator: ....................... Costamare Inc.
+Country: ..................................................Greece
+Designer: .......................Hanjin Heavy Industry & Construction Co., Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ..............KRISO
 Flag: ........................................................... Malta
 IMO number: ........................................ 9706190
 Total number of sister ships already completed (excluding ship presented): ......... 0
 Total number of sister ships still on order: ........ 4
-CAPE AKRITAS is the first twin island type 11,000TEU container carrier to be built by HHIC-Phil, Subic. The vessel is powered by a MAN B&W 8G95ME-C9.5 main engine which produces SMCR of 42,310kW at 76.9rpm to give the vessel a service speed of 22knots at NCR with 15% sea margin on 13m draught. The vessel’s hull form, in compliance with the owner’s operation profile, has superior propulsion efficiency with lower resistance with a rudder bulb as an additional energy saving device. Fatigue analysis complying with the
-RSD (25) notation was applied to the hull structure based on a 25 year operational life in a North Atlantic wave environment. The vessel is 48.2m across the beam for the new expanded Panama Canal transit and 27.2m deep with a scantling draught of 16m. This makes it suitable for carrying 11,037TEU, including 1,400FEU of reefer containers. With the laden container having the homogeneous unit weight of 14MT/TEU, intake is 8,470TEU. The accommodation is separate from the engine casing & funnel as per the twin island type and provides for 28 officers and crew including 6 Suez Canal crew. TECHNICAL PARTICULARS
+CAPE AKRITAS is the first twin island type 11,000TEU container carrier to be built by HHIC-Phil, Subic. The vessel is powered by a MAN B&W 8G95ME-C9.5 main engine which produces SMCR of 42,310kW at 76.9rpm to give the vessel a service speed of 22knots at NCR with 15% sea margin on 13m draught.
+The vessel’s hull form, in compliance with the owner’s operation profile, has superior propulsion efficiency with lower resistance with a rudder bulb as an additional energy saving device. Fatigue analysis complying with the
+RSD (25) notation was applied to the hull structure based on a 25 year operational life in a North Atlantic wave environment.
+The vessel is 48.2m across the beam for the new expanded Panama Canal transit and 27.2m deep with a scantling draught of 16m. This makes it suitable for carrying 11,037TEU, including 1,400FEU of reefer containers. With the laden container having the homogeneous unit weight of 14MT/TEU, intake is 8,470TEU.
+The accommodation is separate from the engine casing & funnel as per the twin island type and provides for 28 officers and crew including 6 Suez Canal crew.
+TECHNICAL PARTICULARS
 Length oa:.................................................................... 330m
 Length bp: ................................................................. 316.4m
 Breadth moulded: ........................................................ 48.2m
@@ -707,7 +752,8 @@ Boilers
 Number: ..................................................................2 sets
 Type: ................................................Vertical Smoke Tube
 Make: ...............................................................KANGRIM
-Output, each boiler: ......................EGB- 2,500kg/h, AUX. BOILER- 3,500kg/h
+Output, each boiler: ......................EGB- 2,500kg/h, AUX.
+BOILER- 3,500kg/h
 Other cranes
 Number: ..................................................................2 sets
 Make: ...................................................................Oriental
@@ -726,10 +772,12 @@ Make: .................................................................. FLUTEK
 Type (electric/hydraulic/steam): ................. Electric motor driven type
 Special lifesaving equipment (eg MES, free-fall lifeboats)
 Number of each and capacity: .................2 x 30 Persons
-Make: ..................................... DSB Engineering Co., Ltd. Type: .................................................Hinged gravity type
+Make: ..................................... DSB Engineering Co., Ltd.
+Type: .................................................Hinged gravity type
 Hatch covers
 Design:........................................................... MacGregor
-Manufacturer: ................................Hanjin Heavy Industry & Construction Co. Ltd. Type (upper deck/other decks):................ Lift-away type
+Manufacturer: ................................Hanjin Heavy Industry & Construction Co. Ltd.
+Type (upper deck/other decks):................ Lift-away type
 Containers
 Lengths: ......................6,058mm (20ft), 12,192mm (40ft), 14,631(43ft), 16,154(54ft)
 Heights: ......2,591mm (20ft & 40ft) 2,908mm (48ft & 53ft)
@@ -740,7 +788,8 @@ In holds: ............................................................. 4,587
 Homogeneously loaded to 14tonnes: ................ 8,437
 Reefer plugs: .1,453FEU [948FEU(on deck) + 452FEU(in cargo hold) + 53FEU(socket only)]
 Tiers/rows (maximum)
-On deck: ............................................................ 10/19 . In holds: ............................................................. 10/17
+On deck: ............................................................ 10/19 .
+In holds: ............................................................. 10/17
 Hold refrigeration system: ........................................None
 Ballast control system
 Make: ................................................................. Emerson
@@ -799,8 +848,15 @@ Total number of sister ships still on order: ..............From this platform fo
 Carnival Group (1 for CCL, 2 for
 Costa Asia, 1 for P&O Australia)
 CARNIVAL VISTA, which flies the Panama flag, is not only the thirteenth ship built so far by
-Fincantieri for the fleet of Carnival Cruise Line, but also the largest. According to the shipyard, it sets a new technological benchmark in terms of cutting edge layout, extremely high performance and high quality technical solutions. The interior fittings, for example, are of an extremely high quality, offering a wide range of onboard entertainments, such as an IMAX 3D cinema, a 5D cinema, a brewery with onboard craft beer production, restaurants, theatres, shops and wellness centres. Innovations include an open-air bike course at 45metres above sea level, and the fleet’s biggest waterpark, the WaterWorks, which features a 137m long waterslide. Finally there is the Havana Area, a themed private and exclusive area, with cabins, open bars and an Infinity
-Pool that can only be accessed by passengers whose cabins are in the Havana Area during the day. The new ship is built according to the latest navigation regulations and equipped with the most modern safety systems, including the Safe Return to Port standards. Furthermore, it features the most advanced technologies for energy-saving and for meeting the strictest environmental regulations with energy- efficient engines and an exhaust gas cleaning system. TECHNICAL PARTICULARS
+Fincantieri for the fleet of Carnival Cruise Line, but also the largest.
+According to the shipyard, it sets a new technological benchmark in terms of cutting edge layout, extremely high performance and high quality technical solutions.
+The interior fittings, for example, are of an extremely high quality, offering a wide range of onboard entertainments, such as an IMAX 3D cinema, a 5D cinema, a brewery with onboard craft beer production, restaurants, theatres, shops and wellness centres.
+Innovations include an open-air bike course at 45metres above sea level, and the fleet’s biggest waterpark, the WaterWorks, which features a 137m long waterslide.
+Finally there is the Havana Area, a themed private and exclusive area, with cabins, open bars and an Infinity
+Pool that can only be accessed by passengers whose cabins are in the Havana Area during the day.
+The new ship is built according to the latest navigation regulations and equipped with the most modern safety systems, including the Safe Return to Port standards.
+Furthermore, it features the most advanced technologies for energy-saving and for meeting the strictest environmental regulations with energy- efficient engines and an exhaust gas cleaning system.
+TECHNICAL PARTICULARS
 Length oa: .............................................. 321.5m
 Length bp: ................................................. 286m
 Depth moulded
@@ -896,8 +952,14 @@ Flag:....................................................... Panama
 IMO Number:......................................... 9683142
 Total number of sister ships already completed (excluding ship presented):..........................Nil
 Total number of sister ships still on order: ......Nil
-DLV 2000, McDermott’s new flagship, is designed to work on projects requiring a combination of pipelay, heavy lift and offshore workforce accommodation – projects that would normally require multiple vessels. McDermott expects the vessel to be a key asset for field development in remote locations because of its versatile construction capabilities and fast transit speed. Developed by Keppel's in-house design and development arm, Marine Technology
-Development, DLV 2000 is capable of achieving efficient pipelay rates for long trunklines and operating in severe weather conditions while maintaining significant thrust output and power distribution. The vessel can accommodate up to 400 personnel to facilitate large hook-up and commissioning projects. It has a transit speed of 14knots and incorporates a large, 43,000 square foot open deck to allow for the transportation and assembly of large subsea structures and to enable safe and efficient stand-alone operations in remote areas. The vessel has also been designed and constructed to accommodate a deepwater, 500-tonne flexlay system that can be installed, at a future date, in response to specific market needs. DLV 2000’s combination of S-lay, heavy lift, large deck space and accommodation coupled with efficient transit speed provides McDermott with a vessel that can execute projects in all major oil and gas basins around the globe. Highlights: • Versatile combination heavy lift and pipelay vessel with 2,200-tonne crane • Multiple cranes for construction, pipeline and deepwater installation • Deepwater S-Lay capability from 4.5 to 60inches • Pipelay operations in single or double joint configuration • DP3 compliant dynamic positioning system
+DLV 2000, McDermott’s new flagship, is designed to work on projects requiring a combination of pipelay, heavy lift and offshore workforce accommodation – projects that would normally require multiple vessels.
+McDermott expects the vessel to be a key asset for field development in remote locations because of its versatile construction capabilities and fast transit speed.
+Developed by Keppel's in-house design and development arm, Marine Technology
+Development, DLV 2000 is capable of achieving efficient pipelay rates for long trunklines and operating in severe weather conditions while maintaining significant thrust output and power distribution.
+The vessel can accommodate up to 400 personnel to facilitate large hook-up and commissioning projects. It has a transit speed of 14knots and incorporates a large, 43,000 square foot open deck to allow for the transportation and assembly of large subsea structures and to enable safe and efficient stand-alone operations in remote areas.
+The vessel has also been designed and constructed to accommodate a deepwater, 500-tonne flexlay system that can be installed, at a future date, in response to specific market needs.
+DLV 2000’s combination of S-lay, heavy lift, large deck space and accommodation coupled with efficient transit speed provides McDermott with a vessel that can execute projects in all major oil and gas basins around the globe.
+Highlights: • Versatile combination heavy lift and pipelay vessel with 2,200-tonne crane • Multiple cranes for construction, pipeline and deepwater installation • Deepwater S-Lay capability from 4.5 to 60inches • Pipelay operations in single or double joint configuration • DP3 compliant dynamic positioning system
 TECHNICAL PARTICULARS
 Length oa:.................................................. 184m
 Length bp:.................................................. 180m
@@ -1000,12 +1062,19 @@ Flag: ...................................................... Panama
 IMO number: ........................................ 9728069
 Total number of sister ships already completed (excluding ship presented): ....1
 Total number of sister ships still on order:......... 2
-The delivery of “K” Line’s DRIVE GREEN HIGHWAY this year was a milestone in the Drive Green project launched in 2014 to use the world’s most advanced technologies to build a 7,500 unit car carrier which provides both environmental protection and energy savings. The project was launched with the aim of reducing CO 2 emissions by 25% compared with more conventional designs using advanced hull design and energy saving technology. A NOx suppression device has been installed on the main engine, which reduces both CO 2 and NOx emissions by the combination of an exhaust gas recirculation system and water emulsion fuel designed by
+The delivery of “K” Line’s DRIVE GREEN HIGHWAY this year was a milestone in the Drive Green project launched in 2014 to use the world’s most advanced technologies to build a 7,500 unit car carrier which provides both environmental protection and energy savings. The project was launched with the aim of reducing CO 2 emissions by 25% compared with more conventional designs using advanced hull design and energy saving technology.
+A NOx suppression device has been installed on the main engine, which reduces both CO 2 and NOx emissions by the combination of an exhaust gas recirculation system and water emulsion fuel designed by
 Kawasaki Heavy Industries. The SOx reduction method installed – a SOx scrubber – was produced by Mitsubishi
-Heavy Industries and Mitsubishi Kakoki Kaisha. In addition to the above energy saving equipment, LED lighting has been installed through most of the ship, with the LED lights on car decks supplied by a solar power system manufactured by Solar Frontier. With a maximum capacity of 7,500 passenger cars the ship can also carry other types of cargo. The design of the Drive Green Highway aims to reduce wind resistance and provides extra stability. Other sustainable technologies contributing to the reduction of fuel consumption are the use of a special coating which reduces the ship’s resistance and the design of the ship’s screw, which increases efficiency. Drive Green Highway integrates among the world’s most advanced environmentally friendly and energy- saving technologies, including greenhouse gas suppression systems fitted to Solar Frontier’s CIS solar panels on its decks. The vessel has one of the largest solar energy systems on any ship in the world, with more than 900 of Solar Frontier’s CIS solar panels installed on the vessel’s top deck offering a 150 kilowatt- peak of electricity generating capacity. The electricity generated by these solar panels will be used to power all
-LED lighting on the vehicle decks. “K” Line selected Solar Frontier’s CIS modules to install on their new ship because they generate higher electricity yield (kilowatt-hours per kilowatt-peak) than crystalline silicon solar panels in real-world conditions. Their strength in hot environments and salt-mist environments, such as at sea, will also support Drive
-Green Highway as it carries cargo around the world. With its design and technology improvements, Drive
-Green Highway will emit 25% less carbon dioxide, 50% less nitrogen oxide and 90% less sulphur oxide per vehicle transported. TECHNICAL PARTICULARS
+Heavy Industries and Mitsubishi Kakoki Kaisha.
+In addition to the above energy saving equipment, LED lighting has been installed through most of the ship, with the LED lights on car decks supplied by a solar power system manufactured by Solar Frontier.
+With a maximum capacity of 7,500 passenger cars the ship can also carry other types of cargo. The design of the Drive Green Highway aims to reduce wind resistance and provides extra stability. Other sustainable technologies contributing to the reduction of fuel consumption are the use of a special coating which reduces the ship’s resistance and the design of the ship’s screw, which increases efficiency.
+Drive Green Highway integrates among the world’s most advanced environmentally friendly and energy- saving technologies, including greenhouse gas suppression systems fitted to Solar Frontier’s CIS solar panels on its decks. The vessel has one of the largest solar energy systems on any ship in the world, with more than 900 of Solar Frontier’s CIS solar panels installed on the vessel’s top deck offering a 150 kilowatt- peak of electricity generating capacity. The electricity generated by these solar panels will be used to power all
+LED lighting on the vehicle decks. “K” Line selected Solar Frontier’s CIS modules to install on their new ship because they generate higher electricity yield (kilowatt-hours per kilowatt-peak) than crystalline silicon solar panels in real-world conditions.
+Their strength in hot environments and salt-mist environments, such as at sea, will also support Drive
+Green Highway as it carries cargo around the world.
+With its design and technology improvements, Drive
+Green Highway will emit 25% less carbon dioxide, 50% less nitrogen oxide and 90% less sulphur oxide per vehicle transported.
+TECHNICAL PARTICULARS
 Length oa: ......................................................max. 199.99m
 Breadth moulded: ...................................................... 37.50m
 Depth moulded
@@ -1021,36 +1090,44 @@ NS*(VC, EQ C DG, PSPC-WBT)(IWS)(PSCM) (EA + STS, BWTS, SCELL-11)(BWTS) (IHM), MN
 Main engine(s)
 Design: ............................................................ MAN B&W
 Model: ........................................................ 7S60ME-C8.2
-Manufacturer: .................Kawasaki Heavy Industries Ltd. Number: ......................................................................... 1
+Manufacturer: .................Kawasaki Heavy Industries Ltd.
+Number: ......................................................................... 1
 Type of fuel: ................................................. HFO or MDO
 Output of each engine: .................................... 13,000kW
 Propeller(s)
 Material:....................................................... Ni-Al-Bronze
-Designer/Manufacturer: ................ Japan Marine United / Nakashima Propeller Co., Ltd. Number: ......................................................................... 1
+Designer/Manufacturer: ................ Japan Marine United / Nakashima Propeller Co., Ltd.
+Number: ......................................................................... 1
 Fixed/Controllable pitch: .................................Fixed pitch
 Diesel-driven alternators
 Number: ......................................................................... 3
-Engine make/type: ........... Daihatsu Diesel Mfg. Co., Ltd. Type of fuel: ................................................. HFO or MDO
-Alternator make/type: .................... Taiyo Electric Co, Ltd. Boilers
+Engine make/type: ........... Daihatsu Diesel Mfg. Co., Ltd.
+Type of fuel: ................................................. HFO or MDO
+Alternator make/type: .................... Taiyo Electric Co, Ltd.
+Boilers
 Number: ......................................................................... 1
 Type:...................................... Vertical Smoke-tube boiler
-Make: ....................................Osaka Boiler Mfg. Co., Ltd. Mooring equipment
+Make: ....................................Osaka Boiler Mfg. Co., Ltd.
+Mooring equipment
 Number: .......................2 x windlass and mooring winch, 4 x mooring winch
 Make: .............................................Nippon Pusnes Co. Ltd
 Type (electric/hydraulic/steam): ...............Electro-hydraulic driven
 Vehicles
 Total cars: .......................................................... 7,500 units
 Ballast control system
-Make:.................................................... Musasino Co., Ltd. Water Ballast Treatment System
+Make:.................................................... Musasino Co., Ltd.
+Water Ballast Treatment System
 Make: ...................................................................Alfa Laval
 Complement
 Officers: ...........................................................................10
 Crew: ...............................................................................13
 Supernumaries/Spare:.......................................................8
 Bow thruster(s)
-Make: ...............................Kawasaki Heavy Industries, Ltd. Number: .............................................................................1
+Make: ...............................Kawasaki Heavy Industries, Ltd.
+Number: .............................................................................1
 Fire detection system
-Make: .....................................Consilium Nittan Marine Ltd. Fire extinguishing systems
+Make: .....................................Consilium Nittan Marine Ltd.
+Fire extinguishing systems
 Engine room
 Make/Type: ................. Kashiwa / High expansion foam
 Vehicle spaces
@@ -1061,13 +1138,15 @@ Public spaces
 Make/Type: .....................................................Sea water
 Radars
 Number: .............................................................................2
-Make:................................................ Japan Radio Co., Ltd. Integrated bridge system? .................................................. No
+Make:................................................ Japan Radio Co., Ltd.
+Integrated bridge system? .................................................. No
 Delivery date: ..............................................9 February 2016
 DRIVE GREEN HIGHWAY: Car carrier 28 Significant Ships of 2016
 Shipbuilder: .........Royal Bodewes, Papenburg
 Vessel’s name: ......................................Eeva VG
 Hull No: ......................................................... 742
-Owner/Operator: ...Gaiamare Ltd/Meriaura Ltd. Country: ................................................. Finland
+Owner/Operator: ...Gaiamare Ltd/Meriaura Ltd.
+Country: ................................................. Finland
 Designer: ... Meriaura – Bodewes – Groot Ship
 Design – Aker Arctic - Foreship
 Country: ...........................Finland, Netherlands
@@ -1078,7 +1157,11 @@ Total number of sister ships already completed (excluding ship presented): .....
 EEVA VG is a 5,000dwt general cargo carrier, the first of the VG EcoCoaster-series. VG
 EcoCoaster is a new ship concept developed by
 Finnish Meriaura Group in cooperation with
-Foreship Ltd. and Aker Arctic Technology Inc. The basis of the EcoCoaster design has been to minimise environmental pressure, with various environmentally friendly solutions adapted into the shipbuilding process. The vessels are optimised for open seas when operating on relatively low speed, while at the same time decreasing the daily fuel consumption by half compared with a conventional vessel of similar type. This is accomplished by designing the optimal hull shape for low speed and optimising the main engine solely for open sea operations. Requisite ice power is gained from auxiliary engines for the propeller through the PTI system/setup. Another significant feature is the possibility of using biofuel for the main engine. The main engine is the 1,650kW ABC (Anglo Belgian Corporation), specially equipped for biofuel adapted systems. In addition, there are two separate independent systems for fuel storage and handling, one for biofuel and one for diesel. The main engine has a catalytic converter which ensures very low levels of NOx emissions. When run on biofuel, the vessel emits close to zero emissions of carbon, sulphur, and nitrogen. The waste-based biofuel for the vessels is produced in VG-Shipping’s (part of Meriaura group) own refinery. The vessel’s environmental impact is also reduced by heat recovery from the central heating, air conditioning, and cargo hold washing systems, and a variety of other measures. The ship is fitted with a ballast water treatment system, energy efficient LEDs for lighting, and the hull is painted with environmentally friendly, non-toxic Ecospeed paint that improves energy efficiency. TECHNICAL PARTICULARS
+Foreship Ltd. and Aker Arctic Technology Inc.
+The basis of the EcoCoaster design has been to minimise environmental pressure, with various environmentally friendly solutions adapted into the shipbuilding process. The vessels are optimised for open seas when operating on relatively low speed, while at the same time decreasing the daily fuel consumption by half compared with a conventional vessel of similar type. This is accomplished by designing the optimal hull shape for low speed and optimising the main engine solely for open sea operations. Requisite ice power is gained from auxiliary engines for the propeller through the PTI system/setup.
+Another significant feature is the possibility of using biofuel for the main engine. The main engine is the 1,650kW ABC (Anglo Belgian Corporation), specially equipped for biofuel adapted systems. In addition, there are two separate independent systems for fuel storage and handling, one for biofuel and one for diesel. The main engine has a catalytic converter which ensures very low levels of NOx emissions. When run on biofuel, the vessel emits close to zero emissions of carbon, sulphur, and nitrogen. The waste-based biofuel for the vessels is produced in VG-Shipping’s (part of Meriaura group) own refinery.
+The vessel’s environmental impact is also reduced by heat recovery from the central heating, air conditioning, and cargo hold washing systems, and a variety of other measures. The ship is fitted with a ballast water treatment system, energy efficient LEDs for lighting, and the hull is painted with environmentally friendly, non-toxic Ecospeed paint that improves energy efficiency.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 103m
 Length bp: .............................................. 101.2m
 Breadth moulded: ..................................... 13.6m
@@ -1185,19 +1268,25 @@ Contract date:...................... 10 December 2014
 Launch/float-out date: ..............4 February 2016
 Delivery date: ..................... 30 September 2016
 EEVA VG: EcoCoaster cargo carrier 30 Significant Ships of 2016
-Shipbuilder: ...................Hanjin Heavy Industry & Construction Co., Ltd. Vessel’s name:....................... Engie Zeebrugge
+Shipbuilder: ...................Hanjin Heavy Industry & Construction Co., Ltd.
+Vessel’s name:....................... Engie Zeebrugge
 Hull No: ................................................ SN00268
 Owner/Operator: ............. LNG Link Investment
 Country: ................................................ Belgium
-Designer: .......................Hanjin Heavy Industry & Construction Co., Ltd. Country: ................................Republic of Korea
+Designer: .......................Hanjin Heavy Industry & Construction Co., Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ............... SSPA
 Flag: ...................................................... Belgium
 IMO number: ........................................ 9750024
 Total number of sister ships already completed (excludingship presented): ............ 0
 Total number of sister ships still on order: ........ 0
-ENGIE ZEEBRUGGE is a 5,100m3 LNG bunkering vessel. It has two full spade rudders with flap and twin shafts and a controllable pitch propeller directly driven by a medium speed dual fuel engine; design fatigue life is a minimum of 40 years based on worldwide wave conditions. The vessel has two IMO type C independent cylindrical cargo tanks designed for a minimum temperature of minus 163oC and design vapour pressure of 4.0bar G. It can provide LNG bunkering services for LNG fuelled vessels using cryogenic flexible hoses (similar to ship-to-ship transfer) at a maximum bunkering rate of about 1,000m3/h. Boil off gas (BOG/cargo vapour) is used as fuel for the dual fuel main engine and generator engine, and
+ENGIE ZEEBRUGGE is a 5,100m3 LNG bunkering vessel. It has two full spade rudders with flap and twin shafts and a controllable pitch propeller directly driven by a medium speed dual fuel engine; design fatigue life is a minimum of 40 years based on worldwide wave conditions.
+The vessel has two IMO type C independent cylindrical cargo tanks designed for a minimum temperature of minus 163oC and design vapour pressure of 4.0bar G. It can provide LNG bunkering services for LNG fuelled vessels using cryogenic flexible hoses (similar to ship-to-ship transfer) at a maximum bunkering rate of about 1,000m3/h.
+Boil off gas (BOG/cargo vapour) is used as fuel for the dual fuel main engine and generator engine, and
 BOG can also be burnt by the dual fuel boiler or Gas
-Combustion Unit for cargo tank pressure control. In addition, Engie Zeebrugge has a joystick control system for easy manoeuvring and to provide a rapid approach to refueling an LNG vessel, as well as a full redundancy IAS (Integrated Automation System) containing the cargo control system. TECHNICAL PARTICULARS
+Combustion Unit for cargo tank pressure control.
+In addition, Engie Zeebrugge has a joystick control system for easy manoeuvring and to provide a rapid approach to refueling an LNG vessel, as well as a full redundancy IAS (Integrated Automation System) containing the cargo control system.
+TECHNICAL PARTICULARS
 Length oa: .......................................................... abt. 107.6m
 Length bp: ................................................................. 101.8m
 Breadth moulded: ........................................................ 18.4m
@@ -1261,7 +1350,8 @@ Make: ............................................................... Mitsubishi
 Output, each boiler:............... 2,000/1,000kg/h x 0.6mpa
 Cargo cranes/cargo gear
 Number:.................................................................. 2 sets
-Make: ............................................. Tech Flower Co., Ltd. Type: ............................Electro-hydraulic telescopic type
+Make: ............................................. Tech Flower Co., Ltd.
+Type: ............................Electro-hydraulic telescopic type
 Performance: ............................................. 5tonnes SWL
 Other cranes
 Number: ....................................................................1 set
@@ -1289,7 +1379,8 @@ Number: .................................................................... Fou
 Type: ............................. vertical, submerged, centrifugal
 Make:................................................... Wärtsilä Svanehoj
 Stainless steel: ................................................... SUS 304
-Capacity (each): .......................300m3/h, design density: 500kg/m3, press. head: 200m.l.c. Cargo control system
+Capacity (each): .......................300m3/h, design density: 500kg/m3, press. head: 200m.l.c.
+Cargo control system
 Make: ............................................................. Kongsberg
 Type: ........................................................... K-CHIEF 700
 Ballast control system
@@ -1321,9 +1412,11 @@ Fire Ext. System
 Make/Type: .................................................................. NK
 Radars
 Number: ..................................................................2 sets
-Make: ........................................ Furuno Electric Co., Ltd. Model(s): .......................................FAR-3230S, FAR-3220
+Make: ........................................ Furuno Electric Co., Ltd.
+Model(s): .......................................FAR-3230S, FAR-3220
 Integrated bridge system? ...............................................Yes
-Make: ........................................ Furuno Electric Co., Ltd. Model: ........................................................FMD-3200-BB
+Make: ........................................ Furuno Electric Co., Ltd.
+Model: ........................................................FMD-3200-BB
 Waste disposal plant
 Waste handled: ......................................Partially handled
 Sewage plant
@@ -1340,15 +1433,20 @@ Hull No: .................................................. SN2142
 Owner/Operator: ...Reliance Industries Limited
 Country: ......................................................India
 Designer: ................................ Samsung Heavy
-Industries Co., Ltd. Country: ................................Republic of Korea
+Industries Co., Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ............... SSMB (Samsung Ship Model Basin)
 Flag: ........................................ Marshall Islands
 IMO number: ........................................ 9752278
 Total number of sister ships already completed (excluding ship presented): .........................................Nil
 Total number of sister ships still on order: .....Six
 ETHANE CRYSTAL is the world’s first Very Large
-Ethane Carrier with an 87,000m3 cargo capacity. It has been built for Reliance Industries Limited to transport liquefied ethane and/or liquefied petroleum gas between India and the USA with GTT Mark-III membrane techniques. In order to transport liquefied ethane and/or liquefied petroleum gas, which have a bigger specific gravity than
-LNG cargo, 270mm high density foam with a CO 2 blowing agent was partially adopted for the cargo containment system with design verification by GTT. Boil off gas from the vessel will be treated by three sets of re-liquefaction plants. To ensure the vessel’s safe operation, the vessel has been built to a robust structural design with a 40-year fatigue lifetime and an extended guarantee period especially for the cargo containment and coating systems. TECHNICAL PARTICULARS
+Ethane Carrier with an 87,000m3 cargo capacity. It has been built for Reliance Industries Limited to transport liquefied ethane and/or liquefied petroleum gas between India and the USA with GTT Mark-III membrane techniques.
+In order to transport liquefied ethane and/or liquefied petroleum gas, which have a bigger specific gravity than
+LNG cargo, 270mm high density foam with a CO 2 blowing agent was partially adopted for the cargo containment system with design verification by GTT.
+Boil off gas from the vessel will be treated by three sets of re-liquefaction plants.
+To ensure the vessel’s safe operation, the vessel has been built to a robust structural design with a 40-year fatigue lifetime and an extended guarantee period especially for the cargo containment and coating systems.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 228m
 Length bp: ................................................. 218m
 Breadth moulded: ..................................... 36.5m
@@ -1374,8 +1472,10 @@ Water ballast:........................................ 34,500m3
 Daily fuel consumption
 Main engine only: .................. 44.4tonnes/day
 Classification society and notations:............ ABS A1,, Liquefied gas carrier, SH, SH-DLA, SHCM, SFA(40), AMS, ACCU, ENVIRO, GP, NBLES, BWT, with description in the Record:
-Ship Type 2G (Membrane tank, Min. Cargo Temperature -94, Max. Cargo
-Density 620kg/m3, Max. Vapour Pressure 0.25bar), CPS, UWILD, POT, RRDA, TCM
+Ship Type 2G (Membrane tank, Min.
+Cargo Temperature -94, Max. Cargo
+Density 620kg/m3, Max.
+Vapour Pressure 0.25bar), CPS, UWILD, POT, RRDA, TCM
 Main engine(s)
 Design: ........... MAN Diesel & Turbo Licensee
 Model: ...................................... 6S60ME-C9.5
@@ -1438,7 +1538,8 @@ Ballast control system
 Make: .............................................. Samsung
 Type:..................................................... SSAS
 Water Ballast Treatment System
-Make:.... Samsung Heavy Industries Co. Ltd. Capacity: ........................................ 2,000m3/h
+Make:.... Samsung Heavy Industries Co. Ltd.
+Capacity: ........................................ 2,000m3/h
 Complement
 Officers: ...................................................... 17
 Crew: .......................................................... 10
@@ -1455,7 +1556,8 @@ Make: ............................................. Consilium
 Type: ..........................................Addressable
 Fire extinguishing systems
 Engine room
-Make/Type: . NK/High pressure CO 2 system
+Make/Type: .
+NK/High pressure CO 2 system
 Cabins
 Make/Type: .......................... Sea water fire extinguish system
 Public spaces
@@ -1482,11 +1584,13 @@ Contract date: ......................................July 2014
 Launch/float-out date: .................February 2016
 Delivery date: ............................... October 2016
 ETHANE CRYSTAL: 87,000m3 ethane carrier 34 Significant Ships of 2016
-Shipbuilder: ...................Hanjin Heavy Industry & Construction Co. Ltd. Vessel’s name: ..................... GENER8 HECTOR
+Shipbuilder: ...................Hanjin Heavy Industry & Construction Co. Ltd.
+Vessel’s name: ..................... GENER8 HECTOR
 Hull No: ................................................ NTP0137
 Owner/Operator: .......................Navig8 Tankers
 Country: .............................................Singapore
-Designer: .......................Hanjin Heavy Industry & Construction Co. Ltd. Country: ................................Republic of Korea
+Designer: .......................Hanjin Heavy Industry & Construction Co. Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ..............KRISO
 Flag: ......................................................LIBERIA
 IMO number: ........................................ 9730086
@@ -1495,9 +1599,12 @@ Total number of sister ships still on order: ........ 4
 GENER8 HECTOR is the first VLCC designed by
 Hanjin Heavy Industries in Korea and built at
 Hanjin Subic Shipyard in the Philippines. It is an ocean-going 300,000dwt crude oil tanker with a double bottom and double-hull structure of cargo tanks that consists of five pairs of centre, port and starboard cargo tanks, two slop tanks and five pairs of water ballast tanks surrounding the cargo tanks. The fuel oil tanks are also protected by the double-hulled structure in accordance with the International
-Maritime Organization (IMO) fuel oil protection requirements. Gener8 Hector is powered by a MAN 7G80ME-C9.2 main engine which produces a SMCR of 26,460kW at 66 rpm to give the vessel a service speed of 14.8 knots at NCR with 15% sea margin on 20.5 m draft. The hull form of Gener8 Hector is optimised to achieve a higher propulsive efficiency with a MEWIS duct and a rudder bulb deployed as energy saving devices in order to have competitive fuel oil consumption. The hull structures are designed in accordance with the International Association of
+Maritime Organization (IMO) fuel oil protection requirements.
+Gener8 Hector is powered by a MAN 7G80ME-C9.2 main engine which produces a SMCR of 26,460kW at 66 rpm to give the vessel a service speed of 14.8 knots at NCR with 15% sea margin on 20.5 m draft.
+The hull form of Gener8 Hector is optimised to achieve a higher propulsive efficiency with a MEWIS duct and a rudder bulb deployed as energy saving devices in order to have competitive fuel oil consumption. The hull structures are designed in accordance with the International Association of
 Classification Societies (IACS) common structural rules (CSR), based on a 25 year service life in North
-Atlantic wave conditions. TECHNICAL PARTICULARS
+Atlantic wave conditions.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 333m
 Length bp: .............................................. 321.9m
 Breadth moulded: ........................................ 60m
@@ -1644,9 +1751,12 @@ Flag: ....................................... The Netherlands
 IMO number: ........................................ 9692557
 Total number of sister ships already completed (excluding ship presented): ........................................Nil
 Total number of sister ships still on order: ........ 1
-KONINGSDAM has been designed according to the safe return to port criteria, increasing the safety and comfort of passengers in the event of a casualty, and has an open type exhaust gas cleaning system installed on two engines to reduce SOx emissions. Energy saving criteria were followed during the design, with extensive use of LED lighting in passenger cabins and public areas; installation of
-HVAC fan coils in passenger cabins and public areas; and with the introduction of a heat recovery system. A real time performance tool has also been installed to assist the crew in optimising the vessel’s performance. The vessel is fitted with an IP-based network infrastructure to support IP-based system/services, such as the wired / Wi-Fi network, CCTV, interactive
-TV and Passenger Information System, cellular phones and Ship Property Management. One highlight of the interior is the innovative multifunctional at theatre which can be operated as a proscenium or as an auditorium surrounded by a 270deg LED wall. TECHNICAL PARTICULARS
+KONINGSDAM has been designed according to the safe return to port criteria, increasing the safety and comfort of passengers in the event of a casualty, and has an open type exhaust gas cleaning system installed on two engines to reduce SOx emissions.
+Energy saving criteria were followed during the design, with extensive use of LED lighting in passenger cabins and public areas; installation of
+HVAC fan coils in passenger cabins and public areas; and with the introduction of a heat recovery system. A real time performance tool has also been installed to assist the crew in optimising the vessel’s performance.
+The vessel is fitted with an IP-based network infrastructure to support IP-based system/services, such as the wired / Wi-Fi network, CCTV, interactive
+TV and Passenger Information System, cellular phones and Ship Property Management. One highlight of the interior is the innovative multifunctional at theatre which can be operated as a proscenium or as an auditorium surrounded by a 270deg LED wall.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 299.65m
 Length bp: .............................................. 265.9m
 Breadth moulded: ........................................ 35m
@@ -1756,8 +1866,13 @@ IMO number: ........................................ 9721724
 Total number of sister ships already completed (excluding ship presented): .................... None
 Total number of sister ships still on order: .......One sister ship under construction
 LA MANCHA KNUTSEN is a 176,300m3 Class LNG carrier that was delivered from HHI to Knutsen OAS
-Shipping. The vessel’s design is intended to maximise efficiency by reducing fuel consumption and emissions. In line with the specification, fuel-efficient ME-GI engines driven by diesel/gas injection were fitted with a fuel gas supply system to supply NBOG up to 300bar and with re-liquefaction plant to control excess NBOG on low speed voyages. The main engine was selected to target the lowest fuel consumption with a shaft generator for power take off and shaft clutch for free-rotating fitted as energy-saving measures. In addition, the vessel is fitted with a propeller boss cap fin (Hi-Fin) and a flow-adapted twisted rudder with bulb named Hi-Rudder developed by HHI, which together represent one of the most effective energy saving devices for vessel fuel saving. It is propelled by two Hyundai-MAN B&W 7G70ME-
-C9.2-GI engines driven by diesel/gas injection with MCR of 2 x 18,827kW. This enables a service speed of 19.5knots at design draught when running at about 60% of MCR with a 21% sea margin, burning less fuel (around 92.5tonnes per day in diesel mode). The vessel has four GTT MARK III type cargo tanks with double bottom and double side structure. To handle cargo the vessel is fitted with eight cargo pumps that have 2,100m3/h capacity each and four spray pumps that have 50m3/h capacity each and are of the electric motor driven submerged type. The vessel also has four pairs of water ballast tanks, two forward water ballast tanks, two engine room water ballast tanks and an aft peak tank. TECHNICAL PARTICULARS
+Shipping. The vessel’s design is intended to maximise efficiency by reducing fuel consumption and emissions. In line with the specification, fuel-efficient ME-GI engines driven by diesel/gas injection were fitted with a fuel gas supply system to supply NBOG up to 300bar and with re-liquefaction plant to control excess NBOG on low speed voyages.
+The main engine was selected to target the lowest fuel consumption with a shaft generator for power take off and shaft clutch for free-rotating fitted as energy-saving measures.
+In addition, the vessel is fitted with a propeller boss cap fin (Hi-Fin) and a flow-adapted twisted rudder with bulb named Hi-Rudder developed by HHI, which together represent one of the most effective energy saving devices for vessel fuel saving.
+It is propelled by two Hyundai-MAN B&W 7G70ME-
+C9.2-GI engines driven by diesel/gas injection with MCR of 2 x 18,827kW. This enables a service speed of 19.5knots at design draught when running at about 60% of MCR with a 21% sea margin, burning less fuel (around 92.5tonnes per day in diesel mode).
+The vessel has four GTT MARK III type cargo tanks with double bottom and double side structure. To handle cargo the vessel is fitted with eight cargo pumps that have 2,100m3/h capacity each and four spray pumps that have 50m3/h capacity each and are of the electric motor driven submerged type. The vessel also has four pairs of water ballast tanks, two forward water ballast tanks, two engine room water ballast tanks and an aft peak tank.
+TECHNICAL PARTICULARS
 Length oa: ................................................................. 289.9m
 Length bp: .................................................................... 284m
 Breadth moulded: ........................................................ 46.4m
@@ -1911,7 +2026,13 @@ Flag: ............................................................. NIS
 IMO number: ........................................ 9725299
 Total number of sister ships already completed (excludingship presented): .....3
 Total number of sister ships still on order: .... N/A
-LINDANGER is the first in a series of four product/ chemical tankers for Westfal-Larsen and was delivered in April from Hyundai Mipo Dockyard (HMD). It was designed by HMD and registered under the NIS flag with DNV GL class. The vessel is an ocean going product and chemical tanker with a bulbous bow, transom stern, flush deck with forecastle and poop, open water type stern frame, single rudder and single screw propeller that is driven by a slow speed diesel engine. The propulsion machinery and living quarters, including navigational bridge, are located aft. Nowadays, methanol as a marine fuel is a very promising option to enable owners to reduce the environmental impact of their vessels and to comply with low sulphur and ECA regulations. This vessel has been fitted with a methanol fuel supply system for the dual fuel main engine located in the methanol fuel supply room on its upper deck. Slop tanks may be used as methanol fuel storage tanks. The vessel has transverse bulkheads and three longitudinal bulkheads in way of the cargo space, and also features the following subdivisions: the cargo space is divided into six pairs of cargo oil tanks, one pair of slop tanks and six pairs of water ballast tanks; the cofferdam is arranged between the slop tanks and heavy fuel oil storage tanks; and there is a N 2 generator room, aft peak tank, steering gear room, fresh water tanks and stern tube cooling water tank. TECHNICAL PARTICULARS
+LINDANGER is the first in a series of four product/ chemical tankers for Westfal-Larsen and was delivered in April from Hyundai Mipo Dockyard (HMD). It was designed by HMD and registered under the NIS flag with DNV GL class.
+The vessel is an ocean going product and chemical tanker with a bulbous bow, transom stern, flush deck with forecastle and poop, open water type stern frame, single rudder and single screw propeller that is driven by a slow speed diesel engine.
+The propulsion machinery and living quarters, including navigational bridge, are located aft.
+Nowadays, methanol as a marine fuel is a very promising option to enable owners to reduce the environmental impact of their vessels and to comply with low sulphur and ECA regulations.
+This vessel has been fitted with a methanol fuel supply system for the dual fuel main engine located in the methanol fuel supply room on its upper deck. Slop tanks may be used as methanol fuel storage tanks.
+The vessel has transverse bulkheads and three longitudinal bulkheads in way of the cargo space, and also features the following subdivisions: the cargo space is divided into six pairs of cargo oil tanks, one pair of slop tanks and six pairs of water ballast tanks; the cofferdam is arranged between the slop tanks and heavy fuel oil storage tanks; and there is a N 2 generator room, aft peak tank, steering gear room, fresh water tanks and stern tube cooling water tank.
+TECHNICAL PARTICULARS
 Length oa:.......................................... abt. 186m
 Length bp: ................................................ 177m
 Breadth moulded: ..................................... 32.2m
@@ -1988,7 +2109,8 @@ Grades of cargo carried: ...................6 grade
 Product range: ................... Product/chemical ship type 3
 Cargo pumps
 Number: ..................................................... 14
-Type: ................................... Centrifugal, Hyd. Driven, Submergible type
+Type: ................................... Centrifugal, Hyd.
+Driven, Submergible type
 Make: ................................................... Framo
 Capacity (each): .................. 600m3/h x 125m
 Cargo control system
@@ -2011,7 +2133,8 @@ Fire detection system
 Make: ............................................. Consilium
 Type: ............................................ CARGO/4L
 Fire extinguishing systems
-Cargo holds: ......... Sea water. Fixed low Exp. Foam
+Cargo holds: ......... Sea water. Fixed low Exp.
+Foam
 Make/Type: ................................................ NK
 Engine room: ...........Sea water, High Press. CO 2
 Make/Type: ................................................ NK
@@ -2029,12 +2152,14 @@ Incinerator
 Make:........................................... TeamTec
 Model:......................................... GS500CS
 Waste compactor
-Make:.............................................. METOS . Model: .............................................8075-E
+Make:.............................................. METOS .
+Model: .............................................8075-E
 Waste shredder
 Make:.............................................. METOS
 Model: .................................................S3/3
 Sewage plant
-Make: ............................. ILSEUNG Co.Ltd. Model:........................................... ISS-35N
+Make: ............................. ILSEUNG Co.Ltd.
+Model:........................................... ISS-35N
 Contract date: ...................... 29 November 2013
 Launch/float-out date: ............ 23 January 2016
 Delivery date: ................................18 April 2016
@@ -2051,12 +2176,18 @@ Flag: .................................................... Bahamas
 IMO number: ........................................ 9666986
 Total number of sister ships already completed (excluding ship presented):.................................................... -
 Total number of sister ships still on order:..............-
-Kawasaki Heavy Industries has delivered the 164,700m3 capacity LNG FUKUROKUJU. It is the first of Kawasaki's newly developed line of 164,700m3 capacity LNG carriers to be commissioned and is designed to transit the newly expanded Panama Canal. The vessel features standard LNG carrier hull dimensions in order to enable docking at major LNG terminals around the world, but offers larger cargo tanks for increased transport capacity, thus cutting LNG transport costs and facilitating more flexible LNG trade operations by shipowners. LNG Fukurokuju is equipped with four independent
+Kawasaki Heavy Industries has delivered the 164,700m3 capacity LNG FUKUROKUJU. It is the first of Kawasaki's newly developed line of 164,700m3 capacity LNG carriers to be commissioned and is designed to transit the newly expanded Panama Canal.
+The vessel features standard LNG carrier hull dimensions in order to enable docking at major LNG terminals around the world, but offers larger cargo tanks for increased transport capacity, thus cutting LNG transport costs and facilitating more flexible LNG trade operations by shipowners.
+LNG Fukurokuju is equipped with four independent
 Moss LNG tanks for a final total cargo capacity of 165,134m3. The thermal insulation system of the
 LNG tanks adopts the proprietary Kawasaki Panel
-System developed in-house, which offers outstanding heat insulation performance for an LNG boil-off rate of approximately 0.08% per day. The cargo tank section is protected by a double-hull and double- bottom design, so even if the carrier's hull were to sustain damage the LNG tanks within would remain safe and undamaged. In addition, Kawasaki made structural improvements to the hull to decrease overall ship weight, and achieved a more optimal below-waterline hull design to fully optimise propulsive performance. The new carrier is also equipped with a Kawasaki
+System developed in-house, which offers outstanding heat insulation performance for an LNG boil-off rate of approximately 0.08% per day. The cargo tank section is protected by a double-hull and double- bottom design, so even if the carrier's hull were to sustain damage the LNG tanks within would remain safe and undamaged.
+In addition, Kawasaki made structural improvements to the hull to decrease overall ship weight, and achieved a more optimal below-waterline hull design to fully optimise propulsive performance.
+The new carrier is also equipped with a Kawasaki
 Advanced Reheat Turbine Plant (Kawasaki URA Plant) as its main engine unit. This reheating-type steam- turbine propulsion plant developed by Kawasaki offers a significant improvement of more than 25% in transport efficiency compared with previous 147,000m3 capacity
-LNG carriers. The bridge of the ship was designed with state-of-the- art electronic navigation equipment concentrated in one location for greater ease of operation and panoramic windows offering a 360-degree view of the outside. TECHNICAL PARTICULARS
+LNG carriers.
+The bridge of the ship was designed with state-of-the- art electronic navigation equipment concentrated in one location for greater ease of operation and panoramic windows offering a 360-degree view of the outside.
+TECHNICAL PARTICULARS
 Length oa:.................................................. 293m
 Length bp: ................................................. 280m
 Breadth moulded: ................................... 48.90m
@@ -2084,7 +2215,8 @@ Manufacturer: ......Kawasaki Heavy Industries
 Type of fuel: ................................... HFO/MDO
 Output of each engine: .................. 26,800kW continuous maximum output at 70rpm
 Gearbox(es): .................................................... 1
-Make: ...........Kawasaki Heavy Industries Ltd. Model: ..................................... URA 470/76-S
+Make: ...........Kawasaki Heavy Industries Ltd.
+Model: ..................................... URA 470/76-S
 Output speed: .........................70rpm at MCO
 Propeller(s):....................................................... 1
 Material: .......... KALBC3 (Ni – AL – BRONZE)
@@ -2112,10 +2244,12 @@ Make: ..................Kawasaki Heavy Industries
 Output, each boiler: .......Evaporation: Normal 40tonnes/h, Max. Continuous 50tonnes/h
 Cargo cranes/cargo gear:................................. 2
 Make: ........ Oriental Precision & Eng. Co. Ltd
-Type: ...............................Electro – Hydraulic. Driven, single jib type
+Type: ...............................Electro – Hydraulic.
+Driven, single jib type
 Performance:... Hoisting capacity: 49kN(5t) × 10m/min Working radius: Max 18.5m, Min 3.8m
 Other cranes
-Make: ....... Oriental Precision & Eng. Co. Ltd. Type: ...................Electro – Hydraulic. Driven, single jib type
+Make: ....... Oriental Precision & Eng. Co. Ltd.
+Type: ...................Electro – Hydraulic. Driven, single jib type
 Tasks: ................ Engine parts and provisions handling crane
 Performance: .................... Hoisting capacity: 68.6kN(7t) ×10m/min
 Working radius: Max 23m, Min 5m (P) Max 20m, Min 4.5m (S)
@@ -2137,14 +2271,17 @@ Cargo tanks
 Product range: ........................................LNG
 Cargo pumps
 Type: ............................. Electric motor driven centrifugal, submerged
-Make: .................................... Shinko Ind. Ltd. Stainless steel: .........Partially used (Bolt, Nut, Bearing, etc.)
+Make: .................................... Shinko Ind. Ltd.
+Stainless steel: .........Partially used (Bolt, Nut, Bearing, etc.)
 Capacity (each): .......... 1,500m3/h × 145mTH
 Cargo control system
-Make: ..........................JRCS MFG. CO., LTD. Type: ....................................OASIS (SMS-57)
+Make: ..........................JRCS MFG. CO., LTD.
+Type: ....................................OASIS (SMS-57)
 Ballast control system
 Make: ................ Ditto. (Integrated with cargo control system)
 Water Ballast Treatment System
-Make: ........................................NK CO., LTD. Capacity: ..................................2,800m3/h × 2
+Make: ........................................NK CO., LTD.
+Capacity: ..................................2,800m3/h × 2
 Complement
 Officers:....................................................... 10
 Crew: .......................................................... 19
@@ -2153,7 +2290,8 @@ Stern appendages/special rudders: ........ Kawasaki
 Semi – Duct System with contra fins
 Kawasaki Rudder Bulb System with fins
 Bow thruster(s): ................................................ 1
-Make: ...........Kawasaki Heavy Industries Ltd. Output (each): .................................. 2,000kW
+Make: ...........Kawasaki Heavy Industries Ltd.
+Output (each): .................................. 2,000kW
 Fire detection system
 Make: ..................Autronica Fire and Security
 Type: .............................................AutroSAFE
@@ -2166,8 +2304,10 @@ Make: ........................ Furuno Electric Co. Ltd
 Model(s):............ S-band FAR-2837S, X-band
 FAR-2827
 Integrated bridge system? ............................Yes
-Make: ....................... Furuno Electric Co. Ltd. Waste disposal plant ................... Sewage plant
-Make:............. Sasakura Engineering Co. Ltd. Model: ..................................................SD-6R
+Make: ....................... Furuno Electric Co. Ltd.
+Waste disposal plant ................... Sewage plant
+Make:............. Sasakura Engineering Co. Ltd.
+Model: ..................................................SD-6R
 Delivery date: ............................... 17 June 2016
 LNG FUKUROKUJU: 165,134m3 Moss LNG carrier 44 Significant Ships of 2016
 Shipbuilder: ................................Minaminippon
@@ -2175,7 +2315,8 @@ Shipbuilding Co., Ltd
 Vessel’s name: ............................. Manchac Sun
 Hull No: ..................................................... M-752
 Owner/Operator: ................... FGP Shipbuilding
-Panama 32 S.A. Country: ................................................ Panama
+Panama 32 S.A.
+Country: ................................................ Panama
 Designer: .................................... Minaminippon
 Shipbuilding Co., Ltd
 Country:.................................................... Japan
@@ -2186,8 +2327,12 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order:........ 0
 MANCHAC SUN, a 50,000dwt methanol carrier, was delivered from Minaminippon
 Shipbuilding Co. on 22 September 2016 for Mitsui
-O.S.K. Lines (MOL). It is one of the world's first vessels to feature a 2-stroke dual-fuel, low-rev main engine capable of running on methanol – a biodegradable, clean burning marine fuel. The engine was manufactured by Mitsui Engineering & Shipbuilding Co., Ltd and will significantly reduce emissions such as particulate matter, sulphur oxides and nitrogen oxides when running on methanol. Methanol, with its clean-burning qualities, can reduce or eliminate smog-contributing emissions, which can help improve air quality. Further measures to reduce the vessel’s environmental impact include the installation of a ballast water treatment system and energy- saving devices, including a duct in front of the propeller and a rudder with bulb and fin astern of it. MOL says it is continually working to upgrade its methanol transport services, leveraging experience and know-how to meet a range of customer needs while proactively introducing technologies that reduce shipping’s environmental impact. Manchac Sun will operate a long-term charter for Waterfront Shipping Company, which is based in Vancouver, Canada. Waterfront Shipping is a wholly owned subsidiary of Methanex
-Corporation and operates the world's largest methanol ocean tanker fleet, specialising in the safe, responsible and reliable transport of bulk chemicals and clean petroleum products, according to the company. TECHNICAL PARTICULARS
+O.S.K. Lines (MOL).
+It is one of the world's first vessels to feature a 2-stroke dual-fuel, low-rev main engine capable of running on methanol – a biodegradable, clean burning marine fuel. The engine was manufactured by Mitsui Engineering & Shipbuilding Co., Ltd and will significantly reduce emissions such as particulate matter, sulphur oxides and nitrogen oxides when running on methanol. Methanol, with its clean-burning qualities, can reduce or eliminate smog-contributing emissions, which can help improve air quality.
+Further measures to reduce the vessel’s environmental impact include the installation of a ballast water treatment system and energy- saving devices, including a duct in front of the propeller and a rudder with bulb and fin astern of it. MOL says it is continually working to upgrade its methanol transport services, leveraging experience and know-how to meet a range of customer needs while proactively introducing technologies that reduce shipping’s environmental impact.
+Manchac Sun will operate a long-term charter for Waterfront Shipping Company, which is based in Vancouver, Canada. Waterfront Shipping is a wholly owned subsidiary of Methanex
+Corporation and operates the world's largest methanol ocean tanker fleet, specialising in the safe, responsible and reliable transport of bulk chemicals and clean petroleum products, according to the company.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 186m
 Length bp: .............................................. 177.7m
 Breadth moulded: ..................................... 32.2m
@@ -2206,7 +2351,8 @@ Main engine(s)
 Design: ............................. MITSUI-MAN B&W
 Model: ............................... 7S50ME-B9.3-LGI
 Manufacturer: ................ Mitsui Engineering &
-Shipbuilding CO., LTD. Number: ....................................................... 1
+Shipbuilding CO., LTD.
+Number: ....................................................... 1
 Type of fuel: .......... HFO/MDO/MGO/Methanol
 Output of each engine: ........... 8,470kW x 99rpm
 Propeller(s)
@@ -2243,7 +2389,8 @@ Type: ...............................Hyd. oil driven vert. centrifugal (submerge
 Make: ................................................... Framo
 Capacity (each): .600m3/h, 300m3/h, 100m3/h
 Water Ballast Treatment System
-Make: ..................................Panasia Co., Ltd. Capacity: ...................................700m3/h x 2+ 300m3/hx1
+Make: ..................................Panasia Co., Ltd.
+Capacity: ...................................700m3/h x 2+ 300m3/hx1
 Complement
 Officers: ...................................................... 12
 Crew:.......................................................... 18
@@ -2268,10 +2415,14 @@ Suezmax crude oil tankers, built by Sungdong
 Shipbuilding & Marine Engineering for Kyklades
 Maritime Corporation. The vessel is built to Lloyd’s
 Register specifications and designed in accordance with IACS Common Structural Rules (CSR). The vessel features a double side skin and has a flush deck, bulbous bow, transom stern, open water type stern frame, semi-balanced rudder and single propeller driven by a slow speed diesel engine. The main engine MCR of its Wärtsilä 6X72 with delta by-pass tuning Tier II is de-rated to 15,088kW at 71.8rpm for economical fuel oil consumption. The speed of the vessel at design draught (16m) is 14.2knots at NCR with a 15% sea margin based on a well optimised hull form and propeller design that had been analysed by
-Computational Fluid Dynamics. Electric power is generated from three diesel generators driven by an alternator with a 980kW output, and steam is generated by two auxiliary boilers with a capacity of 35,000kg/h and one composite boiler with a capacity of 1,200kg/h (exhaust gas section) and 1,800kg/h (oil fired section). The vessel has six pairs of cargo oil tanks, two slop tanks, fore and aft peak tanks, segregated water ballast tanks, fuel oil tanks and fresh water tanks. Cargo tanks are divided by plane type transverse and longitudinal bulkheads. Cargo handling is performed by three cargo oil pumps of 4,000m3/h that are driven by a steam turbine. Water ballast is handled by two ballast pumps driven by an electric motor. The electrolysis type water ballast treatment system is designed to be environmentally friendly with a capacity of 4,000m3/h for main and 300m3/h for APT to service the vessel’s ballast tanks. The vessel is fully compliant with the latest environmental guidelines for fuel oil protection, the Inventory of
+Computational Fluid Dynamics.
+Electric power is generated from three diesel generators driven by an alternator with a 980kW output, and steam is generated by two auxiliary boilers with a capacity of 35,000kg/h and one composite boiler with a capacity of 1,200kg/h (exhaust gas section) and 1,800kg/h (oil fired section).
+The vessel has six pairs of cargo oil tanks, two slop tanks, fore and aft peak tanks, segregated water ballast tanks, fuel oil tanks and fresh water tanks. Cargo tanks are divided by plane type transverse and longitudinal bulkheads. Cargo handling is performed by three cargo oil pumps of 4,000m3/h that are driven by a steam turbine.
+Water ballast is handled by two ballast pumps driven by an electric motor. The electrolysis type water ballast treatment system is designed to be environmentally friendly with a capacity of 4,000m3/h for main and 300m3/h for APT to service the vessel’s ballast tanks. The vessel is fully compliant with the latest environmental guidelines for fuel oil protection, the Inventory of
 Hazardous Materials for ship’s recycling, the Performance
 Standard for Protective Coatings (PSPC) and IMO Tier
-II NOx requirements. TECHNICAL PARTICULARS
+II NOx requirements.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 277.27m
 Length bp: ................................................. 267m
 Breadth moulded: ........................................ 48m
@@ -2389,8 +2540,11 @@ IMO number: ........................................ 9753674
 Total number of sister ships already completed (excluding ship presented):........................................... 2
 Total number of sister ships still on order: ........ 1
 NAVIG8 TURQUOISE is a 49,000dwt crude/dirty product oil tanker built at STX Offshore &
-Shipbuilding’s Jinhae Shipyard. The vessel is 182.9m in length, 32.2m in width and 19.1m in height. Its service speed at design draught is 14knots at NCR power of the main engine with 15% sea margin. The cargo area consists of eight pairs of cargo oil tanks, one pair of slop tanks, and six pairs of segregated water ballast tanks. The aft body with transom stern is used for the steering gear compartment. The propulsion machinery consists of one two stroke
-STX MAN 6G60ME-B9.3 engine. The electric generating plant consists of three sets of main diesel generator engines and one emergency diesel generator engine. TECHNICAL PARTICULARS
+Shipbuilding’s Jinhae Shipyard. The vessel is 182.9m in length, 32.2m in width and 19.1m in height. Its service speed at design draught is 14knots at NCR power of the main engine with 15% sea margin.
+The cargo area consists of eight pairs of cargo oil tanks, one pair of slop tanks, and six pairs of segregated water ballast tanks. The aft body with transom stern is used for the steering gear compartment.
+The propulsion machinery consists of one two stroke
+STX MAN 6G60ME-B9.3 engine. The electric generating plant consists of three sets of main diesel generator engines and one emergency diesel generator engine.
+TECHNICAL PARTICULARS
 Length oa: .................................... appx. 182.9m
 Length bp: .............................................. 173.9m
 Breadth moulded: ..................................... 32.2m
@@ -2473,9 +2627,11 @@ Stainless steel:............................................. Y
 Capacity (each): ........ Cargo Tank: 375m3/h x 125mlc, S.G. 0.75/Visc. 1.0 cst/ Slop Tank: 300m3/h x 125mlc, S.G. 0.75/Visc. 1.0 cst/ Residue Tank: 100m3/h x 125mlc, S.G. 0.75/Visc. 1.0cst/ Portable: 70m3/h x 70mlc, S.G. 0.75/Visc. 1.0cst
 Cargo control system
 Make: .......................................... HANLA IMS
-Type: .... Hydraulically operated and remotely controlled Console in C.C.R. Ballast control system
+Type: .... Hydraulically operated and remotely controlled Console in C.C.R.
+Ballast control system
 Make: .......................................... HANLA IMS
-Type:.......................... Hydraulically operated and remotely controlled Console in C.C.R. Water Ballast Treatment System
+Type:.......................... Hydraulically operated and remotely controlled Console in C.C.R.
+Water Ballast Treatment System
 Make: .................. Samsung Heavy Industries
 Capacity:............................... 250~2,000m3/hr
 Complement
@@ -2525,9 +2681,17 @@ Total number of sister ships still on order: ....... 0
 NORD ISABELLA is an ECO type 2,500TEU feeder vessel delivered to German owner Reederei
 Nord in January 2016. This series was developed and designed by SDARI, constructed by Guangzhou
 Wenchong Shipyard (GWS) and registered under
-DNV GL class. Based on favourable slot cost performance, the first vessel of this series was sold to industry leader Maersk Line after delivery. Nord Isabella’s operational profile boasts attractive and comprehensive fuel efficiency due to simulation of the ship’s whole lifecycle and a special focus on lower draught and lower speeds. The hull form was optimised through large-scale CFD calculations based on SDARI’s numerical towing tank technology and cooperation with the DNV
-GL Maritime Advisory section, and numerous tank tests were carried out at SVA Potsdam Germany. Energy-saving measures include an asymmetric rudder, Costa bulb, divergent propeller cap and highly efficient propeller. Trim variation tests were also carried out to provide guidance for energy efficiency management when in operation and to obtain further energy savings during each voyage. The MAN B&W 6G60ME-C9 main engine is an efficient super long stroke engine. It is de-rated and has an exhaust gas bypass with load tuning, providing greater fuel savings at the ship’s economical operational speeds. Moreover, power consumption for the auxiliary engines was substantially reduced by the installation of frequency controlled sea water pumps, fresh water pumps, engine room fans, as well as cargo hold fans that serve the 290FEU reefers below deck. Application of various energy saving technologies brings the design into compliance with EEDI IMO Phase III, at 43% lower than the baseline with greatly reduced CO 2 emissions compared with most similar feeder designs on the market. Nord Isabella has RWO CleanBallast ballast water treatment plant installed and has obtained the GL EP-D notation. The SOx Scrubber Ready design concept has been adopted to allow better flexibility to deal with the challenges posed by the forthcoming global sulphur cap in 2020. After successful delivery of the series built at GWS, Reederei Nord ordered three additional vessels of the same design from AVIC Weihai Shipyard, adding additional reefer plugs to enhance capacity to 750. CMA CGM also showed a preference for this design when it ordered three vessels at Jinhai Heavy Industry in January 2015, with added tailor-made unique features including Finnish-
-Swedish 1A ice class, winterisation class notation and a hybrid SOx scrubber system. TECHNICAL PARTICULARS
+DNV GL class. Based on favourable slot cost performance, the first vessel of this series was sold to industry leader Maersk Line after delivery.
+Nord Isabella’s operational profile boasts attractive and comprehensive fuel efficiency due to simulation of the ship’s whole lifecycle and a special focus on lower draught and lower speeds. The hull form was optimised through large-scale CFD calculations based on SDARI’s numerical towing tank technology and cooperation with the DNV
+GL Maritime Advisory section, and numerous tank tests were carried out at SVA Potsdam Germany.
+Energy-saving measures include an asymmetric rudder, Costa bulb, divergent propeller cap and highly efficient propeller. Trim variation tests were also carried out to provide guidance for energy efficiency management when in operation and to obtain further energy savings during each voyage.
+The MAN B&W 6G60ME-C9 main engine is an efficient super long stroke engine. It is de-rated and has an exhaust gas bypass with load tuning, providing greater fuel savings at the ship’s economical operational speeds.
+Moreover, power consumption for the auxiliary engines was substantially reduced by the installation of frequency controlled sea water pumps, fresh water pumps, engine room fans, as well as cargo hold fans that serve the 290FEU reefers below deck.
+Application of various energy saving technologies brings the design into compliance with EEDI IMO Phase III, at 43% lower than the baseline with greatly reduced CO 2 emissions compared with most similar feeder designs on the market.
+Nord Isabella has RWO CleanBallast ballast water treatment plant installed and has obtained the GL EP-D notation. The SOx Scrubber Ready design concept has been adopted to allow better flexibility to deal with the challenges posed by the forthcoming global sulphur cap in 2020.
+After successful delivery of the series built at GWS, Reederei Nord ordered three additional vessels of the same design from AVIC Weihai Shipyard, adding additional reefer plugs to enhance capacity to 750. CMA CGM also showed a preference for this design when it ordered three vessels at Jinhai Heavy Industry in January 2015, with added tailor-made unique features including Finnish-
+Swedish 1A ice class, winterisation class notation and a hybrid SOx scrubber system.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 195m
 Length bp: ................................................. 185m
 Breadth moulded: ................................... 32.20m
@@ -2667,8 +2831,14 @@ Flag: ..................................................... Panama
 IMO number: ....................................... 9741372
 Total number of sister ships already completed (excluding ship presented):........................................... 3
 Total number of sister ships still on order: ...... 11
-NYK BLUE JAY, an advanced 14,000TEU containership, entered the NYK fleet on 22 February 2016 following delivery at Kure Shipyard of Japan Marine United. It is the first of a series of 15 vessels under construction based on data from the operation of the Far East – Europe route. The vessel’s hull form allows for improved cargo-loading efficiency, mainly through minimising engine-room space, while the complete ship design allows for containers to be loaded in 18 rows and 11 tiers in the cargo holds and 20 rows and nine tiers on deck. The vessel’s main engine is equipped with the world’s first system (patent pending) to feature two power ranges (high and low). This allows for high speed operations and an improved fuel-consumption rate when slow-steaming, resulting in a significant reduction of both carbon dioxide emissions and fuel consumption. Further attention has been paid to the efficiency of the vessel, with the inclusion of a low-resistance hull form and energy saving devices such as JMU’s SURF-BULB (Rudder
-Fin with Bulb) and ALV-Fin (Advanced Low Viscous resistance Fin). SURF-BULB and ALV-Fin are registered trademarks of Japan Marine United Corporation. The vessel’s stability and hull strength, achieved in part by the structural brittle crack arrest design used (developed by JMU and JFE Steel Corporation), allows it to operate with minimum ballast water under loading conditions. According to NYK, these innovations enable the vessel to achieve the greatest operational energy savings in the shipping industry and cost competitiveness that favourably compares with larger vessels capable of carrying 20,000TEU. TECHNICAL PARTICULARS
+NYK BLUE JAY, an advanced 14,000TEU containership, entered the NYK fleet on 22 February 2016 following delivery at Kure Shipyard of Japan Marine United. It is the first of a series of 15 vessels under construction based on data from the operation of the Far East – Europe route.
+The vessel’s hull form allows for improved cargo-loading efficiency, mainly through minimising engine-room space, while the complete ship design allows for containers to be loaded in 18 rows and 11 tiers in the cargo holds and 20 rows and nine tiers on deck.
+The vessel’s main engine is equipped with the world’s first system (patent pending) to feature two power ranges (high and low). This allows for high speed operations and an improved fuel-consumption rate when slow-steaming, resulting in a significant reduction of both carbon dioxide emissions and fuel consumption.
+Further attention has been paid to the efficiency of the vessel, with the inclusion of a low-resistance hull form and energy saving devices such as JMU’s SURF-BULB (Rudder
+Fin with Bulb) and ALV-Fin (Advanced Low Viscous resistance Fin). SURF-BULB and ALV-Fin are registered trademarks of Japan Marine United Corporation.
+The vessel’s stability and hull strength, achieved in part by the structural brittle crack arrest design used (developed by JMU and JFE Steel Corporation), allows it to operate with minimum ballast water under loading conditions.
+According to NYK, these innovations enable the vessel to achieve the greatest operational energy savings in the shipping industry and cost competitiveness that favourably compares with larger vessels capable of carrying 20,000TEU.
+TECHNICAL PARTICULARS
 Length oa:............................................. 364.15m
 Breadth moulded: ................................... 50.60m
 Depth moulded
@@ -2683,7 +2853,8 @@ Classification society and notations:.... Class NK
 NS*(CNC, EQ C DG, PSPC-WBT) (PS-DA&FA) (IWS) (PSCM) (IHM)(EEDI-p3) (CSSA-R) (SDCL) MNS*(M0)
 Main engine(s)
 Model: ...................................Wärtsilä W9X82
-Manufacturer: ....................Diesel United, Ltd. Number: ....................................................... 1
+Manufacturer: ....................Diesel United, Ltd.
+Number: ....................................................... 1
 Type of fuel:................................... HFO, MDO
 Output of each engine: .................. 42,180kW x 74.6min-1
 Propeller(s)
@@ -2694,14 +2865,18 @@ Number: ................................................. 1 set
 Fixed/Controllable pitch: ....................... Fixed
 Diesel-driven alternators
 Number: ....................................................... 4
-Engine make/type: .............. Yanmar Co., Ltd. Type of fuel:................................... HFO, MDO
+Engine make/type: .............. Yanmar Co., Ltd.
+Type of fuel:................................... HFO, MDO
 Alternator make/type: .................... Nishishiba
-Electric Co., Ltd. Boilers
+Electric Co., Ltd.
+Boilers
 Number: ....................................................... 1
 Type: ........................ Vertical water tube type
-Make: ................ Osaka Boiler MFG. Co., Ltd. Mooring equipment
+Make: ................ Osaka Boiler MFG. Co., Ltd.
+Mooring equipment
 Number: ............ 2 x windlass/mooring winch, 6 x mooring winch
-Make: .....................................Fukushima Ltd. Type (electric/hydraulic/steam): .......... Electro -hydraulic driven
+Make: .....................................Fukushima Ltd.
+Type (electric/hydraulic/steam): .......... Electro -hydraulic driven
 Hatch covers
 Manufacturer: ...............................MacGregor
 Type (upper deck/ other decks): .......................... Pontoon Type
@@ -2715,13 +2890,17 @@ Supernumaries/Spare: ........................................ 8
 Suez/Repair Crew: .............................................. 6
 Stern appendages/special rudders:.... ALV-Fin / SURF-BULB
 Bow thruster(s)
-Make: ..........Kawasaki Heavy Industries, Ltd. Number: ................................................2 sets
+Make: ..........Kawasaki Heavy Industries, Ltd.
+Number: ................................................2 sets
 Fire detection system
 Make: ..................Autronica Fire and Security
 Radars
-Make: .......................... Japan Radio Co., Ltd. Waste disposal plant.......................... Incinerator
-Make:................................. Sunflame Co. Ltd. Sewage plant
-Make:..............Taiko Kikai Industries Co., Ltd. Launch/float-out date: ........ 25 September 2015
+Make: .......................... Japan Radio Co., Ltd.
+Waste disposal plant.......................... Incinerator
+Make:................................. Sunflame Co. Ltd.
+Sewage plant
+Make:..............Taiko Kikai Industries Co., Ltd.
+Launch/float-out date: ........ 25 September 2015
 Delivery date: ........................22 February 2016
 NYK BLUE JAY: 14,000TEU containership 54 Significant Ships of 2016
 Shipbuilder: ...Hyundai Mipo Dockyard Co Ltd
@@ -2737,7 +2916,12 @@ IMO number: ........................................ 9755725
 Total number of sister ships still on order: ........ 1
 PALANCA MAPUTO is the first vessel in a series of two bitumen and oil tankers for Wisby
 Tankers and was delivered in October from
-Hyundai Mipo Dockyard. The vessel was designed by HMD and registered under the Marshall Islands flag with BV class. The vessel is an ocean-going bitumen and oil tanker with a flash point below 60oC and a bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single rudder and single screw propeller driven by a slow speed diesel engine. The cargo area has four cargo holds with double hull structures, eight pairs of cargo oil tanks and eight pairs of water ballast tanks. There are two pump rooms between the cargo hold spaces and a pipe duct in way of the cargo area double bottom. Heavy fuel oil storage tanks are beside the pump room in the cargo area and in the engine room within the double hull structure. Marine gas oil storage tanks are arranged in the steering gear area. The cargo is heated with thermal oil through a heating coil in the cargo tanks at temperatures up to 220oC. The thermal oil system is located in the engine room with two sets of thermal heaters, one exhaust gas economiser, three sets of thermal oil circulating pumps for the thermal oil heater, and two sets of thermal oil circulating pumps for the exhaust gas economiser. A ballast water treatment system (Ozone type, IMO D2 standard) and two ballast pumps are located in the engine room. TECHNICAL PARTICULARS
+Hyundai Mipo Dockyard. The vessel was designed by HMD and registered under the Marshall Islands flag with BV class.
+The vessel is an ocean-going bitumen and oil tanker with a flash point below 60oC and a bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single rudder and single screw propeller driven by a slow speed diesel engine.
+The cargo area has four cargo holds with double hull structures, eight pairs of cargo oil tanks and eight pairs of water ballast tanks. There are two pump rooms between the cargo hold spaces and a pipe duct in way of the cargo area double bottom. Heavy fuel oil storage tanks are beside the pump room in the cargo area and in the engine room within the double hull structure. Marine gas oil storage tanks are arranged in the steering gear area.
+The cargo is heated with thermal oil through a heating coil in the cargo tanks at temperatures up to 220oC. The thermal oil system is located in the engine room with two sets of thermal heaters, one exhaust gas economiser, three sets of thermal oil circulating pumps for the thermal oil heater, and two sets of thermal oil circulating pumps for the exhaust gas economiser.
+A ballast water treatment system (Ozone type, IMO D2 standard) and two ballast pumps are located in the engine room.
+TECHNICAL PARTICULARS
 Length oa:.......................................... abt. 183m
 Length bp: ................................................. 174m
 Breadth moulded: ..................................... 32.2m
@@ -2867,10 +3051,14 @@ Total number of sister ships still on order: ........ 3
 RB JORDANA is the first ship to be built in
 Sungdong without a bulbous bow. It has a deck flush with the forecastle, an open water type stern, a single rudder, and a single screw propeller driven by a slow speed diesel engine. The vessel is built to
 Nippon Kaiji Kyokai (ClassNK) requirements and has been designed in accordance with IACS
-Common Structural Rules. The vessel is mainly designed for carrying coal, iron ore and grain. The BC-A notation is applied for cargo holds with a cargo density of 1.0t/m3. It has a single skin in way of cargo holds with a double bottom and topside tank. The cargo hold area is divided by vertical corrugated transverse watertight bulkheads into seven cargo holds. The
+Common Structural Rules.
+The vessel is mainly designed for carrying coal, iron ore and grain. The BC-A notation is applied for cargo holds with a cargo density of 1.0t/m3. It has a single skin in way of cargo holds with a double bottom and topside tank. The cargo hold area is divided by vertical corrugated transverse watertight bulkheads into seven cargo holds. The
 No.4 cargo hold can be used as a floodable hold for heavy ballast conditions and No.2 and 6 holds can also be used as partial floodable holds for the adjustment of air draughts at individual ports. The vessel complies with the latest environmental guidelines such as Marpol Annex I Reg. 12A oil fuel tank protection, the Inventory of Hazardous
 Materials for ship’s recycling, and the Performance
-Standard for Protective Coatings for water ballast tanks and peak tanks. The MCR of the main engine is 8,610kW at 78rpm and the service speed at the design draught at NCR with 15% sea margin is 14knots. The vessel can travel more than 26,300 nautical miles. Three diesel generators have been installed. TECHNICAL PARTICULARS
+Standard for Protective Coatings for water ballast tanks and peak tanks.
+The MCR of the main engine is 8,610kW at 78rpm and the service speed at the design draught at NCR with 15% sea margin is 14knots. The vessel can travel more than 26,300 nautical miles.
+Three diesel generators have been installed.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 229m
 Length bp: ................................................. 225m
 Breadth moulded: ................................... 32.26m
@@ -2981,7 +3169,10 @@ Flag: ....................................................... Canada
 IMO number:......................................... 9750270
 Total number of sister ships already completed (excluding ship presented): ........................................... 0
 Total number of sister ships still on order: ........ 2
-The 107-metre long Salish-Class ferries will carry 145 vehicles and up to 600 passengers and crew. They feature two car decks and each ferry has a service speed of 15.5knots and a service life of approximately 40 years. The Salish-Class vessels will be fuelled by natural gas, resulting in an equivalent reduction of approximately 9,000 metric tonnes of carbon dioxide per year, the same as taking approximately 1,900 passenger vehicles off the road annually. This fuel type is also cheaper than marine diesel, which will reduce operating costs for the ferries. TECHNICAL PARTICULARS
+The 107-metre long Salish-Class ferries will carry 145 vehicles and up to 600 passengers and crew.
+They feature two car decks and each ferry has a service speed of 15.5knots and a service life of approximately 40 years.
+The Salish-Class vessels will be fuelled by natural gas, resulting in an equivalent reduction of approximately 9,000 metric tonnes of carbon dioxide per year, the same as taking approximately 1,900 passenger vehicles off the road annually. This fuel type is also cheaper than marine diesel, which will reduce operating costs for the ferries.
+TECHNICAL PARTICULARS
 Length oa:............................................... 107.2m
 Length bp: ............................................ 103.45m
 Breadth moulded: ..................................... 23.5m
@@ -3127,9 +3318,14 @@ Flag: .................................................Hong Kong
 IMO number: ........................................ 9753791
 Total number of sister ships already completed (excluding ship presented): ........................... 3
 Total number of sister ships still on order: ........ 4
-SC AQUARIUS was designed and built as a single screw diesel-driven tanker for normal worldwide service. The vessel is suitable for liquid chemical and product oil cargo in all 30 stainless steel cargo tanks. The cargo maximum specific gravity is to be 1.55tonnes/m3 for fully loaded and 1.85tonnes/m3 for partially loaded in ten cargo tanks (No.4 P & S & C, No.5 P & S and No.6 P & S & C tanks). These cargo tanks can be loaded cargo with pressure 0.6bar. For other tanks, the maximum specific gravity is to be 1.3tonnes/m3 full load or 1.85tonnes/m3 for partial loads. The vessel is to carry IMO I, II, III type liquid cargo, and IMO I will be carried in four centre tanks (No.4 and No.6 centre tanks). In order to build an environmentally-friendly ship with low fuel consumption, design optimisations were carried out and an ECO-Cap installed. The attained
-EEDI meets Phase 2 requirements. Cargo tanks are duplex stainless steel ASTMS31803, with others made of carbon steel. The internal bulkheads include longitudinal bulkheads in the centre, twelve horizontal corrugated transverse bulkheads without stools, and four side horizontal corrugated longitudinal bulkheads located in cargo tanks 4 & 6. The engine room fans are of frequency conversion type, the bilge water system includes an IBST system, and the ballast water treatment system uses a filter and
-UV. The vessel is fitted with a FRAMO cargo cooling system for loading low boiling epoxy propane. TECHNICAL PARTICULARS
+SC AQUARIUS was designed and built as a single screw diesel-driven tanker for normal worldwide service. The vessel is suitable for liquid chemical and product oil cargo in all 30 stainless steel cargo tanks.
+The cargo maximum specific gravity is to be 1.55tonnes/m3 for fully loaded and 1.85tonnes/m3 for partially loaded in ten cargo tanks (No.4 P & S & C, No.5 P & S and No.6 P & S & C tanks). These cargo tanks can be loaded cargo with pressure 0.6bar. For other tanks, the maximum specific gravity is to be 1.3tonnes/m3 full load or 1.85tonnes/m3 for partial loads. The vessel is to carry IMO I, II, III type liquid cargo, and IMO I will be carried in four centre tanks (No.4 and No.6 centre tanks).
+In order to build an environmentally-friendly ship with low fuel consumption, design optimisations were carried out and an ECO-Cap installed. The attained
+EEDI meets Phase 2 requirements.
+Cargo tanks are duplex stainless steel ASTMS31803, with others made of carbon steel. The internal bulkheads include longitudinal bulkheads in the centre, twelve horizontal corrugated transverse bulkheads without stools, and four side horizontal corrugated longitudinal bulkheads located in cargo tanks 4 & 6.
+The engine room fans are of frequency conversion type, the bilge water system includes an IBST system, and the ballast water treatment system uses a filter and
+UV. The vessel is fitted with a FRAMO cargo cooling system for loading low boiling epoxy propane.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 182.80m
 Length bp: ................................................. 177m
 Breadth moulded:................................... 32.20m
@@ -3165,7 +3361,9 @@ Classification society and notations:............LR + 100A1 Double Hull Oil and
 Chemical Tanker, Ship Type 1, maximum temperature 80°C, SG 1.3 & Pv +0.25bar gauge for all cargo tanks, SG 1.025 &
 Pv +0.65 bar gauge and SG 1.55 & Pv + 0.25bar gauge for NOs.4,5&6 cargo tanks (Center/ PORT/STBD ), ESP, CSR, ShipRight(ACS(B), CM), CR(s.stl), *IWS, LI, SPM4, ECO(BWT, IBTS,IHM) "+ LMC, UMS, IGS, NAV1 with descriptive notes: ETA, "ShipRight (BWMP(S,T), SCM, SERS)
 CCS]CSA Chemical/Oil Tanker, Double Hull, F.P.≤60°C, CSR, Type 2 for all Cargo Tanks, Type 1 for
-Cargo Tanks Nos. 4&6(CP&CS); Max. Cargo Temperature 80°C; Max. Pressure 0.025MPa & Max. Cargo
+Cargo Tanks Nos. 4&6(CP&CS); Max.
+Cargo Temperature 80°C; Max.
+Pressure 0.025MPa & Max. Cargo
 Density 1,300kg/m3 for all Cargo
 Tanks; Max. Pressure 0.025MPa & Max. Cargo Density 1,550kg/m3 and Max. Pressure 0.065 MPa &
 Max. Cargo Density 1,025kg/m3 for Cargo Tanks Nos.4,5&6(P&S) and 4&6 (CP&CS); Stainless Steel;
@@ -3284,9 +3482,12 @@ IMO number: ........................................ 9731171
 Total number of sister ships already completed (excluding ship presented): ................................................... 0
 Total number of sister ships still on order: ........ 1
 SEABOURN ENCORE is the first of two ultra-luxury cruiseships to be delivered to the shipowner
-Seabourn Cruise Line by Fincantieri. It is a particularly innovative project, focused on energy optimisation and minimum environmental impact. The ship was built using the very latest technologies, achieving standards that exceed the requirements of the relevant regulation. Modelled on the award-winning trio of ships introduced with Seabourn Odyssey in 2009, Seabourn Encore represents another stage in the evolution of small-ship cruising, which
-Seabourn pioneered and has consistently expanded. The ship is 41,865gt, 210m long and 28m wide and is able to reach a cruising speed of 18.6knots. It carries up to 600 guests in 300 suites featuring a private veranda. The ship has been built to the latest environmental standards and is fitted with an
-Ecospray open loop exhaust gas scrubbing system and a Headway ballast water treatment system. TECHNICAL PARTICULARS
+Seabourn Cruise Line by Fincantieri. It is a particularly innovative project, focused on energy optimisation and minimum environmental impact. The ship was built using the very latest technologies, achieving standards that exceed the requirements of the relevant regulation.
+Modelled on the award-winning trio of ships introduced with Seabourn Odyssey in 2009, Seabourn Encore represents another stage in the evolution of small-ship cruising, which
+Seabourn pioneered and has consistently expanded.
+The ship is 41,865gt, 210m long and 28m wide and is able to reach a cruising speed of 18.6knots. It carries up to 600 guests in 300 suites featuring a private veranda. The ship has been built to the latest environmental standards and is fitted with an
+Ecospray open loop exhaust gas scrubbing system and a Headway ballast water treatment system.
+TECHNICAL PARTICULARS
 Length oa: .............................................. 210.5m
 Length bp: .............................................. 177.1m
 Breadth moulded: ........................................ 28m
@@ -3305,7 +3506,8 @@ Bunkers
 Heavy oil: ......................................abt. 920m3
 Diesel oil: .......................................abt. 150m3
 Water ballast: .....................................abt. 850m3
-Tankers - percentage segregated ballast: ... n.a. Classification society and notations: .......C +HULL +MACH; PASSENGER SHIP;
+Tankers - percentage segregated ballast: ... n.a.
+Classification society and notations: .......C +HULL +MACH; PASSENGER SHIP;
 UNRESTRICTED NAVIGATION;
 AUT-UMS; INWATERSURVEY;
 GREEN STAR 3 DESIGN;
@@ -3325,7 +3527,8 @@ Number: ....................................................... 2
 Fixed/Controllable pitch: .............. Fixed Pitch
 Diameter: .............................................. 4.55m
 Speed: ................................................137rpm
-Special adaptations: ................................ n.a. Main-engine driven alternators
+Special adaptations: ................................ n.a.
+Main-engine driven alternators
 Number: ....................................................... 4
 Make/type: ..............................................VEM
 Output/speed of each set: .........5,760kWm @ 720rpm
@@ -3406,12 +3609,17 @@ Flag: ................................................... Canadian
 IMO number: ........................................ 9764233
 Total number of sister ships already completed (excludingship presented):..... 0
 Total number of sister ships still on order: ........ 0 (2 delivered in 2016)
-SEASPAN SWIFT is the first of two new dual- fuelled/hybrid (diesel, LNG and battery) ferries to join the Seaspan Ferries fleet. The new state of the art vessel was built at Sedef Shipyard in Istanbul and is classed by Bureau Veritas. The 148.9m ferry can accommodate up to 59 trailers, and the company says that the introduction of the new ship will mean a dramatic reduction in greenhouse gas emissions compared to current alternatives available. Seaspan Swift is powered by two Wärtsilä dual- fuel engines and a Corvus Energy Storage System (ESS) made up of 84 advanced lithium polymer batteries. Dual-fuelled propulsion, hull form efficiency, and a battery backup system are intended to reduce both environmental impact and operational costs. The hybrid propulsion system also permits redundancy while operating at economical speeds on a single engine. In December 2016 Seaspan Ferries, with assistance from VARD, FortisBC and Redwise, successfully bunkered the vessel using a tanker truck to deliver LNG to the ship. This type of bunkering operation was the first of its kind in
-North America. Seaspan Swift and its sister ship Seaspan Reliant are the first vessels to be added to the Seaspan
+SEASPAN SWIFT is the first of two new dual- fuelled/hybrid (diesel, LNG and battery) ferries to join the Seaspan Ferries fleet. The new state of the art vessel was built at Sedef Shipyard in Istanbul and is classed by Bureau Veritas.
+The 148.9m ferry can accommodate up to 59 trailers, and the company says that the introduction of the new ship will mean a dramatic reduction in greenhouse gas emissions compared to current alternatives available.
+Seaspan Swift is powered by two Wärtsilä dual- fuel engines and a Corvus Energy Storage System (ESS) made up of 84 advanced lithium polymer batteries. Dual-fuelled propulsion, hull form efficiency, and a battery backup system are intended to reduce both environmental impact and operational costs. The hybrid propulsion system also permits redundancy while operating at economical speeds on a single engine.
+In December 2016 Seaspan Ferries, with assistance from VARD, FortisBC and Redwise, successfully bunkered the vessel using a tanker truck to deliver LNG to the ship. This type of bunkering operation was the first of its kind in
+North America.
+Seaspan Swift and its sister ship Seaspan Reliant are the first vessels to be added to the Seaspan
 Ferries fleet since 2002. Seaspan Ferries currently operates a fleet of seven ro-ro ferries between
 British Columbia’s Lower Mainland and Vancouver
 Island's Nanaimo and Swartz Bay terminals, which supply in excess of 50% of all cargo to Vancouver
-Island. The new vessel’s 59-truck trailer capacity compares favourably with the 30 to 40 truck trailer capacity of its existing seven vessels, which have been in service for an average of 36 years. TECHNICAL PARTICULARS
+Island. The new vessel’s 59-truck trailer capacity compares favourably with the 30 to 40 truck trailer capacity of its existing seven vessels, which have been in service for an average of 36 years.
+TECHNICAL PARTICULARS
 Length oa:............................................... 148.9m
 Length bp: ...................................... LWL 145.2m
 Breadth moulded: ........................................ 26m
@@ -3493,9 +3701,15 @@ IMO number: ........................................ 9690092
 Total number of sister ships already completed (excluding ship presented): ........................... 2
 Total number of sister ships still on order:.... 4+6
 SEATRADE ORANGE is a 2,200TEU, specialised reefer containership tailor-made for Netherlands-based owner Seatrade Groningen. It was delivered in August 2016. As the well-known expert in the reefer cargo transportation field, Seatrade defines this series of vessel as ‘Colour Class’ with the Fast Direct Dedicated (FDD) operation concept. In total, 12 ships (including six options) of this series have been ordered, designed by
-SDARI, built by Yangfan Group (Zhoushan Shipyard) and registered under LR class. Seatrade Orange is SDARI’s second generation of 2,200TEU feeders, with a MAN B&W G-type super long stroke engine and an optimised hull form based on an operational profile derived from shipping statistical data accumulated by the owner. The hull form was developed based on the organic integration of SDARI’s empirical method and numerical towing tank technology. PROMAS, an energy saving device provided by Rolls-
-Royce was applied, which further reduced power consumption by 2.7% at design draught and design speed. The vessel achieved a 32% reduction in its EEDI rating and meets with Phase III of IMO regulations. Another unique feature of this vessel is the special design consideration for reefer transportation. There are a total of 670 reefer plugs with 358 sets on deck and 312 sets in the hold. All 40ft containers in the hold can be connected to the fresh water reefer container cooling system. Adequate space is arranged for each reefer slot to aid daily inspection and easy withdrawal of compressors and evaporation fan motors. To realise this target, innovative torsional box construction was designed with structural strength verified by finite element analysis. For the following 2+6 vessels in this series, reefer capacity was further upgraded to 772FEU through the installation of lashing bridges and reefer access platforms on deck. Moreover, a nitrogen generator system and filter for containers with frequency converters were applied for transporting CA containers carrying tender and valuable cargoes. Seatrade Orange also features the application of environmentally-friendly green technologies and has obtained the LR ECO notation. Technologies include a
-SAM high-voltage AMP shore connection system to reduce emissions in port, and the SOx Scrubber Ready concept has been adopted in the design to allow more flexibility against the challenge resulting from the upcoming global sulphur cap in 2020. TECHNICAL PARTICULARS
+SDARI, built by Yangfan Group (Zhoushan Shipyard) and registered under LR class.
+Seatrade Orange is SDARI’s second generation of 2,200TEU feeders, with a MAN B&W G-type super long stroke engine and an optimised hull form based on an operational profile derived from shipping statistical data accumulated by the owner. The hull form was developed based on the organic integration of SDARI’s empirical method and numerical towing tank technology.
+PROMAS, an energy saving device provided by Rolls-
+Royce was applied, which further reduced power consumption by 2.7% at design draught and design speed.
+The vessel achieved a 32% reduction in its EEDI rating and meets with Phase III of IMO regulations.
+Another unique feature of this vessel is the special design consideration for reefer transportation. There are a total of 670 reefer plugs with 358 sets on deck and 312 sets in the hold. All 40ft containers in the hold can be connected to the fresh water reefer container cooling system. Adequate space is arranged for each reefer slot to aid daily inspection and easy withdrawal of compressors and evaporation fan motors. To realise this target, innovative torsional box construction was designed with structural strength verified by finite element analysis. For the following 2+6 vessels in this series, reefer capacity was further upgraded to 772FEU through the installation of lashing bridges and reefer access platforms on deck. Moreover, a nitrogen generator system and filter for containers with frequency converters were applied for transporting CA containers carrying tender and valuable cargoes.
+Seatrade Orange also features the application of environmentally-friendly green technologies and has obtained the LR ECO notation. Technologies include a
+SAM high-voltage AMP shore connection system to reduce emissions in port, and the SOx Scrubber Ready concept has been adopted in the design to allow more flexibility against the challenge resulting from the upcoming global sulphur cap in 2020.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 185m
 Length bp: ................................................. 176m
 Breadth moulded: ........................................ 30m
@@ -3640,11 +3854,19 @@ Flag: ..................................................... Malaysia
 IMO number: ........................................ 9714276
 Total number of sister ships already completed (excluding ship presented): .................................... None
 Total number of sister ships still on order: ........Four sister ships under construction
-SERI CAMELLIA is a 150,200m3 class LNG carrier delivered from HHI to MISC. The vessel’s design is intended to reduce waste energy and emissions and features the latest energy saving technologies. It is propelled by one re-heated steam turbine with a MCR of 23,910kW. This enables a service speed of 19.44knots at design draught when running at 90% MCR with 15% sea margin and burns around 144.4tonnes per day. The vessel fully complies with IMO Tier III requirements, and the main turbine can achieve an additional 13% in specific fuel consumption compared with conventional steam turbines. SERI CAMELLIA has also been fitted with a pre-swirl
+SERI CAMELLIA is a 150,200m3 class LNG carrier delivered from HHI to MISC. The vessel’s design is intended to reduce waste energy and emissions and features the latest energy saving technologies.
+It is propelled by one re-heated steam turbine with a MCR of 23,910kW. This enables a service speed of 19.44knots at design draught when running at 90% MCR with 15% sea margin and burns around 144.4tonnes per day. The vessel fully complies with IMO Tier III requirements, and the main turbine can achieve an additional 13% in specific fuel consumption compared with conventional steam turbines.
+SERI CAMELLIA has also been fitted with a pre-swirl
 Mewis-duct (developed by BMS) and Hi-Fin (developed by
-HHI), which offer effective fuel savings. The design features four spherical LNG tanks using the
-Integrated Hull Structure (IHS) tank cover system. Compared with a conventional cargo tank cover, the IHS system helps to reduce steel weight and reduces air resistance, improving speed performance. The vessel has been fitted with eight vertical centrifugal submerged type cargo pumps that have 1,450m3/h capacity each and are controlled with IAS in the cargo control room. It also has nine pairs of water ballast tanks which form the double hull structure combined with a double bottom. SERI CAMELLIA has been built according to the latest
-SOLAS / MARPOL requirements and its design offers economical operation, besides being safe and environmentally friendly. TECHNICAL PARTICULARS
+HHI), which offer effective fuel savings.
+The design features four spherical LNG tanks using the
+Integrated Hull Structure (IHS) tank cover system.
+Compared with a conventional cargo tank cover, the IHS system helps to reduce steel weight and reduces air resistance, improving speed performance.
+The vessel has been fitted with eight vertical centrifugal submerged type cargo pumps that have 1,450m3/h capacity each and are controlled with IAS in the cargo control room.
+It also has nine pairs of water ballast tanks which form the double hull structure combined with a double bottom.
+SERI CAMELLIA has been built according to the latest
+SOLAS / MARPOL requirements and its design offers economical operation, besides being safe and environmentally friendly.
+TECHNICAL PARTICULARS
 Length oa: ................................................................. 290.2m
 Length bp: .................................................................... 277m
 Breadth moulded: ........................................................ 48.9m
@@ -3672,7 +3894,8 @@ Water ballast: .......................................................... 53,300
 Daily fuel consumption
 Main engine only: ...................................144.4tonnes/day
 Classification society and notations: .................... LR+100A1
-Liquefied Gas Carrier, Ship type 2G, Methane(LNG) in independent spherical tanks type B, Maximum Vapour Pressure 0.25bar, Minimum Temperature Minus 163°C, ShipRight(SDA, FDA, CM, ACS(B)), *IWS, LI, ECO(BWT, IHM), +LMC, UMS, ICC, NAV1 IBS with descriptive notes “Part Higher Tensile Steel, ShipRight(BWMP(T), SERS, SCM, ETA, MCM, MPMS)”. Main turbine(s)
+Liquefied Gas Carrier, Ship type 2G, Methane(LNG) in independent spherical tanks type B, Maximum Vapour Pressure 0.25bar, Minimum Temperature Minus 163°C, ShipRight(SDA, FDA, CM, ACS(B)), *IWS, LI, ECO(BWT, IHM), +LMC, UMS, ICC, NAV1 IBS with descriptive notes “Part Higher Tensile Steel, ShipRight(BWMP(T), SERS, SCM, ETA, MCM, MPMS)”.
+Main turbine(s)
 Design: ............................................................. Mitsubishi
 Model: ..................................................................MR36-II
 Manufacturer: ................................................... Mitsubishi
@@ -3808,8 +4031,12 @@ IMO number: ........................................ 9703150
 Total number of sister ships already completed (excluding ship presented): .........................Nil
 Total number of sister ships still on order: ........ 1
 The principal characteristic of Seven Seas
-Explorer is the extreme luxury of its decorative outfitting and architectural solutions in both public areas as well as cabins. Explorer is an all- suite vessel, and all the suites feature balconies with extensions that have been maximised to offer unique sea views. The materials and decorations employed in the suites are very high quality, and added to this are special artworks to complete the elegant outfitting and cutting edge technology for audio/video entertainment. Luxury accommodation includes the owner’s suite, which has a 250m2 extension and a wrap- around balcony with private winter garden overlooking the bow of the vessel. Also included are a private solarium and an in-suite spa. The vessel features a spa/gym arranged over two levels, including an outdoor spa area at the stern of the ship that boasts an “infinity” pool with direct views of the sea. There are five different restaurants onboard, each with a different theme of décor. In addition to all of this, the ship can also boast a Green Passport/Clean
-Ship certificate for its environmentally-friendly construction characteristics. TECHNICAL PARTICULARS
+Explorer is the extreme luxury of its decorative outfitting and architectural solutions in both public areas as well as cabins. Explorer is an all- suite vessel, and all the suites feature balconies with extensions that have been maximised to offer unique sea views.
+The materials and decorations employed in the suites are very high quality, and added to this are special artworks to complete the elegant outfitting and cutting edge technology for audio/video entertainment.
+Luxury accommodation includes the owner’s suite, which has a 250m2 extension and a wrap- around balcony with private winter garden overlooking the bow of the vessel. Also included are a private solarium and an in-suite spa.
+The vessel features a spa/gym arranged over two levels, including an outdoor spa area at the stern of the ship that boasts an “infinity” pool with direct views of the sea. There are five different restaurants onboard, each with a different theme of décor. In addition to all of this, the ship can also boast a Green Passport/Clean
+Ship certificate for its environmentally-friendly construction characteristics.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 224.02m
 Length bp: ............................................ 194.16m
 Breadth moulded: ........................................ 31m
@@ -3951,8 +4178,12 @@ Flag: .......................................................... China
 IMO number: ........................................ 9757620
 Total number of sister ships already completed (excluding ship presented): ....2
 Total number of sister ships still on order: ........ 1
-SHI JIANG, a 2,100unit eco car carrier, is a new generation mid-size, pure car and truck carrier developed and designed by SDARI for Shanghai Kingfour Marine Co. Ltd. The vessel is the first mid-size PCTC between 2,000 and 3,000 units delivered by XSI. The vessel is designed with an air draught less than 24m as and folding masts in order to navigate the Yangzi River from
-Shanghai to Wuhu, passing under the Nanjing Bridge. It is suitable for carrying various cars, trucks, buses and other vehicles such as construction, agriculture, and mining machinery on wheels and steel tracks. She has nine car decks including one hoistable deck and eight fixed decks, which are connected by movable and fixed ramps. Two quarter stern ramps are equipped at both sides for loading/unloading flexibility. All the ro-ro equipment is supplied by MacGregor. This series of vessels was designed with the aims of saving energy and lowering emissions, protecting the environment, improving ship safety, and providing the best possible economic performance. The ship’s hull lines have been optimised using CFD calculations and verified by model tests in CSSRC. To improve the propulsion efficiency, a high efficiency fixed pitch propeller and a HVAF (hub vortex absorbed fin) behind the propeller were installed. While the vessel operates at a service speed of 16knots, the daily fuel oil consumption of the main engine decreases to 17.1tonnes/ day. The ship complies with CCS’s Green Ship Rule and has been assigned the Green Ship 1 notation. The attained EEDI is 34% lower than the baseline according to CCS’s rules. TECHNICAL PARTICULARS
+SHI JIANG, a 2,100unit eco car carrier, is a new generation mid-size, pure car and truck carrier developed and designed by SDARI for Shanghai Kingfour Marine Co.
+Ltd. The vessel is the first mid-size PCTC between 2,000 and 3,000 units delivered by XSI.
+The vessel is designed with an air draught less than 24m as and folding masts in order to navigate the Yangzi River from
+Shanghai to Wuhu, passing under the Nanjing Bridge. It is suitable for carrying various cars, trucks, buses and other vehicles such as construction, agriculture, and mining machinery on wheels and steel tracks. She has nine car decks including one hoistable deck and eight fixed decks, which are connected by movable and fixed ramps. Two quarter stern ramps are equipped at both sides for loading/unloading flexibility. All the ro-ro equipment is supplied by MacGregor.
+This series of vessels was designed with the aims of saving energy and lowering emissions, protecting the environment, improving ship safety, and providing the best possible economic performance. The ship’s hull lines have been optimised using CFD calculations and verified by model tests in CSSRC. To improve the propulsion efficiency, a high efficiency fixed pitch propeller and a HVAF (hub vortex absorbed fin) behind the propeller were installed. While the vessel operates at a service speed of 16knots, the daily fuel oil consumption of the main engine decreases to 17.1tonnes/ day. The ship complies with CCS’s Green Ship Rule and has been assigned the Green Ship 1 notation. The attained EEDI is 34% lower than the baseline according to CCS’s rules.
+TECHNICAL PARTICULARS
 Length oa: ................................................................. 141.2m
 Length bp: ................................................................ 129.6m
 Breadth moulded: ....................................................... 24.4m
@@ -4061,7 +4292,8 @@ Fire extinguishing systems
 Engine room
 Make/Type: .................................... Sea hydrant, CO 2 , spray water system, portable extinguishers
 Vehicle spaces
-Make/Type: . Sea hydrant, CO 2 , portable extinguishers
+Make/Type: .
+Sea hydrant, CO 2 , portable extinguishers
 Cabins
 Make/Type: ........ Sea hydrant, portable extinguishers
 Public spaces
@@ -4082,12 +4314,14 @@ Launch/float-out date: ..........................................April 2016
 Delivery date: ...................................................August 2016
 SHI JIANG: Mid-size pure car/truck carrier 74 Significant Ships of 2016
 Shipbuilder: ............................ Samsung Heavy
-Industries Co. Ltd. Vessel’s name: .............SHTURMAN ALBANOV
+Industries Co. Ltd.
+Vessel’s name: .............SHTURMAN ALBANOV
 Hull No: .................................................. SN2132
 Owner/Operator: ..............................Sovcomflot
 Country: .................................................. Russia
 Designer: ................................ Samsung Heavy
-Industries Co., Ltd. Country: ................................Republic of Korea
+Industries Co., Ltd.
+Country: ................................Republic of Korea
 Model test establishment used: ............... SSMB (Samsung Ship Model Basin) and AARC
 Flag: ...................................................... Russian
 IMO number: ........................................ 9752084
@@ -4095,8 +4329,11 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order: .....Six
 SHTURMAN ALBANOV is the first ship in a series of Arctic shuttle tankers ordered by
 Sovcomflot Group under a long-term contract with Gazprom Neft. They are designed to carry crude oil from the Yamal Peninsula (YNAD) to the port of Murmansk all year round. The
-Russian Maritime Register of Shipping has certified the ship as ice class Arc7. The vessel's technical characteristics are unique. The design takes into account the specific features of the waters in the Gulf of Ob, which are covered with ice from October to
-July and have some relatively shallow areas – about 10 metres deep. Shturman Albanov is capable of operating in the Arctic all year- round at temperatures down to –45°С. Its propulsion system consists of two Azipod thrusters with a total capacity of 22MW, which provides a high ice-breaking capability and good manoeuvrability when sailing through ice drifts and heavy ice fields. Shturman Albanov is registered under the Russian flag and has St Petersburg as its home port. TECHNICAL PARTICULARS
+Russian Maritime Register of Shipping has certified the ship as ice class Arc7.
+The vessel's technical characteristics are unique. The design takes into account the specific features of the waters in the Gulf of Ob, which are covered with ice from October to
+July and have some relatively shallow areas – about 10 metres deep. Shturman Albanov is capable of operating in the Arctic all year- round at temperatures down to –45°С. Its propulsion system consists of two Azipod thrusters with a total capacity of 22MW, which provides a high ice-breaking capability and good manoeuvrability when sailing through ice drifts and heavy ice fields.
+Shturman Albanov is registered under the Russian flag and has St Petersburg as its home port.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 249m
 Length bp:................................................. 232m
 Breadth moulded: ........................................ 34m
@@ -4184,7 +4421,8 @@ Cargo pumps
 Number: ...................................................Two
 Type: ........................... Vertical, Single stage, centrifugal, electric motor driven
 Make: ................................................Hyundai
-Stainless steel: ................. Impeller shaft, etc. Capacity (each): ............... 2,500m3/h x 130m
+Stainless steel: ................. Impeller shaft, etc.
+Capacity (each): ............... 2,500m3/h x 130m
 Cargo control system
 Make: ..............................................KSB SEIL
 Type: .................................. Hydraulic System
@@ -4226,7 +4464,8 @@ Make: ............................................. TRANSAS
 Model(s): ..................65608A / 65901BAR etc
 Bridge navigation system? ............................Yes
 Make: ............................................. TRANSAS
-Model: ......... ECDIS and etc. / RS6B and etc. Waste disposal plant
+Model: ......... ECDIS and etc. / RS6B and etc.
+Waste disposal plant
 Incinerator
 Make:....................................Hyundai-Atlas
 Model:..........................MAXI NG100SL WS
@@ -4250,8 +4489,12 @@ Flag: ...................................................... Panama
 IMO number: ........................................ 9685085
 Total number of sister ships already completed (excluding ship presented): ........................ 1
 Total number of sister ships still on order: ........ 4
-SILKEBORG’s compact design represents a new generation of handy-size multi-purpose vessels with two heavy cranes capable of tandem-lifting 500tonnes. The ship is designed for worldwide service with ice class 1A and meets the requirements of both the Panama Canal and St
-Lawrence Seaway. The design and building philosophy behind the newbuilding project includes optimised hull forms with great cargo adaptability, concise arrangements to minimum margins, equipment of the highest standard which exceeds existing regulatory requirements, and a highly advanced and precise design method. With an optimised hull line and propeller system, the vessel can sail at 15.4knots with a low fuel consumption of 15.7tonnes. The hull line is optimised for the best operating profile (draught and speed range), and features a bulb for improved overall performance. In addition, the funnel and superstructure are tailored for reduced wind resistance, and the EEDI is 28% lower than the base line. Silkeborg has the potential to achieve energy savings of 30% compared with predecessors in the fleet. There are two box shape cargo holds, a 100m flat hatch cover and mechanical ventilation of 4.5m in height. The longer cargo hold measures 55m in length and the shorter one 33m with both intended for general cargo, containers and solid bulk cargoes. TECHNICAL PARTICULARS
+SILKEBORG’s compact design represents a new generation of handy-size multi-purpose vessels with two heavy cranes capable of tandem-lifting 500tonnes.
+The ship is designed for worldwide service with ice class 1A and meets the requirements of both the Panama Canal and St
+Lawrence Seaway. The design and building philosophy behind the newbuilding project includes optimised hull forms with great cargo adaptability, concise arrangements to minimum margins, equipment of the highest standard which exceeds existing regulatory requirements, and a highly advanced and precise design method.
+With an optimised hull line and propeller system, the vessel can sail at 15.4knots with a low fuel consumption of 15.7tonnes. The hull line is optimised for the best operating profile (draught and speed range), and features a bulb for improved overall performance. In addition, the funnel and superstructure are tailored for reduced wind resistance, and the EEDI is 28% lower than the base line.
+Silkeborg has the potential to achieve energy savings of 30% compared with predecessors in the fleet. There are two box shape cargo holds, a 100m flat hatch cover and mechanical ventilation of 4.5m in height. The longer cargo hold measures 55m in length and the shorter one 33m with both intended for general cargo, containers and solid bulk cargoes.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 138m
 Length bp: ................................................. 131m
 Breadth moulded: ................................... 21.40m
@@ -4287,13 +4530,15 @@ Main engine(s)
 Design:........................... MAN Diesel & Turbo
 Model: ...................................... 6S40ME-B9.3
 Manufacturer: ........................ Yichang Marine
-Diesel Engine Co. Ltd. Number: ....................................................... 1
+Diesel Engine Co. Ltd.
+Number: ....................................................... 1
 Type of fuel: ................................HFO & MGO
 Output of each engine:.......................... 5,460kW @ 124rpm
 Propeller(s)
 Material: .............................. Ni-Al-Bronze Cu 3
 Designer/Manufacturer: ...... Shanghai Marine
-Propeller Design Co. Ltd. Number: ....................................................... 1
+Propeller Design Co. Ltd.
+Number: ....................................................... 1
 Fixed/Controllable pitch: ..........................FPP
 Diameter: ................................................... 5m
 Speed: ........................................... 110.1r/min
@@ -4331,7 +4576,8 @@ Type (electric/hydraulic/steam): ......... Electric
 Special lifesaving equipment
 Number of each and capacity: ........1 free-fall lifeboat, capacity 26 persons
 Make: ....................... Jiangsu Jiaoyan Marine
-Equipment Co. Ltd. Type: .....................................Free-fall lifeboat
+Equipment Co. Ltd.
+Type: .....................................Free-fall lifeboat
 Hatch covers
 Design: ........................................ TTS HuaHai
 Manufacturer: .............................. TTS HuaHai
@@ -4408,10 +4654,15 @@ SUNRAY is the first vessel in a series of two
 LR I product oil carriers, built by Sungdong
 Shipbuilding & Marine Engineering for Tsakos
 Energy Navigation. The vessel is built to joint classification society requirements (ABS and
-Korean Register) and designed in accordance with IACS Common Structural Rules (CSR). It features a double side skin and has a flush deck, bulbous bow, transom stern, open water type stern frame, semi-balanced rudder and single propeller driven by a slow speed diesel engine. The main engine MCR of the vessel’s MAN 6G60ME-C9.5 with Low Load EGB tuning Tier II is de-rated to 10,215kW at 77rpm for economical fuel oil consumption. The speed of the vessel at design draught (12.2m) is 14.5knots at NCR with a 15% sea margin based on a well optimised hull form and propeller design following analysis by computational fluid dynamics. Electric power is generated from three diesel generators driven by an alternator with a 960kW output, and steam is generated by two auxiliary boilers with a capacity of 20,000kg/h and one composite boiler with capacity of 1,500kg/h (oil fired section). In addition, this vessel has carried out the trim optimisation model test and installed
+Korean Register) and designed in accordance with IACS Common Structural Rules (CSR).
+It features a double side skin and has a flush deck, bulbous bow, transom stern, open water type stern frame, semi-balanced rudder and single propeller driven by a slow speed diesel engine. The main engine MCR of the vessel’s MAN 6G60ME-C9.5 with Low Load EGB tuning Tier II is de-rated to 10,215kW at 77rpm for economical fuel oil consumption. The speed of the vessel at design draught (12.2m) is 14.5knots at NCR with a 15% sea margin based on a well optimised hull form and propeller design following analysis by computational fluid dynamics.
+Electric power is generated from three diesel generators driven by an alternator with a 960kW output, and steam is generated by two auxiliary boilers with a capacity of 20,000kg/h and one composite boiler with capacity of 1,500kg/h (oil fired section). In addition, this vessel has carried out the trim optimisation model test and installed
 OBFC (Optimum Ballast for the lowest Fuel
-Consumption) software, making it possible to sail in optimised conditions and enhance fuel efficiency. The vessel has six pairs of cargo oil tanks, two slop tanks, one residual tank, fore and aft peak tanks, six pairs of segregated water ballast tanks, fuel oil tanks and fresh water tanks. Cargo tanks are divided by plane type transverse and longitudinal bulkheads. The water ballast treatment plant is designed to be environmentally friendly with an electrolysis-type system that has a capacity of 3,000m3/h. The vessel meets the latest guidelines for fuel oil protection, the Inventory of Hazardous Materials for ship’s recycling, Performance Standards for Protective
-Coatings (PSPC) and IMO Tier II NOx requirements. The vessel also has a reinforced part of the upper deck for installing LNG tanks in accordance with ABS guidelines. TECHNICAL PARTICULARS
+Consumption) software, making it possible to sail in optimised conditions and enhance fuel efficiency.
+The vessel has six pairs of cargo oil tanks, two slop tanks, one residual tank, fore and aft peak tanks, six pairs of segregated water ballast tanks, fuel oil tanks and fresh water tanks. Cargo tanks are divided by plane type transverse and longitudinal bulkheads.
+The water ballast treatment plant is designed to be environmentally friendly with an electrolysis-type system that has a capacity of 3,000m3/h. The vessel meets the latest guidelines for fuel oil protection, the Inventory of Hazardous Materials for ship’s recycling, Performance Standards for Protective
+Coatings (PSPC) and IMO Tier II NOx requirements. The vessel also has a reinforced part of the upper deck for installing LNG tanks in accordance with ABS guidelines.
+TECHNICAL PARTICULARS
 Length oa: ................................................. 219m
 Breadth moulded: ..................................... 32.2m
 Depth moulded
@@ -4516,7 +4767,8 @@ Shipbuilder: ....................Guangzhou Huangpu
 Shipbuilding Company Ltd, CSSC
 Vessel’s name: ................................... Tian Zhen
 Hull No: .....................................................H3063
-Owner/Operator: ..... COSCO Shipping Co. Ltd. Country:.................................................... China
+Owner/Operator: ..... COSCO Shipping Co. Ltd.
+Country:.................................................... China
 Designer: ..Shanghai Merchant Ship Design &
 Research Institute (SDARI)
 Country: .................................................... China
@@ -4530,17 +4782,23 @@ Guangzhou Huangpu Shipbuilding and Nantong
 COSCO KHI Ship Engineering respectively, and registered under CCS and Class NK. This series is the latest general cargo ship type with the largest deadweight and largest loadable area in COSCO Shipping’s fleet. In
 June 2016, an additional three ships with Finnish-
 Swedish 1A ice class were ordered and will be built in
-Shanghai Shipyard. Optimal fuel efficiency is the most significant feature of
+Shanghai Shipyard.
+Optimal fuel efficiency is the most significant feature of
 Tian Zhen. The hull form was developed based on the organic integration of SDARI’s empirical method and numerical towing tank technology. An innovative vertical bow ensures better sea-keeping performance and reduces speed loss in rough seas. In addition, a flap rudder is fitted for better manoeuvrability in restricted waters. Through verification by numerous model tests in three basins (HSVA of Germany, ASMB of Japan and CSSRC of China), the hull form has been optimised to achieve maximum energy efficiency over the range of speeds and draughts it is predicted to operate at in service. Energy-saving Hub Vortex
 Absorbed Fins (HVAF) have been installed to further improve efficiency. The delivered power curve of this vessel ranks best within the speed range when compared with vessels of similar dimensions and block coefficients in
-HSVA’s databank. The main Wärtsilä 6RT-flex50-B engine, with a much derated CMCR at L4 point and Delta Tuning method, brings greater fuel savings at the economical speeds at which the ship often operates. From an ecological perspective, the vessel has been designed to improve its environmental footprint significantly. Tian Zhen’s EEDI value satisfies Phase III of
-IMO regulations, and a water lubricated shaft bearing system is fitted to avoid potential oil leakage. For the following three ice-classed ships, stricter EU Ship Recycling Regulations will be met. Another distinct characteristic of Tian Zhen is superior cargo adaptability and loading efficiency. Four open- hatch, totally box-shaped cargo holds with pontoon tweendecks at three different levels are suitable for carrying vehicles, steel products, bulk cargo, various general cargoes and dangerous cargoes. An open weather deck provides plenty of space for stowing large size project cargoes, and three sets of 100tonne and one set of 80tonne heavy cranes have been installed on the port side. Hydraulic folding hatch covers with fast operation velocity have also been fitted. In the summer of 2016, as the sister ship of Tian Zhen, Tian Xi finished its first round voyage between China and
+HSVA’s databank.
+The main Wärtsilä 6RT-flex50-B engine, with a much derated CMCR at L4 point and Delta Tuning method, brings greater fuel savings at the economical speeds at which the ship often operates. From an ecological perspective, the vessel has been designed to improve its environmental footprint significantly. Tian Zhen’s EEDI value satisfies Phase III of
+IMO regulations, and a water lubricated shaft bearing system is fitted to avoid potential oil leakage. For the following three ice-classed ships, stricter EU Ship Recycling Regulations will be met.
+Another distinct characteristic of Tian Zhen is superior cargo adaptability and loading efficiency. Four open- hatch, totally box-shaped cargo holds with pontoon tweendecks at three different levels are suitable for carrying vehicles, steel products, bulk cargo, various general cargoes and dangerous cargoes. An open weather deck provides plenty of space for stowing large size project cargoes, and three sets of 100tonne and one set of 80tonne heavy cranes have been installed on the port side. Hydraulic folding hatch covers with fast operation velocity have also been fitted.
+In the summer of 2016, as the sister ship of Tian Zhen, Tian Xi finished its first round voyage between China and
 Finland through the Arctic Northeast Passage, which initiated the woodpulp transportation business for COSCO
-Shipping. Under the aegis of China’s “One Belt, One Road” state strategy anwd COSCO Shipping’s expansion plan, this series of vessels is expected to play an important role traversing relevant trading routes in the future. Note: This vessel is the first of its kind to be built by
+Shipping. Under the aegis of China’s “One Belt, One Road” state strategy anwd COSCO Shipping’s expansion plan, this series of vessels is expected to play an important role traversing relevant trading routes in the future.
+Note: This vessel is the first of its kind to be built by
 Guangzhou Huangpu Shipbuilding Company, but is part of a delivery of eight vessels split between Nantong COSCO
 KHI Engineering Co. and Guangzhou Huangpu
 Shipbuilding Company. Information could not be gathered on the vessels built first by Nantong COSCO KHI
-Engineering Co. and so Tian Zhen, a sister ship, has been selected for publication in their stead. TECHNICAL PARTICULARS
+Engineering Co. and so Tian Zhen, a sister ship, has been selected for publication in their stead.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 189.99m
 Length bp: ................................................. 187m
 Breadth moulded: ................................... 28.50m
@@ -4586,7 +4844,8 @@ Diesel-driven alternators................................... 3
 Engine make/type: .......... Yanmar/6EY18ALW
 Type of fuel: .............................................HFO
 Output/speed of each set: ...800kW@900rpm
-Alternator make/type: .. Taiyo Electric Co. Ltd. Output/speed of each set: ...750kW@900rpm
+Alternator make/type: .. Taiyo Electric Co. Ltd.
+Output/speed of each set: ...750kW@900rpm
 Boilers
 Number: ...............1 Composite marine boiler
 Type: ............................... CMB-VS-1.8+0.8/6
@@ -4618,8 +4877,10 @@ Design: .....................................................TTS
 Manufacturer: ...........................................TTS
 Type: .........................Hydraulically operated, weather tight, steel double skin, folding type (upper deck); lift-away closed pontoon type (tween deck)
 Containers
-Total TEU capacity:......................................... On deck: .................................... 1,015TEU
-Reefer plugs:................................................... Tiers/rows (maximum)
+Total TEU capacity:.........................................
+On deck: .................................... 1,015TEU
+Reefer plugs:...................................................
+Tiers/rows (maximum)
 On deck: ............................................. 5/11
 In holds: .................................................No
 Complement
@@ -4637,7 +4898,8 @@ Type: .......................................Salwico Cargo
 Fire extinguishing systems
 Cargo holds:.............................................CO 2
 Make/Type: ................................................ NK
-Engine room:.............................................CO 2 . Make/Type: ................................................ NK
+Engine room:.............................................CO 2 .
+Make/Type: ................................................ NK
 Radars............................................................... 3
 Make: ..................................................Furuno
 Model(s): ............ FR-2837S-D, FAR-2117-BB, FR-2827-D
@@ -4668,7 +4930,12 @@ IMO number: ........................................ 9757711
 Total number of sister ships already completed (excluding ship presented):.....1
 Total number of sister ships still on order: ........ 1
 TORDIS KNUTSEN is a 156,000dwt class shuttle tanker that was delivered from HHI to Knutsen NYK Offshore
-Tankers. The vessel has been designed as a DP class 2 shuttle tanker and has a bow loading and dynamic positioning system suitable for tandem loading operations in Brazilian oil fields. The vessel is powered by one Hyundai-Wärtsilä 6X72 electrically controlled engine with a MCR of 16,860kW enabling her to sail at a service speed of 14.5knots at design draught with 15% sea margin. A Mewis duct, one of the most effective energy saving devices, is fitted to improve propulsion efficiency. The vessel’s enhanced dynamic positioning system (DP class 2) offers greater reliability, operability and maintainability in the power, thruster and control systems. She has two bow azimuth thrusters, one bow tunnel thruster, one stern azimuth thruster and one stern tunnel thruster that are driven by VFD motors. The switchboard which provides electricity for the thrusters is split into four sections for greater redundancy. A controllable pitch propeller and the high lift type of schilling rudder are fitted to contribute to the DP operation. In the case of a single failure of the main propulsion system, the vessel is capable of a speed of about seven knots and manoeuvring with adequate steering capability by using thrusters. The vessel’s bow loading system has been designed according to Statoil requirements on the forecastle deck and has a heli- deck for a Sikorsky S61. TECHNICAL PARTICULARS
+Tankers. The vessel has been designed as a DP class 2 shuttle tanker and has a bow loading and dynamic positioning system suitable for tandem loading operations in Brazilian oil fields.
+The vessel is powered by one Hyundai-Wärtsilä 6X72 electrically controlled engine with a MCR of 16,860kW enabling her to sail at a service speed of 14.5knots at design draught with 15% sea margin. A Mewis duct, one of the most effective energy saving devices, is fitted to improve propulsion efficiency.
+The vessel’s enhanced dynamic positioning system (DP class 2) offers greater reliability, operability and maintainability in the power, thruster and control systems. She has two bow azimuth thrusters, one bow tunnel thruster, one stern azimuth thruster and one stern tunnel thruster that are driven by VFD motors. The switchboard which provides electricity for the thrusters is split into four sections for greater redundancy. A controllable pitch propeller and the high lift type of schilling rudder are fitted to contribute to the DP operation.
+In the case of a single failure of the main propulsion system, the vessel is capable of a speed of about seven knots and manoeuvring with adequate steering capability by using thrusters.
+The vessel’s bow loading system has been designed according to Statoil requirements on the forecastle deck and has a heli- deck for a Sikorsky S61.
+TECHNICAL PARTICULARS
 Length oa:.......................................................... Abt. 284.3m
 Length bp: .................................................................... 269m
 Breadth moulded: ........................................................ 48.9m
@@ -4823,10 +5090,15 @@ Flag: ........................................ Marshall Islands
 IMO number: ........................................ 9730361
 Total number of sister ships already completed (excluding ship presented): .............................................. One
 Total number of sister ships still on order: ... Two
-TRINITY features a number of innovations. These aim to deal with new environmental regulations set to come into force in the near future. The 159,000dwt tanker has been fitted with a LNG duel fuel system with upper deck reinforcement and space reservation based on six LNG storage tanks. Energy saving devices include a pre-swirl duct, while a full spade rudder was fitted for increased manoeuvrability. The vessel performance is further enhanced with a Kyma ship performance system. With the introduction of the Ballast Water
+TRINITY features a number of innovations. These aim to deal with new environmental regulations set to come into force in the near future.
+The 159,000dwt tanker has been fitted with a LNG duel fuel system with upper deck reinforcement and space reservation based on six LNG storage tanks.
+Energy saving devices include a pre-swirl duct, while a full spade rudder was fitted for increased manoeuvrability. The vessel performance is further enhanced with a Kyma ship performance system.
+With the introduction of the Ballast Water
 Convention in 2007, the ship has been fitted with a
-Hi-ballast ballast water treatment system. Security features include a citadel inside the steering gear room, and the vessel complies with the 2013
-Vessel General Permit and is certified for operation through the new Panama transit scheme. TECHNICAL PARTICULARS
+Hi-ballast ballast water treatment system.
+Security features include a citadel inside the steering gear room, and the vessel complies with the 2013
+Vessel General Permit and is certified for operation through the new Panama transit scheme.
+TECHNICAL PARTICULARS
 Length oa:............................................ 274.17m
 Length bp: ............................................ 263.14m
 Breadth moulded: ........................................ 48m
@@ -4846,7 +5118,8 @@ Deadweight
 Design: ................................... 145,118tonnes
 Scantling: ............................... 158,734tonnes
 Block co-efficient (please state relevant draught): ............ 0.8260 (at scantling)
-Speed, service (-- %MCR output): ......14.2knots at scantling at NCR with 15%S.M. Cargo capacity
+Speed, service (-- %MCR output): ......14.2knots at scantling at NCR with 15%S.M.
+Cargo capacity
 Liquid volume: ............................... 173,579m3
 Bunkers
 Heavy oil: ....................................... 3,567.8m3
@@ -4855,7 +5128,8 @@ Water ballast: .................................... 52,924.9m3
 Tankers - percentage segregated ballast: ................................. 100%
 Daily fuel consumption (tonnes/day)
 Main engine only: ........................ 165.4g/kWh + 5% at MCR
-Classification society and notations:........... ABS, +A1, (E), Oil Carrier, +AMS, +ACCU, CSR, AB-CM, ESP, UWILD, CPS, TCM, VEC, RW, SPMA, ENVIRO, CRC, PMA, RRDA. Main engine(s)
+Classification society and notations:........... ABS, +A1, (E), Oil Carrier, +AMS, +ACCU, CSR, AB-CM, ESP, UWILD, CPS, TCM, VEC, RW, SPMA, ENVIRO, CRC, PMA, RRDA.
+Main engine(s)
 Design: ............................Hyundai-MAN B&W
 Model: ..................................... 5G70ME-C9.2
 Manufacturer: .................................. HHI-EMD
@@ -4904,7 +5178,8 @@ Product range: .................................Crude oil
 Coated tanks – make and type of coating: ................ Cargo Oil Tanks, KCC, Epoxy x 2 coats (bottom and up to 300mm upward)
 Cargo pumps
 Number: ................................................3 sets
-Type: ...................... Steam turbine driven ver. Centrifugal single stage
+Type: ...................... Steam turbine driven ver.
+Centrifugal single stage
 Make: ....................Hyundai Heavy Industries
 Capacity (each): ...........4,000m3/h x 135mTH
 Cargo control system
@@ -4924,9 +5199,12 @@ Fire detection system
 Make: ............................Consilium Marine AB
 Fire extinguishing systems
 Cargo holds: ........................Foam, sea water
-Make/Type: ................................NK CO., LTD. Engine room:............................................ CO 2
-Make/Type: ................................NK CO., LTD. Cabins: ................................. P.F.E., sea water
-Make/Type: ................................NK CO., LTD. Radars
+Make/Type: ................................NK CO., LTD.
+Engine room:............................................ CO 2
+Make/Type: ................................NK CO., LTD.
+Cabins: ................................. P.F.E., sea water
+Make/Type: ................................NK CO., LTD.
+Radars
 Number: ........................................... Two sets
 Make: ...................................................... JRC
 Model(s): .....S-BAND: JMR-9282-S, X-BAND:
@@ -4957,10 +5235,17 @@ Flag: .....................................................Germany
 IMO number: ........................................ 9777589
 Total number of sister ships already completed (excluding ship presented): ...................................... One
 Total number of sister ships still on order: ... Five
-VALPARAISO EXPRESS, a post-panamax containership, has a number of innovative features which not only improve the vessel’s operational and environmental performance but also provide more flexibility during loading. The ship is built to the twin islands type design where the separation of superstructure and engine room improves stability and provides more loading capacity while maintaining visibility. The ship complies with the IMO’s Cargo Stowage &
-Securing (CSS) Code and has a total of 2,100 sockets – of which around 1,250 are above and 850 are below deck – making this class of ship particularly well suited to the transport of perishable goods like fruit, vegetables, meat or pharmaceutical products. Oversized cargo that does not fit into a container can be stored below deck. The ship is fully equipped for the carriage of dangerous goods and the lashing and loading system means there are up to four hatch covers – instead of the usual three. This provides greater flexibility during loading and unloading. The lashing bridges are three-tiered (container layers). Valparaíso Express is fitted with a bow thruster of around 2,500kW (circa 3,400hp) which facilitates manoeuvring in narrow waterways like port basins. The main engine was designed by MAN Diesel & Turbo with a highly efficient, economical 7-cylinder diesel engine with electronic, emission-reducing valve control, providing an output of 34,224kW (around 46,530hp). There are five auxiliary engines with a total output of 21,270kW (28,920hp); however, all ships of the Valparaíso
-Express class are equipped for landside shore connection, which enables the onboard auxiliary engines to be switched off in port. The ship’s hull has been optimised for special loading cases and speed profiles in South American trade lanes, while the ship’s five-blade propeller can increase the ship’s speed to 21knots and features an applied rudder bulb for energy saving. Valparaíso Express’ range is around 30,000 nautical miles (around 55,000km). Tanks hold a total of 10,000m3 of fuel, including marine diesel oil for use in Emission
-Control Areas. Frequency controlled pumps increase energy savings at lower speeds and ballast water treatment units purify the ship’s ballast water without the use of chemicals before it is pumped into and out of the ballast water tanks using filtration and UV light treatment. TECHNICAL PARTICULARS
+VALPARAISO EXPRESS, a post-panamax containership, has a number of innovative features which not only improve the vessel’s operational and environmental performance but also provide more flexibility during loading. The ship is built to the twin islands type design where the separation of superstructure and engine room improves stability and provides more loading capacity while maintaining visibility.
+The ship complies with the IMO’s Cargo Stowage &
+Securing (CSS) Code and has a total of 2,100 sockets – of which around 1,250 are above and 850 are below deck – making this class of ship particularly well suited to the transport of perishable goods like fruit, vegetables, meat or pharmaceutical products. Oversized cargo that does not fit into a container can be stored below deck. The ship is fully equipped for the carriage of dangerous goods and the lashing and loading system means there are up to four hatch covers – instead of the usual three. This provides greater flexibility during loading and unloading. The lashing bridges are three-tiered (container layers).
+Valparaíso Express is fitted with a bow thruster of around 2,500kW (circa 3,400hp) which facilitates manoeuvring in narrow waterways like port basins. The main engine was designed by MAN Diesel & Turbo with a highly efficient, economical 7-cylinder diesel engine with electronic, emission-reducing valve control, providing an output of 34,224kW (around 46,530hp).
+There are five auxiliary engines with a total output of 21,270kW (28,920hp); however, all ships of the Valparaíso
+Express class are equipped for landside shore connection, which enables the onboard auxiliary engines to be switched off in port.
+The ship’s hull has been optimised for special loading cases and speed profiles in South American trade lanes, while the ship’s five-blade propeller can increase the ship’s speed to 21knots and features an applied rudder bulb for energy saving.
+Valparaíso Express’ range is around 30,000 nautical miles (around 55,000km). Tanks hold a total of 10,000m3 of fuel, including marine diesel oil for use in Emission
+Control Areas.
+Frequency controlled pumps increase energy savings at lower speeds and ballast water treatment units purify the ship’s ballast water without the use of chemicals before it is pumped into and out of the ballast water tanks using filtration and UV light treatment.
+TECHNICAL PARTICULARS
 Length oa: ............................................ 333.18m
 Length bp: ................................................. 318m
 Breadth moulded: ..................................... 48.2m
@@ -5068,9 +5353,12 @@ Make:.................................. Consilium Marine
 Type: ..........................Analogue addressable optical smoke detector
 Fire extinguishing systems
 Cargo holds: ...................High pressure CO 2 , sea water
-Make/Type: .................................NK CO. LTD. Engine room: ..................CO 2 , sea water, PFE
-Make/Type: .................................NK CO. LTD. Cabins: ................................... Sea water, PFE
-Make/Type:................................. NK CO. LTD. Radars
+Make/Type: .................................NK CO. LTD.
+Engine room: ..................CO 2 , sea water, PFE
+Make/Type: .................................NK CO. LTD.
+Cabins: ................................... Sea water, PFE
+Make/Type:................................. NK CO. LTD.
+Radars
 Number: ........................................... Two sets
 Make: .................................................. Furuno
 Model(s): ...............S-BAND (FAR-3230S-BB), X-BAND (FAR-3220-BB)
@@ -5095,7 +5383,12 @@ Flag: ............................................................. NIS
 IMO number: ........................................ 9734836
 Total number of sister ships already completed (excluding ship presented): ......... 1
 YARA KARA is the first in a series of two LPG/ NH 3 /VCM carriers for YARA LPG Shipping and was delivered in June 2016 from Hyundai
-Mipo Dockyard (HMD). The vessel was designed by HMD and is registered under the Norwegian (NIS) flag with DNV GL class. The vessel is an ocean going liquefied petroleum gas carrier with a bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single rudder and single screw propeller driven by a slow speed diesel engine. The cargo space is divided into four cargo holds to accommodate four independent self- supporting cargo tanks built as IMO type C. These are of bi-lobe shape and have a central longitudinal bulkhead. The ship’s side structure meets ice class requirements and the low speed marine diesel engine is fitted with a controllable pitch propeller. A SOx scrubber installed for the main engine and generators will reduce sulphur oxides from engine exhaust gas to comply with MEPC 184(59). Nitrogen oxides (NO and NO 2 ) are also removed from engine exhaust gas by the SCR system, in which an aqueous ammonia solution is mixed with the exhaust gas and the mixture is fed through a reactor. TECHNICAL PARTICULARS
+Mipo Dockyard (HMD). The vessel was designed by HMD and is registered under the Norwegian (NIS) flag with DNV GL class.
+The vessel is an ocean going liquefied petroleum gas carrier with a bulbous bow, transom stern, flush deck with forecastle, open water type stern frame, single rudder and single screw propeller driven by a slow speed diesel engine.
+The cargo space is divided into four cargo holds to accommodate four independent self- supporting cargo tanks built as IMO type C. These are of bi-lobe shape and have a central longitudinal bulkhead.
+The ship’s side structure meets ice class requirements and the low speed marine diesel engine is fitted with a controllable pitch propeller.
+A SOx scrubber installed for the main engine and generators will reduce sulphur oxides from engine exhaust gas to comply with MEPC 184(59). Nitrogen oxides (NO and NO 2 ) are also removed from engine exhaust gas by the SCR system, in which an aqueous ammonia solution is mixed with the exhaust gas and the mixture is fed through a reactor.
+TECHNICAL PARTICULARS
 Length oa: .......................................... abt. 159m
 Length bp: ................................................ 52.2m
 Breadth moulded: ..................................... 25.6m
@@ -5172,7 +5465,8 @@ Make: ........................................... TTS Marine
 Type (electric/hydraulic/steam): ..........Central system hydraulic
 Special lifesaving equipment
 Number of each and capacity: .... 25 persons
-Make: .......................... Fassmer-Marland Ltd. Type: .....................................Free-fall lifeboat
+Make: .......................... Fassmer-Marland Ltd.
+Type: .....................................Free-fall lifeboat
 Cargo tanks
 Number: .......4 (independent self- supporting cargo tanks)
 Grades of cargo carried: ...................2 grade
@@ -5239,15 +5533,20 @@ Hull No: ....................................................... 1036
 Owner/Operator: ......... GC Intermodal XIII, LTD
 Country: .................................. Marshall Islands
 Designer: .............. CSBC Corporation, Taiwan
-Country: ..................................... Taiwan, R.O.C. Model test establishment used: .............. HSVA, Germany
+Country: ..................................... Taiwan, R.O.C.
+Model test establishment used: .............. HSVA, Germany
 Flag: .................................................Hong Kong
 IMO number: ........................................ 9708435
 Total number of sister ships already completed (excluding ship presented): ........................................... 2
 Total number of sister ships still on order: ........ 2
 YM WINDOW has been designed and built by
-CSBC. The vessel is equipped with an energy saving bow that has superior performance, including at different draughts or trims, as well as a high efficiency propeller and twist rudder with rudder bulb. Combined with all energy saving equipment, the performance of this vessel can reach the highest standard of container vessel design. The vessel also meets IMO EEDI requirements for 2025 (phase III), with greatly reduced carbon emissions. Its 3-tier lashing bridge design enhances lashing ability, and container stacks on deck follow the
+CSBC. The vessel is equipped with an energy saving bow that has superior performance, including at different draughts or trims, as well as a high efficiency propeller and twist rudder with rudder bulb. Combined with all energy saving equipment, the performance of this vessel can reach the highest standard of container vessel design. The vessel also meets IMO EEDI requirements for 2025 (phase III), with greatly reduced carbon emissions.
+Its 3-tier lashing bridge design enhances lashing ability, and container stacks on deck follow the
 Russian stowage model which can also upgrade homogeneous container loading and make the arrangement of containers more flexible. It also improves the operation of loading and unloading containers. Moreover, the ship has obtained Lloyd’s
-Register’s BoxMax notation that enables operators to load more cargoes with more flexibility according to different weather and routes. Fatigue and ultimate strength were assessed by whipping and springing analysis, which can substantially improve the reliability of the hull structure. This vessel applies the smart ship design concept, and is fitted with a Remote Maintenance System that remotely links to the equipment onboard, including the main engine and auxiliary system, in order to inspect, analyse, conduct troubleshooting or determine what actions should be taken. The vessel is also equipped with a MGO cooler, mobile container type AMP system, variable frequency control for main sea water pumps for example, and energy saving and environmental protection equipment. TECHNICAL PARTICULARS
+Register’s BoxMax notation that enables operators to load more cargoes with more flexibility according to different weather and routes.
+Fatigue and ultimate strength were assessed by whipping and springing analysis, which can substantially improve the reliability of the hull structure.
+This vessel applies the smart ship design concept, and is fitted with a Remote Maintenance System that remotely links to the equipment onboard, including the main engine and auxiliary system, in order to inspect, analyse, conduct troubleshooting or determine what actions should be taken. The vessel is also equipped with a MGO cooler, mobile container type AMP system, variable frequency control for main sea water pumps for example, and energy saving and environmental protection equipment.
+TECHNICAL PARTICULARS
 Length oa:................................................. 368m
 Length bp: ............................................ 351.55m
 Breadth moulded:........................................ 51m
@@ -5381,9 +5680,15 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order: ........ 0
 YU PENG is an advanced modern cargo training ship for Dalian Marine University China designed by
 SDARI. It was built by COSCO (Dalian) Shipyard Co. Ltd
-China and delivered in October 2016. The vessel is used for seafaring education, training and scientific research, and simultaneously for carrying bulk cargo, general cargo, project cargo and containers. As China’s most advanced cargo training ship, it has excellent performance, complete functionality, advanced technology, and energy saving and environmentally protective features. The vessel will play a very important role in educating high-quality nautical trainees for Dalian Marine University and sets a new milestone for Chinese seafaring education. As a training ship, the vessel is mainly used for teaching and training, including practice for students on the management of cargo loading and discharge, as well as for scientific research and education on marine science and technology, machinery engineering, environmental engineering, and traffic information engineering and control. Many advanced facilities have been installed onboard, such as a training chart room, multi-media classroom, network centre, library, sailing simulator and radar wave tester. As a multi-purpose heavy-lift ocean-going vessel, it was designed with energy-saving, eco-friendliness and flexibility in mind. The ship complies with the Green
-Ship-II and EEDI-II class notations of CCS, and a ballast water management system, AMPS, LED lighting, a long- range fuel oil monitoring system, frequency conversion air conditioning and a cooling water pump have been installed onboard. The large weather deck area is suitable for carrying long objects. The vessel’s cargo holds have been constructed with a double skin and a double bottom and side tanks. Two layers of tweendeck panels of lift-away pontoon type are provided in No.2, 3, 4 holds and can be placed on four levels, while two layers of tweendeck hatch covers in No.1 hold are operated by a hydraulic system. There are two wire luffing heavy lift cargo cranes each with a SWL of 240tonnes installed port side, and the combined lifting capacity will be 500tonnes using a lifting beam. The vessel has advanced communication and navigation equipment and an integrated bridge console (IBS). The bridge design complies with DNV
-GL’s highest class notation NAUT-AW, while engine room automation complies with CCS’s unmanned AUT-0. TECHNICAL PARTICULARS
+China and delivered in October 2016. The vessel is used for seafaring education, training and scientific research, and simultaneously for carrying bulk cargo, general cargo, project cargo and containers. As China’s most advanced cargo training ship, it has excellent performance, complete functionality, advanced technology, and energy saving and environmentally protective features. The vessel will play a very important role in educating high-quality nautical trainees for Dalian Marine University and sets a new milestone for Chinese seafaring education.
+As a training ship, the vessel is mainly used for teaching and training, including practice for students on the management of cargo loading and discharge, as well as for scientific research and education on marine science and technology, machinery engineering, environmental engineering, and traffic information engineering and control. Many advanced facilities have been installed onboard, such as a training chart room, multi-media classroom, network centre, library, sailing simulator and radar wave tester.
+As a multi-purpose heavy-lift ocean-going vessel, it was designed with energy-saving, eco-friendliness and flexibility in mind. The ship complies with the Green
+Ship-II and EEDI-II class notations of CCS, and a ballast water management system, AMPS, LED lighting, a long- range fuel oil monitoring system, frequency conversion air conditioning and a cooling water pump have been installed onboard.
+The large weather deck area is suitable for carrying long objects. The vessel’s cargo holds have been constructed with a double skin and a double bottom and side tanks.
+Two layers of tweendeck panels of lift-away pontoon type are provided in No.2, 3, 4 holds and can be placed on four levels, while two layers of tweendeck hatch covers in No.1 hold are operated by a hydraulic system. There are two wire luffing heavy lift cargo cranes each with a SWL of 240tonnes installed port side, and the combined lifting capacity will be 500tonnes using a lifting beam.
+The vessel has advanced communication and navigation equipment and an integrated bridge console (IBS). The bridge design complies with DNV
+GL’s highest class notation NAUT-AW, while engine room automation complies with CCS’s unmanned AUT-0.
+TECHNICAL PARTICULARS
 Length oa: .............................................. 199.8m
 Length bp: ................................................. 189m
 Breadth moulded: ..................................... 27.8m

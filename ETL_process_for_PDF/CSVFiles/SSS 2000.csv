@@ -1,1 +1,1 @@
-FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed,ImoNumber,Gross,MainEngineDesigner,MaunEngineModel
+FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed,ImoNumber,Gross,SisterShip,Displacement,MainEngineDesigner,MainEngineModel

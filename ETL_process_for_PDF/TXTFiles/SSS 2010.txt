@@ -21,7 +21,10 @@ Telefax: +44 (0) 20 7245 6959
 E-mail: editorial@rina.org.uk advertising@rina.org.uk
 Significant Small Ships of 2010 1
 © 2011. The Royal Institution of Naval Architects
-This publication is copyright under the Berne Convention. All rights reserved. No part of the publication be repro- duced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown. Multiple copying of the contents without permission is always illegal. Printed by:
+This publication is copyright under the Berne Convention.
+All rights reserved. No part of the publication be repro- duced, stored in a retrieval system, or transmitted without the prior permission of the copyright owner. Permission is not, however, required to copy abstracts or articles on condition that a full reference to the source is shown.
+Multiple copying of the contents without permission is always illegal.
+Printed by:
 Latimer Trend Printing Group
 Estover Rd, Plymouth PL6 7PY
 ISBN 978 1-905040-75-9
@@ -69,15 +72,21 @@ Flag .....................................................Malaysia
 Delivery date ........................... December 2010
 Launched in December 2010, the arrival of ASB
 Mutiara 5 indicated a significant shift for Asian
-Supply Base (ASB) of Malaysia. The group had honed itself a fine reputation as a ‘one stop centre’ for the country’s oil and gas sector; however, increasing activity within this field led to ASB taking the decision to expand its remit and take on the mantle of “a fully integrated logistics hub”, incorporating fast crew boats and anchor handling and special purpose vessels into its daily operations. As ASB chief executive officer Datuk Harris Tan put it, at a press conference hosted during the crew boat’s delivery: “In order to stay ahead in the global marine and offshore area, we need to continually improve [our] competitive edge. A cost-competitive and efficient business environment, with strong infrastructure and comprehensive supporting industries, will be critical… to bring in investors.”
+Supply Base (ASB) of Malaysia. The group had honed itself a fine reputation as a ‘one stop centre’ for the country’s oil and gas sector; however, increasing activity within this field led to ASB taking the decision to expand its remit and take on the mantle of “a fully integrated logistics hub”, incorporating fast crew boats and anchor handling and special purpose vessels into its daily operations.
+As ASB chief executive officer Datuk Harris Tan put it, at a press conference hosted during the crew boat’s delivery: “In order to stay ahead in the global marine and offshore area, we need to continually improve [our] competitive edge. A cost-competitive and efficient business environment, with strong infrastructure and comprehensive supporting industries, will be critical… to bring in investors.”
 As this boost in oil and gas activity includes an upsurge in shallow water operations, ASB has therefore prepared itself to intensify its work in the busy Sabah and Sarawak waters. ASB Mutiara 5, which is being operated by compatriot oil major Petronas’ exploration and production subsidiary, Petronas Carigali, is the first
-ASB small vessel to be completed for this ongoing task. The vessel is powered by three Cummins engines; two
-KTA38 M2 models, which produce 993kW@1900rpm apiece, and one KTA50 M2, capable of generating 1324kW@1900rpm. Ten permanent crew members operate the vessel, which is capable of accommodating and transporting 58 passenger seafarers between locations. Coatings manufacturer Jotun provided ASB Mutiara 5’s hull and anti-corrosive protection, and the external deck has been coated with non-skid paint, while marine vinyl was incorporated into the flooring in the vessel’s interiors, to reduce the likelihood of slips and falls. The boat has a deck cargo capacity of 57tonnes, a fuel capacity of 56,400litres and a freshwater capacity of 24,500litres. ASB has confirmed that further vessel orders and deliveries can be expected to be announced in 2011. TECHNICAL PARTICULARS
+ASB small vessel to be completed for this ongoing task.
+The vessel is powered by three Cummins engines; two
+KTA38 M2 models, which produce 993kW@1900rpm apiece, and one KTA50 M2, capable of generating 1324kW@1900rpm. Ten permanent crew members operate the vessel, which is capable of accommodating and transporting 58 passenger seafarers between locations.
+Coatings manufacturer Jotun provided ASB Mutiara 5’s hull and anti-corrosive protection, and the external deck has been coated with non-skid paint, while marine vinyl was incorporated into the flooring in the vessel’s interiors, to reduce the likelihood of slips and falls. The boat has a deck cargo capacity of 57tonnes, a fuel capacity of 56,400litres and a freshwater capacity of 24,500litres. ASB has confirmed that further vessel orders and deliveries can be expected to be announced in 2011.
+TECHNICAL PARTICULARS
 Length, oa..................................................................40.37m
 Breadth moulded.........................................................7.50m
 Draft, max BL...............................................................1.72m
-Draft, max prop............................................................2.35m. Max speed................................................................ 28knots
-Range (nautical miles)........................................................... Fuel consumption ...........................735litres/hr at 85% MCR
+Draft, max prop............................................................2.35m.
+Max speed................................................................ 28knots
+Range (nautical miles)...........................................................
+Fuel consumption ...........................735litres/hr at 85% MCR
 Fuel capacity....................................................... 56,400litres
 Classification Society and Notations ...............AB A1 HSC, CREWBOAT, +AMS
 Main engine(s)
@@ -112,7 +121,9 @@ Complement
 Crew..............................................................................10
 Passengers...................................................................58
 ASB MUTIARA 5: Fast crew boat, enabling ABS to diversify activities 6 Significant small Ships of 2010
-Builder’s name: ..............Adrenalin Marine Ltd. Designer: ...............................Robert Allan Ltd. Vessel’s name: ..........................................BRAtt
+Builder’s name: ..............Adrenalin Marine Ltd.
+Designer: ...............................Robert Allan Ltd.
+Vessel’s name: ..........................................BRAtt
 Owner/operator: ...........................................N/A
 Country: .................................................Canada
 Flag: ...................................................Canadian
@@ -123,11 +134,16 @@ Delivery date: ...............................................N/A
 An unusual entry for Significant Small Ships perhaps, albeit an important one nonetheless, particularly in terms of the cost-saving impact this vessel could have on future training and on coming up with a solution to the manning crisis affecting the maritime industry as a whole. 2010 saw the launch of the prototype of the
 Burchett-Robert Allan (BRAtt) training tug, the brainchild of Robert Allan Ltd and Burchett Marine
 Inc. The BRAtt is an ultra-compact but fully operational training vessel, configured as a Z-drive tugboat. It has Z-drive propulsion, a fully operational ship-handling winch, and all the necessary accoutrements of a fully functional harbour tug simply scaled down. The BRAtt also has significant commercial potential as a line-handling or yarding tug where its compact but powerful capabilities would be a benefit with all the functional characteristics of a full-size tug. It is is intended to ensure that crew members are fully familiarised with the latest in tug technology, including procedures such as harbour-ship handling, and the ability to efficiently handle new
-Z-Drive and Voith Schneider Propeller (VSP) tugs, for instance. The vessel has been scaled proportionally to represent full-size tugs and features a Z-Drive propulsion, a fully operational ship-handling winch and all the necessary accoutrements of a fully functional harbour tug – but scaled down. As part of their remit, the prinicipals of both Burchett
-Marine and Robert Allan decided that the BRAtt would have to fulfil the criteria of being large enough to provide a realistic simulation of operation on the waves; powerful enough to perform real-life work in training scenarios; be fully class-certifiable; and yet be small enough to be load-deliverable. The end result is a training vessel that costs less than a full-size tug, and which offers opportunities for personalised, one-on-one, intensive skills-based training for potential masters. However, this is not just a floating simulator, by any means; several clients have approached Burchett Marine and Robert Allan, expressing an interest in purchasing or hiring the
-BRAtt as a cost-effective tug for small-scale, specialised operations, such as drydocking, line handling and boom deployment. Four versions of the BRAtt are available; a diesel- driven model; a hybrid BRAtt with optimised emission reductions options; an all-electric, emissions-free model; and a fuel-cell driven BRAtt. The BRAtt’s Z-drives are Olympic model HD3, a very simple and rugged Z-drive unit developed in
+Z-Drive and Voith Schneider Propeller (VSP) tugs, for instance. The vessel has been scaled proportionally to represent full-size tugs and features a Z-Drive propulsion, a fully operational ship-handling winch and all the necessary accoutrements of a fully functional harbour tug – but scaled down.
+As part of their remit, the prinicipals of both Burchett
+Marine and Robert Allan decided that the BRAtt would have to fulfil the criteria of being large enough to provide a realistic simulation of operation on the waves; powerful enough to perform real-life work in training scenarios; be fully class-certifiable; and yet be small enough to be load-deliverable.
+The end result is a training vessel that costs less than a full-size tug, and which offers opportunities for personalised, one-on-one, intensive skills-based training for potential masters. However, this is not just a floating simulator, by any means; several clients have approached Burchett Marine and Robert Allan, expressing an interest in purchasing or hiring the
+BRAtt as a cost-effective tug for small-scale, specialised operations, such as drydocking, line handling and boom deployment.
+Four versions of the BRAtt are available; a diesel- driven model; a hybrid BRAtt with optimised emission reductions options; an all-electric, emissions-free model; and a fuel-cell driven BRAtt.
+The BRAtt’s Z-drives are Olympic model HD3, a very simple and rugged Z-drive unit developed in
 British Columbia and used in the log industry. The engines are Cummins model QSB5.9-230 HD, rated 168bkW at 2600rpm, driving through a ZF Model 280-1 gearbox with a slip-clutch feature. This package is expected to develop 3630kg of bollard pull. The entire tug is heavily fendered with a Shibata cylindrical fender system for maximum resilience. An advanced
-Techsol machinery and systems control, alarm and monitoring system is installed, and will ultimately enable the real-time playback and monitoring of trainee actions. TECHNICAL PARTICULARS
+Techsol machinery and systems control, alarm and monitoring system is installed, and will ultimately enable the real-time playback and monitoring of trainee actions.
+TECHNICAL PARTICULARS
 Length, oa: ..................................................................8.53m
 Length, bp: ..................................................................6.91m
 Breadth moulded: .......................................................4.32m
@@ -148,13 +164,15 @@ Model: ....................................................QSB5.9-230 HD
 Number: .........................................................................2
 Output of each engine: .................... 168kW at 2600 rpm
 Gearbox(es)
-Make: ......................................................ZF Marine LLC. Model: ............................................................... ZF 280-1
+Make: ......................................................ZF Marine LLC.
+Model: ............................................................... ZF 280-1
 Number: .........................................................................2
 Output speed: .....................................................1:1 ratio
 Propeller(s)
 Material: .................................................... stainless steel
 Manufacturer: ...............Olympic Drives Z-drive/Osborne
-Propellers Ltd. Number: .........................................................................2
+Propellers Ltd.
+Number: .........................................................................2
 Fixed/Controllable pitch: ..........................................fixed
 Diameter: .............................................................654mm
 Speed: .............................................................. 1300rpm
@@ -187,28 +205,38 @@ Crew: .......................... 2-3 (one trainer and 1-2 trainees)
 Passengers: ...............................................................N/A
 Number of cabins: .....................................................N/A
 Other significant or special items of equipment: 12 volt DC Li-ion type house batteries supplied by
-Corvus Energy Ltd. Resiliently mounted wheelhouse
+Corvus Energy Ltd.
+Resiliently mounted wheelhouse
 BRAtt: Revolutionary compact tug training concept 8 Significant small Ships of 2010
 Builder’s name.............Kockums AB Sweden / Karlskrona
 Designer..........Kockums AB / Fintry Marine
 Design AG Switzerland
 Vessel’s name.............................. CarboClyde
 LONDON
-Owner/operator................... Fintry Marine Ltd. Country........................................................ UK
+Owner/operator................... Fintry Marine Ltd.
+Country........................................................ UK
 Flag ............................................................ UK
 Contract date ................................... July 2009
 Delivery date .......................September 2010
 CarboClyde is part of a new generation of high performance vessel servicing of offshore wind farms. The catamaran vessel is built entirely in carbon composite construction technique, and she was constructed to Det Norske Veritas (DNV) classification with the following notation: DNV 1 A1 HSLC R2
-Crew. The concept and outer appearance of the multipurpose vessel was developed by Fintry Marine
+Crew.
+The concept and outer appearance of the multipurpose vessel was developed by Fintry Marine
 Design AG, whereas Kockums AB provided the engineering and know-how of this catamaran. The 23m long work catamaran, the first of a future production series, dubbed the carbon fibre composite catamaran (CarboCAT), is currently deployed in the
 Baltic 1 the first commercial offshore wind farm in
-Germany. At a service speed of around 25kts with 82% MCR, the average consumption of each MTU engine comes to 140litres/hr. The vessel can also transport up to 8tonnes of material and between 12-24 technicians. Thanks to the installation of HamiltonJet waterjets, the crew were pleased with the running characteristics and manoeuvrability of the vessel, thus successfully completing the almost two-year development phase of this new type of service boat for the offshore industry. The hulls and other assemblies such as the wheelhouse of the CarboCAT MPV were produced in negative moulds at Kockums AB in Sweden, part of
-ThyssenKrupp. Kockums AB’s experience in building ships for the
+Germany.
+At a service speed of around 25kts with 82% MCR, the average consumption of each MTU engine comes to 140litres/hr. The vessel can also transport up to 8tonnes of material and between 12-24 technicians.
+Thanks to the installation of HamiltonJet waterjets, the crew were pleased with the running characteristics and manoeuvrability of the vessel, thus successfully completing the almost two-year development phase of this new type of service boat for the offshore industry.
+The hulls and other assemblies such as the wheelhouse of the CarboCAT MPV were produced in negative moulds at Kockums AB in Sweden, part of
+ThyssenKrupp.
+Kockums AB’s experience in building ships for the
 Swedish Navy, with a length of more than 70m made entirely of carbon, served as a major inspiration for the
 CarboCAT catamaran. They developed their own
 Kockums Vacuum Assisted Sandwich Infusion (KVASI) process which is also licensed to Japanese shipyard
-Universal Shipbuilding Corporation (USC) to use on the production of hull structures for mine countermeasure vessels. The concept, developed by Fintry Marine Design
-AG (cooperating partner of Kockums AB), is based on extensive experience in the deployment of boats in offshore wind farms. The new feature in this ship concept – apart from the carbon composite technology – is that everything is grouped on the forecastle, from the docking systems for various applications to the large crane from Palfinger Marine Systems, the spacious working deck, the lifeboat or the quickly interchangeable 3m container transport platforms for the technicians’ equipment. The concept for securing the cargo on the forecastle was copied from container ships and all the packing systems are secured with so-called twist locks. According to Kockums and Fintry Marine, the vessel’s carbon fibre sandwich composite structure offers advantages such as: over 30% reduced structural weight, compared to aluminium vessels; the chance to realize fuel savings of up to 20%; and savings of up to 25% when it comes to typical maintenance costs. TECHNICAL PARTICULARS
+Universal Shipbuilding Corporation (USC) to use on the production of hull structures for mine countermeasure vessels.
+The concept, developed by Fintry Marine Design
+AG (cooperating partner of Kockums AB), is based on extensive experience in the deployment of boats in offshore wind farms. The new feature in this ship concept – apart from the carbon composite technology – is that everything is grouped on the forecastle, from the docking systems for various applications to the large crane from Palfinger Marine Systems, the spacious working deck, the lifeboat or the quickly interchangeable 3m container transport platforms for the technicians’ equipment. The concept for securing the cargo on the forecastle was copied from container ships and all the packing systems are secured with so-called twist locks.
+According to Kockums and Fintry Marine, the vessel’s carbon fibre sandwich composite structure offers advantages such as: over 30% reduced structural weight, compared to aluminium vessels; the chance to realize fuel savings of up to 20%; and savings of up to 25% when it comes to typical maintenance costs.
+TECHNICAL PARTICULARS
 Length, oa....................................................................23.6m
 Length, bp..................................................................22.50m
 Breadth moulded...........................................................8.6m
@@ -271,19 +299,27 @@ Total number of sister ships already completed .................................
 Total number of sister ships still on order ...... 0
 Delivery date ............................... June 2010
 Dana Cruz is a 28m King River-class tug that was built, by Fred Wahl Marine of Oregon, USA to
-ABS load line standards. The vessel’s length is registered at 26.8m, but the difference in the overall length is due to the rubber fendering. There is approximately 1m of fendering on the forward push knees and slightly less on the stern. This vessel has a 10.9m beam and the class is considered to be incredibly versatile, strong and stable. Paul Gallagher of Foss Maritime said of this vessel: “The vessel is versatile to us in our business as she can tow a barge on a tow wire out in the ocean and then bring the barge into a shallow beach environment in 2m of water. She is also set up with stern winches which allow Dana Cruz to push barges up the inland river system.”
+ABS load line standards. The vessel’s length is registered at 26.8m, but the difference in the overall length is due to the rubber fendering. There is approximately 1m of fendering on the forward push knees and slightly less on the stern.
+This vessel has a 10.9m beam and the class is considered to be incredibly versatile, strong and stable.
+Paul Gallagher of Foss Maritime said of this vessel: “The vessel is versatile to us in our business as she can tow a barge on a tow wire out in the ocean and then bring the barge into a shallow beach environment in 2m of water. She is also set up with stern winches which allow Dana Cruz to push barges up the inland river system.”
 The King River-class tugs have ice-strengthened hulls providing stability in the cold weather conditions experienced in the Alaskan waters. The tug also meets all known future United States Environmental
 Protection Agency (EPA) emission standards with Tier
 II-approved propulsion and auxiliary generators provided by Caterpillar. The vessel operates at 1324kW – more powerful than similar vessels in her class that operate in the shallow-water environment of
-Alaska. The 15.24m wheels, protected from the bottom by large steel ‘skegs’, are housed in a deep tunnel design to maximise thrust in shallow water. The anti-vibration engine-mounted/drive systems are in place to reduce unwanted stresses on the hull, which also aids in a more comfortable ride. There is sleeping accommodation for nine people. The vessel also has a closed circuit television (CCTV) camera system which offers the captain a view of 16 locations within and outside the vessel. All of her engines are new EPA tier II which have the lowest emission ratings available
-The vessel was designed to allow Foss Maritime to ballast down the bow of the vessel and change the propellers or rudders without having to go into a drydock or shipyard. Dana Cruz has been fitted with high-tech deck equipment and machinery. The tug has a Markey TES- 22, single drum towing winch with 381m of 3.5m wire rope, and a Markey DESMG-18S single drum winch with 121.9m by 0.3m of synthetic line. The face wire winches onboard are from Nabrico and are of 40tonnes low-profile type with 54.8m by 0.3m synthetic line. The vertical capstan windlass is of
-Markey VEP-12-40 with 274.3m by 0.2m stud-link chain type. The deck and towing winches are electric instead of hydraulic. There are two Stockless anchors with a capacity of 31,000lbs. The search lights are made to super critical hospital-grade silencers. The vessel also has an Aqua-drive anti-vibration system and forward looking infra-red (FLIR) navigation onboard. The tug also features built in voids that separate the fuel tanks from the hull to protect the main fuel tanks from side impact in the event of a collision. TECHNICAL PARTICULARS
+Alaska.
+The 15.24m wheels, protected from the bottom by large steel ‘skegs’, are housed in a deep tunnel design to maximise thrust in shallow water. The anti-vibration engine-mounted/drive systems are in place to reduce unwanted stresses on the hull, which also aids in a more comfortable ride. There is sleeping accommodation for nine people.
+The vessel also has a closed circuit television (CCTV) camera system which offers the captain a view of 16 locations within and outside the vessel. All of her engines are new EPA tier II which have the lowest emission ratings available
+The vessel was designed to allow Foss Maritime to ballast down the bow of the vessel and change the propellers or rudders without having to go into a drydock or shipyard.
+Dana Cruz has been fitted with high-tech deck equipment and machinery. The tug has a Markey TES- 22, single drum towing winch with 381m of 3.5m wire rope, and a Markey DESMG-18S single drum winch with 121.9m by 0.3m of synthetic line. The face wire winches onboard are from Nabrico and are of 40tonnes low-profile type with 54.8m by 0.3m synthetic line. The vertical capstan windlass is of
+Markey VEP-12-40 with 274.3m by 0.2m stud-link chain type. The deck and towing winches are electric instead of hydraulic. There are two Stockless anchors with a capacity of 31,000lbs. The search lights are made to super critical hospital-grade silencers. The vessel also has an Aqua-drive anti-vibration system and forward looking infra-red (FLIR) navigation onboard.
+The tug also features built in voids that separate the fuel tanks from the hull to protect the main fuel tanks from side impact in the event of a collision.
+TECHNICAL PARTICULARS
 Length, oa ...............................................................28.04m
 Length, bp ...............................................................28.07m
 Breadth moulded .....................................................10.97m
 Depth, moulded .........................................................0.79m
 Gross tonnage ............................................................... 98gt
-River Draft.................................................... 3’ 10” (1.168m) . Ocean Draft.................................................... 5’ 7” (1.702m)
+River Draft.................................................... 3’ 10” (1.168m) .
+Ocean Draft.................................................... 5’ 7” (1.702m)
 Classification society and notations ................. not classed
 Other important international regulations.........ABS Loadline
 Construction material
@@ -319,9 +355,14 @@ Country........................................................ USA
 Delivery date .......................... September 2010
 If the launch of MetalCraft Marine’s (MCM’s)
 FireStorm 50 fireboat raised eyebrows, then the
-September 2010 delivery of the FireStorm 70model really caused a stir. FireStorm 70 rightly captured attention for featuring a more than impressive maximum speed of 41kts, courtest of four CAT C-18s, generating 746.5kW apiece, and Hamilton 403 waterjets. Neither was there any slouching when it came to the vessel’s quad Hale 8 FKF pumps, which produce just over 14,000 gallons per minute (gpm) at 150psi and 17,892gpm at 120psi. The high pump numbers have been attributed to the unique design of MCM’s ‘sea chest’, which provides a filtered water source to the pump while self-draining with the boat on plane. The monitor location is central for further range and is close to the centre of buoyancy, thus allowing the helmsman to pivot the boat around a high thrust load at full steam while running at low- engine RPM. The hull design, based on MCM’s long-standing
-Kingston hull model, features a delta-pad centre planing flat, which provides the additional lift needed to offer a low trim angle through the pre-planing transition zone, or ‘hump’. As a result, the FireStorm 70 is able to carry its full inventory of equipment without compromising on speed or performance, and without draining the engine of excessive amounts of fuel. However, beyond fire-fighting, the FireStorm 70 is also equipped to undertake chemical, biological, radiological and nuclear (CBRN) detection and prevention operations. The vessel features multiple monitors and detectors for gases and chemical warfare agents, which are displayed via a system control module in the pilot house. A toxic-free area (TFA), including the pilot house and part of the lower cabin outside the safe entry and decontamination area, can be rapidly sealed in the event of an attack, and the FireStorm 70 offers personnel an integral breathable air system and a cabin gas particulate air filtration system. TECHNICAL PARTICULARS
-Length, oa................................................................... 21.1m. Breadth moulded...........................................................6.9m
+September 2010 delivery of the FireStorm 70model really caused a stir. FireStorm 70 rightly captured attention for featuring a more than impressive maximum speed of 41kts, courtest of four CAT C-18s, generating 746.5kW apiece, and Hamilton 403 waterjets. Neither was there any slouching when it came to the vessel’s quad Hale 8 FKF pumps, which produce just over 14,000 gallons per minute (gpm) at 150psi and 17,892gpm at 120psi.
+The high pump numbers have been attributed to the unique design of MCM’s ‘sea chest’, which provides a filtered water source to the pump while self-draining with the boat on plane. The monitor location is central for further range and is close to the centre of buoyancy, thus allowing the helmsman to pivot the boat around a high thrust load at full steam while running at low- engine RPM.
+The hull design, based on MCM’s long-standing
+Kingston hull model, features a delta-pad centre planing flat, which provides the additional lift needed to offer a low trim angle through the pre-planing transition zone, or ‘hump’. As a result, the FireStorm 70 is able to carry its full inventory of equipment without compromising on speed or performance, and without draining the engine of excessive amounts of fuel.
+However, beyond fire-fighting, the FireStorm 70 is also equipped to undertake chemical, biological, radiological and nuclear (CBRN) detection and prevention operations. The vessel features multiple monitors and detectors for gases and chemical warfare agents, which are displayed via a system control module in the pilot house. A toxic-free area (TFA), including the pilot house and part of the lower cabin outside the safe entry and decontamination area, can be rapidly sealed in the event of an attack, and the FireStorm 70 offers personnel an integral breathable air system and a cabin gas particulate air filtration system.
+TECHNICAL PARTICULARS
+Length, oa................................................................... 21.1m.
+Breadth moulded...........................................................6.9m
 Depth, moulded...........................................................10.3m
 Max speed..........................................41knots (fully loaded)
 Classification Society and Notations..... ABS / IACS-certified
@@ -381,10 +422,15 @@ Flag ................................................ Singapore
 Delivery date ..............................January 2010
 Greatship Maya, which was delivered in January 2010, is one of the few new offshore support vessels (OSVs) to have attained certification as a
 Special Purpose Ship under the International
-Maritime Organization (IMO) SPS Code 2008, a category which denotes that vessels carrying more than 12 special project personnel have met stringent standards for safety and stability. The 94m platform supply geotechnical vessel was delivered to owner Greatship Global Offshore
+Maritime Organization (IMO) SPS Code 2008, a category which denotes that vessels carrying more than 12 special project personnel have met stringent standards for safety and stability.
+The 94m platform supply geotechnical vessel was delivered to owner Greatship Global Offshore
 Services, and then bareboat chartered to GC Rieber
 Shipping Asia and partner Bluestone Offshore, from the first quarter of 2010. Greatship Maya’s maiden expedition took place at the Australian Great Barrier
-Reef in February 2010, when a team of international researchers deployed the vessel at the landmark to determine how sudden sea-level change and climate change were affecting the Reef’s coral, and to collect coral core samples at a depth of 160m. Another factor that makes Greatship Maya significant is that, unlike a number of other standard platform supply vessels, she is equipped with a drilling unit, which is capable of operating at water depths of up to 1800m. She can also host real-time, in-situ tests from downhole or seabed mode, as well as conduct a wide range of geotechnical laboratory tests within her onboard facilities. The vessel features two units of electrical-driven 2600kW azimuth thrusters and three units of 1050kW tunnel thrusters. As a result, this set-up grants her Dynamic Positioning II capability. Additionally, Greatship Maya has a 7m x 7m moon pool, and some 1000 sq m of clear deck space for the installation of drilling derrick, line tensioner winches, mud pumps, hydraulic units and various specialised containers for the performance of geotechnical services. TECHNICAL PARTICULARS
+Reef in February 2010, when a team of international researchers deployed the vessel at the landmark to determine how sudden sea-level change and climate change were affecting the Reef’s coral, and to collect coral core samples at a depth of 160m.
+Another factor that makes Greatship Maya significant is that, unlike a number of other standard platform supply vessels, she is equipped with a drilling unit, which is capable of operating at water depths of up to 1800m. She can also host real-time, in-situ tests from downhole or seabed mode, as well as conduct a wide range of geotechnical laboratory tests within her onboard facilities.
+The vessel features two units of electrical-driven 2600kW azimuth thrusters and three units of 1050kW tunnel thrusters. As a result, this set-up grants her Dynamic Positioning II capability.
+Additionally, Greatship Maya has a 7m x 7m moon pool, and some 1000 sq m of clear deck space for the installation of drilling derrick, line tensioner winches, mud pumps, hydraulic units and various specialised containers for the performance of geotechnical services.
+TECHNICAL PARTICULARS
 Length, oa....................................................................93.6m
 Length, bp....................................................................86.6m
 Breadth moulded ......................................................19.7m
@@ -468,12 +514,17 @@ Delivery date.......................... December 2009
 Following hot on the heels of her sister vessel Hai
 Yu, which was delivered in September 2009, Hai
 Jun is the 10th passenger catamaran of the SEACAT family designed by CMCS of Australia, and built by
-Wang Tak Engineering & Shipbuilding Co. Ltd. The vessel is operated by Zhuhai SeaGoing
+Wang Tak Engineering & Shipbuilding Co. Ltd.
+The vessel is operated by Zhuhai SeaGoing
 Shipping Co, a fully-owned subsidiary of Zhuhai
 High-Speed Passenger Ferry Co, and is deployed on routes between Zhuhai Jiuzhou Port, Shekou, Hong
-Kong Airport, Macau Airport and local outlying islands within the Zhuhai region. Hai Jun is equipped with life saving equipment and four life rafts, each with a capacity for 65 persons, as well as portable fire extinguishers, a fixed CO 2 fire suppression system for the engine room, and a ‘dry-type’ passenger cabin water-spray protection system. All life saving equipment aboard the vessel has been certified by China Classification
-Society (CCS). In terms of reducing excessive noise and vibrations, the ferry was also designed with flexible mountings to the main engines and gearbox; flexible couplings fitted to the propulsion train for the waterjet; and isolation of the engine room from the passenger cabin at the main deck. As a result, Hai
-Jun records a noise level of just 70dbA inside the main deck passenger cabin, and less than 65dbA at the upper deck passenger cabin and wheelhouse. Currently, two more 33m catamarans are under construction at Wang Tak, due for delivery in 2011. TECHNICAL PARTICULARS
+Kong Airport, Macau Airport and local outlying islands within the Zhuhai region.
+Hai Jun is equipped with life saving equipment and four life rafts, each with a capacity for 65 persons, as well as portable fire extinguishers, a fixed CO 2 fire suppression system for the engine room, and a ‘dry-type’ passenger cabin water-spray protection system. All life saving equipment aboard the vessel has been certified by China Classification
+Society (CCS).
+In terms of reducing excessive noise and vibrations, the ferry was also designed with flexible mountings to the main engines and gearbox; flexible couplings fitted to the propulsion train for the waterjet; and isolation of the engine room from the passenger cabin at the main deck. As a result, Hai
+Jun records a noise level of just 70dbA inside the main deck passenger cabin, and less than 65dbA at the upper deck passenger cabin and wheelhouse.
+Currently, two more 33m catamarans are under construction at Wang Tak, due for delivery in 2011.
+TECHNICAL PARTICULARS
 Length, oa....................................................................33.0m
 Breadth, moulded........................................................8.81m
 Depth, moulded.............................................................2.8m
@@ -528,10 +579,18 @@ Total number of sister ships already completed 5
 Total number of sister ships still on order.........0
 Contract date................................ August 2009
 Delivery date................................... March 2010
-The 15m Iceni Spirit was specifically designed and built to perform crew transfers and associated works on offshore wind farms, currently a booming market within the US, Europe and many parts of Asia. Built with safety in mind, Iceni Spirit has been structurally designed to enable crew transfers in over 2m significant wave height. The vessel is being deployed at the Walney offshore wind farms in the Irish
-Sea, which are currently under construction approximately 15km off Walney Island, Cumbria. Upon completion, the wind farms will feature 51 turbines with a total capacity of 367.2mw. The vessel’s one-level wheelhouse was developed to be a spacious, comfortable environment for her passengers, containing individual, air sprung adjustable suspension seats for up to 12 wind farm technicians. The windows offer forward views, in order to limit seasickness while the 25knots vessel is in transit. The wheelhouse also features a small galley with hot and cold running water, tea and coffee, and meal-making facilities. Eight of the seats come equipped with tables and dedicated areas for kit bag storage. Toilet facilities are provided at the rear of the wheelhouse with access from the aft deck. Below deck is a designated heated storage area, accessible via the wheelhouse, where sensitive spare parts and equipment can be stored. According to
+The 15m Iceni Spirit was specifically designed and built to perform crew transfers and associated works on offshore wind farms, currently a booming market within the US, Europe and many parts of Asia.
+Built with safety in mind, Iceni Spirit has been structurally designed to enable crew transfers in over 2m significant wave height. The vessel is being deployed at the Walney offshore wind farms in the Irish
+Sea, which are currently under construction approximately 15km off Walney Island, Cumbria.
+Upon completion, the wind farms will feature 51 turbines with a total capacity of 367.2mw.
+The vessel’s one-level wheelhouse was developed to be a spacious, comfortable environment for her passengers, containing individual, air sprung adjustable suspension seats for up to 12 wind farm technicians. The windows offer forward views, in order to limit seasickness while the 25knots vessel is in transit. The wheelhouse also features a small galley with hot and cold running water, tea and coffee, and meal-making facilities. Eight of the seats come equipped with tables and dedicated areas for kit bag storage. Toilet facilities are provided at the rear of the wheelhouse with access from the aft deck.
+Below deck is a designated heated storage area, accessible via the wheelhouse, where sensitive spare parts and equipment can be stored. According to
 Iceni Marine Services, which took delivery of Iceni
-Spirit in March 2010, the boat has been equipped with a fuel delivery system, which means she can refuel portable generators on the wind turbine generators and sub-stations after the crew transfers have taken place. The vessel's main diesel tanks have been increased in size and a pump capapable of achieving a 40m head of pressure fitted below the main deck. A 30m hose reeel and digital flow metre to log all fuel transfers are mounted at the bow of the vessel. The vessel has a pod hull, for operating in shallow water and where grounding is required, and is fitted with Scania DI12 engines, each capable of generating an output of 460kW, and UltraJet 452 waterjets. Iceni Spirit’s spacious foredeck also allows for a large stable working platform, with up to 2000kg weight carrying capacity. Included at the bow is a hydraulic jet wash for cleaning access ladders and mono piles. The fenders are the MK IV type specially developed for wind farm applications and work in conjunction with a strong box section bow platform that has a sprung fastening to provide extra 'give' when landing. The bow aslo features a built out 'nib' that fits between the boat landing piles, all helping to keep the boat in place against the tower. The nib also provides a shorter step off distance to the ladder of the wind turbine tower. TECHNICAL PARTICULARS
+Spirit in March 2010, the boat has been equipped with a fuel delivery system, which means she can refuel portable generators on the wind turbine generators and sub-stations after the crew transfers have taken place. The vessel's main diesel tanks have been increased in size and a pump capapable of achieving a 40m head of pressure fitted below the main deck. A 30m hose reeel and digital flow metre to log all fuel transfers are mounted at the bow of the vessel.
+The vessel has a pod hull, for operating in shallow water and where grounding is required, and is fitted with Scania DI12 engines, each capable of generating an output of 460kW, and UltraJet 452 waterjets.
+Iceni Spirit’s spacious foredeck also allows for a large stable working platform, with up to 2000kg weight carrying capacity. Included at the bow is a hydraulic jet wash for cleaning access ladders and mono piles. The fenders are the MK IV type specially developed for wind farm applications and work in conjunction with a strong box section bow platform that has a sprung fastening to provide extra 'give' when landing. The bow aslo features a built out 'nib' that fits between the boat landing piles, all helping to keep the boat in place against the tower.
+The nib also provides a shorter step off distance to the ladder of the wind turbine tower.
+TECHNICAL PARTICULARS
 Length, oa....................................................................15.6m
 Breadth moulded...........................................................6.1m
 Design, draught...........................................................0.87m
@@ -553,7 +612,8 @@ Model.................................................................. ZF360 A
 Number...........................................................................2
 Gear ratio................................................................1.50:1
 Waterjet(s)
-Make ................................................Ultra Dynamics Ltd. Model..................................................................... UJ452
+Make ................................................Ultra Dynamics Ltd.
+Model..................................................................... UJ452
 Output of each................................... 900kW @ 2100rpm
 Steering controls.....................UltraJet JetMaster joystick
 Deck machinery
@@ -583,9 +643,15 @@ Flag: ..........................................................USA
 Total number of sister ships already completed: ..................................... 0
 Total number of sister ships still on order:..... 0
 Delivery date: ............................January 2010
-Significant Small Ships has selected Boston Towing & Transportation’s newcomer tug Independence based on a number of innovative vessel features, reportedly making this unit a ‘first’ for the US-built tug market. Designed by Robert Allan, one of the first notable considerations was to equip Independence with controllable pitch propellers (CP props). Its unique and innovative RAstar hull form, intended for service in the exposed North Atlantic region off the coast of New England, USA. The 39.1m long tug produces 3970kW from two 16v4000 series MTU engines driving Rolls-Royce
-Z-drives with CP props. These CP props can be partially feathered, meaning that a fire pump can run directly off the front end of the engine, after being engaged by an electro-hydraulic clutch, while the CP prop can still be utilised to manoeuvre the tug, reducing required engine power. Sea trial results highlighted an increase in vessel speed and enhanced power, resulting in a 73.5tonne bollard pull. Independence is equipped with FiFi Class 1 fire pumps, which produce a water cannon range of 130m at 39,750 litres per minute. According to Derecktor, the aforementioned optimisation of power in the propulsion system enables the pumps to be driven off the main engines, thereby reducing both the weight and cost of the dedicated pump engines typically found on other FiFi Class 1 vessels and boats. Another notable feature is the use of carbon fibre drive shafts connecting to the vessel’s Z-drives, installed primarily to reduce the volume of required vessel maintenance, subsequently slashing vessel downtime rates. The presence of carbon fibre shafts also help to decrease the number of required pedestal bearings, according to Bill Skinner, marine superintendent at Boston Towing & Transportation, who acted as project manager on Independence. He said: “Two or less bearings may be used as opposed to typically five in an installation of this size. Two men can remove and carry a carbon fibre drive shaft in and out of the boat...that’s obviously not the case with a steel shaft.”
-The aft deck on Independence is built to accommodate three 20ft containers, while an Effer hydraulic deck crane, rated at 10tonnes and with 7.6m extension, is responsible for handling container and cargo movements, as well as deployment of the vessel’s rescue boat. An estimated 1065m of piping, under the deck and in the forward bulwarks, were installed to handle the vessel’s deck heating system – a crucial consideration, given the ice the vessel’s crew can expect to encounter during winter activities off the coast of Massachusetts. Other details for enhanced crew comfort include 21 onboard heated windows. TECHNICAL PARTICULARS
+Significant Small Ships has selected Boston Towing & Transportation’s newcomer tug Independence based on a number of innovative vessel features, reportedly making this unit a ‘first’ for the US-built tug market. Designed by Robert Allan, one of the first notable considerations was to equip Independence with controllable pitch propellers (CP props). Its unique and innovative RAstar hull form, intended for service in the exposed North Atlantic region off the coast of New England, USA.
+The 39.1m long tug produces 3970kW from two 16v4000 series MTU engines driving Rolls-Royce
+Z-drives with CP props. These CP props can be partially feathered, meaning that a fire pump can run directly off the front end of the engine, after being engaged by an electro-hydraulic clutch, while the CP prop can still be utilised to manoeuvre the tug, reducing required engine power. Sea trial results highlighted an increase in vessel speed and enhanced power, resulting in a 73.5tonne bollard pull.
+Independence is equipped with FiFi Class 1 fire pumps, which produce a water cannon range of 130m at 39,750 litres per minute. According to Derecktor, the aforementioned optimisation of power in the propulsion system enables the pumps to be driven off the main engines, thereby reducing both the weight and cost of the dedicated pump engines typically found on other FiFi Class 1 vessels and boats.
+Another notable feature is the use of carbon fibre drive shafts connecting to the vessel’s Z-drives, installed primarily to reduce the volume of required vessel maintenance, subsequently slashing vessel downtime rates. The presence of carbon fibre shafts also help to decrease the number of required pedestal bearings, according to Bill Skinner, marine superintendent at Boston Towing & Transportation, who acted as project manager on Independence. He said: “Two or less bearings may be used as opposed to typically five in an installation of this size. Two men can remove and carry a carbon fibre drive shaft in and out of the boat...that’s obviously not the case with a steel shaft.”
+The aft deck on Independence is built to accommodate three 20ft containers, while an Effer hydraulic deck crane, rated at 10tonnes and with 7.6m extension, is responsible for handling container and cargo movements, as well as deployment of the vessel’s rescue boat.
+An estimated 1065m of piping, under the deck and in the forward bulwarks, were installed to handle the vessel’s deck heating system – a crucial consideration, given the ice the vessel’s crew can expect to encounter during winter activities off the coast of Massachusetts.
+Other details for enhanced crew comfort include 21 onboard heated windows.
+TECHNICAL PARTICULARS
 Length, oa ...............................................................39.1m
 Breadth moulded: ......................................................13.5m
 Depth, moulded: ....................................................... 5.92m
@@ -654,8 +720,12 @@ Total number of sister ships still on order ...... 5
 Contract date .............................January 2010
 Delivery date ......................... November 2010
 Completed, from contract to delivery, in just 11 months, Laboe is the first of a six-vessel pilot boat order placed with Swedish shipbuilder Dockstavarvet, a specialist in the manufacture of aluminium pilot and patrol craft. Ordered for coastal use by the German government, the 16.8m x 5.2m Laboe features two
-Volvo-Penta D16 main engines, each delivering 368kW at 1800rpm. Each engine drives fixed pitch propellers through 80mm SS shafts and, combined with Twin Disc MGX-5145 gearboxes, the end result is an impressive propulsion package. At full load displacement of 33.3tonnes and 90% of
-CSR, Laboe can achieve speeds of 20knots, resulting in the vessel’s notable low rate of fuel consumption, which stands at approximately 7.5litres per nautical mile. The vessel arrangement is laid out with a raised wheelhouse with ‘round-the-horizon’ visibility for the crew. In order to limit noise, the deckhouse has been resiliently mounted, resulting in a noise level of under 65db(A) at 90% maximum continuous revolution (MCR). A 20kW Kabola boiler provides Laboe’s heating, combined with waste heat from the engines’ fresh water circuits and back-up from a 9kW electro boiler when the vessel is shore-connected. The electrical system is based on 24 V DC for essential services supplied from two 140 A generators on the main engines. The 400/230 V AC system is supplied by a 10kW Fischer-Panda diesel generator or shore connection and serves five large heated windows, the aircon system, domestic services and back-up battery charging for five battery banks. Furuno has supplied Laboe’s navigation and communications package, which incorporates two 12kW radars, type FAR-2117, with 17” and 19” displays, as well as two TECDIS plotter systems, GPS compass, dGPS receiver, autopilot, echo sounder, AIS, wind data and camera systems. TECHNICAL PARTICULARS
+Volvo-Penta D16 main engines, each delivering 368kW at 1800rpm. Each engine drives fixed pitch propellers through 80mm SS shafts and, combined with Twin Disc MGX-5145 gearboxes, the end result is an impressive propulsion package.
+At full load displacement of 33.3tonnes and 90% of
+CSR, Laboe can achieve speeds of 20knots, resulting in the vessel’s notable low rate of fuel consumption, which stands at approximately 7.5litres per nautical mile. The vessel arrangement is laid out with a raised wheelhouse with ‘round-the-horizon’ visibility for the crew. In order to limit noise, the deckhouse has been resiliently mounted, resulting in a noise level of under 65db(A) at 90% maximum continuous revolution (MCR).
+A 20kW Kabola boiler provides Laboe’s heating, combined with waste heat from the engines’ fresh water circuits and back-up from a 9kW electro boiler when the vessel is shore-connected. The electrical system is based on 24 V DC for essential services supplied from two 140 A generators on the main engines. The 400/230 V AC system is supplied by a 10kW Fischer-Panda diesel generator or shore connection and serves five large heated windows, the aircon system, domestic services and back-up battery charging for five battery banks.
+Furuno has supplied Laboe’s navigation and communications package, which incorporates two 12kW radars, type FAR-2117, with 17” and 19” displays, as well as two TECDIS plotter systems, GPS compass, dGPS receiver, autopilot, echo sounder, AIS, wind data and camera systems.
+TECHNICAL PARTICULARS
 Length, oa....................................................................16.8m
 Breadth moulded...........................................................5.2m
 Depth moulded..............................................................2.6m
@@ -719,8 +789,13 @@ Delivery date.................................... May 2010
 Transviking, a joint venture operator formed from an alliance between Rederi Transatlantic AB from
 Norway and Viking Supply AS from Sweden, took delivery of the 85.2m long, 22m wide anchor handler and tug supply vessel LOKE VIKING in May 2010, having ordered the vessel for operation in the North
 Sea, off the coast of Greenland and, later on, in the
-Norwegian offshore fields and close to the Arctic circle. LOKE VIKING has been equipped with four MAK diesel engines, working on two shaft lines with Berg CP propellers with nozzles. In total, the MAK engines deliver 14,000kW at 600rpm. During the vessel’s sea trials, she achieved a top bollard pull of 227tonnes, apparently some 17tonnes more than designer Vik & Sandvik and builder Zamakona Yards had anticipated for the tug. The maximum speed achieved during the trials was recorded at 17.7knots. In addition, LOKE VIKING has been fitted with two tunnel thrusters aft and three thrusters in the bow. A Rolls-Royce waterfall-type winch, featuring a brake holding power of 525tonnes, serves the vessel’s towage requirements. In addition to the winch, the vessel also boasts aft towing pins and karm forks, fitted ahead of the double drum stern roller. The vessel also features two Rolls-Royce fully automated sliding handling cranes on each side of the aft work deck, for enhanced crew safety when handling mooring gear and anchors. During construction, the vessel was upgraded to
-FireFighting (FiFi) notation 1 and II. FiFi gear was supplied by FFS and includes two monitors installed on the deck above the wheelhouse, each featuring a capacity of 3600m3/h. Each monitor is 170m in length and 100m in height, and they are both fed by a pump with a capacity of 4000m3/h. TECHNICAL PARTICULARS
+Norwegian offshore fields and close to the Arctic circle.
+LOKE VIKING has been equipped with four MAK diesel engines, working on two shaft lines with Berg CP propellers with nozzles. In total, the MAK engines deliver 14,000kW at 600rpm.
+During the vessel’s sea trials, she achieved a top bollard pull of 227tonnes, apparently some 17tonnes more than designer Vik & Sandvik and builder Zamakona Yards had anticipated for the tug. The maximum speed achieved during the trials was recorded at 17.7knots. In addition, LOKE VIKING has been fitted with two tunnel thrusters aft and three thrusters in the bow.
+A Rolls-Royce waterfall-type winch, featuring a brake holding power of 525tonnes, serves the vessel’s towage requirements. In addition to the winch, the vessel also boasts aft towing pins and karm forks, fitted ahead of the double drum stern roller. The vessel also features two Rolls-Royce fully automated sliding handling cranes on each side of the aft work deck, for enhanced crew safety when handling mooring gear and anchors.
+During construction, the vessel was upgraded to
+FireFighting (FiFi) notation 1 and II. FiFi gear was supplied by FFS and includes two monitors installed on the deck above the wheelhouse, each featuring a capacity of 3600m3/h. Each monitor is 170m in length and 100m in height, and they are both fed by a pump with a capacity of 4000m3/h.
+TECHNICAL PARTICULARS
 Length, oa..................................................................85.20m
 Length, bp..................................................................76.20m
 Breadth moulded.......................................................22.00m
@@ -755,7 +830,8 @@ Speed................................................................... 145rpm
 Special adaptations:.............................According Class, and ice navigation
 Open or nozzled..................................................Nozzled
 Alternators
-Shaft generators............................................2 x Leroy S. Output of each.....................................................2700kW
+Shaft generators............................................2 x Leroy S.
+Output of each.....................................................2700kW
 Auxiliary generators................................... 2 x CAT C-32
 Output of each ....................................................781EkW
 Harbour/emergency generator...................1 x Volvo D16
@@ -789,7 +865,8 @@ Crew............................................................................
 Other significant or special items of equipment
 CLEAN DESIGN
 DEICE
-Tank capacities for FW, oil rec, mud, brine, methanol, dry bulks and rig chains. FIFI capacity 2 monitors of 3.600 m3/h
+Tank capacities for FW, oil rec, mud, brine, methanol, dry bulks and rig chains.
+FIFI capacity 2 monitors of 3.600 m3/h
 Vessel can be upgraded to moon pool operations
 Urea NOx catalizers
 FRB MARITIME PARTNER
@@ -808,10 +885,17 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order....................................................8
 Delivery date......................................April 2010
 As international demand for alternative energy sources grows, with offshore wind turbine farm installations cropping up thick and fast in Europe, the
-US and, now, Southeast Asia, demand for specialised vessels capable of servicing these energy farms has also sharply increased. The delivery of Natalia Bekker, built for stationary deployment at the BARD Offshore 1 wind farm, situated in the North Sea, could not have come at a more opportune time. Natalia Bekker was constructed to Abeking &
-Rasmussen’s small waterplane area twin hull (SWATH) design specifications. The design enables the vessel to sail in practically every sea state without big influence on speed, resulting in a very small rate of motion sickness for people on board during all transit and operating modes. The vessel can stay at sea in nearly all weather conditions providing much higher availability of vessel during the year in coastal and offshore operating areas compared to conventional vessels of same or bigger size. By securing her bow against two dolphin pipes, the vessel is designed to moor up next to the turbine, creating a safe zone for boarding and disembarkation at the turbines in wave heights of up to 2.5m – thereby enabling engineers and servicepersons to move safely around the turbines comprising the farm, without incurring costly helicopter expenses. The vessel features two 10-cylinder MTU Series 2000
-M72 engines with a total of 1800kW. She is also equipped with a full diesel-electric propulsion plant, developed especially to react faster than comnventional controlled pitch propeller plants, for optimum manoeuvrability, even in the foulest of weather conditions. A special rubber fender system was also installed on the bow, to further dampen ship movement and to enable the vessel to press up securely against the ascent system on the wind turbine’s foundation. As a result, in the immediate disembarkation area, the vessel only moves a few centimetres during this phase of operations. Natalia Bekker can accommodate up to 12 engineers and a permanent presence of two to three crew members, who swap duties every two to three weeks. The vessel is fully compliant with International
-Maritime Organization regulations and has been fully classified by Germanischer Lloyd. TECHNICAL PARTICULARS
+US and, now, Southeast Asia, demand for specialised vessels capable of servicing these energy farms has also sharply increased. The delivery of Natalia Bekker, built for stationary deployment at the BARD Offshore 1 wind farm, situated in the North Sea, could not have come at a more opportune time.
+Natalia Bekker was constructed to Abeking &
+Rasmussen’s small waterplane area twin hull (SWATH) design specifications. The design enables the vessel to sail in practically every sea state without big influence on speed, resulting in a very small rate of motion sickness for people on board during all transit and operating modes. The vessel can stay at sea in nearly all weather conditions providing much higher availability of vessel during the year in coastal and offshore operating areas compared to conventional vessels of same or bigger size.
+By securing her bow against two dolphin pipes, the vessel is designed to moor up next to the turbine, creating a safe zone for boarding and disembarkation at the turbines in wave heights of up to 2.5m – thereby enabling engineers and servicepersons to move safely around the turbines comprising the farm, without incurring costly helicopter expenses.
+The vessel features two 10-cylinder MTU Series 2000
+M72 engines with a total of 1800kW. She is also equipped with a full diesel-electric propulsion plant, developed especially to react faster than comnventional controlled pitch propeller plants, for optimum manoeuvrability, even in the foulest of weather conditions.
+A special rubber fender system was also installed on the bow, to further dampen ship movement and to enable the vessel to press up securely against the ascent system on the wind turbine’s foundation. As a result, in the immediate disembarkation area, the vessel only moves a few centimetres during this phase of operations.
+Natalia Bekker can accommodate up to 12 engineers and a permanent presence of two to three crew members, who swap duties every two to three weeks.
+The vessel is fully compliant with International
+Maritime Organization regulations and has been fully classified by Germanischer Lloyd.
+TECHNICAL PARTICULARS
 Length, oa..................................................................26.40m
 Length, bp..................................................................22.50m
 Breadth moulded.........................................................13.0m
@@ -872,7 +956,11 @@ Flag .....................................................Norway
 Delivery date .................................. April 2010
 Normand Ranger is a new type VS 490 anchor handling tug supply vessel with a dramatic past; originally under construction at Kamsund Maritime
 Service, that yard’s bankruptcy led to the vessel being transferred to Ulstein Verft, which delivered Normand
-Ranger in April 2010. The vessel is 91m long, 22m wide, has an interior for 58 persons and a deadweight of approximately 4500tonnes. Ulstein reported that she features a bollard pull of 287tonnes. To ensure safe anchor handling operations on deck, Normand Ranger was equipped with a Triplex multi deck handler (MHD) and an Odim anchor recovery frame (ARF). The deck also features two knuckle boom shipboard/harbour cranes, each with an outreach of between three and 16m, and capable of handling 6tonnes. Two main engines each produce 8000kW at 750rpm, while two generator engines produce 2199kW at 1800rpm apiece. The vessel is currently being operated by Solstad Offshore in the North Sea, as that particular market starts to bounce back – good going for a vessel which, 18 months ago, lay half- completed with doubts over its future. TECHNICAL PARTICULARS
+Ranger in April 2010.
+The vessel is 91m long, 22m wide, has an interior for 58 persons and a deadweight of approximately 4500tonnes. Ulstein reported that she features a bollard pull of 287tonnes.
+To ensure safe anchor handling operations on deck, Normand Ranger was equipped with a Triplex multi deck handler (MHD) and an Odim anchor recovery frame (ARF). The deck also features two knuckle boom shipboard/harbour cranes, each with an outreach of between three and 16m, and capable of handling 6tonnes.
+Two main engines each produce 8000kW at 750rpm, while two generator engines produce 2199kW at 1800rpm apiece. The vessel is currently being operated by Solstad Offshore in the North Sea, as that particular market starts to bounce back – good going for a vessel which, 18 months ago, lay half- completed with doubts over its future.
+TECHNICAL PARTICULARS
 Length, oa....................................................................91.0m
 Breadth moulded.........................................................22.0m
 Depth, moulded.............................................................9.6m
@@ -962,8 +1050,12 @@ Total number of sister ships still on order.................................... 
 Contract date ......................... November 2008
 Delivery date ........................September 2010
 Delivered to the Norwegian Society for Sea Rescue, Redningsselskapet, following delivery in
-September 2010, the 24.7m aluminium craft ODIN has been deployed in the north of Norway, where she is responsible for undertaking search and rescue (SAR) operations within this harsh climate. ODIN produces a top speed close to 30knots, features a towing capacity of 22.5tonnes and has an operating range of more than 600nm. As the crew live and work onboard, operating from four fully damped seats and a four-person bench in the wheelhouse, much care has been taken to eliminate noise and vibration as much as possible. According to Swede Ship Marine, even when
-ODIN is operating at a high speed of 25knots, the flexible mounted wheelhouse produces less than 60dB worth of noise. For the deckboat in front of the wheelhouse, Swede Ship Marine has also provided a new davit to ensure quick and safe launches without any line-of-sight obstructions from the wheelhouse. Fully classified according to Det Norske Veritas (DNV) +1A1 LC E0 PATROL R1, ODIN features two 1440kW MTU engines and Helseth controlled pitch (CP) propellers, the latter boasting a towing capacity of 25tonnes with towing hook, or 16tonnes via the vessel’s special towing winch arrangement. The vessel is equipped with high-end medical solutions, including an ambulance treatment bench with oxygen equipment, advanced first aid equipment and a defibrillator, to assist with treatment of casualties taken onboard. In terms of SAR-specific equipment, the vessel also features a remote-operated fire monitor with a capacity of more than 2000litres/min and salvage pumps with a combined capacity of 3500litres/min. TECHNICAL PARTICULARS
+September 2010, the 24.7m aluminium craft ODIN has been deployed in the north of Norway, where she is responsible for undertaking search and rescue (SAR) operations within this harsh climate.
+ODIN produces a top speed close to 30knots, features a towing capacity of 22.5tonnes and has an operating range of more than 600nm. As the crew live and work onboard, operating from four fully damped seats and a four-person bench in the wheelhouse, much care has been taken to eliminate noise and vibration as much as possible. According to Swede Ship Marine, even when
+ODIN is operating at a high speed of 25knots, the flexible mounted wheelhouse produces less than 60dB worth of noise. For the deckboat in front of the wheelhouse, Swede Ship Marine has also provided a new davit to ensure quick and safe launches without any line-of-sight obstructions from the wheelhouse.
+Fully classified according to Det Norske Veritas (DNV) +1A1 LC E0 PATROL R1, ODIN features two 1440kW MTU engines and Helseth controlled pitch (CP) propellers, the latter boasting a towing capacity of 25tonnes with towing hook, or 16tonnes via the vessel’s special towing winch arrangement.
+The vessel is equipped with high-end medical solutions, including an ambulance treatment bench with oxygen equipment, advanced first aid equipment and a defibrillator, to assist with treatment of casualties taken onboard. In terms of SAR-specific equipment, the vessel also features a remote-operated fire monitor with a capacity of more than 2000litres/min and salvage pumps with a combined capacity of 3500litres/min.
+TECHNICAL PARTICULARS
 Length, oa....................................................................24.7m
 Length, bp....................................................................21.6m
 Breadth moulded....................................................... 6.38m
@@ -1048,14 +1140,18 @@ Total number of sister ships already completed: ................................
 Total number of sister ships still on order: ..... 0
 Delivery date: ...............................March 2010
 The 32m Oita is an escort Fi-Fi tug, currently deployed in Port Walcott, Western Australia, where she has been engaged in work on behalf of Robe
-River Mining. Built by Shipco Marine Constructors, she is powered by two Niigata 6L28HX main engines with 1838bkW at 750rpm. The vessel also features two Volvo UCM274F-1 generators with 135kVA output. Oita can reach a maximum speed of 13knots and has a maximum bollard pull of 68tonnes. Northland
+River Mining. Built by Shipco Marine Constructors, she is powered by two Niigata 6L28HX main engines with 1838bkW at 750rpm. The vessel also features two Volvo UCM274F-1 generators with 135kVA output.
+Oita can reach a maximum speed of 13knots and has a maximum bollard pull of 68tonnes. Northland
 Hydraulics has provided her hydraulic equipment while Steelcom Electronics Ltd and Marine &
 Industrial Electrics Ltd responsible for kitting out the vessel’s electronics requirements and electrical equipment. These electronics include a Furuno 48NM, a Furuno echosounder, ICON radio and
 Simrad AP50 autopilot, as well as Ocean Compass, supplied by John Lilley & Gillie Ltd, and GPS and
-AIS by Furuno (FA-150). The vessel’s deck cranes are provided by Heila
+AIS by Furuno (FA-150).
+The vessel’s deck cranes are provided by Heila
 HLRM 25-5S, while Counterfire Ltd supplied her fire-fighting system. She also has two Surviva Mk IV 6-man liferafts onboard, with onboard safety equipment courtesy of RFD New Zealand. Shipco actively provided some of the deck machinery onboard
-Oita, such as the windlass, winches and capstan. TECHNICAL PARTICULARS
-Length, oa.......................................................................32m. Breadth moulded ........................................................11.6m
+Oita, such as the windlass, winches and capstan.
+TECHNICAL PARTICULARS
+Length, oa.......................................................................32m.
+Breadth moulded ........................................................11.6m
 Depth, moulded ..........................................................5.36m
 Draught...........................................................................4.3m
 Gross tonnage ..............................................................428gt
@@ -1096,7 +1192,10 @@ Make...........................................................Niigata ZP-41
 Number...........................................................................2
 Output of each .................................. 750kW @ 1838rpm
 Deck machinery
-Windlass........................Shipco Marine Constructors Ltd. Winches........................Shipco Marine Constructors Ltd. Capstan.........................Shipco Marine Constructors Ltd. Cranes: .................................................... Heila HLRM 25-5S
+Windlass........................Shipco Marine Constructors Ltd.
+Winches........................Shipco Marine Constructors Ltd.
+Capstan.........................Shipco Marine Constructors Ltd.
+Cranes: .................................................... Heila HLRM 25-5S
 Bridge electronics
 Radar(s) make model: ..............................Furuno 48 NM
 Autopilot make/model:................................ Simrad AP50
@@ -1119,9 +1218,13 @@ Flag ............................................................ USA
 Total number of sister ships already completed ......................................................0
 Total number of sister ships still on order.........2
 Delivery date................................... March 2010
-Measuring in at 46.7m in length, 15.5m in breadth, drawing 7.3m and displacing 2,800 metric tonnes when fully loaded, OSG Vision was one of the larger new tugs to catch the sector’s eye in 2010. She operates in conjunction with the 353,000 barrel capacity, 199.6m barge OSG 350, which was purpose built for lightering operations. To keep the tug and barge safely mated, OSG Vision has adopted Intercontinental Engineering
-Manufacturing Corporation’s (Intercon) wave tooth connection system, which incorporates the largest interconnection helmets available at 64” in diameter. These enable a continuously variable amount of vertical travel, keeping the tug in the barge’s notch during various ballast conditions or tempestuous weather – at sea heights of just over 3m during lightering operations, and approximately 7.5m when transiting the open sea at full speeds. Alone, OSG
-Vision was developed to operate in seas greater than 12m. The vessel utilises two Wärtsilä 9L32, 4500kW engines that turn 4190mm-diameter controllable pitch propellers pushing water through high- efficiency Rice Kort nozzles and a triple shutter rudder system. In total, this permits OSG Vision to achieve a service speed of 12.5knots when the barge is fully loaded. Fuel consumption is estimated at 32mt per day, resulting in less refuelling time between ports of call. TECHNICAL PARTICULARS
+Measuring in at 46.7m in length, 15.5m in breadth, drawing 7.3m and displacing 2,800 metric tonnes when fully loaded, OSG Vision was one of the larger new tugs to catch the sector’s eye in 2010. She operates in conjunction with the 353,000 barrel capacity, 199.6m barge OSG 350, which was purpose built for lightering operations.
+To keep the tug and barge safely mated, OSG Vision has adopted Intercontinental Engineering
+Manufacturing Corporation’s (Intercon) wave tooth connection system, which incorporates the largest interconnection helmets available at 64” in diameter.
+These enable a continuously variable amount of vertical travel, keeping the tug in the barge’s notch during various ballast conditions or tempestuous weather – at sea heights of just over 3m during lightering operations, and approximately 7.5m when transiting the open sea at full speeds. Alone, OSG
+Vision was developed to operate in seas greater than 12m.
+The vessel utilises two Wärtsilä 9L32, 4500kW engines that turn 4190mm-diameter controllable pitch propellers pushing water through high- efficiency Rice Kort nozzles and a triple shutter rudder system. In total, this permits OSG Vision to achieve a service speed of 12.5knots when the barge is fully loaded. Fuel consumption is estimated at 32mt per day, resulting in less refuelling time between ports of call.
+TECHNICAL PARTICULARS
 Length, oa..................................................................46.72m
 Length, bp..................................................................46.00m
 Breadth moulded.......................................................15.50m
@@ -1190,11 +1293,17 @@ Contract date................................... April 2007
 Delivery date..............................January 2010
 Designed to handle a variety of operational tasks, from anchor and tanker handling and vessel towage to pollution control, search and rescue and fire-fighting, the near 50m loa, Cheoy Lee-built PB
 Karepo appears to stand out as much for its versatility as its power output. Her launch also highlights
-Wärtsilä’s increasing involvement in the smaller ship sector, the company’s Singapore division having designed the vessel on behalf of client PB Towage. The vessel features two Yanmar 6EY26 diesels, each developing 1920kW at 750rpm, driving two Berg
+Wärtsilä’s increasing involvement in the smaller ship sector, the company’s Singapore division having designed the vessel on behalf of client PB Towage.
+The vessel features two Yanmar 6EY26 diesels, each developing 1920kW at 750rpm, driving two Berg
 BCP690 250mm controllable pitch propellers in nozzles via Reintjes LAF 2346L gearboxes with a 3.5:1 reduction ratio. The vessel’s maneuverability has also been enhanced by the inclusion of a 320kW
 Nakashima TCT-105 electric bow thruster, while three
-Caterpillar 350kW three phase C18 generators supply all onboard power requirements via Teresaki switch and distribution boards. For extra back-up, an 82kW, air cooled Caterpillar C4.4 serves as a stand-by. Keeping the vessel well equipped and fuelled has been another priority on the designer’s part. PB Karepo boasts a fuel capacity of 500m3 and a potable water capacity of 240tonnes, to keep her 30-man crew going during lengthy or complicated operations, and she is fitted out with a rescue boat and workboat. One of the vessel’s notable arrangements has been an elevated bridge, providing 360° visibility to crew. Control stations are both forward and aft facing and each features a Bostrom helm seat. Singapore-based equipment manufacturer Plimsoll arranged the vessel’s towing gear, which includes an anchor handling / towing winch, anchor windlass / towing winch and two rope storage reels, as well as shark jaw, towing pins, tugger winches and capstans. Her deck crane, meanwhile, was supplied by Palfinger. Like her identical sisterships in the four-vessel series, PB Karepo is of all-steel construction and was built to
-ABS class, with the notation  A1, (E), AMS, Towing Service – confirming the standards credentials one would expect from a vessel with such thorough input from leading names in the fields of technology and propulsion. TECHNICAL PARTICULARS
+Caterpillar 350kW three phase C18 generators supply all onboard power requirements via Teresaki switch and distribution boards. For extra back-up, an 82kW, air cooled Caterpillar C4.4 serves as a stand-by.
+Keeping the vessel well equipped and fuelled has been another priority on the designer’s part. PB Karepo boasts a fuel capacity of 500m3 and a potable water capacity of 240tonnes, to keep her 30-man crew going during lengthy or complicated operations, and she is fitted out with a rescue boat and workboat. One of the vessel’s notable arrangements has been an elevated bridge, providing 360° visibility to crew. Control stations are both forward and aft facing and each features a Bostrom helm seat.
+Singapore-based equipment manufacturer Plimsoll arranged the vessel’s towing gear, which includes an anchor handling / towing winch, anchor windlass / towing winch and two rope storage reels, as well as shark jaw, towing pins, tugger winches and capstans.
+Her deck crane, meanwhile, was supplied by Palfinger.
+Like her identical sisterships in the four-vessel series, PB Karepo is of all-steel construction and was built to
+ABS class, with the notation  A1, (E), AMS, Towing Service – confirming the standards credentials one would expect from a vessel with such thorough input from leading names in the fields of technology and propulsion.
+TECHNICAL PARTICULARS
 Length, oa ...............................................................49.95m
 Length, bp ............................................................... 43.60m
 Breadth moulded ....................................................12.60m
@@ -1240,7 +1349,8 @@ Special adaptations:
 Open or nozzled.............................................Nozzled
 Alternators
 Number.......................................................................3+1
-Make/type........................................................ Caterpillar. C18 and C4.4
+Make/type........................................................ Caterpillar.
+C18 and C4.4
 Output/speed of each set.....350kW & 82kW @ 1500rpm
 Bow thruster(s)
 Make............................................... Nakashima TCT-105
@@ -1280,10 +1390,15 @@ Delivery date .............................. August 2010
 Polarcus Asima is a high ice class, 12 steamer 3D/4D
 Arctic-ready seismic survey vessel, delivered by
 Drydocks World of Dubai, UAE, in August 2010. The vessel was built to the Ulstein SX134 design, incorporating features such as the patented Ulstein
-X-BOW double hull. The vessel has been certified to ICE-1A standards, the seismic vessel sector-specific notation confirming that a ship or boat is qualified to operate safely within an Arctic environment. Polarcus Asima also carries Det
-Norske Veritas (DNV) Dynamic Positioning Class 2 notation (DYNPOS-AUTR), which allows for continued safe steerage of the vessel in case of engine or propeller failure. Meanwhile, backed by DNV’s COMF-V(3) notation, the vessel benefits from a distinct reduction in noise and vibration, creating a quieter and safer working environment for the crew. Polarcus has also drawn attention to Polarcus Asima’s green credentials, pointing out her diesel electric propulsion, high specification catalytic converters and the presence of an onboard bilge water cleaning system, the latter of which complies with the stringent
-DNV CLEAN DESIGN notation. TECHNICAL PARTICULARS
-Length, oa....................................................................92.0m. Breadth moulded.........................................................21.0m
+X-BOW double hull.
+The vessel has been certified to ICE-1A standards, the seismic vessel sector-specific notation confirming that a ship or boat is qualified to operate safely within an Arctic environment. Polarcus Asima also carries Det
+Norske Veritas (DNV) Dynamic Positioning Class 2 notation (DYNPOS-AUTR), which allows for continued safe steerage of the vessel in case of engine or propeller failure.
+Meanwhile, backed by DNV’s COMF-V(3) notation, the vessel benefits from a distinct reduction in noise and vibration, creating a quieter and safer working environment for the crew.
+Polarcus has also drawn attention to Polarcus Asima’s green credentials, pointing out her diesel electric propulsion, high specification catalytic converters and the presence of an onboard bilge water cleaning system, the latter of which complies with the stringent
+DNV CLEAN DESIGN notation.
+TECHNICAL PARTICULARS
+Length, oa....................................................................92.0m.
+Breadth moulded.........................................................21.0m
 Gross tonnage ....................................................7894tonnes
 Max speed................................................................ 15knots
 Classification Society and Notations ............... DNV 1A1+, SF, E0, DYNOPOS-AUTR, CLEAN DESIGN, COMF-V(3), ICE-1A, WINTERIZED BASIC, NAUT-AW, HELDK, BWM-T
@@ -1360,11 +1475,21 @@ Total number of sister ships still on order .......4
 Delivery date ......................... September 2010
 Having already made an impression with its
 Interceptor 42 pilot vessel design, Safehaven
-Marine unveiled the first of its brand new Interceptor 48 range in September 2010, with the delivery of the 14.7m Quinoa. The Interceptor 48 model relies on the familiar deep
-V hull type associated with Interceptor 42, only capable of being powered by engines of 12 litre capacity. It can match the speed of the Intereceptor 42 despite an increased displacement with the same power. Indeed, Safehaven accredits the Interceptor 48’s increased waterline length with providing a greater degree of seakeeping – an essential factor, given the rough weather and sea conditions that the Bordeaux pilots have to deal with.This includes challenging and at times dangerous seas at the entrance to the Harbour where big Atlantic swells from the Bay of Biscay meet the strong 3-4knot ebb tide from the Gironde River and rage with violence causing breaking seas at the Bar that reach over 10m in height during winter months. The pilot vessel is expected to be able to navigate the
-Bar safely in up to 5m wave heights. As a consequence a fundamental requirement by the Port was for a pilot vessel with very high levels of sea keeping. An important part of the design brief was for the
-Quinoa to be fully self righting in the event of capsize by virtue of her high buoyancy superstructure and consequently the vessel has been built with numerous features such as automatically closing air vents, 15mm thick windows and watertight cockpit doors. In addition the superstructure's forward windows are aft sloping to minimise pressure loadings when taking green seas over the bow (a fairly regular occurrence due to the extreme conditions in which she operates). The inclusion of a large and spacious forward cabin is achieved by virtue of having her engines installed further aft under the main cabin, where they are subject to less loadings and accelerations in rough seas, and are quickly removed in the event of failure through hatches incorporated in the main cabin sole and cabin roof. The forward cabin on Quinoa features bunk berths allowing the pilots to rest and relax comfortably during transits at night time, and provides increased seating capacity that can be utilised in an emergency, or when additional passenger seating is required. Quinoa is fitted with Safehaven's unique pilot boarding ladder design, improving safety for pilots when boarding but causing minimum obstruction to visibility. The increased waterline length also enables the engines to operate at only 70% of maximum power to achieve an operational speed of 22knots, thereby resulting in engine longevity and savings on fuel costs. Quinoa is powered by two Iveco C13 engines at a continuous rating of 382.5kW and Twin Disc 5114
-Quick Shift gearboxes, turning 28” diameter 4-blade propellers. When it comes to limiting noise and vibration, the inclusion of a foam-sandwiched deck and the design of the wheelhouse have led to low onboard noise readings of approximately 74db, when the vessel is moving at 22knots. The vessel’s 300mm diameter rubber fendering, supplied by Ocean 3, grants her additional protection. TECHNICAL PARTICULARS
+Marine unveiled the first of its brand new Interceptor 48 range in September 2010, with the delivery of the 14.7m Quinoa.
+The Interceptor 48 model relies on the familiar deep
+V hull type associated with Interceptor 42, only capable of being powered by engines of 12 litre capacity. It can match the speed of the Intereceptor 42 despite an increased displacement with the same power.
+Indeed, Safehaven accredits the Interceptor 48’s increased waterline length with providing a greater degree of seakeeping – an essential factor, given the rough weather and sea conditions that the Bordeaux pilots have to deal with.This includes challenging and at times dangerous seas at the entrance to the Harbour where big Atlantic swells from the Bay of Biscay meet the strong 3-4knot ebb tide from the Gironde River and rage with violence causing breaking seas at the Bar that reach over 10m in height during winter months.
+The pilot vessel is expected to be able to navigate the
+Bar safely in up to 5m wave heights. As a consequence a fundamental requirement by the Port was for a pilot vessel with very high levels of sea keeping.
+An important part of the design brief was for the
+Quinoa to be fully self righting in the event of capsize by virtue of her high buoyancy superstructure and consequently the vessel has been built with numerous features such as automatically closing air vents, 15mm thick windows and watertight cockpit doors.
+In addition the superstructure's forward windows are aft sloping to minimise pressure loadings when taking green seas over the bow (a fairly regular occurrence due to the extreme conditions in which she operates).
+The inclusion of a large and spacious forward cabin is achieved by virtue of having her engines installed further aft under the main cabin, where they are subject to less loadings and accelerations in rough seas, and are quickly removed in the event of failure through hatches incorporated in the main cabin sole and cabin roof. The forward cabin on Quinoa features bunk berths allowing the pilots to rest and relax comfortably during transits at night time, and provides increased seating capacity that can be utilised in an emergency, or when additional passenger seating is required.
+Quinoa is fitted with Safehaven's unique pilot boarding ladder design, improving safety for pilots when boarding but causing minimum obstruction to visibility.
+The increased waterline length also enables the engines to operate at only 70% of maximum power to achieve an operational speed of 22knots, thereby resulting in engine longevity and savings on fuel costs.
+Quinoa is powered by two Iveco C13 engines at a continuous rating of 382.5kW and Twin Disc 5114
+Quick Shift gearboxes, turning 28” diameter 4-blade propellers. When it comes to limiting noise and vibration, the inclusion of a foam-sandwiched deck and the design of the wheelhouse have led to low onboard noise readings of approximately 74db, when the vessel is moving at 22knots. The vessel’s 300mm diameter rubber fendering, supplied by Ocean 3, grants her additional protection.
+TECHNICAL PARTICULARS
 Length, oa....................................................................14.7m
 Breadth moulded ........................................................14.2m
 Gross tonnage ................................................................25gt
@@ -1422,8 +1547,17 @@ Total number of sister ships already completed (excluding ship presented): .....
 Total number of sister ships still on order: ..... 1
 Contract date: .......................September 2007
 Delivery date: ................................. June 2010
-M/V Saaremaa is a double-ended car and passenger ferry with capacity to carry 600 passengers, approximately 400 of whom are seated inside. The vessel can accommodate approximately 150 cars, or 12 trailers and 140 cars, on the shelter deck, and approximately 55 cars on the main deck. The ferry is operating in Estonian domestic waters and her double-ended design reduces fuel consumption significantly, by sparing the vessel from the need to turn when in harbour. The contra-rotating propellers also reduce fuel consumption while ensuring high manoeuvrability, even at low speeds. In harsh, winter conditions, the ferry is capable of operating in ice of thicknesses up to 70cm, and brash ice with an approximate thickness of 1.5m. Attention has also been spent on preventing the potentially harmful effects of vibration on Saaremaa’s electrical and electronic equipment, due to ice breaking. As the ferry is operating in low ambient conditions, all spaces containing installations exposed to frost and humidity are kept well insulated and heated. For lower weight and higher resistance, the ferry’s high tensile steel is mainly used in the underwater hull structure. The deckhouse, including the bridge deck and wheelhouse, is aluminium-built. The pump room and two engine rooms are arranged midship, while a thruster room is situated at each end of the ferry. Four ‘low NOx’ diesel generators produce the energy for the two azimuth thrusters. These diesel generators are located in two separate engine rooms, one featuring a 6-cylinder, the other an 8-cylinder, engine. The diesel-generators can run on gas oil, marine diesel oil or biodiesel. The ferry has been built with a closed cargo space on main deck for personal cars (max. height 2.35 m) and one open cargo deck on shelter deck for cars and trailers (max. height 5.0 m). She is equipped with bow visors at each of her ends, and hydraulically operated watertight hatches in the shelter deck provide access to the main deck. The accommodation and passenger areas on the saloon deck are wheelchair-user friendly and include: a passenger lounge, two lifts, three stairways, 42sq.m of shopping facilities, a cafeteria and rest rooms. The evacuation stations are arranged on the saloon deck with rafts connected for dry evacuation of the vessel, in case of emergency. Meanwhile, facilities for officers and crew are arranged on the crew deck and bridge deck containing 13 cabins (7 single and 6 double). TECHNICAL PARTICULARS
-Length oa:....................................................................97.9m. Length bp:................................................................. 92.46m
+M/V Saaremaa is a double-ended car and passenger ferry with capacity to carry 600 passengers, approximately 400 of whom are seated inside. The vessel can accommodate approximately 150 cars, or 12 trailers and 140 cars, on the shelter deck, and approximately 55 cars on the main deck.
+The ferry is operating in Estonian domestic waters and her double-ended design reduces fuel consumption significantly, by sparing the vessel from the need to turn when in harbour. The contra-rotating propellers also reduce fuel consumption while ensuring high manoeuvrability, even at low speeds.
+In harsh, winter conditions, the ferry is capable of operating in ice of thicknesses up to 70cm, and brash ice with an approximate thickness of 1.5m. Attention has also been spent on preventing the potentially harmful effects of vibration on Saaremaa’s electrical and electronic equipment, due to ice breaking. As the ferry is operating in low ambient conditions, all spaces containing installations exposed to frost and humidity are kept well insulated and heated.
+For lower weight and higher resistance, the ferry’s high tensile steel is mainly used in the underwater hull structure. The deckhouse, including the bridge deck and wheelhouse, is aluminium-built. The pump room and two engine rooms are arranged midship, while a thruster room is situated at each end of the ferry.
+Four ‘low NOx’ diesel generators produce the energy for the two azimuth thrusters. These diesel generators are located in two separate engine rooms, one featuring a 6-cylinder, the other an 8-cylinder, engine. The diesel-generators can run on gas oil, marine diesel oil or biodiesel.
+The ferry has been built with a closed cargo space on main deck for personal cars (max. height 2.35 m) and one open cargo deck on shelter deck for cars and trailers (max. height 5.0 m). She is equipped with bow visors at each of her ends, and hydraulically operated watertight hatches in the shelter deck provide access to the main deck.
+The accommodation and passenger areas on the saloon deck are wheelchair-user friendly and include: a passenger lounge, two lifts, three stairways, 42sq.m of shopping facilities, a cafeteria and rest rooms. The evacuation stations are arranged on the saloon deck with rafts connected for dry evacuation of the vessel, in case of emergency.
+Meanwhile, facilities for officers and crew are arranged on the crew deck and bridge deck containing 13 cabins (7 single and 6 double).
+TECHNICAL PARTICULARS
+Length oa:....................................................................97.9m.
+Length bp:................................................................. 92.46m
 Breadth moulded: .......................................................18.0m
 Depth moulded to main deck: ...........................................................5.7m to upper deck: .........................................................8.7m to other decks: ..................................saloon deck 14.4m crew deck 17.2m bridge deck 20.0m wheelhouse deck 22.7m
 Draught scantling: .................................................................4.0m design: .....................................................................4.0m
@@ -1483,21 +1617,26 @@ Number of each: ...............2 cardeck hatches to access lower cardeck
 Type: ................................. 15.6 x 4.2 m steel hatch with rubber seals, 10 cleats
 Designer: .............................................Multi-Maritime AS
 Complement
-Officers:...........................................................................4. Crew: ..............................................................................5
+Officers:...........................................................................4.
+Crew: ..............................................................................5
 Cabins:..................................................... 7 single cabins. 5 double cabins
 Passengers
 Total: ...........................................................................600
 Bridge control system
-Make: .......................... Höglund Marine Automasion AS. Is bridge fitted for one-man operation? ..................... Yes
+Make: .......................... Höglund Marine Automasion AS.
+Is bridge fitted for one-man operation? ..................... Yes
 Fire detection system
 Make: ................................................. Novar AS, Norway
 Type: ................................................................. Delta OP
 Fire extinguishing systems
-Engine room:................ CO 2 , local apllication (watermist). Make/Type: ........................................ Minimax Gmbh
-Vehicle spaces ................................................Drencher. Make/Type: ........................................ Minimax Gmbh
+Engine room:................ CO 2 , local apllication (watermist).
+Make/Type: ........................................ Minimax Gmbh
+Vehicle spaces ................................................Drencher.
+Make/Type: ........................................ Minimax Gmbh
 Cabin:..................................................................Sprinkler
 Make/Type: ........................................ Minimax Gmbh
-Public spaces: ...................................................Sprinkler. Make/Type: ........................................ Minimax Gmbh
+Public spaces: ...................................................Sprinkler.
+Make/Type: ........................................ Minimax Gmbh
 Radars
 Number: .........................................................................2
 Make: ....................................................................Furuno
@@ -1515,10 +1654,15 @@ Total number of sister ships already completed.... 6 vessels in total (all compl
 Total number of sister ships still on order ..................................All completed
 Contract date .................................. April 2008
 Delivery date .............................January 2010 2010 saw Austal complete and deliver six high speed, 30m patrol vessel sisterships for the Trinidad and Tobago Coast Guard, the first of these orders being Scarlet Ibis. Like her sisters, Scarlet Ibis has been classed by Det Norske Veritas, which has also provided classification for vessels built by Austal for the Armed
-Forces of Malta. The patrol vessels are being deployed to enhance maritime security in the Caribbean region, having been designed for superior sea keeping and operation in conditions up to Sea State 6. The deep ‘V’ shape of the chine monohull delivers a draft of only 1.5m. Scarlet Ibis’ propulsion is provided by two Kamewa 56A3 waterjets, featuring advanced mixed flow pump geometry. Austal opted for waterjet technology citing higher speeds, lower fuel consumption and the ability to operate in shallow, often debris-laden, water with a high level of precision at either high or low speeds. The vessel delivers a maximum speed of 40knots and a range of 1000nm (at 10knots). Two MTU 16V 2000
-M92 diesel engines provide the backing power, each producing 1630kW at 2450rpm. The vessel’s fly bridge features a control station, equipment monitoring facilities, two general-purpose lockers, a signal light and access to the vessel’s PA system and main bridge intercom. Scarlet Ibis’ primary weapon, a 20mm cannon, is mounted on the foredeck and supported by its own dedicated magazine locker below, while the secondary weapons – fixed mount 0.5 calibre machine guns - are situated port and starboard of the fly bridge. The vessel is also equipped with a 4.8m rigid inflatable boat, which can be launched and recovered via a hydraulic knuckle boom crane. Her bridge features a Northrop Grumman integrated bridge system (IBS), utilising Sperry Marine
+Forces of Malta.
+The patrol vessels are being deployed to enhance maritime security in the Caribbean region, having been designed for superior sea keeping and operation in conditions up to Sea State 6. The deep ‘V’ shape of the chine monohull delivers a draft of only 1.5m.
+Scarlet Ibis’ propulsion is provided by two Kamewa 56A3 waterjets, featuring advanced mixed flow pump geometry. Austal opted for waterjet technology citing higher speeds, lower fuel consumption and the ability to operate in shallow, often debris-laden, water with a high level of precision at either high or low speeds. The vessel delivers a maximum speed of 40knots and a range of 1000nm (at 10knots). Two MTU 16V 2000
+M92 diesel engines provide the backing power, each producing 1630kW at 2450rpm.
+The vessel’s fly bridge features a control station, equipment monitoring facilities, two general-purpose lockers, a signal light and access to the vessel’s PA system and main bridge intercom. Scarlet Ibis’ primary weapon, a 20mm cannon, is mounted on the foredeck and supported by its own dedicated magazine locker below, while the secondary weapons – fixed mount 0.5 calibre machine guns - are situated port and starboard of the fly bridge. The vessel is also equipped with a 4.8m rigid inflatable boat, which can be launched and recovered via a hydraulic knuckle boom crane.
+Her bridge features a Northrop Grumman integrated bridge system (IBS), utilising Sperry Marine
 Visionmaster FT navigation technology, such as ‘X’
-Band radar system. Communications are available to the bridge watch team courtesy of an HF and V/UHF package provided by CEA Technologies. TECHNICAL PARTICULARS
+Band radar system. Communications are available to the bridge watch team courtesy of an HF and V/UHF package provided by CEA Technologies.
+TECHNICAL PARTICULARS
 Length, oa....................................................................30.0m
 Length, waterline..........................................................24.6m
 Beam moulded...............................................................6.4m
@@ -1560,7 +1704,12 @@ Total number of sister ships already completed..................................
 Delivery date.......................... November 2009
 Designed and built by Alnmaritec, the 14m long x 5m beam Shi Hua Gang Yi Hao is fitted with twin
 Volvo D9 engines, each generating approximately 312kW, while Hamilton 322 waterjets provide Shi
-Hua Gang Yi Hao’s means of propulsion, resulting in speeds of up to 21knots, with an impressive degree of manouevrability . Built as part of the popular Wave Provider class, this high speed planing catamaran's hull is based upon the ‘Wave Train’ form. This is an asymmetric catamaran hull form which has fine forward sections developing into medium deadrise single chine form aft. This allows the vessel to plane for high speed operations, granting stability and reportedly favourable sea keeping characteristics, and with waterjet drive it offers a shallow draft. The aluminium vessel is currently being deployed by oil major PetroChina, and serving a refinery in Dalian, in the eastern part of the country. She is built to carry and deploy a range of pollution control gear including a spray dispersant pump with extendable spray arms, skimmer oil recovery systems and a towable oil storage bladder as well as a host of other equipment. She has seating for eight passengers in the comfortable wheelhouse as well as for three crew together with a small WC. She has a very large working deck with a roll over stern together with removable hand rails and a substantial tow post. The deck has a number of lashing and support points to accommodate the oil spill response equipment and this can readily be loaded or deployed using the Palfinger 6.5tonne metre hydraulic knuckle boom crane. Her onboard oil emergency response kit includes a small arsenal of Elastec American Marine pollution control equipment, including dispersant spray arms, a hydraulically powered oil recovery skimmer and pump, steam cleaning equipment, a hot pressure system and an oil storage bladder. TECHNICAL PARTICULARS
+Hua Gang Yi Hao’s means of propulsion, resulting in speeds of up to 21knots, with an impressive degree of manouevrability .
+Built as part of the popular Wave Provider class, this high speed planing catamaran's hull is based upon the ‘Wave Train’ form. This is an asymmetric catamaran hull form which has fine forward sections developing into medium deadrise single chine form aft. This allows the vessel to plane for high speed operations, granting stability and reportedly favourable sea keeping characteristics, and with waterjet drive it offers a shallow draft.
+The aluminium vessel is currently being deployed by oil major PetroChina, and serving a refinery in Dalian, in the eastern part of the country.
+She is built to carry and deploy a range of pollution control gear including a spray dispersant pump with extendable spray arms, skimmer oil recovery systems and a towable oil storage bladder as well as a host of other equipment. She has seating for eight passengers in the comfortable wheelhouse as well as for three crew together with a small WC. She has a very large working deck with a roll over stern together with removable hand rails and a substantial tow post. The deck has a number of lashing and support points to accommodate the oil spill response equipment and this can readily be loaded or deployed using the Palfinger 6.5tonne metre hydraulic knuckle boom crane.
+Her onboard oil emergency response kit includes a small arsenal of Elastec American Marine pollution control equipment, including dispersant spray arms, a hydraulically powered oil recovery skimmer and pump, steam cleaning equipment, a hot pressure system and an oil storage bladder.
+TECHNICAL PARTICULARS
 Length, oa..................................................................15.05m
 Length, bp.....................................................................13.75
 Breadth moulded...........................................................4.8m
@@ -1620,13 +1769,16 @@ Contract date: ......................September 2007
 Delivery date: ................................. June 2010
 The summer of 2010 saw Keppel Nantong shipyard deliver the RAmpage 5000 design tug Smit Angola to Smit Shipping Singapore, part of the SMIT
 International group. The RAmpage class of offshore support tug designs were developed to address a perceived gap in the market for high-performance towing and anchor-handling tugs for critical offshore terminal and oil-field support duties. Filling a gap between a full offshore supply vessel and a harbour/ coastal tug. Initial sea trial results yielded some very satisfactory results for both yard and operator; the 49.5m long vessel was demonstrated to be capable of achieving a bollard pull in excess of 90tonnes, thanks partly to the inclusion of twin Wärtsilä 8L26 2720kW engines. She is currently engaging, as her name suggests, in explorations off the coast of Angola, Africa, under the management of SMIT Amandla
-Marine. A pair of nozzled Rolls-Royce controllable pitch propellers provide Smit Angola’s propulsion, providing 208rpm, while two Stamford alternators generate 700kW at 1800rpm apiece. In fact, Rolls-Royce has left its indelible stamp on the vessel: her deck machinery includes the manufacturer’s TW 1500/1500
-F aft towing winch, TW 2500/500/40 F forward towing winch, CH 50 E capstan and two MW 100 F mooring winches. In addition, the deck area boasts a 4.55m x 2.2m diameter stern roller, rated 200tonnes safe working load (SWL) and a Karm Fork and tow pins, rated 300tonnes SWL. TECHNICAL PARTICULARS
+Marine.
+A pair of nozzled Rolls-Royce controllable pitch propellers provide Smit Angola’s propulsion, providing 208rpm, while two Stamford alternators generate 700kW at 1800rpm apiece. In fact, Rolls-Royce has left its indelible stamp on the vessel: her deck machinery includes the manufacturer’s TW 1500/1500
+F aft towing winch, TW 2500/500/40 F forward towing winch, CH 50 E capstan and two MW 100 F mooring winches. In addition, the deck area boasts a 4.55m x 2.2m diameter stern roller, rated 200tonnes safe working load (SWL) and a Karm Fork and tow pins, rated 300tonnes SWL.
+TECHNICAL PARTICULARS
 Length, oa: ..................................................................49.5m
 Length, bp: ...........................................46.6m (Rule Length)
 Breadth moulded: .......................................................15.0m
 Depth, moulded: .........................................................6.75m
-Gross tonnage: ...........................................................1438gt . Displacement: ....................................................2717tonnes
+Gross tonnage: ...........................................................1438gt .
+Displacement: ....................................................2717tonnes
 Design, draught: ...........................................................5.2m
 Design, deadweight: ..........................................2364tonnes
 Lightweight: ........................................................1589tonnes
@@ -1671,12 +1823,18 @@ Rolls-Royce CH 50 E Capstan
 Rolls-Royce MW 100 F Mooring Winches (2 off – Smit
 Siyanda only) 4.55m x 2.2 m diameter stern roller, rated 200tonnes
 SWL Karm Fork and Tow Pins, both rated 300tonnes SWL
-HS Marine, model AKB 190/18/5 deck crane, rated 90tonne-metres. Complement
+HS Marine, model AKB 190/18/5 deck crane, rated 90tonne-metres.
+Complement
 Crew: ............................................................................25
 Passengers
 Number of cabins: .......................................................15
 Other significant or special items of equipment: 3.3m x 3.1m moon pool on centreline close to midships, with a side launch gantry for dive bell, etc
-Alyes-Fernie dispersant spray system, on the forecastle sides forward, capable 7m outreach, with a spray rate of 40 m³/hr diluted dispersant or 4m3/hr neat dispersant. Rig chain clocker is fitted to enable SPM buoy chain replacement and maintenance. Crash rails for cargo are fitted throughout the length of the working deck. Two (2) fire pumps, each rated 1500 m³/hr, driven by main engines through a front PTO/clutch. Two (2) foam pumps, each rated 36 m³/hr. SMIT ANGOLA: Keppel-built, RAmpage 5000 design tug 58 Significant Small Ships of 2010
+Alyes-Fernie dispersant spray system, on the forecastle sides forward, capable 7m outreach, with a spray rate of 40 m³/hr diluted dispersant or 4m3/hr neat dispersant.
+Rig chain clocker is fitted to enable SPM buoy chain replacement and maintenance.
+Crash rails for cargo are fitted throughout the length of the working deck.
+Two (2) fire pumps, each rated 1500 m³/hr, driven by main engines through a front PTO/clutch.
+Two (2) foam pumps, each rated 36 m³/hr.
+SMIT ANGOLA: Keppel-built, RAmpage 5000 design tug 58 Significant Small Ships of 2010
 Builder’s name ..........Damen Shipyards Group
 Vessel’s name ..........................Stefan Cel Mare
 Owner/Operator...............General Inspectorate of the Border Police, Romania
@@ -1686,10 +1844,17 @@ Contract date...............................January 2009
 Delivery date .......................... September 2010
 Built to Damen Offshore Patrol Vessel 950 specifications, the 66m loa Stefan Cel Mare was delivered in September 2010 and has been patrolling
 Romanian and EU coastal areas under the auspices of
-Romania’s General Inspectorate of the Border Police. Her home port is located in Constanta, and her construction was supported by Schengen funding. Equipped with a state-of-the-art surveillance radar, an electro-optic (EO) / infra-red (IR) system, a 12.7mm turret gun and a 6.7m fast rescue craft, Stefan Cel Mare’s prime objectives are Romanian border control and security. Capable of maintaining a top speed of 20.6knots, the vessel runs on two MTU 16V 4000 M73 main engines. In addition, she is fitted with three MAN D2855
+Romania’s General Inspectorate of the Border Police.
+Her home port is located in Constanta, and her construction was supported by Schengen funding.
+Equipped with a state-of-the-art surveillance radar, an electro-optic (EO) / infra-red (IR) system, a 12.7mm turret gun and a 6.7m fast rescue craft, Stefan Cel Mare’s prime objectives are Romanian border control and security. Capable of maintaining a top speed of 20.6knots, the vessel runs on two MTU 16V 4000 M73 main engines.
+In addition, she is fitted with three MAN D2855
 LXE30 generator sets, each of which produces 176kWe at 1500rpm, and can also rely on a back-up MAN
-D0823LE201 in case of emergencies, the latter producing 80kWe at 1500rpm. Stefan Cel Mare accommodates 19 crew members with a designated passenger capacity of six, but has enough room inside to hold 75 persons, in the event of a serious incident or criminal attack, or any incident necessitating the safe evacuation and transportation of civilians. On the deck, Stefan Cel Mare makes use of an electric- hydraulic mooring winch with two warping heads, and two electric capstans, each of which has a pull capacity of 5tonnes. Her tanks have the capacities to carry: 69m3 of ballast water; 149m3 of fuel oil; 32m3 of potable water; and 1m3 of dispersant. TECHNICAL PARTICULARS
-Length, oa....................................................................66.0m. Length, bp..................................................................64.05m
+D0823LE201 in case of emergencies, the latter producing 80kWe at 1500rpm.
+Stefan Cel Mare accommodates 19 crew members with a designated passenger capacity of six, but has enough room inside to hold 75 persons, in the event of a serious incident or criminal attack, or any incident necessitating the safe evacuation and transportation of civilians.
+On the deck, Stefan Cel Mare makes use of an electric- hydraulic mooring winch with two warping heads, and two electric capstans, each of which has a pull capacity of 5tonnes. Her tanks have the capacities to carry: 69m3 of ballast water; 149m3 of fuel oil; 32m3 of potable water; and 1m3 of dispersant.
+TECHNICAL PARTICULARS
+Length, oa....................................................................66.0m.
+Length, bp..................................................................64.05m
 Breadth moulded.......................................................10.25m
 Depth, moulded.............................................................4.7m
 Displacement....................................... 925tonnes (Summer)
@@ -1747,16 +1912,23 @@ Total number of sister ships already completed..................................
 Total number of sister ships still on order....... 0
 Delivery date .............................. August 2010
 Instantly recognisable as a Robert Allan design, Svitzer Pembroke was designed to perform a wide range of tasks, including ship-handling, LNG carrier escort, ocean towing and salvage and anchor handling duties. The RAstar class hull form is intended to ensure high standards for escort towing capability and superior sea-keeping in the heavy sea conditions encountered during her operations at the Milford
-Haven Terminal, UK. General Electric has provided two 16V228 diesel engines, each rated 3052kW at 1050rpm, and each driving a Schottel model SRP 3030 controllable pitch
+Haven Terminal, UK.
+General Electric has provided two 16V228 diesel engines, each rated 3052kW at 1050rpm, and each driving a Schottel model SRP 3030 controllable pitch
 Z-drive unit. As a result, Svitzer Pembroke currently enjoys a recorded bollard pull of 105tonnes. Svitzer
-Marine estimates that her indirect steering and braking forces are 115tonnes steering and 150tonnes braking at 10knots. Meanwhile, a pair of Cummins model K19-
-CP390DM/5 diesel gen-sets provide the vessel’s electrical power. Each Cummins unit is rated 390kW at 1500rpm. In addition, Svitzer Pembroke benefits from the presence of a Cummins model 6B-CS74DM/5 harbour gen-set, rated 74kW at 1500rpm. Each of the two fire pumps is rated 1430 m3/hour. To facilitate her ship-handling and escort work, Svitzer Pembroke’s fore deck is equipped with a Rolls-
-Royce model TW 2250/850/AW 26U2 H combination hawser winch and anchor windlass, the winch featuring the capacity for 250m worth of 76mm diameter towline. An impressive set-up comprising a double drum; a hydraulic Rolls-Royce towing /anchor- handling winch; a 3m long, 1500mm diameter stern roller; a hydraulic knuckle-boom type deck crane, boasting 17tonne-metre capacity; and tow pins and shark jaws, graces the aft working deck. As well as visually reproducing Robert Allan’s distinctive design, the vessel has also incorporated a number of the designer’s common tug features. These include the resilient mounting of the main engines, isolation of exhaust system components and the comprehensive use of visco-elastic floating floor systems throughout the vessel, in order to severely limit noise and vibration. As an example, the galley has recorded a volume of just under 67dBA, while the crew cabins are subject to a maximum of 58.6dBA. All in all, Svitzer Pembroke provides a comfortable and smooth-running environment, while packing the punch to engage in heavy duty towing and escorting work. TECHNICAL PARTICULARS
+Marine estimates that her indirect steering and braking forces are 115tonnes steering and 150tonnes braking at 10knots.
+Meanwhile, a pair of Cummins model K19-
+CP390DM/5 diesel gen-sets provide the vessel’s electrical power. Each Cummins unit is rated 390kW at 1500rpm. In addition, Svitzer Pembroke benefits from the presence of a Cummins model 6B-CS74DM/5 harbour gen-set, rated 74kW at 1500rpm. Each of the two fire pumps is rated 1430 m3/hour.
+To facilitate her ship-handling and escort work, Svitzer Pembroke’s fore deck is equipped with a Rolls-
+Royce model TW 2250/850/AW 26U2 H combination hawser winch and anchor windlass, the winch featuring the capacity for 250m worth of 76mm diameter towline. An impressive set-up comprising a double drum; a hydraulic Rolls-Royce towing /anchor- handling winch; a 3m long, 1500mm diameter stern roller; a hydraulic knuckle-boom type deck crane, boasting 17tonne-metre capacity; and tow pins and shark jaws, graces the aft working deck.
+As well as visually reproducing Robert Allan’s distinctive design, the vessel has also incorporated a number of the designer’s common tug features. These include the resilient mounting of the main engines, isolation of exhaust system components and the comprehensive use of visco-elastic floating floor systems throughout the vessel, in order to severely limit noise and vibration.
+As an example, the galley has recorded a volume of just under 67dBA, while the crew cabins are subject to a maximum of 58.6dBA. All in all, Svitzer Pembroke provides a comfortable and smooth-running environment, while packing the punch to engage in heavy duty towing and escorting work.
+TECHNICAL PARTICULARS
 Length, oa..................................................................35.80m
 Length, bp..................................................................33.59m
 Breadth moulded.......................................................14.50m
 Depth, moulded...........................................................6.08m
-Gross tonnage ..............................................................734gt. Displacement Loadline displacement:..............1374tonnes
+Gross tonnage ..............................................................734gt.
+Displacement Loadline displacement:..............1374tonnes
 Design, draught.............................................................7.5m
 Design, deadweight Loadline: ............................362tonnes
 Lightweight .........................................................1012tonnes
@@ -1788,7 +1960,8 @@ Harbour generator-set
 Make/type..................................Cummins 6B-CS74DM/5 74kW @ 1500rpm
 Fire Pumps............................................... 1430m3/hour each
 Deck machinery
-Fore deck.......................................................Rolls-Royce model TW 2250/850/AW 26U2 H combination hawser winch and anchor windlass with capacity for 250m of 76mm diameter high strength towline. Aft working deck............: double drum, hydraulic-driven
+Fore deck.......................................................Rolls-Royce model TW 2250/850/AW 26U2 H combination hawser winch and anchor windlass with capacity for 250m of 76mm diameter high strength towline.
+Aft working deck............: double drum, hydraulic-driven
 Rolls-Royce towing/anchor-handling winch, tow pins, shark jaws, a 1500mm diameter x 3m long stern roller, a 10tonne tugger winch, and a hydraulic knuckle-boom
 Deck crane................................ 17tonne-metre capacity
 Complement
@@ -1806,17 +1979,27 @@ Total number of sister ships already completed.............................. 1 F
 Total number of sister ships still on order............................................none
 Contract date..............................January 2008
 Delivery date.................................... May 2010
-Named after the number of firefighters who lost their lives in New York City on 11 September 2001, the delivery of the fireboat Three Forty Three was always going to be an emotional occasion. Delivered to the Fire Department of the City of New
+Named after the number of firefighters who lost their lives in New York City on 11 September 2001, the delivery of the fireboat Three Forty Three was always going to be an emotional occasion.
+Delivered to the Fire Department of the City of New
 York at the tail end of 2010, the vessel’s responsibility is to engage in fire-fighting and rescue operations, as well as to respond to any potential or actual chemical, biological, radiological or nuclear incidents, within
-New York Harbour, including the New Jersey shore. Designed by Robert Allan Ltd. of Vancouver, B.C. (under the direction of Ken Harford, P. Eng. as the
+New York Harbour, including the New Jersey shore.
+Designed by Robert Allan Ltd. of Vancouver, B.C. (under the direction of Ken Harford, P. Eng. as the
 Principal-in-Charge, and Derek Noon, project manager) Three Forty Three is the first of two new fireboats to this design to be built at Eastern
-Shipbuilding Inc. The contract award included complete engineering and design of the boats from initial concept through detailed engineering design and included a comprehensive value engineering process. The company’s scope also included the support of the FDNY through every stage of major component procurement and the shipbuilding contract award. The fireboats are designed with a low-wake, and have a total pumping capacity in excess of 50,000gpm at 150psi. The powering, seakeeping, and wake generation characteristics of the semi-displacement hull form were all verified in an extensive model- testing program. The fire-fighting equipment for the new fireboats is all supplied by Fire-Fighting Systems (FFS) of Norway. The propulsion configuration of the RAnger 4200
-Class fireboats was determined after extensive evaluation of the cost-effectiveness of numerous options, including Z-drives and waterjets. Given the imposed draught limitations as well as the speed and fire-pump drive requirements, the final solution was a quadruple-screw, controllable-pitch propeller system. The four main engines are MTU Model 12V-4000
-M70, each rated 2240bhp (1671kW) at 2000 rpm. The engines each drive a Hundested CP propeller, 1778mm in diameter through Hundested model
+Shipbuilding Inc. The contract award included complete engineering and design of the boats from initial concept through detailed engineering design and included a comprehensive value engineering process. The company’s scope also included the support of the FDNY through every stage of major component procurement and the shipbuilding contract award.
+The fireboats are designed with a low-wake, and have a total pumping capacity in excess of 50,000gpm at 150psi. The powering, seakeeping, and wake generation characteristics of the semi-displacement hull form were all verified in an extensive model- testing program.
+The fire-fighting equipment for the new fireboats is all supplied by Fire-Fighting Systems (FFS) of Norway.
+The propulsion configuration of the RAnger 4200
+Class fireboats was determined after extensive evaluation of the cost-effectiveness of numerous options, including Z-drives and waterjets. Given the imposed draught limitations as well as the speed and fire-pump drive requirements, the final solution was a quadruple-screw, controllable-pitch propeller system.
+The four main engines are MTU Model 12V-4000
+M70, each rated 2240bhp (1671kW) at 2000 rpm.
+The engines each drive a Hundested CP propeller, 1778mm in diameter through Hundested model
 CPG(H) 120(L) speed-reducing gearboxes, and also drive the four main fire pumps through front end
-PTOs. Station-keeping during fire-fighting is enhanced by the incorporation of a Wesmar model “Vortex V2-26” tunnel type bow thruster, driven by an electric motor. Other onboard features include a Furuno navaid and equipment suite and a a state-of-the-art power generation system, comprising two Northern Lights, 235kW diesel gen-sets, supplying 460V, 3 phase, 60Hz power to the entire ship. The auto-start feature prevents anything more than a minor interruption in primary power, and in addition there is a comprehensive UPS system for all critical machinery control and communication functions. TECHNICAL PARTICULARS
+PTOs. Station-keeping during fire-fighting is enhanced by the incorporation of a Wesmar model “Vortex V2-26” tunnel type bow thruster, driven by an electric motor.
+Other onboard features include a Furuno navaid and equipment suite and a a state-of-the-art power generation system, comprising two Northern Lights, 235kW diesel gen-sets, supplying 460V, 3 phase, 60Hz power to the entire ship. The auto-start feature prevents anything more than a minor interruption in primary power, and in addition there is a comprehensive UPS system for all critical machinery control and communication functions.
+TECHNICAL PARTICULARS
 Length, oa..................................................................42.67m
-Length, bp.............................................................................. Breadth moulded.......................................................10.97m
+Length, bp..............................................................................
+Breadth moulded.......................................................10.97m
 Depth, moulded...........................................................4.88m
 Gross tonnage....................................438gt (US Regulatory)
 Displacement.....................................................497.5tonnes
@@ -1871,7 +2054,8 @@ Water depth/temp sensors, Weather Station
 Engine monitoring/fire detection system MTU Callosum
 Other communication systems:
 Radios:....ICOM VHF, Motorola UHF and 800 MHz, MDR 810 Mobile Data Terminals, Furuno 8800S, Raytheon ACU1000
-Interoperable radio, Fleet Broadband SatComm. FLIR thermal imaging camera Bosch extreme optical camera, smart siren
+Interoperable radio, Fleet Broadband SatComm.
+FLIR thermal imaging camera Bosch extreme optical camera, smart siren
 Complement
 Crew................................................................................6
 Passengers................................................26 Firefighters
@@ -1888,7 +2072,8 @@ Water only............................ 1 x 300 m³/hr (crane boom)
 Other significant or special items of equipment
 CBRN (Chemical, Biological, Radiological, Nuclear) protection system for occupied spaces
 THREE FORTY THREE: Firefighting vessel patrolling New York and New Jersey 64 Significant Small Ships of 2010
-Builder’s name.............................Shipyard J.J. Sietas KG, Hamburg
+Builder’s name.............................Shipyard J.J.
+Sietas KG, Hamburg
 Designer......Owner / Naval Consulting Franz
 Sternkopf / Yard, see above
 Vessel’s name.................................... Uthlande
@@ -1903,14 +2088,20 @@ Delivery date ................................... May 2010
 Launched to coincide with German ferry operator
 Wyker Dampfschiffs-Reederei’s (WDR) 125th anniversary festivities, the double-ended, 76m
 Uthlande, currently servicing Germany’s North Frisian
-Islands, has been hailed as shipbuilder J.J Sietas’ first serious attempt to diversify into the construction of special-purpose vessels. As well as providing a means for the islands to boost revenue from tourist traffic, the ferry has played a crucial role in linking up the communities and local businesses in these locations, adding to WDR’s estimated annual ferry traffic of 1.8 million passengers. Uthlande has a capacity for nearly 1200 passengers, 70 cars and 16 trucks and trailers. Tracks for passenger vehicles have been widened to 2.5m, while pedestrians can access lounges and deck areas from a dedicated point of entry on the side of the ferry. Due to the vessel’s draught limitations, J.J Sietas plumped for a four-propeller arrangement, whereby two VSP drives are positioned at each end of Uthlande’s hull. The 16R5 EC/120-1 propellers encompassed by the system each have an input power of 540kW, and the propulsion arrangements enable transit speeds of 12knots. As this speed is rarely required during scheduled transfer trips, the speed reserves can be used instead for consumption and emission-optimised driving. Primary power is supplied courtesy of the
-Caterpillar main engines. The ‘four-point’ VSP system offers greater manoeuvrability, even in tempestuous conditions, and the design has incorporated considerations for vibration and oscillation control. In addition, J.J Sietas has taken account for optimised material thicknesses so as to ensure a full-load draught of just 1.75m on a deadweight capacity of 385tonnes. In all, Uthlande has not just bolstered the growing ferry trade among the North Frisian Islands, last estimated to be worth some €30 million (US$40.7 million); it has also given J.J Sietas a new direction, and a potential lifeline to combat the effects of the global economic downturn. As Rüdiger Fuchs, chairman of the management board at the Sietas
-Group in Hamburg, put it as the contract was finalised: “Ferries are an excellent fit for our new strategy. Our future plans foresee the construction of an increasing number of special-built vessels which require specialist design and production know-how”. TECHNICAL PARTICULARS
+Islands, has been hailed as shipbuilder J.J Sietas’ first serious attempt to diversify into the construction of special-purpose vessels. As well as providing a means for the islands to boost revenue from tourist traffic, the ferry has played a crucial role in linking up the communities and local businesses in these locations, adding to WDR’s estimated annual ferry traffic of 1.8 million passengers.
+Uthlande has a capacity for nearly 1200 passengers, 70 cars and 16 trucks and trailers. Tracks for passenger vehicles have been widened to 2.5m, while pedestrians can access lounges and deck areas from a dedicated point of entry on the side of the ferry.
+Due to the vessel’s draught limitations, J.J Sietas plumped for a four-propeller arrangement, whereby two VSP drives are positioned at each end of Uthlande’s hull. The 16R5 EC/120-1 propellers encompassed by the system each have an input power of 540kW, and the propulsion arrangements enable transit speeds of 12knots. As this speed is rarely required during scheduled transfer trips, the speed reserves can be used instead for consumption and emission-optimised driving. Primary power is supplied courtesy of the
+Caterpillar main engines.
+The ‘four-point’ VSP system offers greater manoeuvrability, even in tempestuous conditions, and the design has incorporated considerations for vibration and oscillation control. In addition, J.J Sietas has taken account for optimised material thicknesses so as to ensure a full-load draught of just 1.75m on a deadweight capacity of 385tonnes.
+In all, Uthlande has not just bolstered the growing ferry trade among the North Frisian Islands, last estimated to be worth some €30 million (US$40.7 million); it has also given J.J Sietas a new direction, and a potential lifeline to combat the effects of the global economic downturn. As Rüdiger Fuchs, chairman of the management board at the Sietas
+Group in Hamburg, put it as the contract was finalised: “Ferries are an excellent fit for our new strategy. Our future plans foresee the construction of an increasing number of special-built vessels which require specialist design and production know-how”.
+TECHNICAL PARTICULARS
 Length, oa..................................................................75.88m
 Length, bp..................................................................72.00m
 Breadth moulded.......................................................15.80m
 Depth, moulded...........................................................3.40m
-Gross tonnage.............................................................3179gt. Displacement......................................................1676tonnes
+Gross tonnage.............................................................3179gt.
+Displacement......................................................1676tonnes
 Design, draught...........................................................1.75m
 Design, deadweight..............................................387tonnes
 Lightweight..........................................................1289tonnes
@@ -1957,7 +2148,8 @@ Gyro.....................................Anschütz, STD 22 Standard
 Chart plotter..........................Furuno, FEA 2107 (ECDIS)
 Engine monitoring/fire detection system ......... NORIS 3000
 DSP / Minifog
-Other communication systems.................................UKW. Complement
+Other communication systems.................................UKW.
+Complement
 Crew..............................................................................16
 Passengers...............................................................1184
 Number of cabins.........................................................16
@@ -1979,11 +2171,18 @@ Total number of sister ships still on order ...... 1
 Contract date .......................................... 2007
 Delivery date ......................... December 2009
 Valiant was the first in a series of Z-Tech 4500 tugs delivered to the US Navy by J.M Martinac, a subcontractor to California-based Pacific Tugboat
-Services. Tailor-made to suit specific US Navy requirements, the Z-Tech 4500 specifications build on the industry-accepted Z-Tech 6000 hull form, which was originally developed by designer Robert Allan for tugs operating in the Port of Singapore. Alongside her already-delivered sisterships, Reliant and Defiant, Valiant is deployed in the US Navy’s
-Naval Region Northwest zone. Each of the Z-Tech 4500 class tugs features a length of 27.42m, moulded breadth of 11.65m, moulded depth of 5m and a maximum load draught of 4.88m. Her propulsion equipment consists of a pair of CAT 3512 main engines, each of which is rated 1350kW at 1600rpm. Each drives a Schottel Model SRP 1012 steering / propulsion Z-Drive unit, with 2100mm diameter fixed pitch propellers. In total, Valiant’s propulsion set-up amounts to total bollard pull rates of 42tonnes ahead and 45tonnes astern. Her free-running speed is recorded at 12.4knots. Valiant’s electrical power derives from a pair of R.A
+Services. Tailor-made to suit specific US Navy requirements, the Z-Tech 4500 specifications build on the industry-accepted Z-Tech 6000 hull form, which was originally developed by designer Robert Allan for tugs operating in the Port of Singapore.
+Alongside her already-delivered sisterships, Reliant and Defiant, Valiant is deployed in the US Navy’s
+Naval Region Northwest zone. Each of the Z-Tech 4500 class tugs features a length of 27.42m, moulded breadth of 11.65m, moulded depth of 5m and a maximum load draught of 4.88m.
+Her propulsion equipment consists of a pair of CAT 3512 main engines, each of which is rated 1350kW at 1600rpm. Each drives a Schottel Model SRP 1012 steering / propulsion Z-Drive unit, with 2100mm diameter fixed pitch propellers. In total, Valiant’s propulsion set-up amounts to total bollard pull rates of 42tonnes ahead and 45tonnes astern. Her free-running speed is recorded at 12.4knots.
+Valiant’s electrical power derives from a pair of R.A
 Mitchell Co. diesel gen-sets with a John Deere 6068SFM75 prime mover. Each of these is rated 130kWe at 1800rpm. Her deck machinery includes a ship-handling hawser winch forward and a JonRie
-Series 210 Assist winch, which is fitted with 180m of 175mm line. The latter has a brake capacity of 136tonnes and a line pull/speed rating of 9tonnes at 53m/min. The onboard firefighting system, meanwhile, is a
-PTO hooked up to the starboard engine, and engages a Stang fire pump. This arrangement removes the requirement for excess onboard piping. The Stang monitor is capable of delivering 2000gpm at 150psi. To ensure noise reduction for the crew is kept to a maximum, the accommodation deckhouse is separated from the machinery spaces. The tugs are also fitted with Shibata non-marking grey extruded rubber, above and below the waterline, so as to not leave abrasive marks against the hulls of naval surface ships and submarines with which they come into contact. TECHNICAL PARTICULARS
+Series 210 Assist winch, which is fitted with 180m of 175mm line. The latter has a brake capacity of 136tonnes and a line pull/speed rating of 9tonnes at 53m/min.
+The onboard firefighting system, meanwhile, is a
+PTO hooked up to the starboard engine, and engages a Stang fire pump. This arrangement removes the requirement for excess onboard piping.
+The Stang monitor is capable of delivering 2000gpm at 150psi.
+To ensure noise reduction for the crew is kept to a maximum, the accommodation deckhouse is separated from the machinery spaces. The tugs are also fitted with Shibata non-marking grey extruded rubber, above and below the waterline, so as to not leave abrasive marks against the hulls of naval surface ships and submarines with which they come into contact.
+TECHNICAL PARTICULARS
 Length, oa .................................................................27.42m
 Length, bp .................................................................25.17m
 Breadth moulded ......................................................11.65m
@@ -2002,7 +2201,8 @@ Crew: ..........................................................................
 Main engine(s)
 Make................................................................ Caterpillar
 Model................................................3512C HD, A-Rated
-Number ..........................................................................2. Output of each engine ......................... 1350kW @ 1600rpm
+Number ..........................................................................2.
+Output of each engine ......................... 1350kW @ 1600rpm
 Gearbox(es) (Slipping Clutch)
 Make................................................................. Twin Disc
 Model .................................................... MCD 3000-5 HD
@@ -2012,7 +2212,8 @@ Use: ..........................controls starboard propeller speed during fire fi
 Azimuthing Thrusters
 Propeller Material ............................GS-CuAl10Fe5Ni5-C
 Manufacturer Schottel ......................................SRP 1012
-Number ..........................................................................2. Fixed/Controllable pitch: .....................................Fixed pitch
+Number ..........................................................................2.
+Fixed/Controllable pitch: .....................................Fixed pitch
 Propeller Diameter .............................................2100mm
 Speed ................................................................. 12knots
 Special adaptations: ......................Azimuthing Thrusters
@@ -2030,7 +2231,8 @@ Complement
 Crew ..........................................4 normal, maximum to 6
 Number of cabins ..........................................................4
 Other significant or special items of equipment 2000 gpm at 150 psi Fire pump driven off the front PTO of the stbd main engine
-Telescoping brow (Gangway), which allows personnel to board a submarine when tug along side. Underwater fendering and guards to allow ship handling of submarines
+Telescoping brow (Gangway), which allows personnel to board a submarine when tug along side.
+Underwater fendering and guards to allow ship handling of submarines
 VALIANT: US Navy tug built to Z-Tech 4500 class 68 Significant Small Ships of 2010
 Builder’s name ........................Freire Shipyard
 Designer .......................................Skipsteknisk
@@ -2041,13 +2243,20 @@ Flag ...........................................................Malta
 Contract date .......................... November 2007
 Delivery date ......................................May 2010
 Completed and delivered by Spain’s Freire Shipyard in
-May 2010, Volstad Surveyor is an 85m x 18m vessel, specifically designed to handle ROV and survey support services, as well as construction support activities – for instance, the pre-lay surveying of designated pipelines – and to partake in light construction work. At time of going to press, the vessel was about to enter into a charter contract with DeepOcean AS, a subsidiary of
+May 2010, Volstad Surveyor is an 85m x 18m vessel, specifically designed to handle ROV and survey support services, as well as construction support activities – for instance, the pre-lay surveying of designated pipelines – and to partake in light construction work.
+At time of going to press, the vessel was about to enter into a charter contract with DeepOcean AS, a subsidiary of
 Trico Marine. DeepOcean intends to utilise Volstad
-Surveyor, starting February 2011, in pipeline installation projects at the Marulk and SmØrbukk North East field developments. Volstad Surveyor is equipped with an AHC offshore crane, boasting a 70tonne capacity; a ROV hanger; a moon pool (allowing onboard personnel to access the water below); and a helicopter deck. She has accommodation for a total of 72 persons. Similar onboard equipment includes three Palfinger auxiliary cranes and two Aker Brattvagg winches. Two ABB AMA 500L6L BAFMH electric propulsion motors generate a combined output of 4400kW for the vessel, while a pair of Rolls-Royce AZIPULL-AZP100CP propulsion units are capable of producing speeds up to 210rpm. TECHNICAL PARTICULARS
-Length, oa..................................................................85.30m. Length, bp..................................................................75.00m
+Surveyor, starting February 2011, in pipeline installation projects at the Marulk and SmØrbukk North East field developments.
+Volstad Surveyor is equipped with an AHC offshore crane, boasting a 70tonne capacity; a ROV hanger; a moon pool (allowing onboard personnel to access the water below); and a helicopter deck. She has accommodation for a total of 72 persons.
+Similar onboard equipment includes three Palfinger auxiliary cranes and two Aker Brattvagg winches.
+Two ABB AMA 500L6L BAFMH electric propulsion motors generate a combined output of 4400kW for the vessel, while a pair of Rolls-Royce AZIPULL-AZP100CP propulsion units are capable of producing speeds up to 210rpm.
+TECHNICAL PARTICULARS
+Length, oa..................................................................85.30m.
+Length, bp..................................................................75.00m
 Breadth moulded.......................................................18.00m
 Depth, moulded...........................................................9.10m
-Gross tonnage ............................................................4398gt. Displacement......................................................5738tonnes
+Gross tonnage ............................................................4398gt.
+Displacement......................................................5738tonnes
 Draught (max)..............................................................6.80m
 Design, deadweight............................................2279tonnes
 Lightweight..........................................................3459tonnes
@@ -2083,7 +2292,8 @@ Dynamic positioning system................................AUTR/DP II
 Bow thruster(s)
 Make..............................................................Rolls-Royce
 Type.......................Kamewa Ulstein TT2200 SS DPN CP
-Number...........................................................................2. Output of each..................................1150kw @ 1190rpm
+Number...........................................................................2.
+Output of each..................................1150kw @ 1190rpm
 Azimuthal thruster(s)
 Make .............................................................Rolls-Royce
 Type..............................Ulstein Aquamaster UL 2001 CP
@@ -2133,12 +2343,18 @@ Total number of sister ships still on order........-
 Contract date .................................. April 2008
 Delivery date .................................. June 2010
 The delivery of the Voith tractor tug Vortex to
-Solent Towage of Southampton, UK represented yet another powerful and impressive Robert Allan multi-purpose vessel design. Built to the latter company’s AWT 37/80 design specifications, the 38.7m Vortex is equipped for tanker handling, escort duties, fire fighting, pollution control and anchor handling. The vessel’s propulsion arrangement consists of
-Wärtsilä 8L26 diesel engines, each rated 2650kW at 900rpm, and each driving a Voith Model 32R5/265-2 drive unit. This combined output has enabled Vortex to record a bollard pull of 73tonnes and a free-running speed of 14.5knots. Her working deck features a Karmoy model
-M361783 double drum, side-by-side hydraulic-driven towing/hawser winch, which boasts a pull/brake force of 200/300tonnes; a 51mm working wire measuring 150m in length; a 200m synthetic high modulus polyethylene (HMPE) escort hawser; and a 1000m towing line, consisting of 57mm wire. In addition, Vortex features: Karm Forks; a unique, hydraulically retractable escort towing staple; a forward combination windlass/hawser winch; a 2.96m long x 1.4m diameter stern roller; two 9tonne tugger winches; split towline reels; a spill containment boom winch with 200m of 950mm deep boom; and an
-EFFER 44000-3SL hydraulic knuckle-boom type deck crane of 36tonne/m capacity. The vessel accommodates up to 10 crew, and onboard facilities include spacious crew rooms for full complement in four single and three double cabins, with Pullman berths, which all feature en-suite toilet and shower facilities. For the social aspect, Vortex has been fitted with a lounge/mess area and a gymnasium. Electrical power is generated via a pair of Volvo
+Solent Towage of Southampton, UK represented yet another powerful and impressive Robert Allan multi-purpose vessel design. Built to the latter company’s AWT 37/80 design specifications, the 38.7m Vortex is equipped for tanker handling, escort duties, fire fighting, pollution control and anchor handling.
+The vessel’s propulsion arrangement consists of
+Wärtsilä 8L26 diesel engines, each rated 2650kW at 900rpm, and each driving a Voith Model 32R5/265-2 drive unit. This combined output has enabled Vortex to record a bollard pull of 73tonnes and a free-running speed of 14.5knots.
+Her working deck features a Karmoy model
+M361783 double drum, side-by-side hydraulic-driven towing/hawser winch, which boasts a pull/brake force of 200/300tonnes; a 51mm working wire measuring 150m in length; a 200m synthetic high modulus polyethylene (HMPE) escort hawser; and a 1000m towing line, consisting of 57mm wire.
+In addition, Vortex features: Karm Forks; a unique, hydraulically retractable escort towing staple; a forward combination windlass/hawser winch; a 2.96m long x 1.4m diameter stern roller; two 9tonne tugger winches; split towline reels; a spill containment boom winch with 200m of 950mm deep boom; and an
+EFFER 44000-3SL hydraulic knuckle-boom type deck crane of 36tonne/m capacity.
+The vessel accommodates up to 10 crew, and onboard facilities include spacious crew rooms for full complement in four single and three double cabins, with Pullman berths, which all feature en-suite toilet and shower facilities. For the social aspect, Vortex has been fitted with a lounge/mess area and a gymnasium.
+Electrical power is generated via a pair of Volvo
 Penta D7A-BTA diesel gen-sets, each of which is rated 1500m3/hr and is driven from the main front engine
-PTOs. TECHNICAL PARTICULARS
+PTOs.
+TECHNICAL PARTICULARS
 Length, oa................................... 38.7 m (fenders including)
 Length, bp....................................................................34.6m
 Breadth, moulded........................................................14.0m
@@ -2202,7 +2418,8 @@ Type................................................................... D7A-BTA
 Output................................................ 139kW @1500 rpm
 Output/speed of each set............. Stamford UCM274H-2 163 kVA 400V 50 Hz
 Deck machinery:
-Main Towing/Anchor handling winch........... “Karmøy winch” hydraulic with two independent inline drums. Pull / brake force............................................200/300tonnes
+Main Towing/Anchor handling winch........... “Karmøy winch” hydraulic with two independent inline drums.
+Pull / brake force............................................200/300tonnes
 Work Wire....................................................1 x 150m, 51mm
 Escort line..................................... 1 x 200m synthetic HMPE
 Tow line.............................................. 1 x 1000m, 57mm wire

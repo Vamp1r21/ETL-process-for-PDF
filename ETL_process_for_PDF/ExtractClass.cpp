@@ -6,14 +6,22 @@
 #include <algorithm>
 #include <cctype>
 #include <sstream>
-#include <filesystem> // Используем для поиска временных файлов картинок
+#include <filesystem>
 #include <vector>
+#include <regex>
 #include "ExtractClass.h"
+
+
+#ifdef _WIN32
+#define popen  _popen
+#define pclose _pclose
+#endif
+
 
 namespace fs = std::filesystem;
 
 // Удаление лишних пробелов между символами
-std::string ExtractClass::removeSpacesBetweenChars(const std::string& input)
+std::string ExtractClass::RemoveSpacesBetweenChars(const std::string& input)
 {
 	std::string result;
 
@@ -46,8 +54,8 @@ std::string ExtractClass::removeSpacesBetweenChars(const std::string& input)
 	return result;
 }
 
-// Удаление отступов согласно правилам
-std::string ExtractClass::removeIndents(const std::string& content)
+// Удаление отступов
+std::string ExtractClass::RemoveIndents(const std::string& content)
 {
 	std::string result;
 	std::istringstream stream(content);
@@ -61,7 +69,7 @@ std::string ExtractClass::removeIndents(const std::string& content)
 		if (!prevLine.empty())
 		{
 			char lastChar = prevLine.back();
-			if (lastChar == ',' || lastChar == '/' || lastChar == '.')
+			if (lastChar == ',' || lastChar == '/')
 			{
 				shouldRemoveNewline = true;
 			}
@@ -100,7 +108,7 @@ std::string ExtractClass::removeIndents(const std::string& content)
 }
 
 // Автоматическое определения необходимости удаления пробелов
-bool ExtractClass::needsSpaceRemoval(const std::string& content)
+bool ExtractClass::NeedsSpaceRemoval(const std::string& content)
 {
 	int spaceBetweenCharsCount = 0;
 	int totalCharPairs = 0;
@@ -130,8 +138,11 @@ bool ExtractClass::needsSpaceRemoval(const std::string& content)
 	return false;
 }
 
+
+// OCR процесс
+
 // Проверка, является ли текст читаемым
-bool ExtractClass::isTextMeaningful(const std::string& content)
+bool ExtractClass::IsTextMeaningful(const std::string& content)
 {
 	int alphaCount = 0;
 	for (char c : content)
@@ -139,55 +150,63 @@ bool ExtractClass::isTextMeaningful(const std::string& content)
 		if (isalpha(static_cast<unsigned char>(c)))
 			alphaCount++;
 	}
-	return alphaCount > 50; // Если меньше 50 букв, значит это скан или пустой файл
+	return alphaCount > 20000;
 }
 
-// OCR процесс
-bool ExtractClass::runOCR(const std::string& pdf, const std::string& txt)
+bool ExtractClass::RunOCR(const std::string& pdf, const std::string& txt)
 {
-	const std::string imgPrefix = "ocr_temp_img";
+	const std::string imgPrefix = "ocr_temp_pg";
+	const std::string tempDir = "ocr_workdir";
 
-	std::string pdfToImg = "pdftoppm -q -r 300 \"" + pdf + "\" " + imgPrefix;
+	fs::create_directories(tempDir);
 
-	if (system(pdfToImg.c_str()) != 0)
-	{
+	std::string pdfToImg = "pdftoppm -q -r 200 -gray \"" + pdf + "\" " + tempDir + "/" + imgPrefix;
+
+	if (system(pdfToImg.c_str()) != 0) {
 		return false;
 	}
 
-	// Очищаем txt файл перед записью результатов OCR
-	{
-		std::ofstream clear(txt, std::ios::trunc);
-	}
-
 	std::vector<std::string> pages;
-	for (const auto& entry : fs::directory_iterator("."))
-	{
-		std::string filename = entry.path().filename().string();
-		if (filename.find(imgPrefix) == 0 && filename.find(".ppm") != std::string::npos)
-		{
-			pages.push_back(filename);
+	for (const auto& entry : fs::directory_iterator(tempDir)) {
+		if (entry.path().extension() == ".pgm" || entry.path().extension() == ".ppm") {
+			pages.push_back(entry.path().string());
 		}
 	}
+
 	std::sort(pages.begin(), pages.end());
 
+	std::ofstream out(txt, std::ios::trunc);
 	bool processed = false;
-	for (const std::string& pageImg : pages)
-	{
-		std::string ocrCmd = "tesseract \"" + pageImg + "\" stdout -l eng --dpi 300 >> \"" + txt + "\"";
-		if (system(ocrCmd.c_str()) == 0)
-		{
+
+	for (const std::string& pageImg : pages) {
+
+		std::string ocrCmd = "tesseract \"" + pageImg + "\" stdout -l eng --psm 3 --oem 3 quiet";
+
+		FILE* pipe = popen(ocrCmd.c_str(), "r");
+		if (pipe) {
+			char buffer[1024];
+			std::string pageContent;
+			while (fgets(buffer, sizeof(buffer), pipe) != nullptr) {
+				pageContent += buffer;
+			}
+			pclose(pipe);
+
+			pageContent = std::regex_replace(pageContent, std::regex("[ce!\\.\\-]{4,}"), " ");
+
+			out << pageContent << "\n\f\n";
 			processed = true;
 		}
 		fs::remove(pageImg);
 	}
 
+	fs::remove_all(tempDir);
 	return processed;
 }
 
-//To CSV
-// 
+//CSV
+
 // Убираем лишние пробелы
-std::string ExtractClass::trim(const std::string& s) {
+std::string ExtractClass::Trim(const std::string& s) {
 	size_t start = s.find_first_not_of(" \t.");
 	size_t end = s.find_last_not_of(" \t.");
 	if (start == std::string::npos || end == std::string::npos)
@@ -195,7 +214,7 @@ std::string ExtractClass::trim(const std::string& s) {
 	return s.substr(start, end - start + 1);
 }
 
-//Добавление в файд
+//Добавление в файл
 void ExtractClass::WriteToFile(std::ofstream& out, std::string nameFile, std::map<std::string, std::string> record)
 {
 	out
@@ -211,13 +230,14 @@ void ExtractClass::WriteToFile(std::ofstream& out, std::string nameFile, std::ma
 		<< "\"" << record["IMONumber"] << "\","
 		<< "\"" << record["Gross"] << "\","
 		<< "\"" << record["SisterShip"] << "\","
+		<< "\"" << record["Displacement"] << "\","
 		<< "\"" << record["MainEngineDesign"] << "\","
 		<< "\"" << record["MainEngineModel"] << "\"\n";
 }
 
 
 // Обработка очищенного текста
-void ExtractClass::convertTextToCSV(
+void ExtractClass::ConvertTextToCSV(
 	const std::string& text,
 	const std::string& csvFile,
 	std::string baseName)
@@ -230,8 +250,7 @@ void ExtractClass::convertTextToCSV(
 		return;
 	}
 
-	// Шапка CSV
-	out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length,MaxSpeed,ImoNumber,Gross,SisterShip,Displacement,MainEngineDesigner,MainEngineModel\n";
+	out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel\n";
 
 	std::istringstream stream(text);
 	std::string line;
@@ -255,13 +274,25 @@ void ExtractClass::convertTextToCSV(
 		if (pos == std::string::npos)
 			pos = line.find("..");
 
-		std::string key = trim(line.substr(0, pos));
-		std::string value = trim(line.substr(pos + 1));
+		if (pos == std::string::npos)
+			pos = line.find(",,,");
 
-		if (key.find("Builder") != std::string::npos ||
+		std::string key = Trim(line.substr(0, pos));
+		std::string value = Trim(line.substr(pos + 1));
+
+		//Название судна
+		if (key.find("Vessel") != std::string::npos && vessel == 0)
+		{
+			record["VesselName"] = value;
+			vessel++;
+		}
+
+		//Производитель судна
+		else if (key.find("Builder") != std::string::npos ||
 			key.find("Shipbuilder") != std::string::npos)
 			record["Builder"] = value;
-
+		
+		//Проектировщик судна
 		else if ((key.find("Designer") != std::string::npos ||
 			key.find("Design") != std::string::npos) && designer == 0)
 		{
@@ -269,56 +300,61 @@ void ExtractClass::convertTextToCSV(
 			designer++;
 		}
 
-		else if (key.find("Vessel") != std::string::npos && vessel == 0)
-		{
-			record["VesselName"] = value;
-			vessel++;
-		}
-
+		//Владелец судна
 		else if (key.find("Owner") != std::string::npos ||
 			key.find("Operator") != std::string::npos)
 			record["OwnerOperator"] = value;
 
+		//Страна
 		else if (key.find("Country") != std::string::npos)
 			record["Country"] = value;
 
+		//Дата доставки(выпуска)
 		else if (key.find("Delivery date") != std::string::npos)
 			record["DeliveryDate"] = value;
 
-		else if (key.find("IMO number") != std::string::npos)
-			record["IMONumber"] = value;
-
-		else if (key.find("Gross") != std::string::npos)
-			record["Gross"] = value;
-
+		//Длина судна
 		else if (key.find("Length, oa") != std::string::npos ||
 			key.find("Length oa") != std::string::npos ||
 			key.find("Length,oa") != std::string::npos ||
 			key.find("Lengthoa") != std::string::npos)
 			record["Length"] = value;
 
+		//Максимальная скорость судна
 		else if (key.find("Max speed") != std::string::npos ||
 			key.find("Maximum speed") != std::string::npos ||
 			key.find("Speed service 2") != std::string::npos ||
 			key.find("Maxspeed") != std::string::npos ||
 			key.find("Maximumspeed") != std::string::npos ||
-			key.find("Speedservice 2") != std::string::npos)
+			key.find("Speedservice 2") != std::string::npos ||
+			key.find("Speed (light load)") != std::string::npos)
 			record["MaxSpeed"] = value;
 
+		else if (key.find("IMO number") != std::string::npos)
+			record["IMONumber"] = value;
+
+		//Вместимость
+		else if (key.find("Gross") != std::string::npos)
+			record["Gross"] = value;
+
+		//Число кораблей сестер
+		else if (key.find("Total number of sister ships already completed") != std::string::npos)
+			record["SisterShip"] = value;
+		
+		//Водоизмещение судна
+		else if (key.find("Displacement") != std::string::npos)
+			record["Displacement"] = value;
+		
+		//Производитель двигателя судна
 		else if ((key.find("Design") != std::string::npos ||
 			key.find("Make") != std::string::npos) && mainEngine > 0)
 			record["MainEngineDesign"] = value;
-
+		
+		//Модель двигателя судна
 		else if (key.find("Model") != std::string::npos && mainEngine > 0)
 			record["MainEngineModel"] = value;
 
-		else if (key.find("Total number of sister ships") != std::string::npos)
-			record["SisterShip"];
-
-		else if (key.find("Displacement") != std::string::npos)
-			record["Displacement"];
-
-		if (!record["MainEngineModel"].empty() || i==3) 
+		if (!record["MainEngineModel"].empty() || i==5) 
 		{
 			WriteToFile(out, baseName, record);
 			WriteToFile(out1, baseName, record);
@@ -328,7 +364,7 @@ void ExtractClass::convertTextToCSV(
 			i = 0;
 			record.clear();
 		}
-		if (!record["MainEngineDesign"].empty())
+		if (mainEngine==1)
 		{
 			i++;
 		}
@@ -338,7 +374,7 @@ void ExtractClass::convertTextToCSV(
 	out1.close();
 }
 
-void ExtractClass::processFile(const std::string& pdf)
+void ExtractClass::ProcessFile(const std::string& pdf)
 {
 	std::filesystem::path pdfPath(pdf);
 	std::string baseName = pdfPath.stem().string();
@@ -366,16 +402,15 @@ void ExtractClass::processFile(const std::string& pdf)
 	inFile.close();
 
 	// Если текста нет или он не "осмысленный" (скан), запускаем OCR
-	if (!isTextMeaningful(content))
+	if (!IsTextMeaningful(content))
 	{
 		std::cout << "PDF looks like a scan, starting OCR (English)..." << std::endl;
-		if (!runOCR(pdf, txt))
+		if (!RunOCR(pdf, txt))
 		{
 			std::cerr << "Ошибка OCR для файла: " << pdf << "\n";
 			return;
 		}
 
-		// Загружаем новый контент, полученный через Tesseract
 		std::ifstream ocrFile(txt);
 		content.assign((std::istreambuf_iterator<char>(ocrFile)), std::istreambuf_iterator<char>());
 		ocrFile.close();
@@ -387,12 +422,12 @@ void ExtractClass::processFile(const std::string& pdf)
 		return;
 	}
 
-	bool shouldRemoveSpaces = needsSpaceRemoval(content);
-	std::string cleanedContent = removeIndents(content);
+	bool shouldRemoveSpaces = NeedsSpaceRemoval(content);
+	std::string cleanedContent = RemoveIndents(content);
 
 	if (shouldRemoveSpaces)
 	{
-		cleanedContent = removeSpacesBetweenChars(cleanedContent);
+		cleanedContent = RemoveSpacesBetweenChars(cleanedContent);
 	}
 
 	std::ofstream outFile(txt);
@@ -401,7 +436,7 @@ void ExtractClass::processFile(const std::string& pdf)
 		std::cerr << "Не удалось открыть файл для записи: " << txt << "\n";
 		return;
 	}
-	convertTextToCSV(cleanedContent, csv, baseName);
+	ConvertTextToCSV(cleanedContent, csv, baseName);
 	outFile << cleanedContent;
 	outFile.close();
 
