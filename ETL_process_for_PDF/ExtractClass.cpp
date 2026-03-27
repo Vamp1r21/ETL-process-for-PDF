@@ -232,7 +232,8 @@ void ExtractClass::WriteToFile(std::ofstream& out, std::string nameFile, std::ma
 		<< "\"" << record["SisterShip"] << "\","
 		<< "\"" << record["Displacement"] << "\","
 		<< "\"" << record["MainEngineDesign"] << "\","
-		<< "\"" << record["MainEngineModel"] << "\"\n";
+		<< "\"" << record["MainEngineModel"] << "\","
+		<< "\"" << record["NumberOfEngines"] << "\"\n";
 }
 
 
@@ -242,7 +243,7 @@ void ExtractClass::ConvertTextToCSV(
 	const std::string& csvFile,
 	std::string baseName)
 {
-	std::ofstream out1("CSVFiles/allShip.csv",std::ios::app);
+	std::ofstream out1("CSVFiles/allShip.csv", std::ios::app);
 	std::ofstream out(csvFile);
 	if (!out.is_open())
 	{
@@ -250,7 +251,7 @@ void ExtractClass::ConvertTextToCSV(
 		return;
 	}
 
-	out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel\n";
+	out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel,NumberOfEngines\n";
 
 	std::istringstream stream(text);
 	std::string line;
@@ -291,7 +292,7 @@ void ExtractClass::ConvertTextToCSV(
 		else if (key.find("Builder") != std::string::npos ||
 			key.find("Shipbuilder") != std::string::npos)
 			record["Builder"] = value;
-		
+
 		//Проектировщик судна
 		else if ((key.find("Designer") != std::string::npos ||
 			key.find("Design") != std::string::npos) && designer == 0)
@@ -340,22 +341,27 @@ void ExtractClass::ConvertTextToCSV(
 		//Число кораблей сестер
 		else if (key.find("Total number of sister ships already completed") != std::string::npos)
 			record["SisterShip"] = value;
-		
+
 		//Водоизмещение судна
 		else if (key.find("Displacement") != std::string::npos)
 			record["Displacement"] = value;
-		
+
 		//Производитель двигателя судна
 		else if ((key.find("Design") != std::string::npos ||
 			key.find("Make") != std::string::npos) && mainEngine > 0)
 			record["MainEngineDesign"] = value;
-		
+
 		//Модель двигателя судна
 		else if (key.find("Model") != std::string::npos && mainEngine > 0)
 			record["MainEngineModel"] = value;
 
-		if (!record["MainEngineModel"].empty() || i==5) 
+		else if ((key.find("Number of engines") != std::string::npos ||
+			key.find("Number") != std::string::npos) && mainEngine > 0)
+			record["NumberOfEngines"] = value;
+
+		else if (!record["MainEngineModel"].empty() || i > 5)
 		{
+			if (record["VesselName"].empty()) continue;
 			WriteToFile(out, baseName, record);
 			WriteToFile(out1, baseName, record);
 			mainEngine = 0;
@@ -364,7 +370,7 @@ void ExtractClass::ConvertTextToCSV(
 			i = 0;
 			record.clear();
 		}
-		if (mainEngine==1)
+		if (mainEngine == 1)
 		{
 			i++;
 		}

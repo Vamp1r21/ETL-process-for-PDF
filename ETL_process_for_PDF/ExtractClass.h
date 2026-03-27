@@ -6,7 +6,7 @@
 
 class ExtractClass
 {
-	private:
+    private:
         //PDFToTXT
         std::string RemoveSpacesBetweenChars(const std::string& input);
         std::string RemoveIndents(const std::string& content);
@@ -18,6 +18,6 @@ class ExtractClass
         std::string Trim(const std::string& s);
         void ConvertTextToCSV(const std::string& text, const std::string& csvFile, std::string baseName);
         void WriteToFile(std::ofstream& out, std::string nameFile, std::map<std::string, std::string> record);
-	public:
-		void ProcessFile(const std::string& pdf);
+    public:
+        void ProcessFile(const std::string& pdf);
 };

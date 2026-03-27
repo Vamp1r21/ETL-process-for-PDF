@@ -13,11 +13,11 @@
 #endif
 
 
-int main() 
+int main()
 {
     setlocale(0, "RUS");
     std::ofstream out("CSVFiles/allShip.csv");
-    out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel\n";
+    out << "FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel,NumberOfEngines\n";
     out.close();
     ExtractClass extractClass;
     TransformClass transformClass;
@@ -28,13 +28,13 @@ int main()
     //extractClass.ProcessFile("PDFFiles/SSS 1999.pdf");
 
     //extractClass.ProcessFile("PDFFiles/SSS 2000.pdf");    
-    
+
     //extractClass.ProcessFile("PDFFiles/SSS 2001.pdf");
 
     //extractClass.ProcessFile("PDFFiles/SSS 2002.pdf");
 
     //extractClass.ProcessFile("PDFFiles/SSS 2003.pdf");
-        
+
     //extractClass.ProcessFile("PDFFiles/SSS 2004.pdf");
 
     //extractClass.ProcessFile("PDFFiles/SSS 2005.pdf");
@@ -118,7 +118,7 @@ int main()
 
     extractClass.ProcessFile("PDFFiles/SS 2022.pdf");
 
-    std::cout << "Извлечение выполнено!"<<"\n";
+    std::cout << "Извлечение выполнено!" << "\n";
 
     transformClass.TransformCSVFile();
 

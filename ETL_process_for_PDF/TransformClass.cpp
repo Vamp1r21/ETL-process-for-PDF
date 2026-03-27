@@ -50,8 +50,7 @@ std::string TransformClass::ReplacementDotToComma(const std::string& line)
 }
 
 //Ïğåîáğàçîâàíèå äàòû äîñòàâêè(âûïóñêà) ñóäíà
-std::string TransformClass::MonthToNumber(std::string month)
-{
+std::string TransformClass::MonthToNumber(std::string month) {
     std::transform(month.begin(), month.end(), month.begin(), ::tolower);
     static std::unordered_map<std::string, std::string> mm = {
         {"january","01"},{"jan","01"},
@@ -70,10 +69,12 @@ std::string TransformClass::MonthToNumber(std::string month)
     return mm.count(month) ? mm[month] : "";
 }
 
-std::string TransformClass::NormalizeDate(const std::string& line)
-{
+std::string TransformClass::NormalizeDate(const std::string& line) {
+    if (line.empty() || line == "N/A") return "";
+
     std::smatch m;
 
+    // 1. Ïîëíàÿ äàòà: YYYY-MM-DD èëè DD.MM.YYYY
     std::regex r1(R"((\d{4})[-./](\d{2})[-./](\d{2}))");
     if (std::regex_search(line, m, r1))
         return m[3].str() + "." + m[2].str() + "." + m[1].str();
@@ -82,18 +83,66 @@ std::string TransformClass::NormalizeDate(const std::string& line)
     if (std::regex_search(line, m, r2))
         return m[1].str() + "." + m[2].str() + "." + m[3].str();
 
-    std::regex r3(R"((\d{1,2})\s+([A-Za-z]+)\s+(\d{4}))");
+    // 2. Ôîğìàò: "25 June, 2009" èëè "June 25 2009"
+    std::regex r3(R"((\d{1,2})\s+([A-Za-z]+),?\s+(\d{4}))");
+    std::regex r4(R"(([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4}))");
+
     if (std::regex_search(line, m, r3)) {
         std::string mm = MonthToNumber(m[2]);
-        if (!mm.empty())
-            return (m[1].length() == 1 ? "0" : "") + m[1].str() + "." + mm + "." + m[3].str();
+        if (!mm.empty()) {
+            std::string dd = (m[1].length() == 1 ? "0" : "") + m[1].str();
+            return dd + "." + mm + "." + m[3].str();
+        }
     }
-
-    std::regex r4(R"(([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4}))");
     if (std::regex_search(line, m, r4)) {
         std::string mm = MonthToNumber(m[1]);
-        if (!mm.empty())
-            return (m[2].length() == 1 ? "0" : "") + m[2].str() + "." + mm + "." + m[3].str();
+        if (!mm.empty()) {
+            std::string dd = (m[2].length() == 1 ? "0" : "") + m[2].str();
+            return dd + "." + mm + "." + m[3].str();
+        }
+    }
+
+    // --- ÎÁĞÀÁÎÒÊÀ ÊÂÀĞÒÀËÎÂ È ÑÏÅÖ. ÑËÓ×ÀÅÂ ---
+
+    // 3. Êâàğòàëû òåêñòîâûå: "3rd quarter 2008"
+    std::regex r_q_text(R"((\d)(?:st|nd|rd|th)\s+quarter\s+(\d{4}))", std::regex::icase);
+    if (std::regex_search(line, m, r_q_text)) {
+        std::string q = m[1].str();
+        std::string year = m[2].str();
+        if (q == "1") return "01.01." + year;
+        if (q == "2") return "01.04." + year;
+        if (q == "3") return "01.07." + year;
+        if (q == "4") return "01.10." + year;
+    }
+
+    // 4. Êâàğòàëû êğàòêèå: "Q1 2019"
+    std::regex r_q_short(R"(Q([1-4])\s+(\d{4}))", std::regex::icase);
+    if (std::regex_search(line, m, r_q_short)) {
+        std::string q = m[1].str();
+        std::string year = m[2].str();
+        if (q == "1") return "01.01." + year;
+        if (q == "2") return "01.04." + year;
+        if (q == "3") return "01.07." + year;
+        if (q == "4") return "01.10." + year;
+    }
+
+    // 5. Ñåğåäèíà ãîäà: "Mid-2006"
+    std::regex r_mid(R"(Mid-(\d{4}))", std::regex::icase);
+    if (std::regex_search(line, m, r_mid)) {
+        return "01.07." + m[1].str();
+    }
+
+    // 6. Òîëüêî ìåñÿö è ãîä: "November 2006"
+    std::regex r_month_year(R"(([A-Za-z]+)\s+(\d{4}))");
+    if (std::regex_search(line, m, r_month_year)) {
+        std::string mm = MonthToNumber(m[1]);
+        if (!mm.empty()) return "01." + mm + "." + m[2].str();
+    }
+
+    // 7. Òîëüêî ãîä: "2006"
+    std::regex r_year(R"(^\s*(\d{4})\s*$)");
+    if (std::regex_search(line, m, r_year)) {
+        return "01.01." + m[1].str();
     }
 
     return line;
@@ -194,7 +243,14 @@ void TransformClass::TransformCSVFile()
     for (size_t i = 0; i < ñharacteristics[0].size(); ++i) col[ñharacteristics[0][i]] = i;
 
     for (size_t r = 1; r < ñharacteristics.size(); ++r) {
+
+
         auto& row = ñharacteristics[r];
+
+        if (row[col["VesselName"]] == "")
+        {
+            continue;
+        }
 
         auto setNA = [&](std::string n) {
             if (col.count(n) && Trim(row[col[n]]).empty()) row[col[n]] = "N/A";
