@@ -23,6 +23,12 @@ class TransformClass
 		//ѕреобразование водоизмещени€ судна
 		double TransformationToKg(double number, const std::string& type);
 		std::string NormalizeDisplacement(const std::string& line);
+		
+		std::string ExtractNumber(const std::string& line);
+		std::string DetectEngineDesigner(const std::string& model);
+		std::string CleanEngineModel(std::string model, const std::string& designer);
+		void FixEngineFields(std::string& designer, std::string& model);
+
 	public:
 		void TransformCSVFile();
 };

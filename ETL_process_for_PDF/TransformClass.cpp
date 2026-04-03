@@ -1,4 +1,4 @@
-#include "TransformClass.h"
+п»ї#include "TransformClass.h"
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -7,9 +7,31 @@
 #include <regex>
 #include <iomanip>
 #include <algorithm>
-#include <filesystem>
 
-//CSV
+// ---------------- ENGINE BRANDS ----------------
+static std::vector<std::string> ENGINE_BRANDS = {
+    "MAN B&W", "MAN", "WГ¤rtsilГ¤", "Wartsila",
+    "Sulzer", "WinGD", "Rolls-Royce",
+    "MTU", "Caterpillar", "Cummins",
+    "Deutz", "Yanmar", "Hyundai"
+};
+
+// ---------------- UTILS ----------------
+std::string ToLower(const std::string& s)
+{
+    std::string r = s;
+    std::transform(r.begin(), r.end(), r.begin(), ::tolower);
+    return r;
+}
+
+std::string TransformClass::Trim(const std::string& line)
+{
+    size_t b = line.find_first_not_of(" \t\r\n");
+    size_t e = line.find_last_not_of(" \t\r\n");
+    return (b == std::string::npos) ? "" : line.substr(b, e - b + 1);
+}
+
+// ---------------- CSV ----------------
 std::vector<std::string> TransformClass::ParseCSVLine(const std::string& line)
 {
     std::vector<std::string> result;
@@ -28,28 +50,27 @@ std::vector<std::string> TransformClass::ParseCSVLine(const std::string& line)
     return result;
 }
 
-std::string TransformClass::Trim(const std::string& line)
+// ---------------- NUMBER CLEAN ----------------
+std::string TransformClass::ExtractNumber(const std::string& line)
 {
-    size_t b = line.find_first_not_of(" \t\r\n");
-    size_t e = line.find_last_not_of(" \t\r\n");
-    return (b == std::string::npos) ? "" : line.substr(b, e - b + 1);
+    std::string result;
+    for (char c : line)
+        if (isdigit(c) || c == '.') result += c;
+    return result;
 }
 
+// ---------------- DOT в†’ COMMA ----------------
 std::string TransformClass::ReplacementDotToComma(const std::string& line)
 {
-    // Проверяем, является ли значение датой (формат DD.MM.YYYY)
-    // Простая проверка по формату
-    if (line.length() == 10 && line[2] == '.' && line[5] == '.') {
-        return line; // Возвращаем дату без изменений
-    }
+    if (line.length() == 10 && line[2] == '.' && line[5] == '.')
+        return line;
 
-    // Для чисел: меняем точку на запятую
     std::string result = line;
     replace(result.begin(), result.end(), '.', ',');
     return result;
 }
 
-//Преобразование даты доставки(выпуска) судна
+//РџСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ РґР°С‚С‹ РґРѕСЃС‚Р°РІРєРё(РІС‹РїСѓСЃРєР°) СЃСѓРґРЅР°
 std::string TransformClass::MonthToNumber(std::string month) {
     std::transform(month.begin(), month.end(), month.begin(), ::tolower);
     static std::unordered_map<std::string, std::string> mm = {
@@ -74,7 +95,7 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
 
     std::smatch m;
 
-    // 1. Полная дата: YYYY-MM-DD или DD.MM.YYYY
+    // 1. РџРѕР»РЅР°СЏ РґР°С‚Р°: YYYY-MM-DD РёР»Рё DD.MM.YYYY
     std::regex r1(R"((\d{4})[-./](\d{2})[-./](\d{2}))");
     if (std::regex_search(line, m, r1))
         return m[3].str() + "." + m[2].str() + "." + m[1].str();
@@ -83,7 +104,7 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
     if (std::regex_search(line, m, r2))
         return m[1].str() + "." + m[2].str() + "." + m[3].str();
 
-    // 2. Формат: "25 June, 2009" или "June 25 2009"
+    // 2. Р¤РѕСЂРјР°С‚: "25 June, 2009" РёР»Рё "June 25 2009"
     std::regex r3(R"((\d{1,2})\s+([A-Za-z]+),?\s+(\d{4}))");
     std::regex r4(R"(([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4}))");
 
@@ -102,9 +123,9 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
         }
     }
 
-    // --- ОБРАБОТКА КВАРТАЛОВ И СПЕЦ. СЛУЧАЕВ ---
+    // --- РћР‘Р РђР‘РћРўРљРђ РљР’РђР РўРђР›РћР’ Р РЎРџР•Р¦. РЎР›РЈР§РђР•Р’ ---
 
-    // 3. Кварталы текстовые: "3rd quarter 2008"
+    // 3. РљРІР°СЂС‚Р°Р»С‹ С‚РµРєСЃС‚РѕРІС‹Рµ: "3rd quarter 2008"
     std::regex r_q_text(R"((\d)(?:st|nd|rd|th)\s+quarter\s+(\d{4}))", std::regex::icase);
     if (std::regex_search(line, m, r_q_text)) {
         std::string q = m[1].str();
@@ -115,7 +136,7 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
         if (q == "4") return "01.10." + year;
     }
 
-    // 4. Кварталы краткие: "Q1 2019"
+    // 4. РљРІР°СЂС‚Р°Р»С‹ РєСЂР°С‚РєРёРµ: "Q1 2019"
     std::regex r_q_short(R"(Q([1-4])\s+(\d{4}))", std::regex::icase);
     if (std::regex_search(line, m, r_q_short)) {
         std::string q = m[1].str();
@@ -126,20 +147,20 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
         if (q == "4") return "01.10." + year;
     }
 
-    // 5. Середина года: "Mid-2006"
+    // 5. РЎРµСЂРµРґРёРЅР° РіРѕРґР°: "Mid-2006"
     std::regex r_mid(R"(Mid-(\d{4}))", std::regex::icase);
     if (std::regex_search(line, m, r_mid)) {
         return "01.07." + m[1].str();
     }
 
-    // 6. Только месяц и год: "November 2006"
+    // 6. РўРѕР»СЊРєРѕ РјРµСЃСЏС† Рё РіРѕРґ: "November 2006"
     std::regex r_month_year(R"(([A-Za-z]+)\s+(\d{4}))");
     if (std::regex_search(line, m, r_month_year)) {
         std::string mm = MonthToNumber(m[1]);
         if (!mm.empty()) return "01." + mm + "." + m[2].str();
     }
 
-    // 7. Только год: "2006"
+    // 7. РўРѕР»СЊРєРѕ РіРѕРґ: "2006"
     std::regex r_year(R"(^\s*(\d{4})\s*$)");
     if (std::regex_search(line, m, r_year)) {
         return "01.01." + m[1].str();
@@ -148,11 +169,11 @@ std::string TransformClass::NormalizeDate(const std::string& line) {
     return line;
 }
 
-//Преобразование длины судна
+// ---------------- LENGTH ----------------
 double TransformClass::TransformationToMeters(double number, const std::string& type)
 {
     if (type == "ft") return number * 0.3048;
-    else return number;
+    return number;
 }
 
 std::string TransformClass::NormalizeLength(const std::string& line)
@@ -161,125 +182,175 @@ std::string TransformClass::NormalizeLength(const std::string& line)
     std::smatch m;
     if (std::regex_search(line, m, r)) {
         double number = stod(m[1]);
-        std::string type = m[3];
-        transform(type.begin(), type.end(), type.begin(), ::tolower);
+        std::string type = ToLower(m[3]);
         std::ostringstream o;
         o << std::fixed << std::setprecision(2) << TransformationToMeters(number, type);
         return o.str();
     }
-    else return line;
+    return ExtractNumber(line);
 }
 
-//Преобразование максимальной скорости судна
+// ---------------- SPEED ----------------
 double TransformClass::TransformationToKnots(double number, const std::string& type)
 {
     if (type == "km/h") return number * 0.539957;
-    else if (type == "mph") return number * 0.868976;
-    else return number;
+    if (type == "mph") return number * 0.868976;
+    return number;
 }
 
 std::string TransformClass::NormalizeSpeed(const std::string& line)
 {
-    std::regex r(R"((\d+(\.\d+)?)\s*(kn|kts|km\/h|mph))", std::regex::icase);
+    std::regex r(R"((\d+(\.\d+)?)\s*(kt|kn|kts|km\/h|mph))", std::regex::icase);
     std::smatch m;
     if (std::regex_search(line, m, r)) {
         double number = stod(m[1]);
-        std::string type = m[3];
-        transform(type.begin(), type.end(), type.begin(), ::tolower);
+        std::string type = ToLower(m[3]);
         std::ostringstream o;
         o << std::fixed << std::setprecision(2) << TransformationToKnots(number, type);
         return o.str();
     }
-    return line;
+    return ExtractNumber(line);
 }
 
-//Преобразование вместимости судна
+// ---------------- GROSS ----------------
 std::string TransformClass::NormalizeGross(const std::string& line)
 {
-    if (Trim(line).empty()) return line;
-    std::string result;
-    for (char symbol : line) if (isdigit(symbol)) result += symbol;
-    return result;
+    return ExtractNumber(line);
 }
 
-//Преобразование водоизмещения судна
+// ---------------- DISPLACEMENT ----------------
 double TransformClass::TransformationToKg(double number, const std::string& type)
 {
     if (type == "kg") return number;
-    else if (type == "t" || type == "tonne" || type == "tonnes") return number * 1000.0;
-    else if (type == "long ton" || type == "long tons") return number * 1016.0;
-    else if (type == "short ton" || type == "short tons") return number * 907.185;
+    if (type == "t" || type == "tonne" || type == "tonnes") return number * 1000.0;
+    return number;
 }
 
 std::string TransformClass::NormalizeDisplacement(const std::string& line)
 {
-    if (Trim(line).empty()) return line;
-
-    std::regex r(R"((\d+(\.\d+)?)\s*(kg|t|tonne|tonnes|long\s+ton[s]?|short\s+ton[s]?)?)",
-        std::regex::icase);
+    std::regex r(R"((\d+(\.\d+)?)\s*(kg|t|tonne|tonnes)?)", std::regex::icase);
     std::smatch m;
     if (std::regex_search(line, m, r)) {
         double number = stod(m[1]);
-        std::string type = m[3].matched ? m[3].str() : "t";
-        transform(type.begin(), type.end(), type.begin(), ::tolower);
+        std::string type = m[3].matched ? ToLower(m[3]) : "t";
         std::ostringstream o;
         o << std::fixed << std::setprecision(0) << TransformationToKg(number, type);
         return o.str();
     }
-    return line;
+    return ExtractNumber(line);
 }
 
+// ---------------- ENGINE ----------------
+std::string TransformClass::DetectEngineDesigner(const std::string& model)
+{
+    std::string lower = ToLower(model);
+
+    for (const auto& brand : ENGINE_BRANDS) {
+        if (lower.find(ToLower(brand)) != std::string::npos)
+            return brand;
+    }
+
+    return "MAN B&W"; // default
+}
+
+std::string TransformClass::CleanEngineModel(std::string model, const std::string& designer)
+{
+    std::string lowerModel = ToLower(model);
+    std::string lowerDesigner = ToLower(designer);
+
+    size_t pos = lowerModel.find(lowerDesigner);
+    if (pos != std::string::npos)
+        model.erase(pos, designer.length());
+
+    return Trim(model);
+}
+
+void TransformClass::FixEngineFields(std::string& designer, std::string& model)
+{
+    if (Trim(model).empty()) {
+        designer = "MAN B&W";
+        model = "Generic";
+        return;
+    }
+
+    if (Trim(designer).empty() || designer == "N/A")
+        designer = DetectEngineDesigner(model);
+
+    model = CleanEngineModel(model, designer);
+
+    if (model.empty())
+        model = "Generic";
+}
+
+// ---------------- MAIN ----------------
 void TransformClass::TransformCSVFile()
 {
-    std::string filename = "CSVFiles/allShip.csv";;
+    std::string filename = "CSVFiles/allShip.csv";
     std::ifstream in(filename);
 
-    std::vector<std::vector<std::string>> сharacteristics;
+    std::vector<std::vector<std::string>> data;
     std::string line;
-    while (getline(in, line)) сharacteristics.push_back(ParseCSVLine(line));
+
+    while (getline(in, line))
+        data.push_back(ParseCSVLine(line));
+
     in.close();
 
     std::unordered_map<std::string, int> col;
-    for (size_t i = 0; i < сharacteristics[0].size(); ++i) col[сharacteristics[0][i]] = i;
+    for (size_t i = 0; i < data[0].size(); ++i)
+        col[data[0][i]] = i;
 
-    for (size_t r = 1; r < сharacteristics.size(); ++r) {
+    for (size_t r = 1; r < data.size(); ++r) {
 
+        auto& row = data[r];
 
-        auto& row = сharacteristics[r];
+        if (col.count("DeliveryDate"))
+            row[col["DeliveryDate"]] = NormalizeDate(row[col["DeliveryDate"]]);
 
-        if (row[col["VesselName"]] == "")
-        {
-            continue;
+        if (col.count("Length(m)"))
+            row[col["Length(m)"]] = NormalizeLength(row[col["Length(m)"]]);
+
+        if (col.count("MaxSpeed(knots)"))
+            row[col["MaxSpeed(knots)"]] = NormalizeSpeed(row[col["MaxSpeed(knots)"]]);
+
+        if (col.count("Gross"))
+            row[col["Gross"]] = NormalizeGross(row[col["Gross"]]);
+
+        if (col.count("Displacement(kg)"))
+            row[col["Displacement(kg)"]] = NormalizeDisplacement(row[col["Displacement(kg)"]]);
+
+        if (col.count("ImoNumber"))
+            row[col["ImoNumber"]] = ExtractNumber(row[col["ImoNumber"]]);
+
+        if (col.count("NumberOfEngines")) {
+            std::string v = ExtractNumber(row[col["NumberOfEngines"]]);
+            row[col["NumberOfEngines"]] = v.empty() ? "1" : v;
         }
 
-        auto setNA = [&](std::string n) {
-            if (col.count(n) && Trim(row[col[n]]).empty()) row[col[n]] = "N/A";
-            };
+        if (col.count("SisterShip")) {
+            std::string v = ExtractNumber(row[col["SisterShip"]]);
+            row[col["SisterShip"]] = v.empty() ? "0" : v;
+        }
 
-        setNA("Builder");
-        setNA("Designer");
-        setNA("OwnerOperator");
-        setNA("Country");
-
-        if (col.count("DeliveryDate")) row[col["DeliveryDate"]] = NormalizeDate(row[col["DeliveryDate"]]);
-        if (col.count("Length(m)")) row[col["Length(m)"]] = NormalizeLength(row[col["Length(m)"]]);
-        if (col.count("MaxSpeed(knots)")) row[col["MaxSpeed(knots)"]] = NormalizeSpeed(row[col["MaxSpeed(knots)"]]);
-        if (col.count("Gross")) row[col["Gross"]] = NormalizeGross(row[col["Gross"]]);
-        if (col.count("Displacement(kg)")) row[col["Displacement(kg)"]] = NormalizeDisplacement(row[col["Displacement(kg)"]]);
+        if (col.count("MainEngineDesigner") && col.count("MainEngineModel")) {
+            FixEngineFields(
+                row[col["MainEngineDesigner"]],
+                row[col["MainEngineModel"]]
+            );
+        }
     }
 
     std::ofstream out(filename);
 
-    //Шапка таблицы
-    for (size_t i = 0; i < сharacteristics[0].size(); ++i) {
-        out << сharacteristics[0][i] << (i + 1 < сharacteristics[0].size() ? "," : "");
-    }
+    for (size_t i = 0; i < data[0].size(); ++i)
+        out << data[0][i] << (i + 1 < data[0].size() ? "," : "");
+
     out << "\n";
 
-    //Замена точек на запятые
-    for (size_t r = 1; r < сharacteristics.size(); ++r) {
-        for (size_t c = 0; c < сharacteristics[r].size(); ++c) {
-            out << "\"" << ReplacementDotToComma(сharacteristics[r][c]) << "\"" << (c + 1 < сharacteristics[r].size() ? "," : "");
+    for (size_t r = 1; r < data.size(); ++r) {
+        for (size_t c = 0; c < data[r].size(); ++c) {
+            out << "\"" << ReplacementDotToComma(data[r][c]) << "\""
+                << (c + 1 < data[r].size() ? "," : "");
         }
         out << "\n";
     }
