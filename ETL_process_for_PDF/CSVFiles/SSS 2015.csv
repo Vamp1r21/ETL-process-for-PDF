@@ -1,7 +1,7 @@
 FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel,NumberOfEngines
 "SSS 2015","Gulf Craft LLC Operator: SEACOR Marine Speed @ 50t deadweight: 38 knots","Maritime Partner","","Maritime Partner","Norway","N/A","11.3m","60knots","","3.5tonnes","0","","Mercury","Verado 400","2"
 "SSS 2015","Alya McCall","Gulf Craft","Incat Crowther","Seacor Marine","US","October 2015","62.8m","38knots","","98tonnes","0","700tonnes","Cummins","QSK-60","5"
-"SSS 2015","Alysée","Alnmaritec Ltd","Alnmaritec Ltd","Offshore Shellfish Ltd","UK","May 2015","15.2m","20knots","","","0","8.5tonnes (light)","Cummins","QSC8.3","2"
+"SSS 2015","Alysée","Alnmaritec Ltd","Alnmaritec Ltd","1 drill rig,1 seeder,1 declumper,1 grader, 1 cam grader","UK","May 2015","15.2m","20knots","","","0","8.5tonnes (light)","Cummins","QSC8.3","2"
 "SSS 2015","August Nærø","Dockstavarvet","Petter Håkansson","Norwegian Navy","Norway","June 2015","21.55m","48knots","","50tonnes","0","43.7tonnes","MTU","10V2000M94","2"
 "SSS 2015","Benreoch","Veecraft Marine","Incat Crowther","Africa Diving Services","Nigeria","May 2015","30.35m","30knots","","162tonnes","1","","Caterpillar","Acert C32","2"
 "SSS 2015","Clean Harbour 1, Clean Harbour 2","Wang Tak Engineering &","Shanghai Chizhou Marine Tech. Ltd","Drainage Services","China","March 2015","69.9m","11knots","","2,190tonnes","2","3,400tonnes","Caterpillar","C32 /C18","2/ 1"
@@ -12,7 +12,7 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SSS 2015","Heliotrope 48","Bakricono Shipyard","Albatross Marine Design","Undisclosed","Thailand","September 2015","14.75m","23knots","","","0","24tonnes","Steyr","SE266S36","2"
 "SSS 2015","Iceni Venture","South Boats IOW","South Boats IOW","Iceni Marine Services","UK","April 2015","22.8m","30knots","","106.6tonnes","2","65tonnes","MAN","12v","2"
 "SSS 2015","Idar Ulstein","Swede Ship Marine","Swede Ship Marine","Redningsselskapet","Norway","October 2015","22m","38knots","","66tonnes","0","","MTU","12V2000 M84","2"
-"SSS 2015","Karoline","Selfa Arctic","Selfa Arctic","Øra AS","Norway","October 2015","10.99m","","","","1","38tonnes","ZF","280-1","1"
+"SSS 2015","Karoline","Selfa Arctic","Selfa Arctic","Øra AS","Norway","October 2015","10.99m","","","","1","38tonnes","Siemens","280-1","1"
 "SSS 2015","L’escapade","Alumarine Shipyard","DN&T","Communauté de Communes des 2 Vallées","France","August 2015","27.8m","10knots (diesel mode)","","","0","34.5tonnes","Volvo Penta / Transfluid","","2"
 "SSS 2015","London Titan","Manor Marine","Macduff Ship Design","Port of London Authority","UK","June 2015","36.5m","12knots","","428tonnes","0","910tonnes (max)","Caterpillar","C32","3"
 "SSS 2015","Maplin","CTruk Boats","CTruk Boats","Port of London Authority","UK","January 2016","17m","24knots","","26.5tonnes","0","28tonnes","Volvo Penta","DI3-700","2"
@@ -28,4 +28,3 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SSS 2015","Trearddur Bay","Aluminium Marine Consultants","BMT Nigel Gee","Turbine Transfers","UK","January 2015","21.2m","27knots","","65tonnes (max)","0","50tonnes","MTU","10V 2000M72","2"
 "SSS 2015","Trident","Geo Shipyard, Inc","Roger Fyffe","Texas A&M University","US","May 2015","19.8m","23knots","","92tonnes","0","48tonnes","Scania","DI 13 070","2"
 "SSS 2015","Umoe Ventus","Umoe Mandal","Umoe Mandal","Umoe Wind","Norway","March 2015","27.2m","42knots","","217tonnes","1","103tonnes","MTU","2000 16V M72","2"
-"SSS 2015","Yeniçay 1","Sanmar Shipyard","Robert Allan Ltd","Sanmar","Turkey","January 2015","18.7m","12knots","","146tonnes","1","256tonnes","Caterpillar","C32","2"

@@ -260,6 +260,9 @@ void ExtractClass::ConvertTextToCSV(
 	int i = 0;
 	int mainEngine = 0;
 	int vessel = 0;
+	int engine = 0;
+	int model = 0;
+	int number = 0;
 	while (std::getline(stream, line))
 	{
 		if (line.find("Main engine") != std::string::npos || line.find("Mainengine") != std::string::npos)
@@ -282,16 +285,38 @@ void ExtractClass::ConvertTextToCSV(
 		std::string value = Trim(line.substr(pos + 1));
 
 		//Название судна
-		if (key.find("Vessel") != std::string::npos && vessel == 0)
-		{
-			record["VesselName"] = value;
+		if (key.find("Vessel") != std::string::npos && vessel==0)
+		{		
 			vessel++;
+			record["VesselName"] = value;
 		}
 
 		//Производитель судна
 		else if (key.find("Builder") != std::string::npos ||
 			key.find("Shipbuilder") != std::string::npos)
+		{
+			// если уже есть данные — сохраняем ПРЕДЫДУЩЕЕ судно
+			if (!record.empty() && !record["Builder"].empty())
+			{
+				WriteToFile(out, baseName, record);
+				WriteToFile(out1, baseName, record);
+				record.clear();
+				// сбрасываем состояния
+				vessel = 0;
+				mainEngine = 0;
+				designer = 0;
+				engine = 0;
+				model = 0;
+				number = 0;
+				i = 0;
+			}
+
+			// начинаем новое судно
 			record["Builder"] = value;
+
+			continue;
+			//record["Builder"] = value;
+		}
 
 		//Проектировщик судна
 		else if ((key.find("Designer") != std::string::npos ||
@@ -311,7 +336,8 @@ void ExtractClass::ConvertTextToCSV(
 			record["Country"] = value;
 
 		//Дата доставки(выпуска)
-		else if (key.find("Delivery date") != std::string::npos)
+		else if (key.find("Delivery date") != std::string::npos ||
+			key.find("Deliverydate") != std::string::npos)
 			record["DeliveryDate"] = value;
 
 		//Длина судна
@@ -319,12 +345,35 @@ void ExtractClass::ConvertTextToCSV(
 			key.find("Length oa") != std::string::npos ||
 			key.find("Length,oa") != std::string::npos ||
 			key.find("Lengthoa") != std::string::npos)
+		{
+			// если уже есть данные — сохраняем ПРЕДЫДУЩЕЕ судно
+			if (!record.empty() && !record["Length"].empty())
+			{
+				WriteToFile(out, baseName, record);
+				WriteToFile(out1, baseName, record);
+				// сбрасываем состояния
+				mainEngine = 0;
+				designer = 0;
+				i = 0;
+				engine = 0;
+				model = 0;
+				vessel = 0;
+				number = 0;
+				record.clear();
+			}
+
+			// начинаем новое судно
 			record["Length"] = value;
+
+			continue;
+		}
 
 		//Максимальная скорость судна
 		else if (key.find("Max speed") != std::string::npos ||
 			key.find("Maximum speed") != std::string::npos ||
 			key.find("Speed service 2") != std::string::npos ||
+			key.find("Speed, service") != std::string::npos ||
+			key.find("Speed,service") != std::string::npos ||
 			key.find("Maxspeed") != std::string::npos ||
 			key.find("Maximumspeed") != std::string::npos ||
 			key.find("Speedservice 2") != std::string::npos ||
@@ -348,18 +397,27 @@ void ExtractClass::ConvertTextToCSV(
 
 		//Производитель двигателя судна
 		else if ((key.find("Design") != std::string::npos ||
-			key.find("Make") != std::string::npos) && mainEngine > 0)
+			key.find("Make") != std::string::npos) && mainEngine > 0 && engine==0)
+		{
+			engine++;
 			record["MainEngineDesign"] = value;
+		}
 
 		//Модель двигателя судна
-		else if (key.find("Model") != std::string::npos && mainEngine > 0)
+		else if (key.find("Model") != std::string::npos && mainEngine > 0 && model ==0)
+		{
+			model++;
 			record["MainEngineModel"] = value;
+		}
 
 		else if ((key.find("Number of engines") != std::string::npos ||
-			key.find("Number") != std::string::npos) && mainEngine > 0)
+			key.find("Number") != std::string::npos) && mainEngine > 0 && number==0)
+		{
+			number++;
 			record["NumberOfEngines"] = value;
+		}
 
-		else if (!record["MainEngineModel"].empty() || i > 5)
+		/*if (!record["MainEngineModel"].empty() || i > 5)
 		{
 			if (record["VesselName"].empty()) continue;
 			WriteToFile(out, baseName, record);
@@ -369,8 +427,8 @@ void ExtractClass::ConvertTextToCSV(
 			vessel = 0;
 			i = 0;
 			record.clear();
-		}
-		if (mainEngine == 1)
+		}*/
+		if (mainEngine > 0)
 		{
 			i++;
 		}
@@ -378,6 +436,177 @@ void ExtractClass::ConvertTextToCSV(
 
 	out.close();
 	out1.close();
+}
+
+// Специальная обработка для дублирующихся букв
+// Исправление дублирования букв (не трогает точки)
+std::string ExtractClass::FixDuplicateLetters(const std::string& input)
+{
+	std::string result;
+	std::istringstream stream(input);
+	std::string line;
+
+	while (std::getline(stream, line)) {
+		std::string fixedLine;
+
+		for (size_t i = 0; i < line.length(); i++) {
+			// Пропускаем последовательности точек (оставляем как есть)
+			if (line[i] == '.') {
+				fixedLine += line[i];
+				continue;
+			}
+
+			// Если текущий символ - буква или цифра
+			if (isalnum(static_cast<unsigned char>(line[i]))) {
+				// Проверяем паттерн "X x" (буква пробел буква)
+				if (i + 2 < line.length() &&
+					line[i + 1] == ' ' &&
+					line[i + 2] == line[i]) {
+					// Добавляем только первую букву, пропускаем пробел и дубликат
+					fixedLine += line[i];
+					i += 2; // пропускаем пробел и дубликат
+					continue;
+				}
+
+				// Проверяем паттерн "X X" (буква пробел буква - для разных букв)
+				if (i + 2 < line.length() &&
+					line[i + 1] == ' ' &&
+					isalnum(static_cast<unsigned char>(line[i + 2]))) {
+					// Добавляем букву, пробел пропускаем
+					fixedLine += line[i];
+					i += 1; // пропускаем только пробел, следующую букву обработаем на следующей итерации
+					continue;
+				}
+
+				// Проверяем дублирование букв подряд (aa, bb, cc и т.д.)
+				if (i + 1 < line.length() &&
+					line[i + 1] == line[i] &&
+					i + 2 < line.length() &&
+					line[i + 2] == line[i]) {
+					// Три одинаковых подряд - оставляем два
+					fixedLine += line[i];
+					fixedLine += line[i];
+					i += 2;
+					continue;
+				}
+			}
+
+			fixedLine += line[i];
+		}
+
+		// Дополнительная очистка: убираем множественные пробелы, но не трогаем точки
+		std::string cleanedLine;
+		bool lastWasSpace = false;
+		for (char c : fixedLine) {
+			if (c == ' ') {
+				if (!lastWasSpace) {
+					cleanedLine += c;
+					lastWasSpace = true;
+				}
+			}
+			else {
+				cleanedLine += c;
+				lastWasSpace = false;
+			}
+		}
+
+		if (!result.empty()) {
+			result += "\n";
+		}
+		result += cleanedLine;
+	}
+
+	return result;
+}
+
+bool ExtractClass::HasDuplicateLettersProblem(const std::string& content)
+{
+	// Ищем слова, где каждая буква разделена пробелом (минимум 4 буквы)
+	std::regex pattern(R"(\b([A-Za-z]\s){3,}[A-Za-z]\b)");
+
+	int count = 0;
+	auto begin = std::sregex_iterator(content.begin(), content.end(), pattern);
+	auto end = std::sregex_iterator();
+
+	for (auto i = begin; i != end; ++i)
+	{
+		count++;
+		if (count >= 2) // минимум 2 таких слова
+			return true;
+	}
+
+	return false;
+}
+
+// Объединение разорванных строк на основе структуры документа
+std::string ExtractClass::MergeBrokenFieldLines(const std::string& input)
+{
+	std::string result;
+	std::istringstream stream(input);
+	std::string line;
+	std::string currentField;
+	std::string lastFieldStart;
+
+	while (std::getline(stream, line)) {
+		if (line.empty()) {
+			if (!currentField.empty()) {
+				result += currentField + "\n";
+				currentField.clear();
+			}
+			result += "\n";
+			continue;
+		}
+
+		// Проверяем, начинается ли новая строка с названия поля
+		bool isNewField = false;
+		std::string fieldName;
+
+		// Ищем паттерны начала поля: "Shipbuilder:", "Vessel's name:", "Hull number:" и т.д.
+		std::vector<std::string> fieldMarkers = {
+			"Shipbuilder", "Builder", "Vessel", "Hull number",
+			"IMO number", "Owner", "Operator", "Designer"
+		};
+
+		for (const auto& marker : fieldMarkers) {
+			if (line.find(marker) != std::string::npos) {
+				isNewField = true;
+				break;
+			}
+		}
+
+		// Также проверяем наличие точек или двоеточия в начале строки
+		if (line.find("....") != std::string::npos ||
+			(line.find(':') != std::string::npos && line.find(':') < 20)) {
+			isNewField = true;
+		}
+
+		if (isNewField) {
+			// Сохраняем предыдущее поле
+			if (!currentField.empty()) {
+				result += currentField + "\n";
+			}
+			currentField = line;
+			lastFieldStart = line;
+		}
+		else {
+			// Это продолжение предыдущего поля
+			if (!currentField.empty()) {
+				// Добавляем пробел и продолжаем
+				currentField += " " + line;
+			}
+			else {
+				currentField = line;
+			}
+		}
+	}
+
+	// Добавляем последнее поле
+	if (!currentField.empty()) {
+		if (!result.empty()) result += "\n";
+		result += currentField;
+	}
+
+	return result;
 }
 
 void ExtractClass::ProcessFile(const std::string& pdf)
@@ -428,12 +657,17 @@ void ExtractClass::ProcessFile(const std::string& pdf)
 		return;
 	}
 
-	bool shouldRemoveSpaces = NeedsSpaceRemoval(content);
+	//bool shouldRemoveSpaces = NeedsSpaceRemoval(content);
 	std::string cleanedContent = RemoveIndents(content);
 
-	if (shouldRemoveSpaces)
+	if (NeedsSpaceRemoval(cleanedContent))
 	{
 		cleanedContent = RemoveSpacesBetweenChars(cleanedContent);
+	}
+	else if (HasDuplicateLettersProblem(content))
+	{
+		cleanedContent = MergeBrokenFieldLines(cleanedContent);
+		cleanedContent = FixDuplicateLetters(cleanedContent);
 	}
 
 	std::ofstream outFile(txt);

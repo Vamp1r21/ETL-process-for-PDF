@@ -7,6 +7,9 @@
 class ExtractClass
 {
     private:
+        std::string FixDuplicateLetters(const std::string& input);
+        bool HasDuplicateLettersProblem(const std::string& content);
+        std::string MergeBrokenFieldLines(const std::string& input);
         //PDFToTXT
         std::string RemoveSpacesBetweenChars(const std::string& input);
         std::string RemoveIndents(const std::string& content);
