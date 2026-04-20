@@ -90,83 +90,113 @@ std::string TransformClass::MonthToNumber(std::string month) {
     return mm.count(month) ? mm[month] : "";
 }
 
+// ---------------- FIX YEAR ----------------
+int TransformClass::FixYear(int year)
+{
+    int currentYear = 2026;
+
+    // если год вне диапазона → берём первые 2 цифры
+    if (year < 1998 || year > currentYear) {
+        std::string y = std::to_string(year);
+
+        if (y.length() >= 2) {
+            int firstTwo = std::stoi(y.substr(0, 2));
+            return 2000 + firstTwo;
+        }
+    }
+
+    return year;
+}
+
+//Преобразование даты доставки(выпуска) судна
 std::string TransformClass::NormalizeDate(const std::string& line) {
     if (line.empty() || line == "N/A") return "";
 
+    std::string cleaned;
+
+    // убрать лишние слова
+    cleaned = std::regex_replace(line,
+        std::regex(R"(completed|delivered|built)", std::regex::icase), "");
+
+    // исправление "15thJanuary2010"
+    cleaned = std::regex_replace(cleaned,
+        std::regex(R"((\d{1,2})(st|nd|rd|th))"), "$1");
+
+    // фикс отсутствия пробелов
+    cleaned = std::regex_replace(cleaned, std::regex(R"(([A-Za-z]+)(\d{4}))"), "$1 $2");
+    cleaned = std::regex_replace(cleaned, std::regex(R"((\d{1,2})([A-Za-z]+))"), "$1 $2");
+    cleaned = std::regex_replace(cleaned, std::regex(R"((\d{4})([A-Za-z]+))"), "$2 $1");
+
+    // MayandAugust2009 → May 2009
+    cleaned = std::regex_replace(cleaned,
+        std::regex(R"(([A-Za-z]+)and([A-Za-z]+)\s*(\d{4}))"),
+        "$1 $3");
+
     std::smatch m;
 
-    // 1. Полная дата: YYYY-MM-DD или DD.MM.YYYY
+    // YYYY-MM-DD
     std::regex r1(R"((\d{4})[-./](\d{2})[-./](\d{2}))");
-    if (std::regex_search(line, m, r1))
-        return m[3].str() + "." + m[2].str() + "." + m[1].str();
+    if (std::regex_search(cleaned, m, r1)) {
+        int year = FixYear(stoi(m[1]));
+        return m[3].str() + "." + m[2].str() + "." + std::to_string(year);
+    }
 
+    // DD.MM.YYYY
     std::regex r2(R"((\d{2})[-./](\d{2})[-./](\d{4}))");
-    if (std::regex_search(line, m, r2))
-        return m[1].str() + "." + m[2].str() + "." + m[3].str();
+    if (std::regex_search(cleaned, m, r2)) {
+        int year = FixYear(stoi(m[3]));
+        return m[1].str() + "." + m[2].str() + "." + std::to_string(year);
+    }
 
-    // 2. Формат: "25 June, 2009" или "June 25 2009"
-    std::regex r3(R"((\d{1,2})\s+([A-Za-z]+),?\s+(\d{4}))");
-    std::regex r4(R"(([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4}))");
-
-    if (std::regex_search(line, m, r3)) {
+    // 15 January 2010
+    std::regex r3(R"((\d{1,2})\s+([A-Za-z]+)\s+(\d{4}))");
+    if (std::regex_search(cleaned, m, r3)) {
+        int year = FixYear(stoi(m[3]));
         std::string mm = MonthToNumber(m[2]);
+
         if (!mm.empty()) {
             std::string dd = (m[1].length() == 1 ? "0" : "") + m[1].str();
-            return dd + "." + mm + "." + m[3].str();
+            return dd + "." + mm + "." + std::to_string(year);
         }
     }
-    if (std::regex_search(line, m, r4)) {
+
+    // January 15 2010
+    std::regex r4(R"(([A-Za-z]+)\s+(\d{1,2})\s+(\d{4}))");
+    if (std::regex_search(cleaned, m, r4)) {
+        int year = FixYear(stoi(m[3]));
         std::string mm = MonthToNumber(m[1]);
+
         if (!mm.empty()) {
             std::string dd = (m[2].length() == 1 ? "0" : "") + m[2].str();
-            return dd + "." + mm + "." + m[3].str();
+            return dd + "." + mm + "." + std::to_string(year);
         }
     }
 
-    // --- ОБРАБОТКА КВАРТАЛОВ И СПЕЦ. СЛУЧАЕВ ---
-
-    // 3. Кварталы текстовые: "3rd quarter 2008"
-    std::regex r_q_text(R"((\d)(?:st|nd|rd|th)\s+quarter\s+(\d{4}))", std::regex::icase);
-    if (std::regex_search(line, m, r_q_text)) {
-        std::string q = m[1].str();
-        std::string year = m[2].str();
-        if (q == "1") return "01.01." + year;
-        if (q == "2") return "01.04." + year;
-        if (q == "3") return "01.07." + year;
-        if (q == "4") return "01.10." + year;
+    // Late2007
+    std::regex r_late(R"(late\s*(\d{4}))", std::regex::icase);
+    if (std::regex_search(cleaned, m, r_late)) {
+        int year = FixYear(stoi(m[1]));
+        return "01.10." + std::to_string(year);
     }
 
-    // 4. Кварталы краткие: "Q1 2019"
-    std::regex r_q_short(R"(Q([1-4])\s+(\d{4}))", std::regex::icase);
-    if (std::regex_search(line, m, r_q_short)) {
-        std::string q = m[1].str();
-        std::string year = m[2].str();
-        if (q == "1") return "01.01." + year;
-        if (q == "2") return "01.04." + year;
-        if (q == "3") return "01.07." + year;
-        if (q == "4") return "01.10." + year;
-    }
-
-    // 5. Середина года: "Mid-2006"
-    std::regex r_mid(R"(Mid-(\d{4}))", std::regex::icase);
-    if (std::regex_search(line, m, r_mid)) {
-        return "01.07." + m[1].str();
-    }
-
-    // 6. Только месяц и год: "November 2006"
+    // Month Year
     std::regex r_month_year(R"(([A-Za-z]+)\s+(\d{4}))");
-    if (std::regex_search(line, m, r_month_year)) {
+    if (std::regex_search(cleaned, m, r_month_year)) {
+        int year = FixYear(stoi(m[2]));
         std::string mm = MonthToNumber(m[1]);
-        if (!mm.empty()) return "01." + mm + "." + m[2].str();
+
+        if (!mm.empty())
+            return "01." + mm + "." + std::to_string(year);
     }
 
-    // 7. Только год: "2006"
+    // Year only
     std::regex r_year(R"(^\s*(\d{4})\s*$)");
-    if (std::regex_search(line, m, r_year)) {
-        return "01.01." + m[1].str();
+    if (std::regex_search(cleaned, m, r_year)) {
+        int year = FixYear(stoi(m[1]));
+        return "01.01." + std::to_string(year);
     }
 
-    return line;
+    return "";
 }
 
 // ---------------- LENGTH ----------------
@@ -282,6 +312,186 @@ void TransformClass::FixEngineFields(std::string& designer, std::string& model)
         model = "Generic";
 }
 
+std::string TransformClass::FixDuplicateDelimiters(const std::string& line)
+{
+    std::string result = line;
+
+    result = std::regex_replace(result, std::regex(R"(\.{2,})"), " ");
+    result = std::regex_replace(result, std::regex(R"([,;:]{2,})"), ",");
+
+    return result;
+}
+
+
+// Новая функция для проверки, является ли строка числовым значением или измерением
+bool TransformClass::IsNumericOrMeasurement(const std::string& line)
+{
+    if (line.empty()) return true;
+
+    std::string trimmed = Trim(line);
+    std::string lower = ToLower(trimmed);
+
+    // Паттерны, которые нужно заменить на N/A
+    std::vector<std::string> patterns = {
+        // 4-strokeengine, 4- strokeengine, 4stroke, 4-stroke
+        R"(^\s*\d+\s*[-–]?\s*(stroke|cylinder|engine|cyl|strokes?)\s*$)",
+        R"(^\s*\d+\s*(stroke|cylinder|engine|cyl|strokes?)\s*$)",
+
+        // 5,5m, 5.5m, 5,5 m, 5.5 m, 5.5meters
+        R"(^\s*\d+(?:[.,]\d+)?\s*(?:m|ft|mm|cm|km|meters?|metres?|feet?)\s*$)",
+
+        // 12,5 x 4,3, 12.5 x 4.3, 12,5x4,3
+        R"(^\s*\d+(?:[.,]\d+)?\s*[xх]\s*\d+(?:[.,]\d+)?(?:\s*[xх]\s*\d+(?:[.,]\d+)?)?\s*$)",
+
+        // 2364tonnes, 2364 tonnes, 2364 t, 2364t
+        R"(^\s*\d+(?:[.,]\d+)?\s*(?:tonnes?|t|kg|mt|ton)\s*$)",
+
+        // 702/dpcc, 702/dpcc/, 702/dpcc something
+        R"(^\s*\d+\s*[/]\s*[a-z]+\s*$)",
+        R"(^\s*\d+\s*[/]\s*[a-z]+\s*\d*\s*$)",
+
+        // 3, Maj Brodogradiliste - начинается с цифры и запятой или пробела
+        R"(^\s*\d+\s*[,;]\s*[A-Za-z])",
+        R"(^\s*\d+\s+[A-Za-z].*\d*\s*$)",
+
+        // 20-30, 20 - 30
+        R"(^\s*\d+(?:[.,]\d+)?\s*[-–]\s*\d+(?:[.,]\d+)?\s*$)",
+
+        // 1,2,3 или 1;2;3
+        R"(^\s*\d+(?:[.,;]\s*\d+)+\s*)",
+
+        // Только цифры (возможно с запятыми/точками)
+        R"(^\s*[\d\.,]+\s*$)",
+
+        // Смешанные паттерны типа "12,5 x 4,3 14,5 x 2,0"
+        R"(^\s*\d+(?:[.,]\d+)?\s*[xх]\s*\d+(?:[.,]\d+)?(?:\s+\d+(?:[.,]\d+)?\s*[xх]\s*\d+(?:[.,]\d+)?)+\s*$)",
+
+        // Паттерн для "3, Maj Brodogradiliste" - цифра, запятая, пробел, слово
+        R"(^\s*\d+\s*,\s+[A-Za-z])",
+
+        // 702/dpcc - цифры, слеш, буквы
+        R"(^\s*\d+\s*/\s*[a-z]+\s*\d*\s*$)",
+    };
+
+    for (const auto& pattern : patterns) {
+        std::regex r(pattern, std::regex::icase);
+        if (std::regex_match(trimmed, r)) {
+            return true;
+        }
+    }
+
+    // Дополнительная проверка: если строка начинается с цифры и содержит мало букв
+    if (!trimmed.empty() && std::isdigit(trimmed[0])) {
+        // Считаем буквы
+        int letterCount = 0;
+        bool hasDigit = false;
+        bool hasSlash = false;
+
+        for (char c : trimmed) {
+            if (std::isalpha(c)) letterCount++;
+            if (std::isdigit(c)) hasDigit = true;
+            if (c == '/') hasSlash = true;
+        }
+
+        // Если есть слеш и есть буквы - скорее всего 702/dpcc
+        if (hasSlash && letterCount > 0) {
+            return true;
+        }
+
+        // Если букв меньше 3 и есть цифры - вероятно измерение
+        if (letterCount <= 3 && hasDigit) {
+            return true;
+        }
+
+        // Если строка содержит 'x' или 'х' и цифры - размеры
+        if ((trimmed.find('x') != std::string::npos || trimmed.find('х') != std::string::npos) && hasDigit) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
+// Очистка текстовых полей (VesselName, Builder, Designer, OwnerOperator)
+std::string TransformClass::NormalizeTextField(const std::string& line)
+{
+    if (line.empty()) return "N/A";
+
+    std::string result = FixDuplicateDelimiters(line);
+
+    if (result.find_first_not_of("- \t") == std::string::npos)
+        return "N/A";
+
+    result = std::regex_replace(result, std::regex(R"(-{2,})"), "-");
+    result = std::regex_replace(result, std::regex(R"(\s*\([^)]*\)\s*)"), " ");
+    result = std::regex_replace(result, std::regex(R"(\s+)"), " ");
+
+    result = Trim(result);
+
+    if (result.empty()) return "N/A";
+
+    return result;
+}
+
+// Обработка поля Country - берем первое слово, обозначающее страну
+std::string TransformClass::NormalizeCountryField(const std::string& line)
+{
+    if (line.empty()) return "N/A";
+
+    std::string result = line;
+
+    // Если значение "-" или "--"
+    if (result.find_first_not_of("- \t") == std::string::npos) {
+        return "N/A";
+    }
+
+    // Убираем точки в начале
+    result = std::regex_replace(result, std::regex(R"(^\.+)"), "");
+
+    // Убираем многоточия
+    result = std::regex_replace(result, std::regex(R"(\.{2,})"), " ");
+
+    // Заменяем "--" на "-"
+    result = std::regex_replace(result, std::regex(R"(-{2,})"), "-");
+
+    // Убираем содержимое в скобках
+    result = std::regex_replace(result, std::regex(R"(\s*\(\([^)]*\)\)\s*)"), " ");
+    result = std::regex_replace(result, std::regex(R"(\s*\([^)]*\)\s*)"), " ");
+
+    // Убираем дублирующиеся разделители
+    result = std::regex_replace(result, std::regex(R"(;\s*;)"), ";");
+    result = std::regex_replace(result, std::regex(R"(,\s*,)"), ",");
+
+    // Убираем лишние пробелы
+    result = std::regex_replace(result, std::regex(R"(\s+)"), " ");
+    result = Trim(result);
+
+    // Берем первое слово до пробела, запятой, точки с запятой
+    size_t pos = result.find_first_of(" ,;");
+    if (pos != std::string::npos) {
+        result = result.substr(0, pos);
+    }
+
+    // Убираем слово "Flag" если оно есть
+    result = std::regex_replace(result, std::regex(R"(\s*Flag\s*)", std::regex::icase), "");
+
+    result = Trim(result);
+
+    return result.empty() ? "N/A" : result;
+}
+
+int TransformClass::ExtractFirstNumber(const std::string& line)
+{
+    std::smatch m;
+    std::regex r(R"(\d+)");
+
+    if (std::regex_search(line, m, r))
+        return std::stoi(m[0]);
+
+    return -1;
+}
+
+
 // ---------------- MAIN ----------------
 void TransformClass::TransformCSVFile()
 {
@@ -304,6 +514,44 @@ void TransformClass::TransformCSVFile()
 
         auto& row = data[r];
 
+        // НОВЫЕ ОБРАБОТКИ для текстовых полей
+        if (col.count("VesselName"))
+            row[col["VesselName"]] = NormalizeTextField(row[col["VesselName"]]);
+
+        if (col.count("Builder"))
+            row[col["Builder"]] = NormalizeTextField(row[col["Builder"]]);
+
+        if (col.count("Designer")) {
+            std::string designer = row[col["Designer"]];
+
+            // Сначала проверяем, является ли значение "N/A" или прочерком
+            if (designer.empty() || designer == "-" || designer == "--" || designer == "---") {
+                row[col["Designer"]] = "N/A";
+            }
+            // Проверяем, является ли значение числовым/измерением
+            else if (IsNumericOrMeasurement(designer)) {
+                row[col["Designer"]] = "N/A";
+            }
+            else {
+                std::string cleaned = NormalizeTextField(designer);
+
+                // Дополнительная проверка после очистки
+                if (cleaned == "N/A" || IsNumericOrMeasurement(cleaned)) {
+                    row[col["Designer"]] = "N/A";
+                }
+                else {
+                    row[col["Designer"]] = cleaned;
+                }
+            }
+        }
+
+        if (col.count("OwnerOperator"))
+            row[col["OwnerOperator"]] = NormalizeTextField(row[col["OwnerOperator"]]);
+
+        if (col.count("Country"))
+            row[col["Country"]] = NormalizeCountryField(row[col["Country"]]);
+
+        // Остальные обработки остаются без изменений
         if (col.count("DeliveryDate"))
             row[col["DeliveryDate"]] = NormalizeDate(row[col["DeliveryDate"]]);
 
@@ -323,8 +571,12 @@ void TransformClass::TransformCSVFile()
             row[col["ImoNumber"]] = ExtractNumber(row[col["ImoNumber"]]);
 
         if (col.count("NumberOfEngines")) {
-            std::string v = ExtractNumber(row[col["NumberOfEngines"]]);
-            row[col["NumberOfEngines"]] = v.empty() ? "1" : v;
+            int num = ExtractFirstNumber(row[col["NumberOfEngines"]]);
+
+            if (num <= 0 || num > 20)
+                row[col["NumberOfEngines"]] = "1";
+            else
+                row[col["NumberOfEngines"]] = std::to_string(num);
         }
 
         if (col.count("SisterShip")) {

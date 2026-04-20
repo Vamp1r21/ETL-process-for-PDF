@@ -5,6 +5,12 @@
 class TransformClass
 {
 	private:
+		int FixYear(int year);
+		std::string FixDuplicateDelimiters(const std::string& line);
+		bool IsNumericOrMeasurement(const std::string& line);
+		std::string NormalizeTextField(const std::string& line);
+		std::string NormalizeCountryField(const std::string& line);
+		int ExtractFirstNumber(const std::string& line);
 		//CSV
 		std::vector<std::string> ParseCSVLine(const std::string& line);
 		std::string Trim(const std::string& line);
