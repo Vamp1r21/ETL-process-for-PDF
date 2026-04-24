@@ -33,11 +33,11 @@ int main()
 
     //extractClass.ProcessFile("PDFFiles/SSS 2002.pdf");
 
-    //extractClass.ProcessFile("PDFFiles/SSS 2003.pdf");
+    extractClass.ProcessFile("PDFFiles/SSS 2003.pdf");
 
     //extractClass.ProcessFile("PDFFiles/SSS 2004.pdf");
 
-    //extractClass.ProcessFile("PDFFiles/SSS 2005.pdf");
+    extractClass.ProcessFile("PDFFiles/SSS 2005.pdf");
 
     extractClass.ProcessFile("PDFFiles/SSS 2006.pdf");
 
@@ -90,7 +90,7 @@ int main()
 
     extractClass.ProcessFile("PDFFiles/SS 2006.pdf");
 
-    //extractClass.ProcessFile("PDFFiles/SS 2007.pdf");
+    extractClass.ProcessFile("PDFFiles/SS 2007.pdf");
 
     extractClass.ProcessFile("PDFFiles/SS 2008.pdf");
 

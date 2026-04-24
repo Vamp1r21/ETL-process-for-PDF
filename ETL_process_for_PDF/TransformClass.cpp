@@ -208,16 +208,27 @@ double TransformClass::TransformationToMeters(double number, const std::string& 
 
 std::string TransformClass::NormalizeLength(const std::string& line)
 {
+    std::string cleaned = line;
+
+    // фикс ",229,4"
+    cleaned = std::regex_replace(cleaned, std::regex(R"(,(\d+))"), "$1");
+    cleaned = std::regex_replace(cleaned, std::regex(R"((\d+),(\d+))"), "$1.$2");
+
     std::regex r(R"((\d+(\.\d+)?)\s*(m|ft))", std::regex::icase);
     std::smatch m;
-    if (std::regex_search(line, m, r)) {
+
+    if (std::regex_search(cleaned, m, r)) {
         double number = stod(m[1]);
         std::string type = ToLower(m[3]);
+
         std::ostringstream o;
-        o << std::fixed << std::setprecision(2) << TransformationToMeters(number, type);
+        o << std::fixed << std::setprecision(2)
+            << TransformationToMeters(number, type);
+
         return o.str();
     }
-    return ExtractNumber(line);
+
+    return ExtractNumber(cleaned);
 }
 
 // ---------------- SPEED ----------------
@@ -245,7 +256,21 @@ std::string TransformClass::NormalizeSpeed(const std::string& line)
 // ---------------- GROSS ----------------
 std::string TransformClass::NormalizeGross(const std::string& line)
 {
-    return ExtractNumber(line);
+    std::vector<std::string> nums;
+    std::regex r(R"(\d+)");
+    auto begin = std::sregex_iterator(line.begin(), line.end(), r);
+    auto end = std::sregex_iterator();
+
+    for (auto i = begin; i != end; ++i)
+        nums.push_back(i->str());
+
+    if (nums.empty()) return "";
+
+    // если есть несколько чисел → берем среднее
+    if (nums.size() >= 3)
+        return nums[1];
+
+    return nums[0];
 }
 
 // ---------------- DISPLACEMENT ----------------
@@ -316,8 +341,9 @@ std::string TransformClass::FixDuplicateDelimiters(const std::string& line)
 {
     std::string result = line;
 
-    result = std::regex_replace(result, std::regex(R"(\.{2,})"), " ");
-    result = std::regex_replace(result, std::regex(R"([,;:]{2,})"), ",");
+    result = std::regex_replace(result, std::regex(R"([\.…]{2,})"), " ");
+    result = std::regex_replace(result, std::regex(R"([,;:/]{2,})"), ",");
+    result = std::regex_replace(result, std::regex(R"(\s+)"), " ");
 
     return result;
 }
@@ -417,13 +443,17 @@ std::string TransformClass::NormalizeTextField(const std::string& line)
 {
     if (line.empty()) return "N/A";
 
-    std::string result = FixDuplicateDelimiters(line);
+    std::string result = CleanGarbage(line);
 
     if (result.find_first_not_of("- \t") == std::string::npos)
         return "N/A";
 
     result = std::regex_replace(result, std::regex(R"(-{2,})"), "-");
-    result = std::regex_replace(result, std::regex(R"(\s*\([^)]*\)\s*)"), " ");
+    result = std::regex_replace(result, std::regex(R"(\([^)]*\))"), " ");
+
+    result = std::regex_replace(result, std::regex(R"([/\\])"), " ");
+    result = std::regex_replace(result, std::regex(R"(,)"), " ");
+
     result = std::regex_replace(result, std::regex(R"(\s+)"), " ");
 
     result = Trim(result);
@@ -491,6 +521,28 @@ int TransformClass::ExtractFirstNumber(const std::string& line)
     return -1;
 }
 
+
+std::string TransformClass::CleanGarbage(const std::string& input)
+{
+    std::string result = input;
+
+    // убираем многоточия и мусор
+    result = std::regex_replace(result, std::regex(R"([\.…]{2,})"), " ");
+
+    // убираем повторяющиеся разделители
+    result = std::regex_replace(result, std::regex(R"([,;:/&]{2,})"), ",");
+
+    // убираем "висячие" закрывающие скобки
+    int open = std::count(result.begin(), result.end(), '(');
+    int close = std::count(result.begin(), result.end(), ')');
+    if (close > open)
+        result = std::regex_replace(result, std::regex(R"(\))"), "");
+
+    // нормализация пробелов
+    result = std::regex_replace(result, std::regex(R"(\s+)"), " ");
+
+    return Trim(result);
+}
 
 // ---------------- MAIN ----------------
 void TransformClass::TransformCSVFile()
@@ -567,8 +619,15 @@ void TransformClass::TransformCSVFile()
         if (col.count("Displacement(kg)"))
             row[col["Displacement(kg)"]] = NormalizeDisplacement(row[col["Displacement(kg)"]]);
 
-        if (col.count("ImoNumber"))
-            row[col["ImoNumber"]] = ExtractNumber(row[col["ImoNumber"]]);
+        if (col.count("ImoNumber")) {
+            std::smatch m;
+            std::regex r(R"(\b\d{7}\b)");
+
+            if (std::regex_search(row[col["ImoNumber"]], m, r))
+                row[col["ImoNumber"]] = m[0];
+            else
+                row[col["ImoNumber"]] = "";
+        }
 
         if (col.count("NumberOfEngines")) {
             int num = ExtractFirstNumber(row[col["NumberOfEngines"]]);

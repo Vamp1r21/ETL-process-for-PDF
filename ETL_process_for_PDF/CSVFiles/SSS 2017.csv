@@ -1,5 +1,4 @@
 FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel,NumberOfEngines
-"SSS 2017","","Astilleros Armon Operator: SEACOR Marine","","","","","","","","","","","","",""
 "SSS 2017","Adams Lake II","WaterBridge Steel Inc","Capilano Maritime Design Ltd","","Canada","May 2017","30m","","","158tonnes","0","","John Deere","4045 AFM","1"
 "SSS 2017","Aditya","Navgathi Marine Design & Construction","NavAlt Solar & Electric Boats","Kerala State Water","India","January 2017","21.18m","7.5knots(2 x18kW@700rpm)","","39tonnes","0","23.18tonnes","Leroy Somer","","2"
 "SSS 2017","Alusafe 1200 TWJ FRDC","Maritime Partner","Maritime Partner","Havila Shipping","Norway","November 2017","12m","34knots","","","0","","Volvo Penta","D6","2"
@@ -29,3 +28,4 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SSS 2017","Spirit of Rathlin","Arklow Marine Services","Argyll Maritime Design Services","","UK","January 2017","28.17m","10.5knots","","105.03tonnes","0","259.4tonnes","Scania","DI13 071M","2"
 "SSS 2017","TCSG-902","Damen Shipyards","Damen Shipyards","Turkish Coast","Turkey","June 2017","19.45m","33knots+","","45tonnes","6","37tonnes","MTU","8V2000M84L 1D","2"
 "SSS 2017","Thunder Child","Safehaven Marine","Frank Kowalski","Safehaven","Ireland","N/A","17.5m","54knots","","","0","13.9tonnes","Caterpillar","C 12.9","2"
+"SSS 2017","USV Maxlimer","Hush Craft Ltd","Hush Craft Ltd","Sea-Kit International","UK","September 2017","11.75m","8knots","","","","11.5tonnes","Hushcraft Hybrid System","Custom (DC generators)","2"

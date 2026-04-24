@@ -285,22 +285,20 @@ void ExtractClass::ConvertTextToCSV(
 		std::string value = Trim(line.substr(pos + 1));
 
 		//Название судна
-		if (key.find("Vessel") != std::string::npos && vessel==0)
-		{		
+		if (key.find("Vessel") != std::string::npos && vessel == 0)
+		{
 			vessel++;
 			record["VesselName"] = value;
 		}
 
 		//Производитель судна
 		else if (key.find("Builder") != std::string::npos ||
-			key.find("Shipbuilder") != std::string::npos)
+			key.find("Shipbuilder") != std::string::npos ||
+			key.find("Builder’s name") != std::string::npos)
 		{
 			// если уже есть данные — сохраняем ПРЕДЫДУЩЕЕ судно
 			if (!record.empty() && !record["Builder"].empty())
 			{
-				WriteToFile(out, baseName, record);
-				WriteToFile(out1, baseName, record);
-				record.clear();
 				// сбрасываем состояния
 				vessel = 0;
 				mainEngine = 0;
@@ -309,6 +307,15 @@ void ExtractClass::ConvertTextToCSV(
 				model = 0;
 				number = 0;
 				i = 0;
+				if (record["VesselName"].empty())
+				{
+					record.clear();
+					record["Builder"] = value;
+					continue;
+				}
+				WriteToFile(out, baseName, record);
+				WriteToFile(out1, baseName, record);
+				record.clear();
 			}
 
 			// начинаем новое судно
@@ -320,7 +327,7 @@ void ExtractClass::ConvertTextToCSV(
 
 		//Проектировщик судна
 		else if ((key.find("Designer") != std::string::npos ||
-			key.find("Design") != std::string::npos) && designer == 0)
+			key.find("Design") != std::string::npos) && designer <= 0)
 		{
 			record["Designer"] = value;
 			designer++;
@@ -349,16 +356,22 @@ void ExtractClass::ConvertTextToCSV(
 			// если уже есть данные — сохраняем ПРЕДЫДУЩЕЕ судно
 			if (!record.empty() && !record["Length"].empty())
 			{
-				WriteToFile(out, baseName, record);
-				WriteToFile(out1, baseName, record);
 				// сбрасываем состояния
 				mainEngine = 0;
-				designer = 0;
+				designer = -100;
 				i = 0;
 				engine = 0;
 				model = 0;
 				vessel = 0;
 				number = 0;
+				if (record["VesselName"].empty())
+				{
+					record.clear();
+					record["Length"] = value;
+					continue;
+				}
+				WriteToFile(out, baseName, record);
+				WriteToFile(out1, baseName, record);
 				record.clear();
 			}
 
@@ -397,21 +410,21 @@ void ExtractClass::ConvertTextToCSV(
 
 		//Производитель двигателя судна
 		else if ((key.find("Design") != std::string::npos ||
-			key.find("Make") != std::string::npos) && mainEngine > 0 && engine==0)
+			key.find("Make") != std::string::npos) && mainEngine > 0 && engine == 0)
 		{
 			engine++;
 			record["MainEngineDesign"] = value;
 		}
 
 		//Модель двигателя судна
-		else if (key.find("Model") != std::string::npos && mainEngine > 0 && model ==0)
+		else if (key.find("Model") != std::string::npos && mainEngine > 0 && model == 0)
 		{
 			model++;
 			record["MainEngineModel"] = value;
 		}
 
 		else if ((key.find("Number of engines") != std::string::npos ||
-			key.find("Number") != std::string::npos) && mainEngine > 0 && number==0)
+			key.find("Number") != std::string::npos) && mainEngine > 0 && number == 0)
 		{
 			number++;
 			record["NumberOfEngines"] = value;
@@ -432,6 +445,17 @@ void ExtractClass::ConvertTextToCSV(
 		{
 			i++;
 		}
+	}
+	if (record["VesselName"].empty())
+	{
+		record.clear();
+	}
+
+	if (!record.empty())
+	{
+		WriteToFile(out, baseName, record);
+		WriteToFile(out1, baseName, record);
+		record.clear();
 	}
 
 	out.close();
@@ -541,68 +565,98 @@ bool ExtractClass::HasDuplicateLettersProblem(const std::string& content)
 // Объединение разорванных строк на основе структуры документа
 std::string ExtractClass::MergeBrokenFieldLines(const std::string& input)
 {
-	std::string result;
 	std::istringstream stream(input);
 	std::string line;
 	std::string currentField;
-	std::string lastFieldStart;
+	std::string result;
+
+	result.reserve(input.size());
+
+	static const std::vector<std::string> fieldMarkers = {
+		"Shipbuilder", "Builder", "Vessel", "Deliverydate",
+		"IMO number", "Owner", "Operator", "Designer"
+	};
+
+	auto startsWithMarker = [&](const std::string& line) {
+		for (const auto& marker : fieldMarkers) {
+			if (line.rfind(marker, 0) == 0) // строго с начала строки
+				return true;
+		}
+		return false;
+		};
+
+	auto isNewFieldLine = [&](const std::string& line) {
+		// Поле вида "Name: value"
+		auto colonPos = line.find(':');
+		if (colonPos != std::string::npos && colonPos < 25)
+			return true;
+
+		// Линии с точками-разделителями
+		if (line.find("....") != std::string::npos)
+			return true;
+
+		// Явные маркеры
+		if (startsWithMarker(line))
+			return true;
+
+		return false;
+		};
+
+	auto isIndented = [](const std::string& line) {
+		return !line.empty() && std::isspace(static_cast<unsigned char>(line[0]));
+		};
+
+	auto endsLikeCompleteSentence = [](const std::string& line) {
+		if (line.empty()) return true;
+		char last = line.back();
+		return last == '.' || last == ':' || last == ';';
+		};
+
+	auto shouldMerge = [&](const std::string& prev, const std::string& current) {
+		// 1. Если строка с отступом — почти точно continuation
+		if (isIndented(current))
+			return true;
+
+		// 2. Если предыдущая строка НЕ закончена — возможно перенос
+		if (!endsLikeCompleteSentence(prev))
+			return true;
+
+		return false;
+		};
 
 	while (std::getline(stream, line)) {
 		if (line.empty()) {
 			if (!currentField.empty()) {
-				result += currentField + "\n";
+				result += currentField + '\n';
 				currentField.clear();
 			}
-			result += "\n";
+			result += '\n';
 			continue;
 		}
 
-		// Проверяем, начинается ли новая строка с названия поля
-		bool isNewField = false;
-		std::string fieldName;
-
-		// Ищем паттерны начала поля: "Shipbuilder:", "Vessel's name:", "Hull number:" и т.д.
-		std::vector<std::string> fieldMarkers = {
-			"Shipbuilder", "Builder", "Vessel", "Hull number",
-			"IMO number", "Owner", "Operator", "Designer"
-		};
-
-		for (const auto& marker : fieldMarkers) {
-			if (line.find(marker) != std::string::npos) {
-				isNewField = true;
-				break;
-			}
-		}
-
-		// Также проверяем наличие точек или двоеточия в начале строки
-		if (line.find("....") != std::string::npos ||
-			(line.find(':') != std::string::npos && line.find(':') < 20)) {
-			isNewField = true;
-		}
-
-		if (isNewField) {
-			// Сохраняем предыдущее поле
+		if (isNewFieldLine(line)) {
 			if (!currentField.empty()) {
-				result += currentField + "\n";
+				result += currentField + '\n';
 			}
 			currentField = line;
-			lastFieldStart = line;
 		}
 		else {
-			// Это продолжение предыдущего поля
-			if (!currentField.empty()) {
-				// Добавляем пробел и продолжаем
-				currentField += " " + line;
+			if (!currentField.empty() && shouldMerge(currentField, line)) {
+				currentField += ' ';
+				currentField += line;
 			}
 			else {
+				// ❗ НЕ склеиваем — сохраняем структуру
+				if (!currentField.empty()) {
+					result += currentField + '\n';
+				}
 				currentField = line;
 			}
 		}
 	}
 
-	// Добавляем последнее поле
 	if (!currentField.empty()) {
-		if (!result.empty()) result += "\n";
+		if (!result.empty()) result += '\n';
 		result += currentField;
 	}
 
@@ -664,7 +718,7 @@ void ExtractClass::ProcessFile(const std::string& pdf)
 	{
 		cleanedContent = RemoveSpacesBetweenChars(cleanedContent);
 	}
-	else if (HasDuplicateLettersProblem(content))
+	else if (HasDuplicateLettersProblem(cleanedContent))
 	{
 		cleanedContent = MergeBrokenFieldLines(cleanedContent);
 		cleanedContent = FixDuplicateLetters(cleanedContent);

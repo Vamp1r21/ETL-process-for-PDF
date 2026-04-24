@@ -48,3 +48,4 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SS 2012","Ulusoy-14","Flensburger Schiffbau-","Flensburger Schiffbau-","Ulusoy Sealines","Germany","06 December 2012","208.30m","20.6knots","9506253","31,700gt","nil","1,025tonnes/m3","Renk","MAN 8L 48/60-CR","2"
 "SS 2012","VF Tanker 1","Kranoye Sormovo (OJSC), Nizhny Novgorod","Marine Engineering Bureau","VF Tanker Ltd","Ukraine","05 May 2012","140.85m","11knots","9640499","5,075gt","14","9,483tonnes","Schottel","6L20","2 x winches, 1 x capstan"
 "SS 2012","Wan Hai 511","CSBC Corporation, Taiwan, Kaohsiung shipyard","CSBC Corporation, Taiwan","Wan Hai Lines Ltd","","May 2012","259.00m","","9455296","46,904gt","2","","MAN B&W","8K90MC-C6","1"
+"SS 2012","Zealand Juliana","Sefine Shipyard","Delta Marine","Sefine Denizcilik","Turkey","September 2012","152.50m","13knots","9655951","11,627gt","1","21,655tonnes","MAN","6S35MC","1 x 25persons"

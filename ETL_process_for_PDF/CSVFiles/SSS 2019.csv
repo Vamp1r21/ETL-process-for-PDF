@@ -28,3 +28,4 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SSS 2019","SST Tsimshian Warrior","Uzmar Shipyard","Robert Allan Ltd","SAAM SMIT Canada Inc","Canada","February 2019","32m","14.3knots","","499tonnes","0","969tonnes","Caterpillar","3516E","2"
 "SSS 2019","Vilja","Gondán Shipbuilders","Robert Allan Ltd","Port of Luleå","Sweden","June 2019","36m","14.6knots","","775tonnes","0","1,389tonnes","Wärtsilä","8L26","2"
 "SSS 2019","Vittoriosa","Med Marine","Robert Allan Ltd","Tug Malta Ltd","Malta","May 2019","29.7m","13.8knots ahead 13.7knots astern","","481tonnes","0","821.7tonnes","MTU","16V4000M65L","2"
+"SSS 2019","Zanzibar 1","Plenty Shipbuilding","CoCo Yachts","Zan Fast Ferries","Zanzibar","November 2019","49.72m","39.5knots@100% MCR","","652tonnes","0","","MTU","16V4000M63L","2"

@@ -44,3 +44,4 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SS 2014","UASC Tabuk","Hyundai Samho","Hyundai Samho","IME","Korea","3 June 2014","299.92m","22knots (NCR with 15% SM, 90% MCR)","9695016","94,930gr","3","142,855tonnes","Wärtsilä","W9X82","1"
 "SS 2014","Velikiy Novgorod","STX Offshore & Shipbuilding","STX Offshore & Shipbuilding","SCF Sovcomflot/ Unicorn Management Services","Korea","29 January 2014","299.90m","19.5knots","","113,876gt","nil","131,246tonnes","Diesel-electric propulsion system","2 x 11,700kW electric propulsion motors ABB","5"
 "SS 2014","Waasmunster","Hyundai Mipo Dockyard","Hyundai Mipo Dockyard","Exmar Shipping","Korea","1 April 2014","174.06m","16knots","9659103","25,143gt","3","","Hyundai-B&W","6S50ME-B9.2","1"
+"SS 2014","Wedellsborg","Cantieri Navali Visentini","NAOS Ship & Boat Design","Nordana","Italy","May 2014","178.80m","19knots","9687306","11,630gt","nil","","65%","9L32/44CR","2"

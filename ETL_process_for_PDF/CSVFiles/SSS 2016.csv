@@ -1,5 +1,4 @@
 FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m),MaxSpeed(knots),ImoNumber,Gross,SisterShip,Displacement(kg),MainEngineDesigner,MainEngineModel,NumberOfEngines
-"SSS 2016","","Seacrest Marine Operator: Royal Thai Police","","","","","","","","","","","","",""
 "SSS 2016","AHTO-14","Baltic Workboats","Baltic Workboats","Eesti Loots AS (Estonian Pilot Ltd)","Estonia","December 2015","14.95m","27knots","","32tonnes","0","21.4tonnes","Volvo","D13","2"
 "SSS 2016","Al Mubshir","Austal Australia","Austal Australia","Royal Navy of Oman","Oman","May 2016","72.5m","40knots","","3,475tonnes","1","1,020tonnes","MTU","20V 4000","4"
 "SSS 2016","Albert Nile-1","Damen","Damen","Uganda National Roads","Uganda","May 2016","42.4m","8.9knots","","149tonnes","0","245tonnes (no pax/no vehicles)","Perkins","1006-6TW","4"
@@ -31,3 +30,4 @@ FileName,VesselName,Builder,Designer,OwnerOperator,Country,DeliveryDate,Length(m
 "SSS 2016","Telstar","Holland Shipyards","Eddy Tug","Iskes Towage and Salvage","Netherlands","October 2016","25.45m","13.5knots","","303tonnes","0","529tonnes","Mitsubishi","S16R2","2"
 "SSS 2016","Tempest","Aluminium Marine","AMC","CWind","UK","January 2016","22.5m","28knots","","51.7tonnes","3","72.5tonnes","MTU","10V 2000 M72","2"
 "SSS 2016","Vision of the Fjords","Brødrene Aa","Brødrene Aa","The Fjords","Norway","July 2016","42.04m","18knots","","753tonnes","0","","MAN","D2862 LE422","2"
+"SSS 2016","Zeeleeuw","Baltic Workboats","Baltic Workboats","Agentschap Maritieme","Belgium","October 2016","22m","23knots","","64tonnes","0","40.7tonnes","Volvo Penta","D16 MH","2"
